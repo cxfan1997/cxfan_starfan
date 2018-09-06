@@ -25,7 +25,24 @@
 			<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
-						<iframe id="displayframe" src="articles/contents.html" style="width: 100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+						<div id="content">
+
+							<!-- Content -->
+								<article>
+
+									<h2>Article List</h2>
+
+									<ol>
+										<li>
+											<strong>Self Introduction</strong><br/>
+											<p><span style="padding-right: 1em; color: darkblue; font-style: italic;">Sep 6th, 2018</span>Continue reading my self introduction on my homepage.</p>
+											<a href="articles/1-SelfIntro.html" class="button small icon fa-arrow-circle-right">Read More</a>
+										</li>
+									</ol>
+
+								</article>
+
+						</div>
 					</div>
 				</div>
 
@@ -48,16 +65,8 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script> 
-				function resizeIframe(obj) {
-					if (obj&&obj.contentWindow.document.body){
-						obj.height = obj.contentWindow.document.body.scrollHeight + 'px';
-					}
-				}
-				$("#header").load("header.html");
+				$("#header").load("header.html", main());
 				$("#footer").load("footer.html");
-				$( document ).ready(function(){
-					setTimeout(main(), 1000);
-				});
 			</script> 
 	</body>
 </html>

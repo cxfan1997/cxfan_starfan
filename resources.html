@@ -25,7 +25,7 @@
 			<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
-						<iframe id="displayframe" src="articles/contents.html" style="width: 100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+						<h1>Sorry! This page is under construction now.</h1>
 					</div>
 				</div>
 
@@ -53,11 +53,8 @@
 						obj.height = obj.contentWindow.document.body.scrollHeight + 'px';
 					}
 				}
-				$("#header").load("header.html");
+				$("#header").load("header.html", main());
 				$("#footer").load("footer.html");
-				$( document ).ready(function(){
-					setTimeout(main(), 1000);
-				});
 			</script> 
 	</body>
 </html>

@@ -1710,6 +1710,16 @@ input, select, textarea {
 			padding: 0.8em 0.9em;
 		}
 
+		input[type="button"].small,
+		input[type="submit"].small,
+		input[type="reset"].small,
+		button.small,
+		.button.small {
+			font-size: 1em;
+			font-weight: 500;
+			padding: 0.5em 0.8em;
+		}
+
 /* List */
 
 	ul {

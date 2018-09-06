@@ -7,17 +7,6 @@
 function main(){
 	var	$window = $(window),
 		$body = $('body');
-		
-	// this will get the full URL at the address bar
-    var url = window.location.href; 
-
-    // passes on every "a" tag 
-    $("#nav ul li a").each(function() {
-        // checks if its the same on the address bar
-        if(url == (this.href)) { 
-            $(this).closest("li").addClass("current");
-        }
-    });
 
 	// Breakpoints.
 		breakpoints({
@@ -34,40 +23,54 @@ function main(){
 			}, 100);
 		});
 
-	// Dropdowns.
-		$('#nav > ul').dropotron({
-			mode: 'fade',
-			noOpenerFade: true,
-			speed: 300
-		});
+		window.setTimeout(function(){
+			// this will get the full URL at the address bar
+		    var url = window.location.href; 
 
-	// Nav.
+		    // passes on every "a" tag 
+		    $("#nav ul li a").each(function() {
+		        // checks if its the same on the address bar
+		        if(url == (this.href)) { 
+		            $(this).closest("li").addClass("current");
+		        }
+		    });
 
-		// Toggle.
-			$(
-				'<div id="navToggle">' +
-					'<a href="#navPanel" class="toggle"></a>' +
-				'</div>'
-			)
-				.appendTo($body);
-
-		// Panel.
-			$(
-				'<div id="navPanel">' +
-					'<nav>' +
-						$('#nav').navList() +
-					'</nav>' +
-				'</div>'
-			)
-				.appendTo($body)
-				.panel({
-					delay: 500,
-					hideOnClick: true,
-					hideOnSwipe: true,
-					resetScroll: true,
-					resetForms: true,
-					side: 'left',
-					target: $body,
-					visibleClass: 'navPanel-visible'
+			// Dropdowns.
+				$('#nav > ul').dropotron({
+					mode: 'fade',
+					noOpenerFade: true,
+					speed: 300
 				});
+
+			// Nav.
+
+				// Toggle.
+					$(
+						'<div id="navToggle">' +
+							'<a href="#navPanel" class="toggle"></a>' +
+						'</div>'
+					)
+						.appendTo($body);
+
+				// Panel.
+					$(
+						'<div id="navPanel">' +
+							'<nav>' +
+								$('#nav').navList() +
+							'</nav>' +
+						'</div>'
+					)
+						.appendTo($body)
+						.panel({
+							delay: 500,
+							hideOnClick: true,
+							hideOnSwipe: true,
+							resetScroll: true,
+							resetForms: true,
+							side: 'left',
+							target: $body,
+							visibleClass: 'navPanel-visible'
+						});
+					}, 100);
+	
 }

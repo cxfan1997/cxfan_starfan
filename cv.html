@@ -196,11 +196,8 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script> 
-				$("#header").load("header.html");
+				$("#header").load("header.html", main());
 				$("#footer").load("footer.html");
-				$( document ).ready(function(){
-				setTimeout(main(), 1000);
-				});
 			</script> 
 	</body>
 </html>
