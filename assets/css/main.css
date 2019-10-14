@@ -31,7 +31,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-section, article {
+article {
 	text-align: justify;
 }
 
@@ -1857,7 +1857,7 @@ input, select, textarea {
 	.widget.thumbnails .image {
 		margin: 0;
 	}
-	
+
 	.widget.contact.barcode img {
 		width: 80%;
 	}
