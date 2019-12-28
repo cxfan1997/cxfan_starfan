@@ -14,6 +14,7 @@
 
 
 <link rel="stylesheet" href="/cxfan_starfan/blog/lib/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
 
 
 <script id="hexo-configurations">
@@ -27,7 +28,7 @@
     copycode: {"enable":false,"show_result":false,"style":null},
     back2top: {"enable":true,"sidebar":true,"scrollpercent":true},
     bookmark: {"enable":false,"color":"#222","save":"auto"},
-    fancybox: false,
+    fancybox: true,
     mediumzoom: false,
     lazyload: false,
     pangu: false,
@@ -38,8 +39,8 @@
       hits: {"per_page":10},
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
-    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: '',
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":true,"preload":false},
+    path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     translation: {
       copy_button: 'Copy',
@@ -50,10 +51,12 @@
   };
 </script>
 
-  <meta property="og:type" content="website">
-<meta property="og:title" content="StarFan Blog Test Website">
+  <meta name="description" content="This is Chongxing&amp;apos;s Personal Blogging Website">
+<meta property="og:type" content="website">
+<meta property="og:title" content="StarFan">
 <meta property="og:url" content="http:&#x2F;&#x2F;cxfan-kamisama.github.io&#x2F;cxfan_starfan&#x2F;blog&#x2F;index.html">
-<meta property="og:site_name" content="StarFan Blog Test Website">
+<meta property="og:site_name" content="StarFan">
+<meta property="og:description" content="This is Chongxing&amp;apos;s Personal Blogging Website">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
 
@@ -71,7 +74,7 @@
   };
 </script>
 
-  <title>StarFan Blog Test Website</title>
+  <title>StarFan</title>
   
 
 
@@ -117,10 +120,11 @@
     <div>
       <a href="/cxfan_starfan/blog/" class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">StarFan Blog Test Website</span>
+        <span class="site-title">StarFan</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
+        <p class="site-subtitle">Blog Website</p>
   </div>
 
   <div class="site-nav-toggle">
@@ -161,9 +165,34 @@
     <a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html" rel="section"><i class="fa fa-fw fa-arrow-left"></i>Back</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
   </ul>
 
 </nav>
+  <div class="site-search">
+    <div class="popup search-popup">
+    <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocorrect="off" autocapitalize="none"
+           placeholder="Searching..." spellcheck="false"
+           type="text" id="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result"></div>
+
+</div>
+<div class="search-pop-overlay"></div>
+
+  </div>
 </div>
     </header>
 
@@ -184,16 +213,313 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Monthly-Summary/2019-12-31-Monthly_Summary_201912.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
+      <meta itemprop="name" content="Chongxing Fan">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="StarFan">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          
+            <a href="/cxfan_starfan/blog/Monthly-Summary/2019-12-31-Monthly_Summary_201912.html" class="post-title-link" itemprop="url">Fall 2019 Monthly Report - December</a>
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2019-12-31 19:00:00" itemprop="dateCreated datePublished" datetime="2019-12-31T19:00:00-05:00">2019-12-31</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2019-12-28 14:32:20" itemprop="dateModified" datetime="2019-12-28T14:32:20-05:00">2019-12-28</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/cxfan_starfan/blog/categories/Monthly-Summary/" itemprop="url" rel="index">
+                    <span itemprop="name">Monthly Summary</span>
+                  </a>
+                </span>
+            </span>
+
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.3k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>1 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="综述">综述</h1>
+<p>根据本月月度计划，2019年秋季学期十二月的月度目标为：</p>
+<ul>
+<li>做好学期课程和科研收尾工作，完成2019年秋季学期总结及2020年冬季学期计划；</li>
+<li>充分利用圣诞假期，劳逸结合，充实假期生活。</li>
+</ul>
+<p>这两个目标都得到了很好的完成。 有关前半个月的内容都已经在<a href="/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html" title="学期总结">学期总结</a>中提及，此处不再赘述。 圣诞节前后与星妈度过了愉快而充实的假期生活，身心得到了充分休息， 房间大扫除和买车调研提案基本完成，成功学习了共享汽车的使用方法， 生活效率进一步提升，完成了2019年秋季学期总结和2020年冬季学期计划。</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/cxfan_starfan/blog/Monthly-Summary/2019-12-31-Monthly_Summary_201912.html#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
+      <meta itemprop="name" content="Chongxing Fan">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="StarFan">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          
+            <a href="/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html" class="post-title-link" itemprop="url">Fall 2019 Term Report</a>
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2019-12-30 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-30T09:00:00-05:00">2019-12-30</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2019-12-28 10:50:16" itemprop="dateModified" datetime="2019-12-28T10:50:16-05:00">2019-12-28</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/cxfan_starfan/blog/categories/Term-Summary/" itemprop="url" rel="index">
+                    <span itemprop="name">Term Summary</span>
+                  </a>
+                </span>
+            </span>
+
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>19k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>17 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="摘要">摘要</h1>
+<p>2019年秋季学期圆满画上句号。《在美留学手册》中，五年留学生活中的第一年被称为是“适应期”。远赴重洋来到安娜堡小城，除了适应异国他乡的生活，还要找到更加高效的学习工作方法，来适应西式的研究生学习风格和节奏。在第一学期，Chongxing同学在保持身心健康，坚持体育锻炼，丰富课下生活的前提下，明确了日常工作中的“三座大山”：课程学习、科研工作和英语提升，并且在这些方面做出了非常好的成绩。虽然在此过程中仍然暴露出很多问题，不过对于刚刚入学的新生来说，这样的成绩已经可以打到85分了。</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Weekly-Progress/2019-12-28-Weekly_Progress_20191228.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
+      <meta itemprop="name" content="Chongxing Fan">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="StarFan">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          
+            <a href="/cxfan_starfan/blog/Weekly-Progress/2019-12-28-Weekly_Progress_20191228.html" class="post-title-link" itemprop="url">Fall 2019 Week 18 Progress - December 28th</a>
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2019-12-28 09:00:00 / Modified: 14:34:30" itemprop="dateCreated datePublished" datetime="2019-12-28T09:00:00-05:00">2019-12-28</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index">
+                    <span itemprop="name">Weekly Progress</span>
+                  </a>
+                </span>
+            </span>
+
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.5k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>1 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="本周目标">本周目标</h1>
+<ul>
+<li>完成学期总结计划和月度总结计划</li>
+<li>过渡到新的作息时间表</li>
+<li>继续完成假期整理、学习和预习任务</li>
+</ul>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/cxfan_starfan/blog/Weekly-Progress/2019-12-28-Weekly_Progress_20191228.html#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Weekly-Progress/2019-12-14-Weekly_Progress_20191214.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -215,7 +541,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-13 14:26:23" itemprop="dateModified" datetime="2019-12-13T14:26:23-05:00">2019-12-13</time>
+                <time title="Modified: 2019-12-27 21:09:41" itemprop="dateModified" datetime="2019-12-27T21:09:41-05:00">2019-12-27</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -229,7 +555,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.4k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>1 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -277,11 +617,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -303,7 +643,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-13 10:42:23" itemprop="dateModified" datetime="2019-12-13T10:42:23-05:00">2019-12-13</time>
+                <time title="Modified: 2019-12-16 14:03:27" itemprop="dateModified" datetime="2019-12-16T14:03:27-05:00">2019-12-16</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -317,7 +657,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.8k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>2 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -365,11 +719,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -399,7 +753,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>8k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>7 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -452,11 +820,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -492,7 +860,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.8k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>2 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -539,11 +921,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -579,7 +961,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.9k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>2 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -627,11 +1023,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -667,7 +1063,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.9k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>2 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -715,11 +1125,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -749,7 +1159,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>6.8k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>6 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -765,270 +1189,6 @@
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/cxfan_starfan/blog/English/2019-11-14-Systematic_English_Update.html#more" rel="contents">
-                Read more &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Weekly-Progress/2019-11-09-Weekly_Progress_20191109.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
-      <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          
-            <a href="/cxfan_starfan/blog/Weekly-Progress/2019-11-09-Weekly_Progress_20191109.html" class="post-title-link" itemprop="url">Fall 2019 Week 11 Progress - November 9th</a>
-        </h1>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2019-11-09 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-09T09:00:00-05:00">2019-11-09</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-11-16 22:07:09" itemprop="dateModified" datetime="2019-11-16T22:07:09-05:00">2019-11-16</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index">
-                    <span itemprop="name">Weekly Progress</span>
-                  </a>
-                </span>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
-<li>补上551课程和473课程的复习进度</li>
-<li>全面整理学习、科研、生活相关工作</li>
-</ul>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/cxfan_starfan/blog/Weekly-Progress/2019-11-09-Weekly_Progress_20191109.html#more" rel="contents">
-                Read more &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Weekly-Progress/2019-11-02-Weekly_Progress_20191102.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
-      <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          
-            <a href="/cxfan_starfan/blog/Weekly-Progress/2019-11-02-Weekly_Progress_20191102.html" class="post-title-link" itemprop="url">Fall 2019 Week 10 Progress - November 2nd</a>
-        </h1>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2019-11-02 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-02T09:00:00-04:00">2019-11-02</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-11-09 20:28:04" itemprop="dateModified" datetime="2019-11-09T20:28:04-05:00">2019-11-09</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index">
-                    <span itemprop="name">Weekly Progress</span>
-                  </a>
-                </span>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
-<li>顺利完成747提案期末展示</li>
-<li>积极完成组会和一对一谈话</li>
-<li>顺利完成路考</li>
-</ul>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/cxfan_starfan/blog/Weekly-Progress/2019-11-02-Weekly_Progress_20191102.html#more" rel="contents">
-                Read more &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/cxfan_starfan/blog/Monthly-Summary/2019-10-31-Monthly_Summary_201910.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
-      <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          
-            <a href="/cxfan_starfan/blog/Monthly-Summary/2019-10-31-Monthly_Summary_201910.html" class="post-title-link" itemprop="url">Fall 2019 Monthly Report - October</a>
-        </h1>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2019-10-31 14:15:00" itemprop="dateCreated datePublished" datetime="2019-10-31T14:15:00-04:00">2019-10-31</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-15 20:15:08" itemprop="dateModified" datetime="2019-12-15T20:15:08-05:00">2019-12-15</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Monthly-Summary/" itemprop="url" rel="index">
-                    <span itemprop="name">Monthly Summary</span>
-                  </a>
-                </span>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="综述"><a href="#综述" class="headerlink" title="综述"></a>综述</h1><p>根据本月月度计划，2019年秋季学期十月的月度目标为：</p>
-<ul>
-<li>保持学习状态，扎实学习课程，迎接期中考试；</li>
-<li>加紧准备科研，与课程作业紧密结合；</li>
-<li>加强英语学习，着力提升口语和写作能力。</li>
-</ul>
-<p>回顾起来，这个月的成绩和突破令人振奋，为了完成这三项目标，这个月采取了很多创新的方法，得到了很多人的帮助，第一项目标非常顺利的完成，期中考试各门科目取得了可喜的成绩，第二和第三项目标作为长期目标，不可能在一个月以内完全的达到，但是在这一个月时间里，科研和英语学习这两个方面迈出了一大步，非常值得鼓励。虽然如此，仍然有不少的问题和缺陷需要解决和完善。</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/cxfan_starfan/blog/Monthly-Summary/2019-10-31-Monthly_Summary_201910.html#more" rel="contents">
                 Read more &raquo;
               </a>
             </div>
@@ -1091,21 +1251,21 @@
   <img class="site-author-image" itemprop="image" alt="Chongxing Fan"
     src="/cxfan_starfan/blog/images/avatar.jpg">
   <p class="site-author-name" itemprop="name">Chongxing Fan</p>
-  <div class="site-description" itemprop="description"></div>
+  <div class="site-description" itemprop="description">This is Chongxing's Personal Blogging Website</div>
 </div>
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
           <a href="/cxfan_starfan/blog/archives/">
         
-          <span class="site-state-item-count">13</span>
+          <span class="site-state-item-count">16</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/cxfan_starfan/blog/categories/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">4</span>
         <span class="site-state-item-name">categories</span></a>
       </div>
   </nav>
@@ -1147,6 +1307,16 @@
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Chongxing Fan</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-area-chart"></i>
+    </span>
+    <span title="Symbols count total">70k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">1:04</span>
 </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> v4.0.0
   </div>
@@ -1174,6 +1344,8 @@
 
   
   <script src="/cxfan_starfan/blog/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
   <script src="/cxfan_starfan/blog/lib/velocity/velocity.min.js"></script>
   <script src="/cxfan_starfan/blog/lib/velocity/velocity.ui.min.js"></script>
 <script src="/cxfan_starfan/blog/js/utils.js"></script><script src="/cxfan_starfan/blog/js/motion.js"></script>
@@ -1188,6 +1360,8 @@
 
 
 
+
+  <script src="/cxfan_starfan/blog/js/local-search.js"></script>
 
 
 

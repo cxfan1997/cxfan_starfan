@@ -14,6 +14,7 @@
 
 
 <link rel="stylesheet" href="/cxfan_starfan/blog/lib/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
 
 
 <script id="hexo-configurations">
@@ -27,7 +28,7 @@
     copycode: {"enable":false,"show_result":false,"style":null},
     back2top: {"enable":true,"sidebar":true,"scrollpercent":true},
     bookmark: {"enable":false,"color":"#222","save":"auto"},
-    fancybox: false,
+    fancybox: true,
     mediumzoom: false,
     lazyload: false,
     pangu: false,
@@ -38,8 +39,8 @@
       hits: {"per_page":10},
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
-    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: '',
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":true,"preload":false},
+    path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     translation: {
       copy_button: 'Copy',
@@ -50,12 +51,12 @@
   };
 </script>
 
-  <meta name="description" content="综述根据本月月度计划，2019年秋季学期十月的月度目标为：  保持学习状态，扎实学习课程，迎接期中考试； 加紧准备科研，与课程作业紧密结合； 加强英语学习，着力提升口语和写作能力。  回顾起来，这个月的成绩和突破令人振奋，为了完成这三项目标，这个月采取了很多创新的方法，得到了很多人的帮助，第一项目标非常顺利的完成，期中考试各门科目取得了可喜的成绩，第二和第三项目标作为长期目标，不可能在一个月以内完">
+  <meta name="description" content="综述 根据本月月度计划，2019年秋季学期十月的月度目标为：  保持学习状态，扎实学习课程，迎接期中考试； 加紧准备科研，与课程作业紧密结合； 加强英语学习，着力提升口语和写作能力。  回顾起来，这个月的成绩和突破令人振奋，为了完成这三项目标，这个月采取了很多创新的方法，得到了很多人的帮助，第一项目标非常顺利的完成，期中考试各门科目取得了可喜的成绩，第二和第三项目标作为长期目标，不可能在一个月以内">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Fall 2019 Monthly Report - October">
 <meta property="og:url" content="http:&#x2F;&#x2F;cxfan-kamisama.github.io&#x2F;cxfan_starfan&#x2F;blog&#x2F;Monthly-Summary&#x2F;2019-10-31-Monthly_Summary_201910.html">
-<meta property="og:site_name" content="StarFan Blog Test Website">
-<meta property="og:description" content="综述根据本月月度计划，2019年秋季学期十月的月度目标为：  保持学习状态，扎实学习课程，迎接期中考试； 加紧准备科研，与课程作业紧密结合； 加强英语学习，着力提升口语和写作能力。  回顾起来，这个月的成绩和突破令人振奋，为了完成这三项目标，这个月采取了很多创新的方法，得到了很多人的帮助，第一项目标非常顺利的完成，期中考试各门科目取得了可喜的成绩，第二和第三项目标作为长期目标，不可能在一个月以内完">
+<meta property="og:site_name" content="StarFan">
+<meta property="og:description" content="综述 根据本月月度计划，2019年秋季学期十月的月度目标为：  保持学习状态，扎实学习课程，迎接期中考试； 加紧准备科研，与课程作业紧密结合； 加强英语学习，着力提升口语和写作能力。  回顾起来，这个月的成绩和突破令人振奋，为了完成这三项目标，这个月采取了很多创新的方法，得到了很多人的帮助，第一项目标非常顺利的完成，期中考试各门科目取得了可喜的成绩，第二和第三项目标作为长期目标，不可能在一个月以内">
 <meta property="og:locale" content="en">
 <meta property="og:updated_time" content="2019-12-16T01:15:08.993Z">
 <meta name="twitter:card" content="summary">
@@ -74,7 +75,7 @@
   };
 </script>
 
-  <title>Fall 2019 Monthly Report - October | StarFan Blog Test Website</title>
+  <title>Fall 2019 Monthly Report - October | StarFan</title>
   
 
 
@@ -120,10 +121,11 @@
     <div>
       <a href="/cxfan_starfan/blog/" class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">StarFan Blog Test Website</span>
+        <span class="site-title">StarFan</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
+        <p class="site-subtitle">Blog Website</p>
   </div>
 
   <div class="site-nav-toggle">
@@ -164,9 +166,34 @@
     <a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html" rel="section"><i class="fa fa-fw fa-arrow-left"></i>Back</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
   </ul>
 
 </nav>
+  <div class="site-search">
+    <div class="popup search-popup">
+    <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocorrect="off" autocapitalize="none"
+           placeholder="Searching..." spellcheck="false"
+           type="text" id="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result"></div>
+
+</div>
+<div class="search-pop-overlay"></div>
+
+  </div>
 </div>
     </header>
 
@@ -192,11 +219,11 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan Blog Test Website">
+      <meta itemprop="name" content="StarFan">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -231,7 +258,21 @@
                 </span>
             </span>
 
-          
+          <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>8k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>7 mins.</span>
+            </span>
 
         </div>
       </header>
@@ -242,7 +283,8 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h1 id="综述"><a href="#综述" class="headerlink" title="综述"></a>综述</h1><p>根据本月月度计划，2019年秋季学期十月的月度目标为：</p>
+        <h1 id="综述">综述</h1>
+<p>根据本月月度计划，2019年秋季学期十月的月度目标为：</p>
 <ul>
 <li>保持学习状态，扎实学习课程，迎接期中考试；</li>
 <li>加紧准备科研，与课程作业紧密结合；</li>
@@ -250,24 +292,32 @@
 </ul>
 <p>回顾起来，这个月的成绩和突破令人振奋，为了完成这三项目标，这个月采取了很多创新的方法，得到了很多人的帮助，第一项目标非常顺利的完成，期中考试各门科目取得了可喜的成绩，第二和第三项目标作为长期目标，不可能在一个月以内完全的达到，但是在这一个月时间里，科研和英语学习这两个方面迈出了一大步，非常值得鼓励。虽然如此，仍然有不少的问题和缺陷需要解决和完善。</p>
 <a id="more"></a>
-<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br><span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
-<h1 id="课程情况"><a href="#课程情况" class="headerlink" title="课程情况"></a>课程情况</h1><h2 id="CLIMATE-551-–-Advanced-Fluid-Mechanics-进阶流体动力学"><a href="#CLIMATE-551-–-Advanced-Fluid-Mechanics-进阶流体动力学" class="headerlink" title="CLIMATE 551 – Advanced Fluid Mechanics (进阶流体动力学)"></a>CLIMATE 551 – Advanced Fluid Mechanics (进阶流体动力学)</h2><p><strong>学习内容总结</strong></p>
+<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span> <span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
+<h1 id="课程情况">课程情况</h1>
+<h2 id="climate-551-advanced-fluid-mechanics-进阶流体动力学">CLIMATE 551 – Advanced Fluid Mechanics (进阶流体动力学)</h2>
+<p><strong>学习内容总结</strong></p>
 <p>本月前半段复习了第一章至第三章的内容，10月9日完成了期中考试。</p>
 <p>本月后半段学习了第四章至第七章的内容。第三章我们通过Variational Principle推导了流体基本运动方程组：</p>
-<script type="math/tex; mode=display">\begin{equation}
+<p><span class="math display">\[\begin{equation}
 \frac{D\vec u}{Dt}=\frac{\partial \vec u}{\partial t}+\vec u \cdot \nabla \vec u = -\frac{1}{\rho} \nabla p - \nabla \Phi
-\end{equation}\label{eq1}</script><script type="math/tex; mode=display">\begin{equation}
+\end{equation}\label{eq1}\]</span></p>
+<p><span class="math display">\[\begin{equation}
 \frac{D\rho}{Dt}+\rho \nabla \cdot \vec u=0
-\end{equation}\label{eq2}</script><script type="math/tex; mode=display">\begin{equation}
+\end{equation}\label{eq2}\]</span></p>
+<p><span class="math display">\[\begin{equation}
 \frac{D\rho}{Dt}=\frac{1}{c^2} \frac{Dp}{Dt}
-\end{equation}\label{eq3}</script><script type="math/tex; mode=display">\begin{equation}
+\end{equation}\label{eq3}\]</span></p>
+<p><span class="math display">\[\begin{equation}
 \frac{D\eta}{Dt}=0
-\end{equation}\label{eq4}</script><script type="math/tex; mode=display">\begin{equation}
+\end{equation}\label{eq4}\]</span></p>
+<p><span class="math display">\[\begin{equation}
 \frac{DS}{Dt}=0
-\end{equation}\label{eq5}</script><p>第四章通过其它诸如统计力学的知识导出了摩擦力项、理想气体公式等，将运动方程$\eqref{eq1}$扩展为：</p>
-<script type="math/tex; mode=display">\begin{equation}
+\end{equation}\label{eq5}\]</span></p>
+<p>第四章通过其它诸如统计力学的知识导出了摩擦力项、理想气体公式等，将运动方程<span class="math inline">\(\eqref{eq1}\)</span>扩展为：</p>
+<p><span class="math display">\[\begin{equation}
 \frac{D\vec u}{Dt}=\frac{\partial \vec u}{\partial t}+\vec u \cdot \nabla \vec u = -\frac{1}{\rho} \nabla p + f + \nu \nabla^2 \vec u + (\lambda-\frac{2}{3} \mu) \nabla \cdot \vec u
-\end{equation}\label{eq6}</script><p>以及完善了其它方程，构建了更一般化的基本方程组。第五章主要通过几个案例介绍了Navier-Strokes方程在实际中的应用（例如静力平衡）。第六章重点介绍了张量和矢量，以及流体方程组中出现的Strain Rate Tensor和Viscous Stress Tensor等等。</p>
+\end{equation}\label{eq6}\]</span></p>
+<p>以及完善了其它方程，构建了更一般化的基本方程组。第五章主要通过几个案例介绍了Navier-Strokes方程在实际中的应用（例如静力平衡）。第六章重点介绍了张量和矢量，以及流体方程组中出现的Strain Rate Tensor和Viscous Stress Tensor等等。</p>
 <p>第七章主要介绍了Dimensional Analyses即尺度分析/量纲分析，月底正在进行的是第八章有关于地转流体运动的学习，引入科氏力和离心力进入方程组。</p>
 <p><strong>学习情况总结</strong></p>
 <p>期中考试的内容非常基础，主要是对物理概念的理解和一些简单的数学演算，<span style="color: blue"><strong><em>取得了非常棒的成绩</em></strong></span>（具体在成绩评价中有阐述）；期中考试之后老师安排了一对一或者小组形式的答疑，虽然题目方面已经没有问题，但也能够积极主动思考，提出更多的想法。考试前的准备工作非常扎实，通读讲义、回顾作业、制作知识大纲都按部就班的完成；</p>
@@ -276,348 +326,332 @@
 <p>复习阶段，第四章至第七章的知识树均没有完成，这些章节内容没有整理，思路有些混乱，需要花时间研究。</p>
 <p>与老师一对一答疑/谈话1次。</p>
 <p><strong>成绩评价</strong></p>
-<div class="table-container">
 <table>
 <thead>
-<tr>
+<tr class="header">
 <th>名称</th>
 <th>提交时间</th>
 <th>评分</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td>Homework #1</td>
 <td>-1 Day</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Homework #2</td>
 <td>-2 Days</td>
 <td>29/30</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Homework #3</td>
 <td>-4 Days</td>
 <td>6/6</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Homework #4</td>
 <td>-2 Days</td>
 <td>40/40</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Homework #5</td>
 <td>-4 Days</td>
 <td>19/20</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Exam #1</td>
 <td>0 Days</td>
 <td>60/55</td>
 </tr>
-<tr>
+<tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
 <td>164/161 (101.86%)</td>
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="CLIMATE-473-–-Climate-Physics-气候物理学"><a href="#CLIMATE-473-–-Climate-Physics-气候物理学" class="headerlink" title="CLIMATE 473 – Climate Physics (气候物理学)"></a>CLIMATE 473 – Climate Physics (气候物理学)</h2><p><strong>学习内容总结</strong></p>
+<h2 id="climate-473-climate-physics-气候物理学">CLIMATE 473 – Climate Physics (气候物理学)</h2>
+<p><strong>学习内容总结</strong></p>
 <p>本月前半段完成了对第六章气候系统反馈和敏感度的学习，并准备复习期中考试。10月21日课堂时间顺利完成了期中考试。</p>
 <p>本月的后半部分给第八章Transient Climate Response开了个头，了解了计算瞬时气候变化的方法。</p>
 <p><strong>学习情况总结</strong></p>
 <p>考试前的准备工作非常扎实，除了完成讲义通览、作业回顾、知识树构建以外，<span style="color: blue"><strong><em>还将构建的知识网络图分享给老师和同学，增进了与老师的互动</em></strong></span>。期中考试内容涉及基本的概念理解和中等强度的计算，<span style="color: blue"><strong><em>考试成绩也相当不错</em></strong></span>。期中考试后的第一节课对试卷进行了讲解。</p>
 <p>后半部分内容相对而言直观且容易理解，通过预习-学习-复习循环对这一部分知识掌握的比较好。整体来说学习状态不错，唯一的不足之处是课外阅读部分有些欠缺。</p>
 <p><strong>成绩评价</strong></p>
-<div class="table-container">
 <table>
 <thead>
-<tr>
+<tr class="header">
 <th>名称</th>
 <th>提交时间</th>
 <th>评分</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td>Assignment 1</td>
 <td>-3 Days</td>
 <td>55/55</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Assignment 2</td>
 <td>-2 Days</td>
 <td>49/45</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Assignment 3</td>
 <td>-3 Days</td>
 <td>55/55</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Assignment 4</td>
 <td>-1 Day</td>
 <td>45/45</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Midterm</td>
 <td>0 Days</td>
 <td>146/147</td>
 </tr>
-<tr>
+<tr class="even">
 <td><strong>总计</strong></td>
 <td></td>
 <td>350/347 (100.86%)</td>
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="CLIMATE-747-–-Student-Seminar-提案写作"><a href="#CLIMATE-747-–-Student-Seminar-提案写作" class="headerlink" title="CLIMATE 747 – Student Seminar (提案写作)"></a>CLIMATE 747 – Student Seminar (提案写作)</h2><p><strong>学习内容总结</strong></p>
+<h2 id="climate-747-student-seminar-提案写作">CLIMATE 747 – Student Seminar (提案写作)</h2>
+<p><strong>学习内容总结</strong></p>
 <p>本月进一步修改了Introduction部分和Scientific Questions部分，并且将本月新出的图融入到了Introduction部分，让阐述更有说服力。这个月还完成了Methodology和Milestone等部分，构成了一篇完整的Proposal。完整的Proposal已经经由Dr. Enrico和Prof. Huang审阅并评价，并且经过了一次Peer Review。本月末以准备提案展示PPT结束。</p>
 <p><strong>学习情况总结</strong></p>
 <p>通过这一段时间的努力，逐渐掌握了节奏，<span style="color: blue"><strong><em>顺利完成了完整提案的写作</em></strong></span>。</p>
 <p><span style="color: red"><strong><em>10月30日发生计划执行事故：Peer Review Sheet超过规定时间提交</em></strong></span></p>
 <p>与老师一对一答疑/谈话1次。</p>
 <p><strong>成绩评价</strong></p>
-<div class="table-container">
 <table>
 <thead>
-<tr>
+<tr class="header">
 <th>名称</th>
 <th>提交时间</th>
 <th>评分</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td>Week 1 – The Abstract</td>
 <td>-1 Day</td>
 <td>完成</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Week 2 – The introduction and the science questions</td>
 <td>-1 Day</td>
 <td>完成</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Week 4 – Reviewing two proposals</td>
 <td>-1 Day</td>
 <td>完成</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Week 4 – Introduction and Science Questions (2nd draft)</td>
 <td>-1 Day</td>
 <td>完成</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Week 6 - Methodology, Relevance and timeline</td>
 <td>-1 Day</td>
 <td>完成</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Week 7 - Full proposal (1st draft)</td>
 <td>-1 Day</td>
 <td>完成</td>
 </tr>
-<tr>
+<tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
 <td>完成</td>
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="CLIMATE-749-–-CLaSP-Seminar-学术讲座"><a href="#CLIMATE-749-–-CLaSP-Seminar-学术讲座" class="headerlink" title="CLIMATE 749 – CLaSP Seminar (学术讲座)"></a>CLIMATE 749 – CLaSP Seminar (学术讲座)</h2><p><strong>学习内容总结</strong></p>
-<p>本月听了五场学术讲座。</p>
-<ol>
-<li>10月3日Dr. Mei-Ching Fok题目为From RAM to CIMI，主要是关于电离层模式CIMI的内容。</li>
-<li>10月10日Dr. Joe Huba题目为SAMI3: The Evolution of an Ionosphere/Plasmasphere Model，主要是关于电离层模式SAMI3的内容。</li>
-<li>10月17日Bryan Hampoton题目为From defense to automated driving, the fun career path of an MEng grad，主要是关于自动驾驶汽车的有关内容，还分享了关于毕业后考虑选择进入industry的问题。</li>
-<li>10月24日Dr. Danica Lombardozzi的题目为Linking leaves to global climate: Understanding terrestrial ecosystems in changing environments，主要是关于将生物圈中的树木和农作物融入到全球气候模式模拟中，偏向科普性质。</li>
-<li>10月31日Qusai Al Shidi的题目为Modeling and Simulating the Solar Chromosphere，主要介绍了太阳热圈模式。</li>
-</ol>
+<h2 id="climate-749-clasp-seminar-学术讲座">CLIMATE 749 – CLaSP Seminar (学术讲座)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月听了五场学术讲座。 1. 10月3日Dr. Mei-Ching Fok题目为From RAM to CIMI，主要是关于电离层模式CIMI的内容。 2. 10月10日Dr. Joe Huba题目为SAMI3: The Evolution of an Ionosphere/Plasmasphere Model，主要是关于电离层模式SAMI3的内容。 3. 10月17日Bryan Hampoton题目为From defense to automated driving, the fun career path of an MEng grad，主要是关于自动驾驶汽车的有关内容，还分享了关于毕业后考虑选择进入industry的问题。 4. 10月24日Dr. Danica Lombardozzi的题目为Linking leaves to global climate: Understanding terrestrial ecosystems in changing environments，主要是关于将生物圈中的树木和农作物融入到全球气候模式模拟中，偏向科普性质。 5. 10月31日Qusai Al Shidi的题目为Modeling and Simulating the Solar Chromosphere，主要介绍了太阳热圈模式。</p>
 <p><strong>学习情况总结</strong></p>
 <p>很多空间科学的内容，由于自己没有对空间科学的基本物理图像，理解起来很有困难。加上自己对这门课的重视程度下降，开始在讲座过程中做别的事情，因此课堂收获大打折扣。</p>
 <p><strong>成绩评价</strong></p>
-<div class="table-container">
 <table>
 <thead>
-<tr>
+<tr class="header">
 <th>名称</th>
 <th>提交时间</th>
 <th>评分</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td>Seminar 1</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Seminar 2</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Seminar 3</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Seminar 4</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Seminar 5</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Seminar 6</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Seminar 7</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Seminar 8</td>
 <td>0 Days</td>
 <td>10/10</td>
 </tr>
-<tr>
+<tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
 <td>80/80 (100%)</td>
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="ELI-531-–-Language-amp-Communication-I-口语对话"><a href="#ELI-531-–-Language-amp-Communication-I-口语对话" class="headerlink" title="ELI 531 – Language &amp; Communication I (口语对话)"></a>ELI 531 – Language &amp; Communication I (口语对话)</h2><p><strong>学习内容总结</strong></p>
+<h2 id="eli-531-language-communication-i-口语对话">ELI 531 – Language &amp; Communication I (口语对话)</h2>
+<p><strong>学习内容总结</strong></p>
 <p>课程由各种小环节组成，非常轻松愉快，课下作业认真完成，本月完成了一次课堂大作业，与Yoshimitsu合作表演了剧本。本月底在准备第二次课堂大作业，与Songlin合作表演剧本，预计十一月初进行。</p>
 <p><strong>学习情况总结</strong></p>
 <p>学习积极性非常好。本月10号与Pamela进行了一对一谈话，制定了完整的<a href="../English/Systematic_English_Self_Study_Plan.html">英语学习计划</a>，收获很大。具体内容在后面英语学习部分阐述。</p>
 <p><strong>成绩评价</strong></p>
-<div class="table-container">
 <table>
 <thead>
-<tr>
+<tr class="header">
 <th>名称</th>
 <th>提交时间</th>
 <th>评分</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td>第1周课堂参与</td>
 <td>0 Days</td>
 <td>100/100</td>
 </tr>
-<tr>
+<tr class="even">
 <td>课后讨论-发音</td>
 <td>-4 Days</td>
 <td>15/15</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>第2周课堂参与</td>
 <td>0 Days</td>
 <td>100/100</td>
 </tr>
-<tr>
+<tr class="even">
 <td>校园资源探索活动</td>
 <td>-3 Days</td>
 <td>60/60</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>参加ELI英语角</td>
-<td>0 Days <em>(Late*)</em></td>
+<td>0 Days _(Late*)_</td>
 <td>20/20</td>
 </tr>
-<tr>
+<tr class="even">
 <td>校园资源探索剧本</td>
 <td>-5 Days</td>
 <td>80/80</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>课后讨论-省略</td>
 <td>-5 Days</td>
 <td>30/30</td>
 </tr>
-<tr>
+<tr class="even">
 <td>课后讨论-线下聚会</td>
 <td>-3 Days</td>
 <td>80/80</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>表演1：校园资源探索剧本</td>
 <td>0 Days</td>
 <td>200/200</td>
 </tr>
-<tr>
+<tr class="even">
 <td>课后讨论-与老师谈话</td>
 <td>-9 Days</td>
 <td>30/30</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>课后讨论-主动式学习</td>
 <td>-9 Days</td>
 <td>40/40</td>
 </tr>
-<tr>
+<tr class="even">
 <td>写剧本-与老师谈话</td>
 <td>-6 Days</td>
 <td>80/80</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>课堂讨论-常用短语</td>
 <td>0 Days</td>
 <td>30/30</td>
 </tr>
-<tr>
+<tr class="even">
 <td>课后讨论-邮件</td>
 <td>-4 Days</td>
 <td>30/30</td>
 </tr>
-<tr>
+<tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
 <td>895/895 (100%)</td>
 </tr>
 </tbody>
 </table>
-</div>
 <p>* 原因是老师没有设置提交选项，提醒老师后老师添加了提交选项，再次提交时系统判定我提交超时。</p>
-<h1 id="科研工作"><a href="#科研工作" class="headerlink" title="科研工作"></a>科研工作</h1><h2 id="Solar-Farming项目情况"><a href="#Solar-Farming项目情况" class="headerlink" title="Solar Farming项目情况"></a>Solar Farming项目情况</h2><p><span style="color: blue"><strong><em>十月在Solar Farming项目中取得了重大进展，通过编写代码分析数据，绘制出了两个Farms的Surface Reflectance Map和Surface Reflectance Time Series，发现其中一个Farm由于有较大的反射率变化，其信号非常明显。通过确定变化所出现的时间范围基本确定反射率变化的原因是由于Solar Farming造成。</em></strong></span>这些结果已经足够本学期两门课程的需求。</p>
+<h1 id="科研工作">科研工作</h1>
+<h2 id="solar-farming项目情况">Solar Farming项目情况</h2>
+<p><span style="color: blue"><strong><em>十月在Solar Farming项目中取得了重大进展，通过编写代码分析数据，绘制出了两个Farms的Surface Reflectance Map和Surface Reflectance Time Series，发现其中一个Farm由于有较大的反射率变化，其信号非常明显。通过确定变化所出现的时间范围基本确定反射率变化的原因是由于Solar Farming造成。</em></strong></span>这些结果已经足够本学期两门课程的需求。</p>
 <p>十月中旬还尝试分析Emissivity的情况，效果暂不理想。</p>
 <p>通过思考和与导师的一对一讨论，明确了这个项目的三个目标和三个阶段。</p>
 <p>十月下旬考虑对代码进行优化和整理，但是经过一个星期的尝试发现效果不理想，实验失败，不得不放弃，回滚到最初的代码重新整理。</p>
 <p>十月下旬完成了整个提案的撰写，经过Prof. Huang的审阅后获得了一些建议，下个月初的一对一谈话中对这些问题会有进一步的讨论。</p>
 <p>下一步需要重新绘制所有Sites的所有Bands的Surface Reflectivity Map、Surface Reflectivity Time Series、Emissivity Map和Emissivity Time Series，另外给出统计数值分析，做到严谨美观。</p>
-<h2 id="汪老师项目情况"><a href="#汪老师项目情况" class="headerlink" title="汪老师项目情况"></a>汪老师项目情况</h2><p>十月份经过两次修改后将Manuscript投稿，两个期刊均未接收。目前正在改投第三个期刊，Manuscript仍在继续修改中。考虑到十月下旬以来任务爆炸式增长，预计该项工作仍要推后完成。</p>
-<h2 id="小组组会-教授一对一谈话"><a href="#小组组会-教授一对一谈话" class="headerlink" title="小组组会/教授一对一谈话"></a>小组组会/教授一对一谈话</h2><p>本月开了四次组会，通过一些改进措施，效果有了一定的提升。尤其是对每次组会的材料进行了系统化的整理，方便复习和回顾。</p>
-<ul>
-<li>10月1日：Clouds and Climate by Prof. Tapio Schneider (YouTube)</li>
-<li>10月8日：关于MODIS MYD11 LST/Emissivity ATBD的简介</li>
-<li>10月15日：PCRTM by Dr. Xu Liu</li>
-<li>10月22日：Arctic Climate by Yan Xie</li>
-</ul>
+<h2 id="汪老师项目情况">汪老师项目情况</h2>
+<p>十月份经过两次修改后将Manuscript投稿，两个期刊均未接收。目前正在改投第三个期刊，Manuscript仍在继续修改中。考虑到十月下旬以来任务爆炸式增长，预计该项工作仍要推后完成。</p>
+<h2 id="小组组会教授一对一谈话">小组组会/教授一对一谈话</h2>
+<p>本月开了四次组会，通过一些改进措施，效果有了一定的提升。尤其是对每次组会的材料进行了系统化的整理，方便复习和回顾。 - 10月1日：Clouds and Climate by Prof. Tapio Schneider (YouTube) - 10月8日：关于MODIS MYD11 LST/Emissivity ATBD的简介 - 10月15日：PCRTM by Dr. Xu Liu - 10月22日：Arctic Climate by Yan Xie</p>
 <p>计划于下个月初进行的下一次组会由我介绍Antarctic Climate，<span style="color: blue"><strong><em>本月底积极全面的准备了相关材料（梳理网络和PPT），并提前一周时间发至研究小组供大家预习</em></strong></span>。</p>
 <p>教授一对一谈话进行了四次。后面三次采用了PPT系统展示，效果很好。</p>
 <p><strong>下一次的教授一对一谈话希望能够讨论长远计划。</strong></p>
-<h2 id="机器学习讨论小组"><a href="#机器学习讨论小组" class="headerlink" title="机器学习讨论小组"></a>机器学习讨论小组</h2><p>本月进行了两次活动，第一次介绍了Python的基础使用，第二次介绍了深度学习的概念和在Python中的算法。预习-学习环节做得非常好，复习环节有所欠缺。</p>
-<h2 id="Climate-Dynamics在线讨论群"><a href="#Climate-Dynamics在线讨论群" class="headerlink" title="Climate Dynamics在线讨论群"></a>Climate Dynamics在线讨论群</h2><p>本月开展了两次线上讲座：</p>
-<ul>
-<li>10月12日：Energetics of the Western Hemisphere Circulation Pattern by Ming Bao</li>
-<li>10月19日：Quantifying Impacts of SST Variability on North American Precipitation by Honghai Zhang</li>
-</ul>
+<h2 id="机器学习讨论小组">机器学习讨论小组</h2>
+<p>本月进行了两次活动，第一次介绍了Python的基础使用，第二次介绍了深度学习的概念和在Python中的算法。预习-学习环节做得非常好，复习环节有所欠缺。</p>
+<h2 id="climate-dynamics在线讨论群">Climate Dynamics在线讨论群</h2>
+<p>本月开展了两次线上讲座： - 10月12日：Energetics of the Western Hemisphere Circulation Pattern by Ming Bao - 10月19日：Quantifying Impacts of SST Variability on North American Precipitation by Honghai Zhang</p>
 <p>这两次讲座都涉及到模式模拟的内容，这也是我目前基础知识空白比较多的一块。另外要在意识上提高对这项活动的重视，要学到东西就需要认真对待。</p>
-<h2 id="科研能力提升"><a href="#科研能力提升" class="headerlink" title="科研能力提升"></a>科研能力提升</h2><ul>
+<h2 id="科研能力提升">科研能力提升</h2>
+<ul>
 <li><strong>文献阅读</strong>：本月额外的文献阅读几乎为零。</li>
 <li><strong>专业理论学习</strong>：本月额外的专业理论学习几乎为零。</li>
 <li><strong>工具基础学习（数理计算机）</strong>：本月通过搭建静态博客学习了Markdown的写作，这与Jupyter Notebook和GitHub相辅相成。详见后面部分的总结。</li>
@@ -625,40 +659,53 @@
 <li><strong>科研写作</strong>：参见747提案写作课。</li>
 <li><strong>科研展示</strong>：参见747提案写作课。</li>
 </ul>
-<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><p>这个月与Pamela进行一对一谈话之后，<span style="color: blue"><strong><em>制定了一套英语综合学习计划</em></strong></span>。总体来看，每日邮件写作、ELI口语角、晚间新闻部分是所有计划工作当中坚持的最好的部分，其他部分几乎没有新的进展。</p>
-<h2 id="口语"><a href="#口语" class="headerlink" title="口语"></a>口语</h2><p>口语方面，本月参加了三次英语口语角活动，第一次稍微有些生疏，第二次和第三次积极性明显提高。第三次由于只有我一个人参加，直接转换为一对一谈话一小时。虽然参与度很高，但是练习过程中遣词造句问题仍然凸显。</p>
-<h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2><p>每日邮件到本月底已经坚持了18天，除了能够锻炼自己的逻辑思维和造句能力，还能通过阅读其他人的邮件（尤其是Pamela、Shaina等英语为母语的成员的参与）来学习新的表达方式。</p>
+<h1 id="英语学习">英语学习</h1>
+<p>这个月与Pamela进行一对一谈话之后，<span style="color: blue"><strong><em>制定了一套英语综合学习计划</em></strong></span>。总体来看，每日邮件写作、ELI口语角、晚间新闻部分是所有计划工作当中坚持的最好的部分，其他部分几乎没有新的进展。</p>
+<h2 id="口语">口语</h2>
+<p>口语方面，本月参加了三次英语口语角活动，第一次稍微有些生疏，第二次和第三次积极性明显提高。第三次由于只有我一个人参加，直接转换为一对一谈话一小时。虽然参与度很高，但是练习过程中遣词造句问题仍然凸显。</p>
+<h2 id="写作">写作</h2>
+<p>每日邮件到本月底已经坚持了18天，除了能够锻炼自己的逻辑思维和造句能力，还能通过阅读其他人的邮件（尤其是Pamela、Shaina等英语为母语的成员的参与）来学习新的表达方式。</p>
 <p>在747的提案写作中，Enrico评价说新的一版提案在语言方面有了一定的提升。虽然自己没有察觉到，但是否确实已经发生了潜移默化的影响？</p>
-<h2 id="阅读、听力和词汇"><a href="#阅读、听力和词汇" class="headerlink" title="阅读、听力和词汇"></a>阅读、听力和词汇</h2><p>阅读方面只额外读了两次Science的文章，效果不太理想。</p>
+<h2 id="阅读听力和词汇">阅读、听力和词汇</h2>
+<p>阅读方面只额外读了两次Science的文章，效果不太理想。</p>
 <p>听力方面尚可，每日的晚间新闻都能坚持收听，Podcasts和Purposed Listening Practice也做了两三次，但是仍然需要坚持。</p>
-<h1 id="生活健康"><a href="#生活健康" class="headerlink" title="生活健康"></a>生活健康</h1><h2 id="身体健康"><a href="#身体健康" class="headerlink" title="身体健康"></a>身体健康</h2><p>十月份身体状态良好，无生病状况。体重监测无明显变化。</p>
-<h2 id="心理健康"><a href="#心理健康" class="headerlink" title="心理健康"></a>心理健康</h2><p>当月中上旬心理状态积极平稳，下旬由于学习科研压力陡增，出现了一定幅度的波动，不过仍然处于可控范围内。</p>
-<h2 id="体育锻炼"><a href="#体育锻炼" class="headerlink" title="体育锻炼"></a>体育锻炼</h2><p>每天早上的早操都能坚持进行。</p>
-<p>本月进行了6次室外或健身房体育锻炼：</p>
-<ul>
-<li>10月5日：户外跑步，路线为Gallup Park Trail，8公里1小时</li>
-<li>10月7日：健身房锻炼，器材30分钟+跑步机30分钟</li>
-<li>10月12日：户外跑步，路线为Gallup Park Trail，8公里1小时</li>
-<li>10月19日：户外跑步，路线为Plymouth Maiden Fuller Glazier Huron Pkwy，8公里1小时</li>
-<li>10月22日：健身房锻炼，器材30分钟+跑步机30分钟</li>
-<li>10月29日：健身房锻炼，游泳40分钟</li>
-</ul>
-<h2 id="公寓卫生"><a href="#公寓卫生" class="headerlink" title="公寓卫生"></a>公寓卫生</h2><p>整体卫生状况一般，10月27日进行了一次大扫除。</p>
-<h1 id="社交活动"><a href="#社交活动" class="headerlink" title="社交活动"></a>社交活动</h1><p>这个月中旬，在Pamela的鼓励下，<span style="color: blue"><strong><em>我组建了每日邮件交流群组</em></strong></span>，在这个群里大家定期写邮件发到群里（我仍然坚持Enrico推荐的每日一次的频率，其他组员根据实际情况调整频率），分享自己学习生活中的故事，自己的兴趣爱好，以及想要分享的任何东西。目前群组内已经有7名成员，其中包括3名以英语为母语的学生/老师。通过这个群组与更多的人有了交流，增进了关系。</p>
+<h1 id="生活健康">生活健康</h1>
+<h2 id="身体健康">身体健康</h2>
+<p>十月份身体状态良好，无生病状况。体重监测无明显变化。</p>
+<h2 id="心理健康">心理健康</h2>
+<p>当月中上旬心理状态积极平稳，下旬由于学习科研压力陡增，出现了一定幅度的波动，不过仍然处于可控范围内。</p>
+<h2 id="体育锻炼">体育锻炼</h2>
+<p>每天早上的早操都能坚持进行。</p>
+<p>本月进行了6次室外或健身房体育锻炼： - 10月5日：户外跑步，路线为Gallup Park Trail，8公里1小时 - 10月7日：健身房锻炼，器材30分钟+跑步机30分钟 - 10月12日：户外跑步，路线为Gallup Park Trail，8公里1小时 - 10月19日：户外跑步，路线为Plymouth Maiden Fuller Glazier Huron Pkwy，8公里1小时 - 10月22日：健身房锻炼，器材30分钟+跑步机30分钟 - 10月29日：健身房锻炼，游泳40分钟</p>
+<h2 id="公寓卫生">公寓卫生</h2>
+<p>整体卫生状况一般，10月27日进行了一次大扫除。</p>
+<h1 id="社交活动">社交活动</h1>
+<p>这个月中旬，在Pamela的鼓励下，<span style="color: blue"><strong><em>我组建了每日邮件交流群组</em></strong></span>，在这个群里大家定期写邮件发到群里（我仍然坚持Enrico推荐的每日一次的频率，其他组员根据实际情况调整频率），分享自己学习生活中的故事，自己的兴趣爱好，以及想要分享的任何东西。目前群组内已经有7名成员，其中包括3名以英语为母语的学生/老师。通过这个群组与更多的人有了交流，增进了关系。</p>
 <p>而在院系内，社交活动情况依旧<span style="color: red"><strong><em>令人堪忧</em></strong></span>。这对于未来在自己学术领域的生存是一个极大的劣势。</p>
-<h1 id="其它方面"><a href="#其它方面" class="headerlink" title="其它方面"></a>其它方面</h1><h2 id="个人网站更新和静态博客系统搭建"><a href="#个人网站更新和静态博客系统搭建" class="headerlink" title="个人网站更新和静态博客系统搭建"></a>个人网站更新和静态博客系统搭建</h2><p>这个月利用秋季假期的时间，<span style="color: blue"><strong><em>对个人网站和学院个人主页进行了全面的更新</em></strong></span>，在原有个人网站的基础上新增了静态博客系统Hexo的搭建，未来将主要用于学期计划和总结、月度计划和总结的管理。在学习Hexo的过程中学习了Markdown的写作方式，而Markdown同样适用于Jupyter Notebook和GitHub，可以认为是一举多得。区别于所见即所得的写作方式，Markdown的写作也有利于诸如LaTeX等文字处理系统的学习，有利于缓解为修改格式而头疼的问题。</p>
-<p><a href="https://clasp.engin.umich.edu/people/chongxing-fan/" target="_blank" rel="noopener">学院个人主页</a><br><a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html">个人网站</a><br><a href="https://cxfan-kamisama.github.io/cxfan_starfan/blog/index.html">静态博客系统</a></p>
+<h1 id="其它方面">其它方面</h1>
+<h2 id="个人网站更新和静态博客系统搭建">个人网站更新和静态博客系统搭建</h2>
+<p>这个月利用秋季假期的时间，<span style="color: blue"><strong><em>对个人网站和学院个人主页进行了全面的更新</em></strong></span>，在原有个人网站的基础上新增了静态博客系统Hexo的搭建，未来将主要用于学期计划和总结、月度计划和总结的管理。在学习Hexo的过程中学习了Markdown的写作方式，而Markdown同样适用于Jupyter Notebook和GitHub，可以认为是一举多得。区别于所见即所得的写作方式，Markdown的写作也有利于诸如LaTeX等文字处理系统的学习，有利于缓解为修改格式而头疼的问题。</p>
+<p><a href="https://clasp.engin.umich.edu/people/chongxing-fan/" target="_blank" rel="noopener">学院个人主页</a><br />
+<a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html">个人网站</a><br />
+<a href="https://cxfan-kamisama.github.io/cxfan_starfan/blog/index.html">静态博客系统</a></p>
 <p>目前个人网站仍然有部分内容没有更新，预计将于今年年底之前全部修改更新完毕。</p>
-<h2 id="驾照路考练习"><a href="#驾照路考练习" class="headerlink" title="驾照路考练习"></a>驾照路考练习</h2><p>本月下旬进行了一次路考练习，通过两个小时的上路和场内练习，理解了考试的流程，了解了目前自己驾驶水平情况以及仍然存在的小问题。在下个月正式路考之前，需要利用一些机会进行练习。</p>
-<h2 id="新超市采购"><a href="#新超市采购" class="headerlink" title="新超市采购"></a>新超市采购</h2><p>本月随车去了Costco、Hua Xing、Whole Foods等超市进行了体验和采购。</p>
-<h2 id="RCRS讲座"><a href="#RCRS讲座" class="headerlink" title="RCRS讲座"></a>RCRS讲座</h2><p>本月完成了RCRS的D讲座和C讲座。A讲座将于11月1日完成，B讲座将于下学期完成。</p>
-<h1 id="十一月计划"><a href="#十一月计划" class="headerlink" title="十一月计划"></a>十一月计划</h1><h2 id="本月目标"><a href="#本月目标" class="headerlink" title="本月目标"></a>本月目标</h2><ul>
+<h2 id="驾照路考练习">驾照路考练习</h2>
+<p>本月下旬进行了一次路考练习，通过两个小时的上路和场内练习，理解了考试的流程，了解了目前自己驾驶水平情况以及仍然存在的小问题。在下个月正式路考之前，需要利用一些机会进行练习。</p>
+<h2 id="新超市采购">新超市采购</h2>
+<p>本月随车去了Costco、Hua Xing、Whole Foods等超市进行了体验和采购。</p>
+<h2 id="rcrs讲座">RCRS讲座</h2>
+<p>本月完成了RCRS的D讲座和C讲座。A讲座将于11月1日完成，B讲座将于下学期完成。</p>
+<h1 id="十一月计划">十一月计划</h1>
+<h2 id="本月目标">本月目标</h2>
+<ul>
 <li>加强时间管理，顺利度过繁忙的十一月，迎接期末</li>
 <li>顺利完成驾照路考</li>
 <li>完成十二月圣诞假期计划</li>
 </ul>
-<h2 id="详细说明"><a href="#详细说明" class="headerlink" title="详细说明"></a>详细说明</h2><p>十一月是本学期最繁忙的一个月，一方面临近期末，各课程迎来期末大作业环节，另一方面其它杂事开始增多。这对于时间管理和执行效率提出了很高的要求，尤其是上个月末出现了计划执行事故，在本学期最后一两个月的时间内千万不能马虎，为留学之行的第一个学期画上圆满的句号。</p>
-<h3 id="本月月历"><a href="#本月月历" class="headerlink" title="本月月历"></a>本月月历</h3><ul>
+<h2 id="详细说明">详细说明</h2>
+<p>十一月是本学期最繁忙的一个月，一方面临近期末，各课程迎来期末大作业环节，另一方面其它杂事开始增多。这对于时间管理和执行效率提出了很高的要求，尤其是上个月末出现了计划执行事故，在本学期最后一两个月的时间内千万不能马虎，为留学之行的第一个学期画上圆满的句号。</p>
+<h3 id="本月月历">本月月历</h3>
+<ul>
 <li>11月1日下午1点至3点RCRS Workshop A</li>
 <li><strong>11月5日上午10点组会主持介绍Antarctic Climate</strong></li>
 <li><strong>11月6日中午12点30分747提案期末Presentation</strong></li>
@@ -668,11 +715,15 @@
 <li>11月19日ELI 531结课</li>
 <li><strong>11月25日上午10点30分551流体力学第二次期中考试</strong></li>
 </ul>
-<h3 id="学习科研"><a href="#学习科研" class="headerlink" title="学习科研"></a>学习科研</h3><p>课程方面，551加强复习力度，准备第二次期中考试；473保持正常节奏，准备期末大作业展示；747准备期末展示和提案写作的终稿收尾；749保持正常节奏；531准备期末大作业结课。<strong>这个月计划与每位任课老师进行期末的一对一谈话，总结本学期学习情况和感受，做好学期收尾工作。</strong></p>
+<h3 id="学习科研">学习科研</h3>
+<p>课程方面，551加强复习力度，准备第二次期中考试；473保持正常节奏，准备期末大作业展示；747准备期末展示和提案写作的终稿收尾；749保持正常节奏；531准备期末大作业结课。<strong>这个月计划与每位任课老师进行期末的一对一谈话，总结本学期学习情况和感受，做好学期收尾工作。</strong></p>
 <p>科研方面，继续按照计划进行文献阅读和数据分析，与导师保持密切沟通。另外，<strong>加强基础知识的学习。</strong></p>
-<h3 id="英语学习-1"><a href="#英语学习-1" class="headerlink" title="英语学习"></a>英语学习</h3><p>考虑到这个月课程和科研压力，英语学习暂时保持现状，如果能够抽出更多时间在这上面当然值得鼓励。</p>
-<h3 id="体育锻炼-1"><a href="#体育锻炼-1" class="headerlink" title="体育锻炼"></a>体育锻炼</h3><p>本月希望能够完成7次及以上的体育锻炼。</p>
-<h3 id="其它方面-1"><a href="#其它方面-1" class="headerlink" title="其它方面"></a>其它方面</h3><p>按照正常节奏进行，没有特殊要求。</p>
+<h3 id="英语学习-1">英语学习</h3>
+<p>考虑到这个月课程和科研压力，英语学习暂时保持现状，如果能够抽出更多时间在这上面当然值得鼓励。</p>
+<h3 id="体育锻炼-1">体育锻炼</h3>
+<p>本月希望能够完成7次及以上的体育锻炼。</p>
+<h3 id="其它方面-1">其它方面</h3>
+<p>按照正常节奏进行，没有特殊要求。</p>
 
     </div>
 
@@ -735,7 +786,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#综述"><span class="nav-number">1.</span> <span class="nav-text">综述</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#课程情况"><span class="nav-number">2.</span> <span class="nav-text">课程情况</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#CLIMATE-551-–-Advanced-Fluid-Mechanics-进阶流体动力学"><span class="nav-number">2.1.</span> <span class="nav-text">CLIMATE 551 – Advanced Fluid Mechanics (进阶流体动力学)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#CLIMATE-473-–-Climate-Physics-气候物理学"><span class="nav-number">2.2.</span> <span class="nav-text">CLIMATE 473 – Climate Physics (气候物理学)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#CLIMATE-747-–-Student-Seminar-提案写作"><span class="nav-number">2.3.</span> <span class="nav-text">CLIMATE 747 – Student Seminar (提案写作)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#CLIMATE-749-–-CLaSP-Seminar-学术讲座"><span class="nav-number">2.4.</span> <span class="nav-text">CLIMATE 749 – CLaSP Seminar (学术讲座)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#ELI-531-–-Language-amp-Communication-I-口语对话"><span class="nav-number">2.5.</span> <span class="nav-text">ELI 531 – Language &amp; Communication I (口语对话)</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#科研工作"><span class="nav-number">3.</span> <span class="nav-text">科研工作</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Solar-Farming项目情况"><span class="nav-number">3.1.</span> <span class="nav-text">Solar Farming项目情况</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#汪老师项目情况"><span class="nav-number">3.2.</span> <span class="nav-text">汪老师项目情况</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#小组组会-教授一对一谈话"><span class="nav-number">3.3.</span> <span class="nav-text">小组组会/教授一对一谈话</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#机器学习讨论小组"><span class="nav-number">3.4.</span> <span class="nav-text">机器学习讨论小组</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Climate-Dynamics在线讨论群"><span class="nav-number">3.5.</span> <span class="nav-text">Climate Dynamics在线讨论群</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#科研能力提升"><span class="nav-number">3.6.</span> <span class="nav-text">科研能力提升</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#英语学习"><span class="nav-number">4.</span> <span class="nav-text">英语学习</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#口语"><span class="nav-number">4.1.</span> <span class="nav-text">口语</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#写作"><span class="nav-number">4.2.</span> <span class="nav-text">写作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#阅读、听力和词汇"><span class="nav-number">4.3.</span> <span class="nav-text">阅读、听力和词汇</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#生活健康"><span class="nav-number">5.</span> <span class="nav-text">生活健康</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#身体健康"><span class="nav-number">5.1.</span> <span class="nav-text">身体健康</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#心理健康"><span class="nav-number">5.2.</span> <span class="nav-text">心理健康</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#体育锻炼"><span class="nav-number">5.3.</span> <span class="nav-text">体育锻炼</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#公寓卫生"><span class="nav-number">5.4.</span> <span class="nav-text">公寓卫生</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#社交活动"><span class="nav-number">6.</span> <span class="nav-text">社交活动</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#其它方面"><span class="nav-number">7.</span> <span class="nav-text">其它方面</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#个人网站更新和静态博客系统搭建"><span class="nav-number">7.1.</span> <span class="nav-text">个人网站更新和静态博客系统搭建</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#驾照路考练习"><span class="nav-number">7.2.</span> <span class="nav-text">驾照路考练习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#新超市采购"><span class="nav-number">7.3.</span> <span class="nav-text">新超市采购</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#RCRS讲座"><span class="nav-number">7.4.</span> <span class="nav-text">RCRS讲座</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#十一月计划"><span class="nav-number">8.</span> <span class="nav-text">十一月计划</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#本月目标"><span class="nav-number">8.1.</span> <span class="nav-text">本月目标</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#详细说明"><span class="nav-number">8.2.</span> <span class="nav-text">详细说明</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#本月月历"><span class="nav-number">8.2.1.</span> <span class="nav-text">本月月历</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#学习科研"><span class="nav-number">8.2.2.</span> <span class="nav-text">学习科研</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#英语学习-1"><span class="nav-number">8.2.3.</span> <span class="nav-text">英语学习</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#体育锻炼-1"><span class="nav-number">8.2.4.</span> <span class="nav-text">体育锻炼</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#其它方面-1"><span class="nav-number">8.2.5.</span> <span class="nav-text">其它方面</span></a></li></ol></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#综述"><span class="nav-number">1.</span> <span class="nav-text">综述</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#课程情况"><span class="nav-number">2.</span> <span class="nav-text">课程情况</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#climate-551-advanced-fluid-mechanics-进阶流体动力学"><span class="nav-number">2.1.</span> <span class="nav-text">CLIMATE 551 – Advanced Fluid Mechanics (进阶流体动力学)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#climate-473-climate-physics-气候物理学"><span class="nav-number">2.2.</span> <span class="nav-text">CLIMATE 473 – Climate Physics (气候物理学)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#climate-747-student-seminar-提案写作"><span class="nav-number">2.3.</span> <span class="nav-text">CLIMATE 747 – Student Seminar (提案写作)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#climate-749-clasp-seminar-学术讲座"><span class="nav-number">2.4.</span> <span class="nav-text">CLIMATE 749 – CLaSP Seminar (学术讲座)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#eli-531-language-communication-i-口语对话"><span class="nav-number">2.5.</span> <span class="nav-text">ELI 531 – Language &amp; Communication I (口语对话)</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#科研工作"><span class="nav-number">3.</span> <span class="nav-text">科研工作</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#solar-farming项目情况"><span class="nav-number">3.1.</span> <span class="nav-text">Solar Farming项目情况</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#汪老师项目情况"><span class="nav-number">3.2.</span> <span class="nav-text">汪老师项目情况</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#小组组会教授一对一谈话"><span class="nav-number">3.3.</span> <span class="nav-text">小组组会/教授一对一谈话</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#机器学习讨论小组"><span class="nav-number">3.4.</span> <span class="nav-text">机器学习讨论小组</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#climate-dynamics在线讨论群"><span class="nav-number">3.5.</span> <span class="nav-text">Climate Dynamics在线讨论群</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#科研能力提升"><span class="nav-number">3.6.</span> <span class="nav-text">科研能力提升</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#英语学习"><span class="nav-number">4.</span> <span class="nav-text">英语学习</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#口语"><span class="nav-number">4.1.</span> <span class="nav-text">口语</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#写作"><span class="nav-number">4.2.</span> <span class="nav-text">写作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#阅读听力和词汇"><span class="nav-number">4.3.</span> <span class="nav-text">阅读、听力和词汇</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#生活健康"><span class="nav-number">5.</span> <span class="nav-text">生活健康</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#身体健康"><span class="nav-number">5.1.</span> <span class="nav-text">身体健康</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#心理健康"><span class="nav-number">5.2.</span> <span class="nav-text">心理健康</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#体育锻炼"><span class="nav-number">5.3.</span> <span class="nav-text">体育锻炼</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#公寓卫生"><span class="nav-number">5.4.</span> <span class="nav-text">公寓卫生</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#社交活动"><span class="nav-number">6.</span> <span class="nav-text">社交活动</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#其它方面"><span class="nav-number">7.</span> <span class="nav-text">其它方面</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#个人网站更新和静态博客系统搭建"><span class="nav-number">7.1.</span> <span class="nav-text">个人网站更新和静态博客系统搭建</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#驾照路考练习"><span class="nav-number">7.2.</span> <span class="nav-text">驾照路考练习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#新超市采购"><span class="nav-number">7.3.</span> <span class="nav-text">新超市采购</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#rcrs讲座"><span class="nav-number">7.4.</span> <span class="nav-text">RCRS讲座</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#十一月计划"><span class="nav-number">8.</span> <span class="nav-text">十一月计划</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#本月目标"><span class="nav-number">8.1.</span> <span class="nav-text">本月目标</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#详细说明"><span class="nav-number">8.2.</span> <span class="nav-text">详细说明</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#本月月历"><span class="nav-number">8.2.1.</span> <span class="nav-text">本月月历</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#学习科研"><span class="nav-number">8.2.2.</span> <span class="nav-text">学习科研</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#英语学习-1"><span class="nav-number">8.2.3.</span> <span class="nav-text">英语学习</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#体育锻炼-1"><span class="nav-number">8.2.4.</span> <span class="nav-text">体育锻炼</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#其它方面-1"><span class="nav-number">8.2.5.</span> <span class="nav-text">其它方面</span></a></li></ol></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -744,21 +795,21 @@
   <img class="site-author-image" itemprop="image" alt="Chongxing Fan"
     src="/cxfan_starfan/blog/images/avatar.jpg">
   <p class="site-author-name" itemprop="name">Chongxing Fan</p>
-  <div class="site-description" itemprop="description"></div>
+  <div class="site-description" itemprop="description">This is Chongxing's Personal Blogging Website</div>
 </div>
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
           <a href="/cxfan_starfan/blog/archives/">
         
-          <span class="site-state-item-count">13</span>
+          <span class="site-state-item-count">16</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/cxfan_starfan/blog/categories/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">4</span>
         <span class="site-state-item-name">categories</span></a>
       </div>
   </nav>
@@ -800,6 +851,16 @@
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Chongxing Fan</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-area-chart"></i>
+    </span>
+    <span title="Symbols count total">70k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">1:04</span>
 </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> v4.0.0
   </div>
@@ -827,6 +888,8 @@
 
   
   <script src="/cxfan_starfan/blog/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
   <script src="/cxfan_starfan/blog/lib/velocity/velocity.min.js"></script>
   <script src="/cxfan_starfan/blog/lib/velocity/velocity.ui.min.js"></script>
 <script src="/cxfan_starfan/blog/js/utils.js"></script><script src="/cxfan_starfan/blog/js/motion.js"></script>
@@ -841,6 +904,8 @@
 
 
 
+
+  <script src="/cxfan_starfan/blog/js/local-search.js"></script>
 
 
 
