@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | StarFan</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/categories/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Thu, 02 Jan 2020 13:16:30 -0500</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/categories/</link>
+    </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/categories/projects/</link>
+      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/categories/introduction/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/categories/introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
