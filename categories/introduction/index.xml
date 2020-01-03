@@ -14,9 +14,9 @@
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/posts/cv/</link>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/post/cv/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/posts/cv/</guid>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/cv/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;h2 id=&#34;phd-university-of-michigan-sept-2019---present&#34;&gt;Ph.D. University of Michigan (Sept. 2019 - Present)&lt;/h2&gt;
 &lt;ul&gt;
@@ -97,15 +97,13 @@
     
     <item>
       <title>Introduction</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/posts/introduction/</link>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/post/introduction/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/posts/introduction/</guid>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/introduction/</guid>
       <description>&lt;p&gt;My name is &lt;strong&gt;Chongxing Fan&lt;/strong&gt;, and I am an undergraduate senior studying in Nanjing University. I am in the School of Atmospheric Sciences. With solid knowledge of mathematics and physics, I have mastered the basics in the field of atmospheric science, and since I have great interest in computer programming, I am able to handle meteorology data using Fortran, NCL and other kinds of programming languages. Moreover, I have taken the classes about oceanography and earth sciences so I have learned some basics in these areas.&lt;/p&gt;
 &lt;p&gt;I fell in love with computer programming even when I was young. In this website you can see some apps I have made. Also I have learned some stuff about HTML, CSS and JavaScript. So this website is the consequence of my learning. Based on a responsive HTML5 template &lt;a href=&#34;https://html5up.net/verti&#34;&gt;Verti&lt;/a&gt;, I edited the text and pics in the source code and added some other fancy features.&lt;/p&gt;
 
 
-
-  
 
 
 
@@ -120,8 +118,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/img/article_1_2.png&#34; data-caption=&#34;Math Master Deluxe&#34;&gt;
-&lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/img/article_1_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;article_1_2.png&#34; data-caption=&#34;Math Master Deluxe&#34;&gt;
+&lt;img data-src=&#34;article_1_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -138,8 +136,6 @@
 
 
 
-  
-
 
 
 
@@ -153,8 +149,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/img/article_1_3.png&#34; data-caption=&#34;PPT used in Weekly Family Meeting&#34;&gt;
-&lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/img/article_1_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;article_1_3.png&#34; data-caption=&#34;PPT used in Weekly Family Meeting&#34;&gt;
+&lt;img data-src=&#34;article_1_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -170,8 +166,6 @@
 
 
 
-  
-
 
 
 
@@ -185,8 +179,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/img/article_1_1.jpg&#34; data-caption=&#34;Teaching my classmates&#34;&gt;
-&lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/img/article_1_1.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;article_1_1.jpg&#34; data-caption=&#34;Teaching my classmates&#34;&gt;
+&lt;img data-src=&#34;article_1_1.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -204,9 +198,9 @@
     
     <item>
       <title>Personal Life</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/posts/personal/</link>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/post/personal/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/posts/personal/</guid>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/personal/</guid>
       <description>&lt;p&gt;I was born in a family with dense intellectual atmosphere. My father graduated from Wuhan University in China, and my grandparents are all teachers. Therefore, they believe that knowledge can change people&#39;s destiny and pay special attention to cultivating my interest in study. However, only interest does not suffice. My grandfather showed me how to cultivate good study habits and find suitable learning methods step by step during my growing-up. As a result, from elementary school to university, after more than ten years of exploration, I gradually grasped the law of learning, and enjoyed the happiness of exploring unknown mysteries.&lt;/p&gt;
 &lt;p&gt;I am a very self-disciplined person with a strong sense of time management.  I make daily schedules, weekly plans, and yearly blueprints. In order to work and rest accurately according to the timetable, I created an Applet named &amp;ldquo;schedule reminder&amp;rdquo;, which played music to remind me at fixed times in a day. On the one hand, making plans help me take full advantage of the short working hours of a day and improve my work efficiency on the premise of maintaining adequate rest . On the other hand, I can focus on my direction without losing myself in mass of tasks.&lt;/p&gt;
 &lt;p&gt;I have spent plenty of efforts in finding suitable efficient learning methods for myself. For example, I found that if I take the subway regularly, I would be able to memorize the subway station&#39;s announcement voice over time. Based on this discovery, when I memorize some knowledge points, I would employ computer speech synthesis technology to convert them into audios and listen to them every day. After a few weeks I am able to recite the materials.  In addition, &amp;ldquo;Zhou Zhou Qing&amp;rdquo; (that is, a weekly self-examination of knowledge that I have learned in previous week), portable handbooks, knowledge trees are all the effective methods I have tried, which provide a lot of practical experience for my study and even for my future research work.&lt;/p&gt;
@@ -217,9 +211,9 @@
     
     <item>
       <title>Research Summary</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/posts/research/</link>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/post/research/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/posts/research/</guid>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/research/</guid>
       <description>&lt;h1 id=&#34;undergraduate-study&#34;&gt;Undergraduate Study&lt;/h1&gt;
 &lt;p&gt;Years of undergraduate studies has equipped me with professional knowledge in Atmospheric Sciences. I am familiar with the improvement of atmospheric observation methods, and especially attracted to the mechanism of the establishment of weather theory and the possibility of numerical forecasting. Yet there still are many unknown problems in this field that need to be solved. For example, the hot issue anthropogenic climate change still has many uncertainties. The limited observation methods, accuracy and parameterization scheme used in numerical simulation for aerosols and cloud processes are waiting to be solved. All these existing and possible problems drove me to pursue deeper study and research in this realm.&lt;/p&gt;
 &lt;p&gt;To learn fundamental knowledge and to acquire basic skills were my first steps in taking root in Atmospheric Science. For instance, by taking the course Integrated Detection of Atmosphere, I studied the observational equipment and theories of meteorological elements, which enabled me to understand the accuracy, advantages and disadvantages of each type of detection method. Thus, I was clearer with the data analysis and processing of the error sources in my projects. Besides, Dynamical Meteorology, which was the basis of all other theories, introduced me the most basic equations, fluctuations and other related theories in the atmospheric discipline. All calculations are carried out with Navier-Stokes equations included in the course. They also are the core equations in theoretical research and numerical weather prediction. Moreover, I mastered three most basic technical means for studying the movement of the atmosphere and the development of future weather more accurately in the courses Principle of Synoptic Meteorology, Statistical Weather Prediction and Numerical Weather Prediction. With my passion and endeavor, almost all of my major courses had a score above 90/100. Besides my major courses, I laid a solid foundation in mathematics, physics and computer science.&lt;/p&gt;
