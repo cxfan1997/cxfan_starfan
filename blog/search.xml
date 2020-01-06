@@ -24,145 +24,291 @@
 </ul>
 <h1 id="重点事项跟踪">重点事项跟踪</h1>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 GRL Manuscript Revision (At least halfway)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 Proposal Revision (Address Yi-Hsuan's comments and prepare the materials according to NASA FINESST's AO)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ELI Writing Clinic and Speaking Clinic Appointments</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 Course Plans</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 Discussion with Professor Huang about my plan for the individual meeting</li>
 </ul>
 <h1 id="每日任务跟踪">每日任务跟踪</h1>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月4日周六">1月4日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Statistics Reading (2hr)</li>
-<li><input type="checkbox" disabled>
-RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
+<del>RES: GRL Manuscript Revision (Address comments)</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Blog Update</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Kroger Grocery Shopping</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout Regular</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月5日周日">1月5日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
-CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled>
-CUR: Hartmann Preview (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
+CUR: Petty Reading (1hr)</li>
+<li><input type="checkbox" disabled="" />
+CUR: Hartmann Preview (1hr)</li>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Proposal Revision (Address Yi-Hsuan's comments)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
+RES: GRL Manuscript Revision (Address comments)</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Basic Sanitary</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月6日周一">1月6日（周一）</h2>
 <p><em>NEW TIME SCHEDULE IN EFFECT</em></p>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
-CUR: Hartmann Preview (2hr)</li>
-<li><input type="checkbox" disabled>
-CUR: Statistics Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
+CUR: Hartmann Preview (1hr)</li>
+<li><input type="checkbox" disabled="" />
+CUR: Statistics Reading (1hr)</li>
+<li><input type="checkbox" disabled="" />
 RES: Group Meeting (No preview)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
+RES: Individual Meeting with Professor</li>
+<li><input type="checkbox" disabled="" />
 RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月7日周二">1月7日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
-CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
+CUR: Petty Reading (1hr)</li>
+<li><input type="checkbox" disabled="" />
 RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Proposal Revision (Materials preparation)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月8日周三">1月8日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
-CUR: Hartmann Preview (2hr)</li>
-<li><input type="checkbox" disabled>
-CUR: Statistics Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
+CUR: Hartmann Preview (1hr)</li>
+<li><input type="checkbox" disabled="" />
+CUR: Statistics Reading (1hr)</li>
+<li><input type="checkbox" disabled="" />
 RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月9日周四">1月9日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: GRL Manuscript Revision (Address comments, 1hr in the morning)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: 747 Study and Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: 415 Study and Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: 532 Study and Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: 749 Study and Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Study Plan (747 and 749)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月10日周五">1月10日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: 415 Study and Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: 586 Study and Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Study Plan (532, 586 and 415)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RTN: Week 1 Summary and Week 2 Plan</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RTN: Week 1 Family Meeting Recording</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
+<h1 id="本周总结">本周总结</h1>
+<h1 id="新作息时间表">新作息时间表</h1>
+<table>
+<thead>
+<tr class="header">
+<th>项目</th>
+<th>周一</th>
+<th>周二、周三</th>
+<th>周四、周五</th>
+<th>节假日</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>起床</td>
+<td>5:00</td>
+<td>5:00</td>
+<td>5:00</td>
+<td>5:30</td>
+</tr>
+<tr class="even">
+<td>早间洗漱</td>
+<td>5:00~5:30</td>
+<td>5:00~5:30</td>
+<td>5:00~5:30</td>
+<td>5:30~6:00</td>
+</tr>
+<tr class="odd">
+<td>早操</td>
+<td>5:30~5:40</td>
+<td>5:30~5:40</td>
+<td>5:30~5:40</td>
+<td>6:00~6:10</td>
+</tr>
+<tr class="even">
+<td>准备早饭</td>
+<td>5:40~5:50</td>
+<td>5:40~5:50</td>
+<td>5:40~5:50</td>
+<td>6:10~6:20</td>
+</tr>
+<tr class="odd">
+<td>早饭</td>
+<td>5:50~6:30</td>
+<td>5:50~6:30</td>
+<td>5:50~6:30</td>
+<td>6:20~7:00</td>
+</tr>
+<tr class="even">
+<td>准备工作</td>
+<td>6:30~7:00</td>
+<td>6:30~7:00</td>
+<td>6:30~7:00</td>
+<td>7:00~7:30</td>
+</tr>
+<tr class="odd">
+<td>上午工作</td>
+<td>7:00~12:00</td>
+<td>7:00~10:20</td>
+<td>7:00~10:20</td>
+<td>7:30~10:50</td>
+</tr>
+<tr class="even">
+<td>中饭</td>
+<td>12:00~12:40</td>
+<td>10:20~11:00</td>
+<td>10:20~11:00</td>
+<td>10:50~11:30</td>
+</tr>
+<tr class="odd">
+<td>准备工作</td>
+<td>12:40~13:00</td>
+<td>11:00~11:30</td>
+<td>11:00~11:30</td>
+<td>11:30~12:00</td>
+</tr>
+<tr class="even">
+<td>下午工作</td>
+<td>13:00~16:50</td>
+<td>11:30~15:50</td>
+<td>11:30~16:50</td>
+<td>12:00~15:50</td>
+</tr>
+<tr class="odd">
+<td>准备晚饭</td>
+<td>17:00~18:20</td>
+<td>16:00~17:20</td>
+<td>17:00~18:20</td>
+<td>16:00~17:20</td>
+</tr>
+<tr class="even">
+<td>晚饭</td>
+<td>18:20~19:00</td>
+<td>17:20~18:00</td>
+<td>18:20~19:00</td>
+<td>17:20~18:00</td>
+</tr>
+<tr class="odd">
+<td>清理和卫生</td>
+<td>19:00~19:20</td>
+<td>18:00~18:20</td>
+<td>19:00~19:20</td>
+<td>18:00~18:20</td>
+</tr>
+<tr class="even">
+<td>晚间工作</td>
+<td>19:30~20:20</td>
+<td>18:30~20:20</td>
+<td>19:30~20:20</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>晚间休息</td>
+<td></td>
+<td></td>
+<td></td>
+<td>18:30~20:20</td>
+</tr>
+<tr class="even">
+<td>晚间洗漱</td>
+<td>20:20~21:00</td>
+<td>20:20~21:00</td>
+<td>20:20~21:00</td>
+<td>20:20~21:00</td>
+</tr>
+<tr class="odd">
+<td>睡觉</td>
+<td>21:00</td>
+<td>21:00</td>
+<td>21:00</td>
+<td>21:00</td>
+</tr>
+</tbody>
+</table>
+<p>每日工作时长：工作日9小时30分钟，节假日7小时10分钟。</p>
+<p>一般情况下，周六白天不安排任何学习科研任务。上午进行房间清扫和生活用品采购，下午体育锻炼和其它整理。</p>
 ]]></content>
       <categories>
         <category>Weekly Progress</category>
@@ -182,7 +328,7 @@ ENG: Baicizhan Vocabulary</li>
 </ul>
 <p>这两个目标都得到了很好的完成。 有关前半个月的内容都已经在<a href="/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html" title="学期总结">学期总结</a>中提及，此处不再赘述。 圣诞节前后与星妈度过了愉快而充实的假期生活，身心得到了充分休息， 房间大扫除和买车调研提案基本完成，成功学习了共享汽车的使用方法， 生活效率进一步提升，完成了2019年秋季学期总结和2020年冬季学期计划。</p>
 <a id="more"></a>
-<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br>
+<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br />
 <span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
 <h1 id="课程科研英语学习">课程、科研、英语学习</h1>
 <p>圣诞节前后有所倦怠，计划每天要完成的英语学习没能正常进行。</p>
@@ -201,7 +347,7 @@ ENG: Baicizhan Vocabulary</li>
 <li>Day 8 - Walmart &amp; Hua Xing Shopping</li>
 <li>Day 9 - Airport (AirRide)</li>
 </ol>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/31577551390_.pic.jpg"></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/41577551391_.pic.jpg"></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/81577551395_.pic.jpg"></div></div><div class="group-picture-row"><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/51577551392_.pic.jpg"></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/61577551393_.pic.jpg"></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/71577551394_.pic.jpg"></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/31577551390_.pic.jpg" /></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/41577551391_.pic.jpg" /></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/81577551395_.pic.jpg" /></div></div><div class="group-picture-row"><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/51577551392_.pic.jpg" /></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/61577551393_.pic.jpg" /></div><div class="group-picture-column" style="width: 33.333333333333336%;"><img src="../images/71577551394_.pic.jpg" /></div></div></div></div>
 <h1 id="一月计划">一月计划</h1>
 <h2 id="本月目标">本月目标</h2>
 <ul>
@@ -241,11 +387,11 @@ ENG: Baicizhan Vocabulary</li>
 <a id="more"></a>
 <h1 id="学期目标">学期目标</h1>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 适应安娜堡的环境，为五年留学生活开个好头</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 聚焦专业课程的学习，适当参与研究小组的工作</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 大幅度提高自己的英语能力</li>
 </ul>
 <h1 id="课程学习">课程学习</h1>
@@ -358,7 +504,7 @@ ENG: Baicizhan Vocabulary</li>
 </ol>
 <h4 id="知识网络图">知识网络图</h4>
 <p><em>由于图片较大，且托管服务器有空间限制，知识网络图将于2月1日撤下。</em></p>
-<p><img src="../images/Chapter_1_Summary.jpg" alt="CLIMATE 551 Chapter 1 - Fluid Dynamics Introduction"> <img src="../images/Chapter_2_Summary.jpg" alt="CLIMATE 551 Chapter 2 - Newtonian Mechanics"> <img src="../images/Chapter_3_Summary.jpg" alt="CLIMATE 551 Chapter 3 - Equations for Perfect Fluids"> <img src="../images/Chapter_4_Summary.jpg" alt="CLIMATE 551 Chapter 4 - Statistical Mechanics &amp; Kinetic Theory"> <img src="../images/Chapter_5_Summary.jpg" alt="CLIMATE 551 Chapter 5 - Examples of Fluid Flows"> <img src="../images/Chapter_6_Summary.jpg" alt="CLIMATE 551 Chapter 6 - Continuum Mechanics"> <img src="../images/Chapter_7_Summary.jpg" alt="CLIMATE 551 Chapter 7 - Dimensional Analysis"> <img src="../images/Chapter_8_Summary.jpg" alt="CLIMATE 551 Chapter 8 - Geophysical Fluid Dynamics"> <img src="../images/Chapter_9_Summary.jpg" alt="CLIMATE 551 Chapter 9 - Vorticity"> <img src="../images/Chapter_11_Summary.jpg" alt="CLIMATE 551 Chapter 11 - Waves"> <img src="../images/Chapter_12_Summary.jpg" alt="CLIMATE 551 Chapter 12 - Instability"> <img src="../images/Chapter_13_Summary.jpg" alt="CLIMATE 551 Chapter 13 - Turbulence"></p>
+<p><img src="../images/Chapter_1_Summary.jpg" alt="CLIMATE 551 Chapter 1 - Fluid Dynamics Introduction" /> <img src="../images/Chapter_2_Summary.jpg" alt="CLIMATE 551 Chapter 2 - Newtonian Mechanics" /> <img src="../images/Chapter_3_Summary.jpg" alt="CLIMATE 551 Chapter 3 - Equations for Perfect Fluids" /> <img src="../images/Chapter_4_Summary.jpg" alt="CLIMATE 551 Chapter 4 - Statistical Mechanics &amp; Kinetic Theory" /> <img src="../images/Chapter_5_Summary.jpg" alt="CLIMATE 551 Chapter 5 - Examples of Fluid Flows" /> <img src="../images/Chapter_6_Summary.jpg" alt="CLIMATE 551 Chapter 6 - Continuum Mechanics" /> <img src="../images/Chapter_7_Summary.jpg" alt="CLIMATE 551 Chapter 7 - Dimensional Analysis" /> <img src="../images/Chapter_8_Summary.jpg" alt="CLIMATE 551 Chapter 8 - Geophysical Fluid Dynamics" /> <img src="../images/Chapter_9_Summary.jpg" alt="CLIMATE 551 Chapter 9 - Vorticity" /> <img src="../images/Chapter_11_Summary.jpg" alt="CLIMATE 551 Chapter 11 - Waves" /> <img src="../images/Chapter_12_Summary.jpg" alt="CLIMATE 551 Chapter 12 - Instability" /> <img src="../images/Chapter_13_Summary.jpg" alt="CLIMATE 551 Chapter 13 - Turbulence" /></p>
 <h3 id="学习效果">学习效果</h3>
 <p>老师的教案和讲课风格令人不敢恭维，尤其到了后半期逻辑非常混乱，收尾过于仓促，有些对我们研究比较重要的知识点一笔带过。不过通过加强复习，成功克服了这一困难，顺利的完成了基本知识点的理解和掌握。</p>
 <p>9次作业大部分都在95%以上，唯有一次85%位于所有学生中的倒数第一。3次考试（2次课内闭卷，1次课外开卷）。与授课老师1次正式的一对一谈话，若干次办公室问答<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>。</p>
@@ -374,7 +520,7 @@ ENG: Baicizhan Vocabulary</li>
 </ol>
 <h4 id="知识网络图-1">知识网络图</h4>
 <p><em>由于图片较大，且托管服务器有空间限制，知识网络图将于2月1日撤下。</em></p>
-<p><img src="../images/CLIMATE_473_Chapter_1.jpg" alt="CLIMATE 473 Chapter 1 - Introduction"> <img src="../images/CLIMATE_473_Chapter_2A.jpg" alt="CLIMATE 473 Chapter 2 - The Global Energy Balance"> <img src="../images/CLIMATE_473_Chapter_2B.jpg" alt="CLIMATE 473 Chapter 3 - The Global Energy Balance II"> <img src="../images/CLIMATE_473_Chapter_3.jpg" alt="CLIMATE 473 Chapter 4 - Radiative Transfer"> <img src="../images/CLIMATE_473_Chapter_4.jpg" alt="CLIMATE 473 Chapter 5 - Energy Budget of the Surface"> <img src="../images/CLIMATE_473_Chapter_5.jpg" alt="CLIMATE 473 Chapter 6 - The Hydrological Cycle"> <img src="../images/CLIMATE_473_Chapter_6.jpg" alt="CLIMATE 473 Chapter 7 - Climate Sensitivity and Feedback Mechanisms"> <img src="../images/CLIMATE_473_Chapter_8.jpg" alt="CLIMATE 473 Chapter 8 - Transient Climate Response"> <img src="../images/CLIMATE_473_Chapter_9.jpg" alt="CLIMATE 473 Chapter 9 - Atmospheric General Circulation and Climate"> <img src="../images/CLIMATE_473_Chapter_10.jpg" alt="CLIMATE 473 Chapter 10 - El Nino Southern Oscillation (ENSO)"> <img src="../images/CLIMATE_473_Chapter_11.jpg" alt="CLIMATE 473 Chapter 11 - Ocean Circulation and Climate"></p>
+<p><img src="../images/CLIMATE_473_Chapter_1.jpg" alt="CLIMATE 473 Chapter 1 - Introduction" /> <img src="../images/CLIMATE_473_Chapter_2A.jpg" alt="CLIMATE 473 Chapter 2 - The Global Energy Balance" /> <img src="../images/CLIMATE_473_Chapter_2B.jpg" alt="CLIMATE 473 Chapter 3 - The Global Energy Balance II" /> <img src="../images/CLIMATE_473_Chapter_3.jpg" alt="CLIMATE 473 Chapter 4 - Radiative Transfer" /> <img src="../images/CLIMATE_473_Chapter_4.jpg" alt="CLIMATE 473 Chapter 5 - Energy Budget of the Surface" /> <img src="../images/CLIMATE_473_Chapter_5.jpg" alt="CLIMATE 473 Chapter 6 - The Hydrological Cycle" /> <img src="../images/CLIMATE_473_Chapter_6.jpg" alt="CLIMATE 473 Chapter 7 - Climate Sensitivity and Feedback Mechanisms" /> <img src="../images/CLIMATE_473_Chapter_8.jpg" alt="CLIMATE 473 Chapter 8 - Transient Climate Response" /> <img src="../images/CLIMATE_473_Chapter_9.jpg" alt="CLIMATE 473 Chapter 9 - Atmospheric General Circulation and Climate" /> <img src="../images/CLIMATE_473_Chapter_10.jpg" alt="CLIMATE 473 Chapter 10 - El Nino Southern Oscillation (ENSO)" /> <img src="../images/CLIMATE_473_Chapter_11.jpg" alt="CLIMATE 473 Chapter 11 - Ocean Circulation and Climate" /></p>
 <h3 id="学习效果-1">学习效果</h3>
 <p>虽然大部分内容本科期间已经学过，但是上完课之后对之前模糊的概念有了更加清晰的认识。同时也学了很多以前没有涉及到的内容，是一门非常硬核的课程。</p>
 <p>7次作业都在100%及以上，1次期中考试146/147，1次期末大作业（与科研项目结合，展示和报告）<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>。与授课老师2次正式的一对一谈话，若干次办公室问答。</p>
@@ -661,13 +807,13 @@ ENG: Baicizhan Vocabulary</li>
 <p>2019年秋季学期在健身房共进行了19次健身器材训练，各器材训练数据如下：</p>
 <table style="width:100%;">
 <colgroup>
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -994,12 +1140,12 @@ ENG: Baicizhan Vocabulary</li>
 <p>下学期选修课程情况如下：</p>
 <table>
 <colgroup>
-<col style="width: 15%">
-<col style="width: 23%">
-<col style="width: 11%">
-<col style="width: 15%">
-<col style="width: 19%">
-<col style="width: 15%">
+<col style="width: 15%" />
+<col style="width: 23%" />
+<col style="width: 11%" />
+<col style="width: 15%" />
+<col style="width: 19%" />
+<col style="width: 15%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -1366,7 +1512,7 @@ Fri
 <p>RCRS Workshop B将于4月11日进行，不要忘记。</p>
 <p>临时安排仍然使用Google Calendar进行管理。</p>
 <section class="footnotes" role="doc-endnotes">
-<hr>
+<hr />
 <ol>
 <li id="fn1" role="doc-endnote"><p>给老师错字连篇的教案改错误……我赞赏老师的学术功底和教学态度，但是我确实希望教案质量和课程讲授的逻辑能有提高。<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2" role="doc-endnote"><p>所以为什么只给了我A<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
@@ -1455,122 +1601,122 @@ Fri
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月28日周六">12月28日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第19周周计划</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 12月月计划和月总结</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>RTN: 年度回顾大会录制</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月29日周日">12月29日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Proposal Writing</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Weekly Report LaTeX Implementation</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月30日周一">12月30日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 年度回顾大会录制</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Manuscript Preparation</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Statistics Reading (2hr)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Term Report Publish</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月31日周二">12月31日（周二）</h2>
 <p><em>跨年夜直播，上午从7点开始到11点结束，下午从8点开始到12点结束</em></p>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 基本卫生打扫，内务整理</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 洗衣服</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Personal Website Update</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 12月月度总结和1月月度计划发布</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月1日周三">1月1日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>RES: Personal Website Update</del></li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RTN: Transitioning to New Schedule</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 EXR: Home Training Trial</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月2日周四">1月2日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Personal Website Update</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Statistics Reading (2hr)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月3日周五">1月3日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: GRL Manuscript Review Check</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: GRL Manuscript Discussion</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Petty Reading (2hr)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Statistics Reading (2hr)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Week 18 Summary and Week 1 Plan</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 MIS: Car</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -1654,101 +1800,101 @@ ENG: Baicizhan Vocabulary</li>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月14日周六">12月14日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Way 1采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 打扫卫生，整理内务</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 床上用品更换</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout - Regular</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月15日周日">12月15日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR：Petty Chapter 3 Part 1/2</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: LaTeX Learning Presentation Part 1/3</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 SOC: Winter Commencement</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月16日周一">12月16日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 2019 Fall Course Summary</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Petty Chapter 3 Part 2/2</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: LaTeX Learning Presentation Part 2/3</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月17日周二">12月17日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 CUR: Petty Chapter 4 Part 1/2</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Statistics Chapter 1</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout - Regular</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月18日周三">12月18日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 补充采购，准备迎接星妈</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 打扫卫生，内务整理</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 MIS: Personal Website Update (Hugo)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月19日周四">12月19日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 机场迎接星妈</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月20日周五">12月20日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 公寓大扫除、补充采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 ]]></content>
@@ -1768,11 +1914,11 @@ ENG: Baicizhan Vocabulary</li>
 <a id="more"></a>
 <h1 id="本周周历">本周周历</h1>
 <p><strong>周末安排</strong></p>
-<p>周六上午打扫卫生，超市采购<br>
-周六下午体育锻炼<br>
-周六晚上休息<br>
-周日上午办公室加班<br>
-周日下午办公室加班，四点英语口语角练习<br>
+<p>周六上午打扫卫生，超市采购<br />
+周六下午体育锻炼<br />
+周六晚上休息<br />
+周日上午办公室加班<br />
+周日下午办公室加班，四点英语口语角练习<br />
 周日晚上休息</p>
 <p><strong>本周临时安排</strong></p>
 <p>无临时安排</p>
@@ -1783,127 +1929,127 @@ ENG: Baicizhan Vocabulary</li>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月7日周六">12月7日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Kroger采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 打扫卫生，整理内务</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout - Regular</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading - Prof. Huang 1</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>MIS: Personal Website Update &amp; CV (Using Overleaf)</del></li>
 </ul>
 <h2 id="月8日周日">12月8日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>RES: ModTran Complete Experiment</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Petty</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: ELI Conversation Circle</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading - Prof. Huang 2</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 MIS: Vacation Plan</li>
 </ul>
 <h2 id="月9日周一">12月9日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: ModTran Complete Experiment &amp; Results Organization</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Petty Chapter 1 Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading - Prof. Huang 3</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Purposed Listening Practice</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 MIS: Pick up gift bag from ELI</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 MIS: Course Enrollment</li>
 </ul>
 <h2 id="月10日周二">12月10日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Proposal Final Polish</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Comprehensive Code Update</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout - Swimming</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Professional Reading - Science Paper Reading</li>
 </ul>
 <h2 id="月11日周三">12月11日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Lecture</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Comprehensive Code Update</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 MIS: Personal Website Update (Hugo)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning Podcast Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
 </ul>
 <h2 id="月12日周四">12月12日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Radiative Transfer Chapter 2 Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout - Regular</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Professional Reading - Science Paper Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第15周视频会议PPT准备</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 MIS: Exercise Record Organization</li>
 </ul>
 <h2 id="月13日周五">12月13日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Exam #3 Finalize &amp; Submission</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Radiative Transfer Chapter 2 Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第15周视频会议录制</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第15周总结和第16周计划</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Purposed Listening Practice</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -1940,7 +2086,7 @@ ENG: Purposed Listening Practice</li>
 <p><strong>学习内容总结</strong></p>
 <p>上半月对第八章地转流体运动进行了非常详细的学习，之后第九章简单介绍了涡度Vorticity，跳过了第十章，月末对第十一章波动开了个头。</p>
 <p>另外在感恩节假期之前对第二阶段的知识进行了第二次的考试。</p>
-<p><span style="color: blue">各章的知识网络图：</span><br>
+<p><span style="color: blue">各章的知识网络图：</span><br />
 - <a href="https://drive.google.com/file/d/1_YijUAo1ff2uXZMiYrRvMC2kjskVTc7P/view?usp=sharing" target="_blank" rel="noopener">Chapter 1 - Fluid Dynamics Introduction</a> - <a href="https://drive.google.com/file/d/1_vD9DXg9Ut-Fik7qZVOU6mYzUsFivuH-/view?usp=sharing" target="_blank" rel="noopener">Chapter 2 - Newtonian Mechanics</a> - <a href="https://drive.google.com/file/d/1miCgEMD9LjdQYlKqrGHzliapFKjLZK3_/view?usp=sharing" target="_blank" rel="noopener">Chapter 3 - Equations for Perfect Fluids</a> - <a href="https://drive.google.com/file/d/1YKNZiJIPcT9N2QankCHyzaJZtFz3tEYr/view?usp=sharing" target="_blank" rel="noopener">Chapter 4 - Full Set of Equations from Statistical Mechanics and Kinetics</a> - <a href="https://drive.google.com/file/d/1xRNL_BsI0ioH07uYfaAOj4KTNnO5-y2z/view?usp=sharing" target="_blank" rel="noopener">Chapter 5 - Some Examples of Fluids</a> - <a href="https://drive.google.com/file/d/1u3ASn4Fd9f_cOmxd7i7xT7zUAY7r9LIi/view?usp=sharing" target="_blank" rel="noopener">Chapter 6 - Tensors, Vectors, Scalars and Continuum Mechanics</a> - <a href="https://drive.google.com/file/d/1JPg6kkp1okzFIAst57nQWeqOsnetL6vm/view?usp=sharing" target="_blank" rel="noopener">Chapter 7 - Dimensional Analysis</a> - <a href="https://drive.google.com/file/d/1LWAy6pEmDSjc1CFRWUCBGxuzqGj9AMNG/view?usp=sharing" target="_blank" rel="noopener">Chapter 8 - Geophysical Fluid Dynamics</a> - <a href="https://drive.google.com/open?id=1yA6lsjI_8wZDcqM9HxhlA2RZsAcSrowI" target="_blank" rel="noopener">Chapter 9 - Vorticity</a></p>
 <p><strong>学习情况总结</strong></p>
 <p>老师后半段的讲课逻辑非常混乱，讲义经常延迟发布，并且有很多拼写错误，给预习和学习工作造成了不小的困扰。即便如此，通过加强复习工作，后半段的内容也顺利的理解并掌握。</p>
@@ -2008,7 +2154,7 @@ ENG: Purposed Listening Practice</li>
 <h2 id="climate-473-climate-physics-气候物理学">CLIMATE 473 – Climate Physics (气候物理学)</h2>
 <p><strong>学习内容总结</strong></p>
 <p>本月主要讲解了第八章至第十一章的知识，并在最后简单介绍了火山活动对气候影响。具体内容详见下面的知识梳理图。</p>
-<p><span style="color: blue">各章的知识网络图：</span><br>
+<p><span style="color: blue">各章的知识网络图：</span><br />
 - <a href="https://drive.google.com/file/d/1Rx1COzPxpuyu_R2tFUpps-wT-45AuIvg/view?usp=sharing" target="_blank" rel="noopener">Chapter 1 - Intro, Weather and Climate, Climate Components</a> - <a href="https://drive.google.com/file/d/17AzRTJMqEdRYrNyhHwZ7ngOr_pdzAhdj/view?usp=sharing" target="_blank" rel="noopener">Chapter 2 - Global Energy Balance</a> - <a href="https://drive.google.com/file/d/1Bc3qIhpUjzPqjnJdWm8fJ7GI9Z2RxQEh/view?usp=sharing" target="_blank" rel="noopener">Chapter 3 - Global Energy Balance II</a> - <a href="https://drive.google.com/file/d/1fB4uUwfJUUUpD1C7_ULE1bErpJ_rOI8H/view?usp=sharing" target="_blank" rel="noopener">Chapter 4 - Radiative Transfer</a> - <a href="https://drive.google.com/file/d/1-1JEx7jY9EhQnaGnn7OmOGkGeemx-pwg/view?usp=sharing" target="_blank" rel="noopener">Chapter 5 - Surface Energy Budget</a> - <a href="https://drive.google.com/file/d/1-iXMA6spu_0o9TkDDuH0D01Swx2_b2AN/view?usp=sharing" target="_blank" rel="noopener">Chapter 6 - The Hydrological Cycle</a> - <a href="https://drive.google.com/file/d/1DoZnZeat7-DZeXM-COSPuyfuRZ_HrONW/view?usp=sharing" target="_blank" rel="noopener">Chapter 7 - Climate Sensitivity and Feedback Mechanism</a> - <a href="https://drive.google.com/file/d/11EULX6D1f80gdQv_nA08FeKpBXMRfGTP/view?usp=sharing" target="_blank" rel="noopener">Chapter 8 - Transient Climate Response</a> - <a href="https://drive.google.com/file/d/1N6aI9_Yeka2UzzgawtGfmXz6svKMUiwI/view?usp=sharing" target="_blank" rel="noopener">Chapter 9 - Atmospheric General Circulation and Climate</a> - <a href="https://drive.google.com/file/d/1HV1YDKXvtvkhTKOi4g_JlM9Pdgb50yk6/view?usp=sharing" target="_blank" rel="noopener">Chapter 10 - ENSO</a> - <a href="https://drive.google.com/file/d/19R-fuoS4enadDoFPLugr11J4t6G-NxM0/view?usp=sharing" target="_blank" rel="noopener">Chapter 11 - Ocean Circulation and Climate</a></p>
 <p><strong>学习情况总结</strong></p>
 <p>预习、学习和复习工作稳步进行。</p>
@@ -2214,9 +2360,9 @@ ENG: Purposed Listening Practice</li>
 <h2 id="eli-531-language-communication-i-口语对话">ELI 531 – Language &amp; Communication I (口语对话)</h2>
 <p><strong>学习内容总结</strong></p>
 <p>本月初与Songlin合作表演剧本，<span style="color: blue">中旬完成了期末大作业，拍摄介绍当地超市的视频短片。</span></p>
-<p>期末视频：<br>
-We are pleased to release the final version of our group video. You can watch the video via the following link:<br>
-<a href="https://youtu.be/xIB1wodKqHw" target="_blank" rel="noopener">Links to an external site.</a><br>
+<p>期末视频：<br />
+We are pleased to release the final version of our group video. You can watch the video via the following link:<br />
+<a href="https://youtu.be/xIB1wodKqHw" target="_blank" rel="noopener">Links to an external site.</a><br />
 This work is presented by Grocery Shopping Around Ann Arbor. We are Changwon Choi, Chongxing Fan, Fenglong (Victor) Cai, Yadan Wang and Yoshimitsu (Yoshi) Hayashi (first name alphabetically).</p>
 <p><strong>学习情况总结</strong></p>
 <p>学习积极性非常好。</p>
@@ -2500,11 +2646,11 @@ This work is presented by Grocery Shopping Around Ann Arbor. We are Changwon Cho
 <a id="more"></a>
 <h1 id="本周周历">本周周历</h1>
 <p><strong>周末安排</strong></p>
-<p>周六上午打扫卫生，超市采购<br>
-周六下午体育锻炼<br>
-周六晚上发布十一月总结和十二月计划<br>
-周日上午办公室加班<br>
-周日下午办公室加班，四点英语口语角练习<br>
+<p>周六上午打扫卫生，超市采购<br />
+周六下午体育锻炼<br />
+周六晚上发布十一月总结和十二月计划<br />
+周日上午办公室加班<br />
+周日下午办公室加班，四点英语口语角练习<br />
 周日晚上休息</p>
 <p><strong>本周临时安排</strong></p>
 <p>无临时安排</p>
@@ -2515,137 +2661,137 @@ This work is presented by Grocery Shopping Around Ann Arbor. We are Changwon Cho
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月30日周六">11月30日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Way 1采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: 打扫卫生，整理内务</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 十一月总结和十二月计划发布</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Outdoor Jogging (Depending on Weather)</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>MIS: Personal Website Update &amp; CV (Using Overleaf)</del></li>
 </ul>
 <h2 id="月1日周日">12月1日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 473 Final Presentation Rehearsal</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: ModTran Experiment - Test &amp; Learn</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: ELI Conversation Circle</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 MIS: Border Pass Instructions</li>
 </ul>
 <h2 id="月2日周一">12月2日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 473 Final Presentation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Solar Farming Literature Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>RES: Individual Meeting Preparation</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Purposed Listening Practice</li>
 </ul>
 <h2 id="月3日周二">12月3日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 749 Final Preparation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting Preparation</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>RES: ModTran Experiment - Configuration</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Professional Reading</li>
 </ul>
 <h2 id="月4日周三">12月4日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 473 Lecture</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 473 Final Project Report Finalize &amp; Submission</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RES: ModTran Experiment - Configuration</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Morning Podcast Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
 </ul>
 <h2 id="月5日周四">12月5日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Chapter 11 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 749 Final Talk</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>RES: Radiative Transfer Chapter 1 Reading</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Professional Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第14周视频会议PPT准备</li>
 </ul>
 <h2 id="月6日周五">12月6日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 551 Exam #3 <strong><em>Incomplete and Waiting</em></strong></li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Comprehensive Code Update</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 RES: Complete RTM Results</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第14周视频会议录制</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 第14周总结和第15周计划</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 ENG: Purposed Listening Practice</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -2670,150 +2816,150 @@ ENG: Purposed Listening Practice</li>
 <p><strong>本周临时安排</strong></p>
 <p>本周无临时安排事项</p>
 <p><strong>周末安排</strong></p>
-<p>周六上午打扫卫生，整理内务<br>
-周六下午Kroger和Way 1采购<br>
-周六晚上线上讲座<br>
-周日上午办公室加班<br>
-周日下午办公室加班，四点英语口语角练习<br>
+<p>周六上午打扫卫生，整理内务<br />
+周六下午Kroger和Way 1采购<br />
+周六晚上线上讲座<br />
+周日上午办公室加班<br />
+周日下午办公室加班，四点英语口语角练习<br />
 周日晚上休息</p>
 <h1 id="本周方针">本周方针</h1>
 <p>利用周末时间复习流体力学，准备周一的第二次考试。虽然难度和上次相比不会有太大变化，但是不能掉以轻心，仍然要做最充分的准备。</p>
-<p>临近期末，各科迎来期末大作业，除了流体力学的考试之外，要注意：<br>
+<p>临近期末，各科迎来期末大作业，除了流体力学的考试之外，要注意：<br />
 1. <strong>473期末大作业</strong>。要做好展示PPT，练习演讲，控制时长，达到最好效果；要写好期末报告，把它当成写Manuscript的练习。 2. <strong>747第二版完整提案</strong>。本周三要交747的第二版完整提案，虽然大体结构已经足够清晰，但是在写作方面仍然存在或多或少的问题。除了针对每一个细节问题逐个击破以外，还要考虑将proposal交由专业写作指导（例如ELI Writing Clinic）进行咨询。</p>
 <p>前几周由于学业任务较重，体育锻炼频次有所下降，希望能够在感恩节假期加强一些锻炼。另外，可以考虑是否购置一些健身器材以便在家中锻炼，可以节省出门和到健身房的时间，也为了应对明年夏天无法免费进入健身房的问题。</p>
 <h1 id="任务跟踪">任务跟踪</h1>
 <p>分类：例行、生活、锻炼、课程、英语、科研、社交、其它</p>
 <h2 id="月23日周六">11月23日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：Kroger采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：Way 1采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：打扫卫生，整理内务</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：IEEE GRSS Workshop</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Online Seminar</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第12周总结与第13周计划</li>
 </ul>
 <h2 id="月24日周日">11月24日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapters Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Homework Solution Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Prepare Individual Meeting PPT</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：ELI Conversation Circle</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
 </ul>
 <h2 id="月25日周一">11月25日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Exam #2</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Chapter 12 Summary &amp; Share</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：747 Full Proposal 2nd Version</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Purposed Listening Practice</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Land Surface Temperature Analysis</li>
 </ul>
 <h2 id="月26日周二">11月26日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：473 Final Project Talk Preparation</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Group Meeting Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Individual Meeting</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Morning Podcast Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Professional Reading</li>
 </ul>
 <h2 id="月27日周三">11月27日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Final Project Talk Preparation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：473 Final Project Report Writing</del></li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 科研：Solar Farming Literature Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 锻炼：健身房体育锻炼</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Morning Podcast Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
 </ul>
 <h2 id="月28日周四">11月28日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Final Project Report Writing</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 科研：Solar Farming New Data Analyses Other Sites</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第13周视频会议PPT制作</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：十一月总结</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>例行：December Plan</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning Podcast Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Professional Reading</li>
 </ul>
 <h2 id="月29日周五">11月29日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：December Plan</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第13周视频会议录制</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第13周总结和第14周计划</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Purposed Listening Practice</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -2848,11 +2994,11 @@ ENG: Purposed Listening Practice</li>
 <li>周五晚上 庆祝Yi-Hsuan顺利答辩</li>
 </ul>
 <p><strong>周末安排</strong></p>
-<p>周六上午办公室加班、组会<br>
-周六下午办公室加班、英语期末作业讨论<br>
-周六晚上线上讲座<br>
-周日上午Kroger采购、打扫卫生<br>
-周日下午在办公室加班，四点英语口语角练习<br>
+<p>周六上午办公室加班、组会<br />
+周六下午办公室加班、英语期末作业讨论<br />
+周六晚上线上讲座<br />
+周日上午Kroger采购、打扫卫生<br />
+周日下午在办公室加班，四点英语口语角练习<br />
 周日晚上休息</p>
 <h1 id="本周方针">本周方针</h1>
 <p>本周临时任务较多，在完成这些临时任务的同时，不要忘记保持课程、科研和英语学习三项基本工作的执行。</p>
@@ -2860,147 +3006,147 @@ ENG: Purposed Listening Practice</li>
 <p>分类：例行、生活、锻炼、课程、英语、科研、社交、其它</p>
 <h2 id="月16日周六">11月16日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第11周总结和第12周计划</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：531 Final Video Edit &amp; Discussion</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Yi-Hsuan答辩预演</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 科研：线上讲座</li>
 </ul>
 <h2 id="月17日周日">11月17日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Final Video Edit &amp; Finalize</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>科研：Solar Farming MYD09A1 Global Analysis</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：ELI Conversation Circle</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：洗衣服</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：打扫卫生</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：Kroger采购</li>
 </ul>
 <h2 id="月18日周一">11月18日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Final Video Submission</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：551 Chapter 8 Summary</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Purposed Listening Practice</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Solar Farming MYD09A1 Global Analysis</li>
 </ul>
 <h2 id="月19日周二">11月19日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapter 8 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Assignment 7</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：473 Course Project Presentation</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Lecture</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Special Seminar</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Research Update to Professor</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>英语：Professional Reading</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 锻炼：健身房体育锻炼</li>
 </ul>
 <h2 id="月20日周三">11月20日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：747 End-of-course Meeting</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：747 Lecture</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Course Project Presentation &amp; End-of-course Meeting Preparation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 End-of-course Meeting Preparation</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>科研：Global Surface Reflectance Analysis</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Professional Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 2020 Winter Course Enrollment</li>
 </ul>
 <h2 id="月21日周四">11月21日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapter 9 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Chapter 11 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：749 Seminar</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 End-of-course Meeting</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>科研：Global Surface Reflectance Analysis</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>英语：Professional Reading</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第12周视频会议PPT制作</li>
 </ul>
 <h2 id="月22日周五">11月22日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 End-of-course Meeting</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Global Surface Reflectance Analysis</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Morning TED Listening</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Noon Leisure Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Professional Reading</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Purposed Listening Practice</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第12周视频会议录制</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 例行：第12周总结与第13周计划</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -3077,7 +3223,7 @@ Monday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3088,7 +3234,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3099,7 +3245,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3110,7 +3256,7 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <br>(~20 minutes)
 </td>
@@ -3121,18 +3267,18 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="12" type="A">
 <li>Purposed Listening Practice
-</li></ol></td>
+</td>
 <td>
 Choose a story at <a href="https://npr.org" target="_blank" rel="noopener">npr.org</a> with a transcript and plug the transcript into Vocab Grabber before listening. Look up some difficult words in the dictionary before listening to the audio without looking at the transcript. Listen twice and then read aloud once. <br>(~30 minutes)
 </td>
 <td>
 </td>
-</tr>
-
-
-
-
-
+</tr></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 <tr>
 <td rowspan="5">
 Tuesday
@@ -3140,7 +3286,7 @@ Tuesday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3151,7 +3297,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3162,7 +3308,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3173,7 +3319,7 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <br>(~20 minutes)
 </td>
@@ -3184,18 +3330,18 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="18" type="A">
 <li>Professional Reading
-</li></ol></td>
+</td>
 <td>
 Two options are provided: (1) read a book in your field and summarize the chapter using mind map and a short abstract; (2) read one article in the current issue of the Science Magazine. Before reading, copy and paste the material into Vocab Grabber, part of Visual Thesaurus to explore the words in it before reading. Write a short paragraph of summary in the daily email to friends. <br>(~30 minutes)
 </td>
 <td>
 </td>
-</tr>
-
-
-
-
-
+</tr></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 <tr>
 <td rowspan="4">
 Wednesday
@@ -3203,7 +3349,7 @@ Wednesday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3214,7 +3360,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3225,7 +3371,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3236,17 +3382,17 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members.<br>(~20 minutes)
 </td>
 <td>
 </td>
-</tr>
-
-
-
-
+</tr></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 <tr>
 <td rowspan="5">
 Thursday
@@ -3254,7 +3400,7 @@ Thursday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3265,7 +3411,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3276,7 +3422,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3287,7 +3433,7 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <br>(~20 minutes)
 </td>
@@ -3298,18 +3444,18 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="18" type="A">
 <li>Professional Reading
-</li></ol></td>
+</td>
 <td>
 Two options are provided: (1) read a book in your field and summarize the chapter using mind map and a short abstract; (2) read one article in the current issue of the Science Magazine. Before reading, copy and paste the material into Vocab Grabber, part of Visual Thesaurus to explore the words in it before reading. Write a short paragraph of summary in the daily email to friends. <br>(~30 minutes)
 </td>
 <td>
 </td>
-</tr>
-
-
-
-
-
+</tr></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 <tr>
 <td rowspan="5">
 Friday
@@ -3317,7 +3463,7 @@ Friday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3328,7 +3474,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3339,7 +3485,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3350,7 +3496,7 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <br>(~20 minutes)
 </td>
@@ -3361,18 +3507,18 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="12" type="A">
 <li>Purposed Listening Practice
-</li></ol></td>
+</td>
 <td>
 Choose a story at <a href="https://npr.org" target="_blank" rel="noopener">npr.org</a> with a transcript and plug the transcript into Vocab Grabber before listening. Look up some difficult words in the dictionary before listening to the audio without looking at the transcript. Listen twice and then read aloud once. <br>(~30 minutes)
 </td>
 <td>
 </td>
-</tr>
-
-
-
-
-
+</tr></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 <tr>
 <td rowspan="4">
 Saturday
@@ -3380,7 +3526,7 @@ Saturday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3391,7 +3537,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3402,7 +3548,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3413,17 +3559,17 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <br>(~20 minutes)
 </td>
 <td>
 </td>
-</tr>
-
-
-
-
+</tr></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 <tr>
 <td rowspan="5">
 Sunday
@@ -3431,7 +3577,7 @@ Sunday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -3442,7 +3588,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Morning Podcasts/Talks
-</li></ol></td>
+</td>
 <td>
 Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minutes)
 </td>
@@ -3453,7 +3599,7 @@ Listen to podcasts or watch TED talks alternatively every morning. <br>(60 minut
 <td>
 <ol start="18" type="A">
 <li>Leisure Reading
-</li></ol></td>
+</td>
 <td>
 During the noontime, read some news articles, magazines, or book chapters as you like. <br>(30 minutes)
 </td>
@@ -3464,7 +3610,7 @@ During the noontime, read some news articles, magazines, or book chapters as you
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <br>(~20 minutes)
 </td>
@@ -3475,19 +3621,19 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="18" type="A">
 <li>Professional Reading
-</li></ol></td>
+</td>
 <td>
 Two options are provided: (1) read a book in your field and summarize the chapter using mind map and a short abstract; (2) read one article in the current issue of the Science Magazine. Before reading, copy and paste the material into Vocab Grabber, part of Visual Thesaurus to explore the words in it before reading. Write a short paragraph of summary in the daily email to friends. <br>(~30 minutes)
 </td>
 <td>
 </td>
 </tr>
-</table>
-
-
-
-
-
+</table></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 ]]></content>
       <categories>
         <category>English</category>
@@ -3512,11 +3658,11 @@ Two options are provided: (1) read a book in your field and summarize the chapte
 <li>周四10am机器学习第三次研讨会</li>
 </ul>
 <p><strong>周末安排</strong></p>
-<p>周六上午视频会议、采购、打扫卫生<br>
-周六下午在家工作、体育锻炼<br>
-周六晚上休息<br>
-周日上午在办公室加班<br>
-周日下午在办公室加班，四点英语口语角练习<br>
+<p>周六上午视频会议、采购、打扫卫生<br />
+周六下午在家工作、体育锻炼<br />
+周六晚上休息<br />
+周日上午在办公室加班<br />
+周日下午在办公室加班，四点英语口语角练习<br />
 周日晚上休息</p>
 <h1 id="本周方针">本周方针</h1>
 <p>由于上周三项大任务的进行，日常工作受到了一定程度的影响，551和473两门课的复习进度有一定的滞后，尤其是551课的复习进度落后很多。本周需要补上551和473两门课之前未复习的部分，制作好对应章节的知识网络梳理，整理笔记和作业。</p>
@@ -3525,151 +3671,151 @@ Two options are provided: (1) read a book in your field and summarize the chapte
 <p>分类：例行、生活、锻炼、课程、英语、科研、社交、其它</p>
 <h2 id="月9日周六">11月9日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：Kroger采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：Way 1采购</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：记账</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>生活：打扫卫生</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：洗衣服</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：剁鸡</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 锻炼：健身房肌肉训练</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第10周总结</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第11周计划</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
 </ul>
 <h2 id="月10日周日">11月10日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：打扫卫生</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapter 4 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapter 5 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Assignment 8 &amp; 9 Submisssion</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Discussion</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：ELI Conversation Circle</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：GRL Manuscript Finalize</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：12月计划头脑风暴</li>
 </ul>
 <h2 id="月11日周一">11月11日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapter 6 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Class Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Class Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：747 Final Meeting Preparation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Final Project Plan</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 科研：GRL Manuscript Submission</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Solar Farming Project Code Upgrade</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：NPR Listening Practice</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 其它：Writing an email to ask about the electronics in apartment</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 其它：Fill the backpack of Winter 2020</li>
 </ul>
 <h2 id="月12日周二">11月12日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Participation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Final Project Plan</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：551 Chapter 7 Summary</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Assignment 6 -&gt; <strong><em>!Cross Check Recommended!</em></strong></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Individual Meeting</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 锻炼：健身房有氧运动</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 英语：Daily Email</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 英语：Science Paper Reading</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 其它：Export the photos on smartphone</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>其它：Modify the English learning plan</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 其它：Install OBS &amp; LaTeX on Mac</li>
 </ul>
 <h2 id="月13日周三">11月13日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Chapter 7 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：747 Lecture Participation</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>课程：531 Final Project Preparation</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：SR &amp; SE Change Plot Panel 5</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 生活：FIXIT Garbage Disposer Repair</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>其它：Modify the English learning plan</del></li>
 </ul>
 <h2 id="月14日周四">11月14日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Chapter 9 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：473 Chapter 10 Summary</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Final Project Preparation</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：749 Seminar Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Machine Learning 3rd Workshop Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <del>科研：Solar Farming MYD09A1 Global Downloads</del></li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第11周视频会议PPT制作</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 其它：Modify the English learning plan</li>
 </ul>
 <h2 id="月15日周五">11月15日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：551 Lecture Preview, Study &amp; Review</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 课程：531 Final Project Act</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Solar Farming MYD09A1 Global Downloads</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Manuscript Issue Address</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 科研：Help with NCL Code</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 例行：第11周总结和第12周计划</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 例行：第11周视频会议制作</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -3698,11 +3844,11 @@ Two options are provided: (1) read a book in your field and summarize the chapte
 <li>周五下午2 - 3pm路考</li>
 </ul>
 <p><strong>周末安排</strong></p>
-<p>周六上午视频会议、采购、打扫卫生<br>
-周六下午在家工作、体育锻炼<br>
-周六晚上线上会议<br>
-周日上午在办公室加班<br>
-周日下午英语剧本练习、英语口语角练习<br>
+<p>周六上午视频会议、采购、打扫卫生<br />
+周六下午在家工作、体育锻炼<br />
+周六晚上线上会议<br />
+周日上午在办公室加班<br />
+周日下午英语剧本练习、英语口语角练习<br />
 周日晚上完成其它工作/休息</p>
 <h1 id="详细安排">详细安排</h1>
 <p>本周主要是三大任务：组会和一对一谈话、747提案期末展示和练车路考。</p>
@@ -3711,81 +3857,81 @@ Two options are provided: (1) read a book in your field and summarize the chapte
 <h2 id="课程方面">课程方面</h2>
 <h3 id="climate-551---流体力学">CLIMATE 551 - 流体力学</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成本周三堂课的预习-学习-复习循环</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成并检查好作业8，按时提交</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成并检查好作业9，按时提交</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 将老师发布的第4至第7章重新复习一遍</li>
 </ul>
 <h3 id="climate-473-气候物理学">CLIMATE 473 – 气候物理学</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成本周两堂课的预习-学习-复习循环</li>
 </ul>
 <h3 id="climate-747-提案写作">CLIMATE 747 – 提案写作</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成本周三的期末展示</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 继续修改提案，完成第二稿</li>
 </ul>
 <h3 id="climate-749-学术讲座">CLIMATE 749 – 学术讲座</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 预习周四讲座内容</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 认真听周四讲座内容，做好笔记</li>
 </ul>
 <h3 id="eli-531-口语对话">ELI 531 – 口语对话</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周二上课，完成课上任务</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成剧本练习</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成表演评价标准提交</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成期末大作业选题</li>
 </ul>
 <h2 id="英语学习">英语学习</h2>
 <p>（本周暂时只要求完成每日邮件）</p>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周六每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周日每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周一每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周二每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周三每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周四每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周五每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ELI Conversation Circle on Sun</li>
 </ul>
 <h2 id="科研工作">科研工作</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <strong>汪老师：</strong>修改论文准备投稿</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>Solar Farming：</strong>继续研究，并等待周二一对一谈话讨论</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>组会：</strong>完成组会展示报告</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>一对一谈话：</strong>完成一对一谈话并详细记录</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>线上讲座：</strong>完成线上讲座</li>
 </ul>
 <h2 id="其它杂项">其它杂项</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 练车，完成路考</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
@@ -4204,8 +4350,8 @@ ELI Conversation Circle on Sun</li>
 <h1 id="其它方面">其它方面</h1>
 <h2 id="个人网站更新和静态博客系统搭建">个人网站更新和静态博客系统搭建</h2>
 <p>这个月利用秋季假期的时间，<span style="color: blue"><strong><em>对个人网站和学院个人主页进行了全面的更新</em></strong></span>，在原有个人网站的基础上新增了静态博客系统Hexo的搭建，未来将主要用于学期计划和总结、月度计划和总结的管理。在学习Hexo的过程中学习了Markdown的写作方式，而Markdown同样适用于Jupyter Notebook和GitHub，可以认为是一举多得。区别于所见即所得的写作方式，Markdown的写作也有利于诸如LaTeX等文字处理系统的学习，有利于缓解为修改格式而头疼的问题。</p>
-<p><a href="https://clasp.engin.umich.edu/people/chongxing-fan/" target="_blank" rel="noopener">学院个人主页</a><br>
-<a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html">个人网站</a><br>
+<p><a href="https://clasp.engin.umich.edu/people/chongxing-fan/" target="_blank" rel="noopener">学院个人主页</a><br />
+<a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html">个人网站</a><br />
 <a href="https://cxfan-kamisama.github.io/cxfan_starfan/blog/index.html">静态博客系统</a></p>
 <p>目前个人网站仍然有部分内容没有更新，预计将于今年年底之前全部修改更新完毕。</p>
 <h2 id="驾照路考练习">驾照路考练习</h2>
@@ -4283,87 +4429,87 @@ ELI Conversation Circle on Sun</li>
 <h2 id="课程方面">课程方面</h2>
 <h3 id="climate-551---流体力学">CLIMATE 551 - 流体力学</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成本周三堂课的预习-学习-复习循环</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成并检查好作业6，按时提交</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成并检查好作业7，按时提交</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 将老师发布的第4至第6章重新复习一遍</li>
 </ul>
 <h3 id="climate-473-气候物理学">CLIMATE 473 – 气候物理学</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成本周一堂课的预习-学习-复习循环</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 完成并检查好作业5，打印并准备提交</li>
 </ul>
 <h3 id="climate-747-提案写作">CLIMATE 747 – 提案写作</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成本周三的Peer Review</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 继续修改提案，完成第二稿</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 制作期末展示PPT，练习演讲</li>
 </ul>
 <h3 id="climate-749-学术讲座">CLIMATE 749 – 学术讲座</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 预习周四讲座内容</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 认真听周四讲座内容，做好笔记</li>
 </ul>
 <h3 id="eli-531-口语对话">ELI 531 – 口语对话</h3>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周二上课，完成课上任务</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 完成剧本练习</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 完成表演评价标准提交</li>
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 完成期末大作业选题</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 完成课下视频讨论</li>
 </ul>
 <h2 id="英语学习">英语学习</h2>
 <p>（本周暂时只要求完成每日邮件）</p>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周六每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周日每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周一每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周二每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周三每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周四每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 周五每日邮件</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 ELI Conversation Circle on Sun</li>
 </ul>
 <h2 id="科研工作">科研工作</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled>
+<li><input type="checkbox" disabled="" />
 <strong>汪老师：</strong>修改论文准备投稿</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>Solar Farming：</strong>继续修改代码，优化图像</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>组会：</strong>完成南极气候PPT的制作，先期分享到群里供大家预习</li>
 </ul>
 <h2 id="其它杂项">其它杂项</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RCRS Workshop A on Fri</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 RCRS Workshop C on Tue</li>
-<li><input type="checkbox" disabled checked>
+<li><input type="checkbox" disabled="" checked="" />
 练车</li>
 </ul>
 <h1 id="本周记录">本周记录</h1>
@@ -4493,7 +4639,7 @@ Monday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4504,7 +4650,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Purposed Listening Practice
-</li></ol></td>
+</td>
 <td>
 Choose a story at <a href="https://npr.org" target="_blank" rel="noopener">npr.org</a> with a transcript and plug the transcript into Vocab Grabber before listening. Look up some difficult words in the dictionary before listening to the audio without looking at the transcript.<br>(~30 minutes)
 </td>
@@ -4515,7 +4661,7 @@ Choose a story at <a href="https://npr.org" target="_blank" rel="noopener">npr.o
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. You are encouraged to share what you learned from today’s listening practice.<br>(~20 minutes)
 </td>
@@ -4529,7 +4675,7 @@ Tuesday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4540,7 +4686,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Podcasts
-</li></ol></td>
+</td>
 <td>
 Listen to a podcast on the app Google Podcasts when you are transiting or jogging.<br>(~30 minutes)
 </td>
@@ -4551,7 +4697,7 @@ Listen to a podcast on the app Google Podcasts when you are transiting or joggin
 <td>
 <ol start="18" type="A">
 <li>Science Magazine Reading
-</li></ol></td>
+</td>
 <td>
 Read “Editorial” section of current issue of Science magazine. Write a short paragraph to summarize.<br>(~20 minutes)
 </td>
@@ -4562,7 +4708,7 @@ Read “Editorial” section of current issue of Science magazine. Write a short
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <i>Please make sure to paste the summary of Science article you read today to show your progress.</i><br>(~20 minutes)
 </td>
@@ -4573,7 +4719,7 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="19" type="A">
 <li>ELI 531
-</li></ol></td>
+</td>
 <td>
 Take the ELI 531 course.<br>(90 minutes)
 </td>
@@ -4587,7 +4733,7 @@ Wednesday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4598,7 +4744,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. You are encouraged to share what you learned from today’s listening practice.<br>(~20 minutes)
 </td>
@@ -4612,7 +4758,7 @@ Thursday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4623,7 +4769,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Purposed Listening Practice
-</li></ol></td>
+</td>
 <td>
 Choose a story at <a href="https://npr.org" target="_blank" rel="noopener">npr.org</a> with a transcript and plug the transcript into Vocab Grabber before listening. Look up some difficult words in the dictionary before listening to the audio without looking at the transcript.<br>(~30 minutes)
 </td>
@@ -4634,7 +4780,7 @@ Choose a story at <a href="https://npr.org" target="_blank" rel="noopener">npr.o
 <td>
 <ol start="23" type="A">
 <li>Annotated Bibliography
-</li></ol></td>
+</td>
 <td>
 Read at least one research paper (scheduled by yourself, not assigned by course lecturer or your advisor. It would be better to read a review) in your field. Write a summary and a few comments. It may include how/why this is useful to you, how it connects with other published research and what’s problematic about it. You can synthesize it with your mind map when you read your paper.<br>(~30 minutes)
 </td>
@@ -4645,7 +4791,7 @@ Read at least one research paper (scheduled by yourself, not assigned by course 
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. You are encouraged to share what you learned from today’s listening practice.<br>(~20 minutes)
 </td>
@@ -4659,7 +4805,7 @@ Friday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4670,7 +4816,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="18" type="A">
 <li>Science Magazine Reading
-</li></ol></td>
+</td>
 <td>
 Read one article in “Perspectives” section of current issue of Science magazine. Write a short paragraph to summarize.<br>(~20 minutes)
 </td>
@@ -4681,7 +4827,7 @@ Read one article in “Perspectives” section of current issue of Science magaz
 <td>
 <ol start="19" type="A">
 <li>Weekly Video
-</li></ol></td>
+</td>
 <td>
 Record videos that will automatically upload to this folder once a week - maybe research updates, maybe stories from the week. Video length is suggested to be about 10 minutes. Advanced preparation is accepted in the first phase, but it would be better to deliver an impromptu talk later in the training.<br>(~30 minutes)
 </td>
@@ -4692,7 +4838,7 @@ Record videos that will automatically upload to this folder once a week - maybe 
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <i>Please make sure to paste the summary of Science article you read today to show your progress.</i><br>(~20 minutes)
 </td>
@@ -4706,7 +4852,7 @@ Saturday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4717,7 +4863,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="12" type="A">
 <li>Podcasts
-</li></ol></td>
+</td>
 <td>
 Listen to a podcast on the app Google Podcasts when you are transiting or jogging.<br>(~30 minutes)
 </td>
@@ -4728,7 +4874,7 @@ Listen to a podcast on the app Google Podcasts when you are transiting or joggin
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. You are encouraged to share what you learned from today’s listening practice.<br>(~20 minutes)
 </td>
@@ -4742,7 +4888,7 @@ Sunday
 <td>
 <ol start="12" type="A">
 <li>Daily Local News
-</li></ol></td>
+</td>
 <td>
 Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 </td>
@@ -4753,7 +4899,7 @@ Watch CBS news during 7 – 8 pm without subtitles. <br>(60 minutes)
 <td>
 <ol start="18" type="A">
 <li>Science Magazine Reading
-</li></ol></td>
+</td>
 <td>
 Read one extra article in current issue of Science magazine. Write a short paragraph to summarize.<br>(~20 minutes)
 </td>
@@ -4764,7 +4910,7 @@ Read one extra article in current issue of Science magazine. Write a short parag
 <td>
 <ol start="23" type="A">
 <li>Daily Email in a Group
-</li></ol></td>
+</td>
 <td>
 Write an email to the group to share the stories, the research progress and anything you want to with group members. <i>Please make sure to paste the summary of Science article you read today to show your progress.</i><br>(~20 minutes)
 </td>
@@ -4775,39 +4921,39 @@ Write an email to the group to share the stories, the research progress and anyt
 <td>
 <ol start="19" type="A">
 <li>ELI Conversation Circle
-</li></ol></td>
+</td>
 <td>
 Participate in weekly conversation circle.<br>(60 minutes)
 </td>
 <td>
 </td>
 </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</table></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
 ]]></content>
       <categories>
         <category>English</category>
@@ -5049,7 +5195,7 @@ Participate in weekly conversation circle.<br>(60 minutes)
 <p>教授一对一谈话进行了三次，还有两次额外的Walk-in Talk，效果较为理想，建议下次与教授进行一对一谈话可以将内容进行系统的总结和展示，充分利用计划的答疑时间。</p>
 <h2 id="科研能力提升">科研能力提升</h2>
 <ul>
-<li><strong>文献阅读</strong>：这个月尝试用MarginNote 3进行文献阅读，对两篇文章进行了重点阅读，对于思路整理非常有帮助，借助其跨文档整理功能能够把多篇文章的思想和方法直观的进行比较和联系。但是对于大量的文献而言，都采用这样的精读非常困难。最近和Colten进行了交流，Colten认为读文献有两个作用，一个是了解前沿研究，一个是为了引用结论支持自己的论点。因此，对于要读的文献也可以分为多个层次，重要的文章精读，不重要的文章粗略带过。现在要考虑如何去实施这样的想法。<br>
+<li><strong>文献阅读</strong>：这个月尝试用MarginNote 3进行文献阅读，对两篇文章进行了重点阅读，对于思路整理非常有帮助，借助其跨文档整理功能能够把多篇文章的思想和方法直观的进行比较和联系。但是对于大量的文献而言，都采用这样的精读非常困难。最近和Colten进行了交流，Colten认为读文献有两个作用，一个是了解前沿研究，一个是为了引用结论支持自己的论点。因此，对于要读的文献也可以分为多个层次，重要的文章精读，不重要的文章粗略带过。现在要考虑如何去实施这样的想法。<br />
 Mendeley文献引用管理软件目前列表非常混乱，需要花时间去整理。</li>
 <li><strong>专业理论学习</strong>：本月本来计划是提前学习辐射传输相关内容，精读辐射传输教材，但由于各种原因未能按照计划进行。不过，Climate Physics上有专门对辐射传输的章节，对于基本的知识都有了了解。根据下个月的任务预期来看，基础学习部分可能较难继续下去。</li>
 <li><strong>工具基础学习（数理计算机）</strong>：本月加入了机器学习讨论小组(Machine Learning Workshop)。</li>
