@@ -64,7 +64,7 @@ ENG: Baicizhan Vocabulary</li>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" />
 CUR: Petty Reading (1hr)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Hartmann Preview (1hr)</li>
 <li><input type="checkbox" disabled="" checked="" />
 RES: Proposal Revision (Address Yi-Hsuan's comments)</li>
@@ -84,21 +84,21 @@ ENG: Baicizhan Vocabulary</li>
 <h2 id="月6日周一">1月6日（周一）</h2>
 <p><em>NEW TIME SCHEDULE IN EFFECT</em></p>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: Hartmann Preview (1hr)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Petty Reading (1hr)</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Statistics Reading (1hr)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting (No preview)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting with Professor</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月7日周二">1月7日（周二）</h2>
@@ -146,6 +146,8 @@ CUR: 749 Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: Study Plan (747 and 749)</li>
 <li><input type="checkbox" disabled="" />
+RTN: Week 1 Family Meeting Preparation</li>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -188,45 +190,45 @@ ENG: Baicizhan Vocabulary</li>
 <tbody>
 <tr class="odd">
 <td>起床</td>
-<td>5:00</td>
-<td>5:00</td>
-<td>5:00</td>
 <td>5:30</td>
+<td>5:30</td>
+<td>5:30</td>
+<td>6:00</td>
 </tr>
 <tr class="even">
 <td>早间洗漱</td>
-<td>5:00~5:30</td>
-<td>5:00~5:30</td>
-<td>5:00~5:30</td>
-<td>5:30~6:00</td>
+<td>5:30~5:45</td>
+<td>5:30~5:45</td>
+<td>5:30~5:45</td>
+<td>6:00~6:15</td>
 </tr>
 <tr class="odd">
 <td>早操</td>
-<td>5:30~5:40</td>
-<td>5:30~5:40</td>
-<td>5:30~5:40</td>
-<td>6:00~6:10</td>
+<td>5:45~5:55</td>
+<td>5:45~5:55</td>
+<td>5:45~5:55</td>
+<td>6:15~6:25</td>
 </tr>
 <tr class="even">
 <td>准备早饭</td>
-<td>5:40~5:50</td>
-<td>5:40~5:50</td>
-<td>5:40~5:50</td>
-<td>6:10~6:20</td>
+<td>5:55~6:05</td>
+<td>5:55~6:05</td>
+<td>5:55~6:05</td>
+<td>6:25~6:35</td>
 </tr>
 <tr class="odd">
 <td>早饭</td>
-<td>5:50~6:30</td>
-<td>5:50~6:30</td>
-<td>5:50~6:30</td>
-<td>6:20~7:00</td>
+<td>6:05~6:45</td>
+<td>6:05~6:45</td>
+<td>6:05~6:45</td>
+<td>6:35~7:15</td>
 </tr>
 <tr class="even">
 <td>准备工作</td>
-<td>6:30~7:00</td>
-<td>6:30~7:00</td>
-<td>6:30~7:00</td>
-<td>7:00~7:30</td>
+<td>6:45~7:00</td>
+<td>6:45~7:00</td>
+<td>6:45~7:00</td>
+<td>7:15~7:30</td>
 </tr>
 <tr class="odd">
 <td>上午工作</td>
