@@ -103,38 +103,42 @@ ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月7日周二">1月7日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Petty Reading (1hr)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Hartmann Reading (1hr)</li>
+<li><input type="checkbox" disabled="" checked="" />
 RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Proposal Revision (Materials preparation)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月8日周三">1月8日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: Hartmann Preview (1hr)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Petty Reading (1hr)</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Statistics Reading (1hr)</li>
 <li><input type="checkbox" disabled="" />
-RES: GRL Manuscript Revision (Address comments)</li>
-<li><input type="checkbox" disabled="" />
+CUR: 747 Talk 1 Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Project Six Farms Synthesize</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Gym Workout</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月9日周四">1月9日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-RES: GRL Manuscript Revision (Address comments, 1hr in the morning)</li>
 <li><input type="checkbox" disabled="" />
 CUR: 747 Study and Review</li>
 <li><input type="checkbox" disabled="" />
@@ -157,7 +161,7 @@ ENG: Baicizhan Vocabulary</li>
 <h2 id="月10日周五">1月10日（周五）</h2>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" />
-RES: GRL Manuscript Revision (Address comments)</li>
+RES: Group Meeting Preview</li>
 <li><input type="checkbox" disabled="" />
 CUR: 415 Study and Review</li>
 <li><input type="checkbox" disabled="" />
@@ -176,7 +180,25 @@ ENG: Morning TED Listening</li>
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h1 id="本周总结">本周总结</h1>
-<h1 id="新作息时间表">新作息时间表</h1>
+<h2 id="课程计划">课程计划</h2>
+<h3 id="climate-532----radiative-transfer-辐射传输">CLIMATE 532 -- Radiative Transfer (辐射传输)</h3>
+<p>课程目标：This course will provide the students with the basics concepts and processes <strong>of the electromagnetic spectrum, of radiative emission, absorption and scattering, and of radiative transfer</strong>. The basic physics behind these processes will be discussed, including <strong>atomic and molecular structure and the interaction of atoms and molecules with the electromagnetic field</strong>. We will primarily apply these concepts to <strong>atmospheric science and climate physics</strong>, although some examples of applications to the solar atmosphere will also be discussed.</p>
+<div class="note warning">
+            <p><strong>要点注意</strong></p><ul><li>这门课程是知识型课程(Knowledge-based)。与此前课程不同的是，这门课程涉及到统计力学、电磁学等较为抽象复杂的基础学科，而且本科期间学习的这些内容遗忘的较多。整体难度会比较大。</li><li>好在除了上课、作业和考试以外，没有出现其它棘手的任务。</li><li>这门课程没有期中考试，只有一次期末考试。</li><li>成绩由三部分组成：作业50%+考试35%+课堂15%。</li></ul>
+          </div>
+<div class="note info">
+            <p>日常方面，基于课程大纲的要求，本门课程采用一般的“预习-学习-复习”三步学习方法：</p><p><strong>预习</strong>：按照课程大纲的时间表，至少完成教材的阅读，尽量完成其它材料的阅读。阅读至少要把知识结构了解。涉及到的电磁学、统计力学等知识的漏洞，提前从KB中提取笔记，事先复习。</p><p><strong>学习</strong>：上课时间恰好处在415之后半小时，中间需要乘车。一定要保证按时到课，保证时间有充足余量，不允许出现迟到（否则影响成绩）。上课禁止使用电子产品，尽量的集中精力听课，一时听不懂做好标记，使用纸质笔记。</p><p><strong>复习</strong>：布置的八次作业认真完成，强烈建议进行Cross-Check。每次课完成后，抽出10分钟时间回顾，如果有不懂的地方，逐一攻破。每章节结束后，完成章节知识树梳理。</p><p><strong>特殊要求</strong>：</p><ul><li>由于黄老师会在这门课基础上给我进行补充讲授，因此要和黄老师讨论确定补充讲授的内容和形式。</li><li>学期初的一对一谈话根据前两周的上课情况判断是否需要，不强制要求。</li><li>学期中不安排一对一谈话，仅在有疑惑以及学习上出现问题时交流。</li><li>期末考试之前进行一次一对一谈话。</li><li>四月中旬开始对全部内容进行复习，迎接期末考试。</li></ul>
+          </div>
+<h3 id="climate-747----student-seminar-海报和演讲">CLIMATE 747 -- Student Seminar (海报和演讲)</h3>
+<p>课程目标：The goal of this course is to help students to develop the necessary skills to deliver a successful talk. Throughout the duration of this course, students will take turns at giving talks. Each student will deliver two talks and one poster presentation.<br />
+Final goal of this seminar is to train students at 1) delivering talks and overcoming the difficulties of “being on the stage”; and 2) being able to effectively make a review in a short time.</p>
+<div class="note warning">
+            <p><strong>要点注意</strong></p><ul><li>这门课程是技能型课程(Skill-based)。</li><li>上学期的心理阴影，这学期会增大吗？</li></ul>
+          </div>
+<div class="note info">
+            <p>从课程大纲来看，这门课的任务可以分为课堂参与和三次大作业：</p><p><strong>课堂参与</strong>：课上禁止使用电子设备，因此尽量的认真去听其他人的演讲，尽量多写一些反馈意见。即使写的不尽人意也没有关系，当作是一种训练了。</p><p><strong>大作业1</strong>：</p><p><strong>特殊要求</strong>：</p><ul><li></li></ul>
+          </div>
+<h2 id="新作息时间表">新作息时间表</h2>
 <table>
 <thead>
 <tr class="header">
@@ -190,49 +212,49 @@ ENG: Baicizhan Vocabulary</li>
 <tbody>
 <tr class="odd">
 <td>起床</td>
-<td>5:30</td>
+<td>6:00</td>
 <td>5:30</td>
 <td>5:30</td>
 <td>6:00</td>
 </tr>
 <tr class="even">
 <td>早间洗漱</td>
-<td>5:30~5:45</td>
+<td>6:00~6:15</td>
 <td>5:30~5:45</td>
 <td>5:30~5:45</td>
 <td>6:00~6:15</td>
 </tr>
 <tr class="odd">
 <td>早操</td>
-<td>5:45~5:55</td>
+<td>6:15~6:25</td>
 <td>5:45~5:55</td>
 <td>5:45~5:55</td>
 <td>6:15~6:25</td>
 </tr>
 <tr class="even">
 <td>准备早饭</td>
-<td>5:55~6:05</td>
+<td>6:25~6:35</td>
 <td>5:55~6:05</td>
 <td>5:55~6:05</td>
 <td>6:25~6:35</td>
 </tr>
 <tr class="odd">
 <td>早饭</td>
-<td>6:05~6:45</td>
+<td>6:35~7:15</td>
 <td>6:05~6:45</td>
 <td>6:05~6:45</td>
 <td>6:35~7:15</td>
 </tr>
 <tr class="even">
 <td>准备工作</td>
-<td>6:45~7:00</td>
+<td>7:15~7:30</td>
 <td>6:45~7:00</td>
 <td>6:45~7:00</td>
 <td>7:15~7:30</td>
 </tr>
 <tr class="odd">
 <td>上午工作</td>
-<td>7:00~12:00</td>
+<td>7:30~12:00</td>
 <td>7:00~10:20</td>
 <td>7:00~10:20</td>
 <td>7:30~10:50</td>
@@ -309,7 +331,7 @@ ENG: Baicizhan Vocabulary</li>
 </tr>
 </tbody>
 </table>
-<p>每日工作时长：工作日9小时30分钟，节假日7小时10分钟。</p>
+<p>每日工作时长：工作日至少9小时，节假日至少7小时。</p>
 <p>一般情况下，周六白天不安排任何学习科研任务。上午进行房间清扫和生活用品采购，下午体育锻炼和其它整理。</p>
 ]]></content>
       <categories>
