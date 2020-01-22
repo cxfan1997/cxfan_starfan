@@ -36,19 +36,19 @@ RES: Proposal Revision &amp; Submission</li>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月18日周六">1月18日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Shopping</li>
-<li><input type="checkbox" disabled="" />
-EXR: Gym Workout Regular</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Home Workout Regular</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Assignment 1 (Finish)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Online Seminar</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -56,26 +56,26 @@ ENG: Morning TED Listening</li>
 ENG: Leisure Reading</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月19日周日">1月19日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting Preparation</li>
-<li><input type="checkbox" disabled="" />
-CUR: 415 Assignment 1 (Finish)</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Assignment 1 (Finish) -&gt; NEEDS REVIEW</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 532 Review &amp; Preview</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Review &amp; Preview</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Review &amp; Preview</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -84,34 +84,40 @@ ENG: Leisure Reading</li>
 </ul>
 <h2 id="月20日周一">1月20日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting with Professor</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Proposal Revision -&gt; EVENING CHECK WITH LAPTOP</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Chapter Map</li>
 <li><input type="checkbox" disabled="" />
-CUR: 747 Presentation Preparation</li>
+<del>CUR: 747 Presentation Preparation</del></li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月21日周二">1月21日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 532 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: 747 Presentation Preparation</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Proposal Revision</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -119,11 +125,17 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月22日周三">1月22日（周三）</h2>
 <ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: 415 Chapter Map</li>
+<li><input type="checkbox" disabled="" />
+CUR: 532 Assignment</li>
+<li><input type="checkbox" disabled="" />
+CUR: 532 Chapter Map</li>
 <li><input type="checkbox" disabled="" />
 CUR: 747 Presentation Preparation</li>
 <li><input type="checkbox" disabled="" />
@@ -371,7 +383,7 @@ CUR: 415 Preview, Study and Review</li>
 RES: Proposal Discussion with Colten</li>
 <li><input type="checkbox" disabled="" checked="" />
 RES: CV Discussion with Professor &amp; Revision</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Week 2 Summary and Week 3 Plan</li>
 <li><input type="checkbox" disabled="" checked="" />
 RTN: Week 2 Family Meeting Recording</li>
