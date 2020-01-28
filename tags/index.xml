@@ -5,7 +5,7 @@
     <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/</link>
       <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Thu, 02 Jan 2020 13:16:30 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Mon, 27 Jan 2020 15:10:26 -0500</lastBuildDate>
     <image>
       <url>https://cxfan-kamisama.github.io/cxfan_starfan/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,41 +13,33 @@
     </image>
     
     <item>
-      <title>Evaluation</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/evaluation/</link>
-      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/evaluation/</guid>
+      <title>Climate</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/climate/</link>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/climate/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Model</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/model/</link>
-      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/model/</guid>
+      <title>MODIS</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/modis/</link>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/modis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Precipitation</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/precipitation/</link>
-      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/precipitation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radar</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/radar/</link>
-      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/radar/</guid>
+      <title>Radiation</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/radiation/</link>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/radiation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Satellite</title>
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/satellite/</link>
-      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/satellite/</guid>
       <description></description>
     </item>
@@ -55,24 +47,56 @@
     <item>
       <title>Aerosol</title>
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/aerosol/</link>
-      <pubDate>Wed, 11 Dec 2019 15:00:34 -0500</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/aerosol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate</title>
-      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/climate/</link>
-      <pubDate>Wed, 11 Dec 2019 15:00:34 -0500</pubDate>
-      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/climate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud</title>
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/cloud/</link>
-      <pubDate>Wed, 11 Dec 2019 15:00:34 -0500</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPM</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/gpm/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/gpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precipitation</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/precipitation/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/precipitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/evaluation/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/model/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/tags/radar/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/tags/radar/</guid>
       <description></description>
     </item>
     

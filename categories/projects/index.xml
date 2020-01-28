@@ -5,7 +5,7 @@
     <link>https://cxfan-kamisama.github.io/cxfan_starfan/categories/projects/</link>
       <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Thu, 02 Jan 2020 13:16:30 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Sun, 30 Jun 2019 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://cxfan-kamisama.github.io/cxfan_starfan/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,9 +13,32 @@
     </image>
     
     <item>
+      <title>Satellite Observation of Aerosol-Precipitation Relationship</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/project/acp_gpm_modis/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/project/acp_gpm_modis/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The adjustment of cloud amount to aerosol effects occurs to a large extent in response to the
+aerosol effect on precipitation. This is studied here for marine boundary layer water clouds by
+analyzing the dependence of rain intensity, as measured by the radar onboard the Global
+Precipitation Measurement (GPM), on cloud properties as measured by MODIS. Here we show that
+detectable rain initiates when the drop effective radius at the cloud top exceeds 14 $\mu$m, and
+precipitation is strongly suppressed with increasing cloud drop concentration ($N_d$), which
+contributes to the strong dependence of cloud amount on aerosols. This dependence of
+precipitation on $N_d$ and cloud geometric thickness presents a simple framework for precipitation
+susceptibility to aerosols, which explains other kinds of previously observed relationships. Our
+results further show that sorting data by cloud geometrical thickness and using alternative CCN
+proxy rather than aerosol optical depth (AOD) are critical for studying aerosol-cloud-precipitation
+interactions.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate, GPM, MODIS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar</title>
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/project/qpe_evaluation/</link>
-      <pubDate>Thu, 02 Jan 2020 13:16:30 -0500</pubDate>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/project/qpe_evaluation/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Quantitative precipitation estimation (QPE) are of great significance to the weather forecast. This study is intended to compare the hourly precipitation from the High-Resolution Rapid Refresh (HRRR) model, GOES-16 satellite, NCEP StageIV radar and gauge combined data to the METAR station-based data for July 2018. Several statistical verification methods are used, including Probability Distribution Function (PDF), bias, RMSE, and correlation analysis. Results show that compared with the METAR data, all the estimates have a wet bias the total rainfall rate and light rain. GOES satellite estimation has the largest bias. But for medium and heavy rain, all QPEs have dry bias.&lt;/p&gt;
@@ -27,7 +50,7 @@
     <item>
       <title>Analysis of the Positive Correlation of Precipitation and Aerosol Using Satellite Data</title>
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/project/aerosol_cloud/</link>
-      <pubDate>Wed, 11 Dec 2019 15:00:34 -0500</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/project/aerosol_cloud/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;The interaction of aerosol-cloud-precipitation has an important impact on the global climate. Understanding this issue is related to the uncertainty of climate change. The traditional aerosol indirect effect suggests that when the number of aerosols increases, precipitation will be inhibited. However, recent studies on satellite observations have found that aerosols are positively correlated with rainfall, which is contrary to traditional views. This study attempts to validate the correlation between aerosol and rainfall using A-Train satellite products, and further reveals the possible physical mechanisms of aerosol correlation with rainfall in satellite observations through the three-dimensional structure of the cloud. The study found that the precipitation intensity is positively correlated with the Aerosol Optical Depth (AOD), and the relationship between Cloud Droplet Nuclei Concentration (CDNC) and rainfall intensity is related to the liquid-water path (LWP); and as the number of aerosols increases, radar reflectivity spectrum broadens and precipitation increases. As for CDNC, it shows an opposite result. It can be concluded that the possible cause of aerosol positive correlation with rainfall is the negative correlation between CDNC and AOD.&lt;/p&gt;

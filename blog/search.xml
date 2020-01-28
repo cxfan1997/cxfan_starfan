@@ -57,7 +57,7 @@ RES: Proposal Revision &amp; Submission</li>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
 <li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Shopping</li>
@@ -73,22 +73,22 @@ ENG: Morning TED Listening</li>
 ENG: Leisure Reading</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月19日周日">1月19日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Proposal Finalize &amp; Submit to Professor</li>
-<li><input type="checkbox" disabled="" />
-CUR: 747 Presentation Preparation</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 747 Presentation PPT Final</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Assignment 2</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -103,13 +103,17 @@ RES: Group Meeting</li>
 RES: Individual Meeting with Professor</li>
 <li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
-CUR: 747 Presentation PPT Final</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 747 Presentation Script</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Chapter Map</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Chapter Map</li>
 <li><input type="checkbox" disabled="" />
 MIS: Personal Website Update</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -148,7 +152,7 @@ CUR: 586 Review &amp; Preview</li>
 <li><input type="checkbox" disabled="" />
 CUR: 415 Review &amp; Preview</li>
 <li><input type="checkbox" disabled="" />
-EXR: Gym Workout</li>
+EXR: Gym Workout Swimming</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
