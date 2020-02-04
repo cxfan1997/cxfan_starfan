@@ -74,23 +74,23 @@ ENG: Baicizhan Vocabulary</li>
 CUR: 532 Review &amp; Chapter Map</li>
 <li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Review &amp; Chapter Map -&gt; NEED REVIEW</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Assignment 2</li>
 <li><input type="checkbox" disabled="" />
-CUR: 532 Assignment 2 -&gt; ISSUE</li>
+<del>CUR: 415 Assignment 2 -&gt; NEED REVIEW</del></li>
 <li><input type="checkbox" disabled="" />
-CUR: 415 Assignment 2 -&gt; NEED REVIEW</li>
+<del>CUR: 532 Assignment 1 Correction</del></li>
 <li><input type="checkbox" disabled="" />
-CUR: 532 Assignment 1 Correction</li>
-<li><input type="checkbox" disabled="" />
-CUR: 415 Lab Review &amp; Summary</li>
-<li><input type="checkbox" disabled="" />
+<del>CUR: 415 Lab Review &amp; Summary</del></li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Presentation Revision, Resubmission, and Practice</li>
 <li><input type="checkbox" disabled="" />
-RES: Group Meeting Preparation</li>
-<li><input type="checkbox" disabled="" />
+<del>RES: Group Meeting Preparation</del></li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -98,18 +98,27 @@ ENG: Local News</li>
 ENG: Leisure Reading</li>
 </ul>
 <h2 id="月3日周一">2月3日（周一）</h2>
+<p><strong>ASL Topic This Month: Greenhouse Gas</strong></p>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting with Professor (Decide the ASL topic)</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASL) Literature Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Assignment 1 Correction -&gt; NEED REVIEW</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Presentation Practice</li>
 <li><input type="checkbox" disabled="" />
+CUR: 415 Assignment 2 -&gt; NEED REVIEW</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Lab Review &amp; Summary</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -117,7 +126,7 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月4日周二">2月4日（周二）</h2>
