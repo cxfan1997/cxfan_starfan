@@ -115,9 +115,9 @@ CUR: 586 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Presentation Practice</li>
 <li><input type="checkbox" disabled="" />
-CUR: 415 Assignment 2 -&gt; NEED REVIEW</li>
+<del>CUR: 415 Assignment 2 -&gt; NEED REVIEW</del></li>
 <li><input type="checkbox" disabled="" />
-CUR: 415 Lab Review &amp; Summary</li>
+<del>CUR: 415 Lab Review &amp; Summary</del></li>
 <li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
@@ -131,14 +131,20 @@ ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月4日周二">2月4日（周二）</h2>
 <ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Assignment 2 -&gt; NEED REVIEW</li>
 <li><input type="checkbox" disabled="" />
+CUR: 415 Lab Review &amp; Summary</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: 532 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Presentation Practice</li>
 <li><input type="checkbox" disabled="" />
-RES: (ASL) Literature Review</li>
+RES: (ASL) Greenhouse Gas Literature Review</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
@@ -147,7 +153,7 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月5日周三">2月5日（周三）</h2>
@@ -155,7 +161,9 @@ ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 CUR: 747 Presentation Practice</li>
 <li><input type="checkbox" disabled="" />
-RES: (ASL) Literature Review</li>
+RES: (ASL) Greenhouse Gas Literature Review</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript</li>
 <li><input type="checkbox" disabled="" />
 EXR: Gym Workout Regular</li>
 <li><input type="checkbox" disabled="" />
@@ -180,6 +188,8 @@ CUR: 532 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: 749 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
+RES: (ASL) Greenhouse Gas Literature Review</li>
+<li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -196,6 +206,10 @@ ENG: Baicizhan Vocabulary</li>
 CUR: 586 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: 415 Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" />
+RES: (ASL) Greenhouse Gas Literature Review</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript</li>
 <li><input type="checkbox" disabled="" />
 RTN: Week 5 Summary and Week 6 Plan</li>
 <li><input type="checkbox" disabled="" />
