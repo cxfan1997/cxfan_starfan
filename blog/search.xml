@@ -27,15 +27,15 @@ RES: (ASLGA) Literature Review</li>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="last-week">LAST WEEK</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 532 Chapter Map</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Assignment 3</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Chapter Map</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Assignment 3</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Lecture Review &amp; Chapter Map</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Greenhouse Gas Literature Review</li>
@@ -50,34 +50,34 @@ LIF: Room Cleaning</li>
 LIF: Laundry</li>
 <li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Shopping</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout Regular</li>
-<li><input type="checkbox" disabled="" />
-CUR: 415 Assignment 3</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Assignment 3 -&gt; NEED REVIEW</li>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Online Seminar</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning TED Listening</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月9日周日">2月9日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: 532 Chapter Map</li>
-<li><input type="checkbox" disabled="" />
-CUR: 586 Assignment 3</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Chapter Map -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Assignment 3 -&gt; NOT PRINTED</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Chapter Map</li>
-<li><input type="checkbox" disabled="" />
-CUR: 415 Assignment 3</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Assignment 3 -&gt; ISSUE</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Lecture Review &amp; Chapter Map</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Literature Review</li>
@@ -89,7 +89,7 @@ RES: Individual Meeting Preparation</li>
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -98,17 +98,25 @@ ENG: Leisure Reading</li>
 </ul>
 <h2 id="月10日周一">2月10日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting with Professor</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Literature Review</li>
-<li><input type="checkbox" disabled="" />
-RES: Solar Farming Manuscript</li>
-<li><input type="checkbox" disabled="" />
-CUR: 586 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Manuscript -&gt; NEW PLOTS</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Chapter Map</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Assignment 3 -&gt; ISSUE FIXED, PRINTED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Assignment 3 -&gt; PRINTED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Preview, Study and Review -&gt; MAP NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -116,20 +124,24 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月11日周二">2月11日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
-CUR: 532 Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Preview, Study and Review -&gt; MAP OUTPUT</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Final Project Literature Review -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Chapter Map</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Literature Review</li>
 <li><input type="checkbox" disabled="" />
 RES: Solar Farming Manuscript</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -137,17 +149,25 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月12日周三">2月12日（周三）</h2>
 <ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Final Project Literature Review -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Assignment 3 -&gt; ISSUE</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Literature Review</li>
 <li><input type="checkbox" disabled="" />
 RES: Solar Farming Manuscript</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Machine Learning Workshop Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout Regular</li>
+<li><input type="checkbox" disabled="" checked="" />
+SOC: Yi-Hsuan Farewell Dinner</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
@@ -156,18 +176,22 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月13日周四">2月13日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Assignment 3 Issue Fix</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Assignment 4 Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Study and Review</li>
-<li><input type="checkbox" disabled="" />
-CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
-CUR: 532 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 415 Preview, Study and Review -&gt; MAP NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Preview, Study and Review -&gt; MAP NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 749 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Literature Review</li>
@@ -179,7 +203,7 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月14日周五">2月14日（周五）</h2>
@@ -188,6 +212,10 @@ ENG: Baicizhan Vocabulary</li>
 CUR: 586 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: 415 Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" />
+CUR: 586 Assignment 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Assignment 4</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Literature Review</li>
 <li><input type="checkbox" disabled="" />
