@@ -18,6 +18,8 @@
 <h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" />
+CUR: 532 Assignment 5</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Assignment 5</li>
 <li><input type="checkbox" disabled="" />
 CUR: 586 Final Project Mid-term Report</li>
@@ -36,15 +38,15 @@ RTN: Monthly Report &amp; Plan</li>
 </ul>
 <h2 id="last-week">LAST WEEK</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Mock Exam</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Assignment 5</li>
 <li><input type="checkbox" disabled="" />
 CUR: 586 Mid-term Report</li>
 <li><input type="checkbox" disabled="" />
 CUR: 747 Talk 2 Paper Reading &amp; PPT</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Week 7 Summary and Week 8 Plan</li>
 </ul>
 <h2 id="月22日周六">2月22日（周六）</h2>
@@ -78,19 +80,19 @@ ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月23日周日">2月23日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Mock Exam &amp; Midterm Preparation</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Assignment 5</li>
-<li><input type="checkbox" disabled="" />
-CUR: 586 Mid-term Report</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Mid-term Report -&gt; LITTLE PROGRESS</li>
 <li><input type="checkbox" disabled="" />
 CUR: 747 Talk 2 Paper Reading &amp; PPT</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -99,13 +101,15 @@ ENG: Leisure Reading</li>
 </ul>
 <h2 id="月24日周一">2月24日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting with Professor</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Mid-term Report -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -113,16 +117,22 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月25日周二">2月25日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 532 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Assignment 5 Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 747 Talk 2 Paper Reading &amp; PPT -&gt; READING NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Mid-term Report -&gt; NEED REVIEW</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -130,14 +140,18 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月26日周三">2月26日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Assignment 5 -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 747 Talk 2 Paper Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Gym Workout Regular</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -145,7 +159,7 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月27日周四">2月27日（周四）</h2>
@@ -156,6 +170,8 @@ CUR: 747 Study and Review</li>
 CUR: 415 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" checked="" />
 CUR: 532 Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" />
+CUR: 532 Assignment 5</li>
 <li><input type="checkbox" disabled="" />
 CUR: 749 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
