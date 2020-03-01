@@ -80,7 +80,7 @@
 </table>
 <h2 id="climate-586---climate-data-analysis-气候数据分析">CLIMATE 586 - Climate Data Analysis (气候数据分析)</h2>
 <p><strong>学习内容总结</strong></p>
-<p>本月已经完成了第二章四小节、第三章第一小节的介绍。知识网络梳理图如下：</p>
+<p>本月已经完成了第二章四小节、第三章两小节的介绍。知识网络梳理图如下：</p>
 <figure>
 <img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_586/CLIMATE_586_Chapter_2A.jpg" alt="" /><figcaption>CLIMATE 586 Chapter 2A - Fourier Transform</figcaption>
 </figure>
@@ -95,6 +95,9 @@
 </figure>
 <figure>
 <img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_586/CLIMATE_586_Chapter_3A.jpg" alt="" /><figcaption>CLIMATE 586 Chapter 3A - Linear Regression</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_586/CLIMATE_586_Chapter_3B.jpg" alt="" /><figcaption>CLIMATE 586 Chapter 3B - Advanced Linear Regression</figcaption>
 </figure>
 <p><strong>学习情况总结</strong></p>
 <p>预习工作没有重视！要求阅读的内容要花时间去阅读！</p>
@@ -127,7 +130,7 @@
 <td>Assignment 2</td>
 <td>0 Days</td>
 <td>34/35</td>
-<td>29-33.6-25</td>
+<td>29-33.6-35</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -231,9 +234,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td>Midterm</td>
+<td>0 Days</td>
+<td>94/100</td>
+<td>36.8-70.4-97</td>
+<td></td>
+</tr>
+<tr class="even">
 <td><strong>总计</strong></td>
 <td></td>
-<td>381/400 (95.25%)</td>
+<td>475/500 (95%)</td>
 <td></td>
 <td></td>
 </tr>
@@ -298,7 +308,7 @@
 <p>二月总体情况有所起伏，对于课程和科研学习要戒骄戒躁，不急于求成。</p>
 <h2 id="体育锻炼">体育锻炼</h2>
 <p>每天早上的早操都能坚持进行。</p>
-<p>本月进行了9次体育锻炼：</p>
+<p>本月进行了8次体育锻炼：</p>
 <ul>
 <li>2月1日：健身房健身和跑步机</li>
 <li>2月5日：健身房健身和跑步机</li>
@@ -308,7 +318,6 @@
 <li>2月19日：健身房游泳</li>
 <li>2月22日：健身房健身和跑步机</li>
 <li>2月26日：健身房健身和跑步机</li>
-<li>2月29日：健身房健身和爬楼机</li>
 </ul>
 <p>总体而言养成了每周至少两次体育锻炼的好习惯，希望继续努力。</p>
 <h2 id="公寓卫生">公寓卫生</h2>
@@ -377,15 +386,15 @@ RES: Online Seminar: Mar. 28th</li>
 </ul>
 <h2 id="月29日周六">2月29日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Shopping</li>
 <li><input type="checkbox" disabled="" />
 EXR: Gym Workout Regular</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Online Seminar</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -393,7 +402,7 @@ ENG: Morning TED Listening</li>
 ENG: Leisure Reading</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月1日周日">3月1日（周日）</h2>
@@ -665,7 +674,7 @@ ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月28日周五">2月28日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
@@ -679,7 +688,7 @@ CUR: 586 Assignment 6 Preparation</li>
 RTN: Week 8 Summary and Week 9 Plan</li>
 <li><input type="checkbox" disabled="" checked="" />
 RTN: Monthly Report &amp; Plan</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Email</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
