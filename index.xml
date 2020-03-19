@@ -5,12 +5,20 @@
     <link>https://cxfan-kamisama.github.io/cxfan_starfan/</link>
       <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/index.xml" rel="self" type="application/rss+xml" />
     <description>StarFan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Mon, 27 Jan 2020 15:10:26 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chongxing Fan 2020</copyright><lastBuildDate>Wed, 18 Mar 2020 19:58:26 -0400</lastBuildDate>
     <image>
       <url>https://cxfan-kamisama.github.io/cxfan_starfan/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>StarFan</title>
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/</link>
     </image>
+    
+    <item>
+      <title>Strong Precipitation Suppression by Aerosols in Marine Low Clouds</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/publication/strong-precipitation-suppression-grl-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 19:58:26 -0400</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/publication/strong-precipitation-suppression-grl-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of Solar Farming on Local Surface Radiation Budget and Climate from Long-Term NASA Satellite Observations</title>
@@ -39,12 +47,12 @@ This study will help understand the outcomes of anthropogenic surface type chang
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/cv/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;h2 id=&#34;phd-university-of-michigan-sept-2019--present&#34;&gt;Ph.D. University of Michigan (Sept. 2019 - Present)&lt;/h2&gt;
+&lt;h2 id=&#34;phd-university-of-michigan-sept-2019---present&#34;&gt;Ph.D. University of Michigan (Sept. 2019 - Present)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;GPA: 4.0/4.0 (as of Fall 2019)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;MICDE 2019-2020 Fellow ($4,000)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;bs-nanjing-university-sept-2015--jul-2019&#34;&gt;B.S. Nanjing University (Sept. 2015 - Jul. 2019)&lt;/h2&gt;
+&lt;h2 id=&#34;bs-nanjing-university-sept-2015---jul-2019&#34;&gt;B.S. Nanjing University (Sept. 2015 - Jul. 2019)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bachelor of Science in Atmospheric Science (Conferred on Jul. 2019)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;GPA: 4.67/5.0 (3.95/4.0). Ranking 1/79.&lt;/strong&gt;&lt;/li&gt;
@@ -53,17 +61,21 @@ This study will help understand the outcomes of anthropogenic surface type chang
 &lt;li&gt;National Scholarship (Top 1%)&lt;/li&gt;
 &lt;li&gt;Scholarship of Mr. Liao (Top 1%)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fan, C.&lt;/strong&gt;, Wang, M., Rosenfeld, D., Zhu, Y., Liu, J., &amp;amp; Chen, B. (2020). Strong Precipitation Suppression by Aerosols in Marine Low Clouds. &lt;em&gt;Geophysical Research Letters&lt;/em&gt;, e2019GL086207. &lt;a href=&#34;https://doi.org/10.1029/2019GL086207&#34;&gt;https://doi.org/10.1029/2019GL086207&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;research-experiences&#34;&gt;Research Experiences&lt;/h1&gt;
-&lt;h2 id=&#34;satellite-observation-of-aerosolprecipitation-relationship-sept-2018--jul-2019&#34;&gt;Satellite Observation of Aerosol-Precipitation Relationship (Sept. 2018 - Jul. 2019)&lt;/h2&gt;
+&lt;h2 id=&#34;satellite-observation-of-aerosol-precipitation-relationship-sept-2018---jul-2019&#34;&gt;Satellite Observation of Aerosol-Precipitation Relationship (Sept. 2018 - Jul. 2019)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dissertation for Bachelor&#39;s Degree&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dissertation for Bachelor&amp;rsquo;s Degree&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Advisor: Professor Minghuai Wang&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Co-Advisors: Prof. Daniel Rosenfeld, Dr. Yannian Zhu&lt;/li&gt;
 &lt;li&gt;Showed that detectable rain initiates when the drop effective radius at the cloud top exceeds 14 microns&lt;/li&gt;
 &lt;li&gt;Showed that precipitation is strongly suppressed with increasing cloud drop concentration (N&lt;sub&gt;d&lt;/sub&gt;)&lt;/li&gt;
 &lt;li&gt;Prepare for the submission to the peer-review journal&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;evaluation-of-quantitative-precipitation-estimation-from-model-satellite-and-radar-jul-2018--oct-2018&#34;&gt;Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar (Jul. 2018 - Oct. 2018)&lt;/h2&gt;
+&lt;h2 id=&#34;evaluation-of-quantitative-precipitation-estimation-from-model-satellite-and-radar-jul-2018---oct-2018&#34;&gt;Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar (Jul. 2018 - Oct. 2018)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Globalink Research Internship&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Advisor: Professor Yongsheng Chen&lt;/strong&gt;&lt;/li&gt;
@@ -73,13 +85,13 @@ This study will help understand the outcomes of anthropogenic surface type chang
 &lt;li&gt;Achieved the results that compared with the METAR data, all the estimates had a wet bias the total rainfall rate and light rain, GOES satellite estimation had the largest bias, and for medium and heavy rain, all QPEs had dry bias&lt;/li&gt;
 &lt;li&gt;Drafted the closing report and gave a 52-slide PPT presentation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;atmospheric-energy-balance-and-cyclic-process-and-their-physical-mechanisms-apr-2018--may-2018&#34;&gt;Atmospheric Energy Balance and Cyclic Process and Their Physical Mechanisms (Apr. 2018 - May 2018)&lt;/h2&gt;
+&lt;h2 id=&#34;atmospheric-energy-balance-and-cyclic-process-and-their-physical-mechanisms-apr-2018---may-2018&#34;&gt;Atmospheric Energy Balance and Cyclic Process and Their Physical Mechanisms (Apr. 2018 - May 2018)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Team Leader&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Studied fundamental concepts and formula in the energy cycle and the principles of observation of each element&lt;/li&gt;
 &lt;li&gt;Figured out the energy balance and circulation, and the physical mechanism of the energy cycle with NCL and filter&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;characteristics-of-water-vapor-transport-convergence-divergence-and-seasonal-variation-in-the-global-atmosphere-oct-2016--oct-2017&#34;&gt;Characteristics of Water Vapor Transport, Convergence, Divergence and Seasonal Variation in the Global Atmosphere (Oct. 2016 - Oct. 2017)&lt;/h2&gt;
+&lt;h2 id=&#34;characteristics-of-water-vapor-transport-convergence-divergence-and-seasonal-variation-in-the-global-atmosphere-oct-2016---oct-2017&#34;&gt;Characteristics of Water Vapor Transport, Convergence, Divergence and Seasonal Variation in the Global Atmosphere (Oct. 2016 - Oct. 2017)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;National Excellent Research Project&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Advisor: Professor Minghuai Wang&lt;/strong&gt;&lt;/li&gt;
@@ -122,7 +134,8 @@ This study will help understand the outcomes of anthropogenic surface type chang
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/introduction/</guid>
       <description>&lt;p&gt;My name is &lt;strong&gt;Chongxing Fan&lt;/strong&gt;, and I am an undergraduate senior studying in Nanjing University. I am in the School of Atmospheric Sciences. With solid knowledge of mathematics and physics, I have mastered the basics in the field of atmospheric science, and since I have great interest in computer programming, I am able to handle meteorology data using Fortran, NCL and other kinds of programming languages. Moreover, I have taken the classes about oceanography and earth sciences so I have learned some basics in these areas.&lt;/p&gt;
-&lt;p&gt;I fell in love with computer programming even when I was young. In this website you can see some apps I have made. Also I have learned some stuff about HTML, CSS and JavaScript. So this website is the consequence of my learning. Based on a responsive HTML5 template &lt;a href=&#34;https://html5up.net/verti&#34;&gt;Verti&lt;/a&gt;, I edited the text and pics in the source code and added some other fancy features.&lt;/p&gt;
+&lt;p&gt;I fell in love with computer programming even when I was young. In this website you can see some apps I have made. Also I have learned some stuff about HTML, CSS and JavaScript. So this website is the consequence of my learning. Based on a responsive HTML5 template 
+&lt;a href=&#34;https://html5up.net/verti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verti&lt;/a&gt;, I edited the text and pics in the source code and added some other fancy features.&lt;/p&gt;
 
 
 
@@ -141,7 +154,7 @@ This study will help understand the outcomes of anthropogenic surface type chang
 
 
 
-&lt;figure&gt;
+&lt;figure id=&#34;figure-math-master-deluxe&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/post/introduction/article_1_2_hu6f2c88e53b5fbf8e2e3f69cf1776d34f_181484_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Math Master Deluxe&#34;&gt;
@@ -160,8 +173,8 @@ This study will help understand the outcomes of anthropogenic surface type chang
 
 &lt;/figure&gt;
 
-&lt;p&gt;Because of the poor performance in College Entrance Examination, I struggled a lot to get admitted to Nanjing University. With a not good score, I could only be subject to the university and let them appoint my major. So this is the reason I am in the School of Atmospheric Sciences. I&#39;ve never heard of this field before. I searched online and found that it uses mathematics, physics and computer technology to solve the mystery of atmosphere. I was relieved since I was not sick of these subjects (lol). And after I digged into this field, I thought I was blessed because I was appointed to study Atmospheric Science instead of Computer Science. Although I&#39;m still in love with Computer Science and Software Engineering, it is so tiring and competing that I can&#39;t bear it as it is a really hot major nowadays. Now I didn&#39;t regard the examination four years ago as a failure anymore. It gave me an opportunity to learn a brand new field I&#39;ve never heard before. I am in belief that when god closes a door, he opens a window.&lt;/p&gt;
-&lt;p&gt;I like to schedule everything. I think it&#39;s a good way to keep me motivated and in high efficiency. I make a plan at the beginning of the week, always electronically kept, and keep track of the plan every day during the rest of the week. At the end of the week, I summarize the past week, sometimes by writing a report and sometimes by just writing a snippet after the weekly plan. In order to let my family know what and how I am doing, my family will have an online video meeting. In most cases I will make a PPT and deliver a presentation to my family, which is initially intended to avoid speaking loudly and disturbing my roommates.&lt;/p&gt;
+&lt;p&gt;Because of the poor performance in College Entrance Examination, I struggled a lot to get admitted to Nanjing University. With a not good score, I could only be subject to the university and let them appoint my major. So this is the reason I am in the School of Atmospheric Sciences. I&amp;rsquo;ve never heard of this field before. I searched online and found that it uses mathematics, physics and computer technology to solve the mystery of atmosphere. I was relieved since I was not sick of these subjects (lol). And after I digged into this field, I thought I was blessed because I was appointed to study Atmospheric Science instead of Computer Science. Although I&amp;rsquo;m still in love with Computer Science and Software Engineering, it is so tiring and competing that I can&amp;rsquo;t bear it as it is a really hot major nowadays. Now I didn&amp;rsquo;t regard the examination four years ago as a failure anymore. It gave me an opportunity to learn a brand new field I&amp;rsquo;ve never heard before. I am in belief that when god closes a door, he opens a window.&lt;/p&gt;
+&lt;p&gt;I like to schedule everything. I think it&amp;rsquo;s a good way to keep me motivated and in high efficiency. I make a plan at the beginning of the week, always electronically kept, and keep track of the plan every day during the rest of the week. At the end of the week, I summarize the past week, sometimes by writing a report and sometimes by just writing a snippet after the weekly plan. In order to let my family know what and how I am doing, my family will have an online video meeting. In most cases I will make a PPT and deliver a presentation to my family, which is initially intended to avoid speaking loudly and disturbing my roommates.&lt;/p&gt;
 
 
 
@@ -180,7 +193,7 @@ This study will help understand the outcomes of anthropogenic surface type chang
 
 
 
-&lt;figure&gt;
+&lt;figure id=&#34;figure-ppt-used-in-weekly-family-meeting&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/post/introduction/article_1_3_huabc9fc1031fe5007ead2eb2ab98b1e2d_118618_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PPT used in Weekly Family Meeting&#34;&gt;
@@ -199,7 +212,7 @@ This study will help understand the outcomes of anthropogenic surface type chang
 
 &lt;/figure&gt;
 
-&lt;p&gt;Not only do I work hard to pursue a high GPA for myself, but also I teach my classmates who are struggling to study. Usually before I start, I will grab the structure of a subject and drawing a Knowledge Tree. By doing so, I will have a clear image of the subject and not get lost. As for some very difficult problems that I didn&#39;t know the answer, I will throw it out and discuss with my &amp;ldquo;students&amp;rdquo;. I found it really helpful to enhance what I had learned. In order to make me understood by others, I must have my statements make sense. I had to raise many possible questions to myself and think hard to come up with a explanation to convince myself first. My students also got very high score after I taught them, which makes me very delighted.&lt;/p&gt;
+&lt;p&gt;Not only do I work hard to pursue a high GPA for myself, but also I teach my classmates who are struggling to study. Usually before I start, I will grab the structure of a subject and drawing a Knowledge Tree. By doing so, I will have a clear image of the subject and not get lost. As for some very difficult problems that I didn&amp;rsquo;t know the answer, I will throw it out and discuss with my &amp;ldquo;students&amp;rdquo;. I found it really helpful to enhance what I had learned. In order to make me understood by others, I must have my statements make sense. I had to raise many possible questions to myself and think hard to come up with a explanation to convince myself first. My students also got very high score after I taught them, which makes me very delighted.&lt;/p&gt;
 
 
 
@@ -218,7 +231,7 @@ This study will help understand the outcomes of anthropogenic surface type chang
 
 
 
-&lt;figure&gt;
+&lt;figure id=&#34;figure-teaching-my-classmates&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/cxfan_starfan/post/introduction/article_1_1_hu8ab31327ca4f649b81c1309ba335e183_2764402_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Teaching my classmates&#34;&gt;
@@ -237,7 +250,7 @@ This study will help understand the outcomes of anthropogenic surface type chang
 
 &lt;/figure&gt;
 
-&lt;p&gt;If you are interested in my story, you can always have a chat with me via QQ, WeChat or other instant messaging apps. I&#39;d be glad to tell you more about myself.&lt;/p&gt;
+&lt;p&gt;If you are interested in my story, you can always have a chat with me via QQ, WeChat or other instant messaging apps. I&amp;rsquo;d be glad to tell you more about myself.&lt;/p&gt;
 </description>
     </item>
     
@@ -246,9 +259,9 @@ This study will help understand the outcomes of anthropogenic surface type chang
       <link>https://cxfan-kamisama.github.io/cxfan_starfan/post/personal/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cxfan-kamisama.github.io/cxfan_starfan/post/personal/</guid>
-      <description>&lt;p&gt;I was born in a family with dense intellectual atmosphere. My father graduated from Wuhan University in China, and my grandparents are all teachers. Therefore, they believe that knowledge can change people&#39;s destiny and pay special attention to cultivating my interest in study. However, only interest does not suffice. My grandfather showed me how to cultivate good study habits and find suitable learning methods step by step during my growing-up. As a result, from elementary school to university, after more than ten years of exploration, I gradually grasped the law of learning, and enjoyed the happiness of exploring unknown mysteries.&lt;/p&gt;
+      <description>&lt;p&gt;I was born in a family with dense intellectual atmosphere. My father graduated from Wuhan University in China, and my grandparents are all teachers. Therefore, they believe that knowledge can change people&amp;rsquo;s destiny and pay special attention to cultivating my interest in study. However, only interest does not suffice. My grandfather showed me how to cultivate good study habits and find suitable learning methods step by step during my growing-up. As a result, from elementary school to university, after more than ten years of exploration, I gradually grasped the law of learning, and enjoyed the happiness of exploring unknown mysteries.&lt;/p&gt;
 &lt;p&gt;I am a very self-disciplined person with a strong sense of time management.  I make daily schedules, weekly plans, and yearly blueprints. In order to work and rest accurately according to the timetable, I created an Applet named &amp;ldquo;schedule reminder&amp;rdquo;, which played music to remind me at fixed times in a day. On the one hand, making plans help me take full advantage of the short working hours of a day and improve my work efficiency on the premise of maintaining adequate rest . On the other hand, I can focus on my direction without losing myself in mass of tasks.&lt;/p&gt;
-&lt;p&gt;I have spent plenty of efforts in finding suitable efficient learning methods for myself. For example, I found that if I take the subway regularly, I would be able to memorize the subway station&#39;s announcement voice over time. Based on this discovery, when I memorize some knowledge points, I would employ computer speech synthesis technology to convert them into audios and listen to them every day. After a few weeks I am able to recite the materials.  In addition, &amp;ldquo;Zhou Zhou Qing&amp;rdquo; (that is, a weekly self-examination of knowledge that I have learned in previous week), portable handbooks, knowledge trees are all the effective methods I have tried, which provide a lot of practical experience for my study and even for my future research work.&lt;/p&gt;
+&lt;p&gt;I have spent plenty of efforts in finding suitable efficient learning methods for myself. For example, I found that if I take the subway regularly, I would be able to memorize the subway station&amp;rsquo;s announcement voice over time. Based on this discovery, when I memorize some knowledge points, I would employ computer speech synthesis technology to convert them into audios and listen to them every day. After a few weeks I am able to recite the materials.  In addition, &amp;ldquo;Zhou Zhou Qing&amp;rdquo; (that is, a weekly self-examination of knowledge that I have learned in previous week), portable handbooks, knowledge trees are all the effective methods I have tried, which provide a lot of practical experience for my study and even for my future research work.&lt;/p&gt;
 &lt;p&gt;In addition, I have always insisted on selflessly sharing my knowledge, thoughts and methods. During my undergraduate years, I constantly look for positive and enthusiastic study partners to form a group of three or more people, either to discuss concepts and theories in our major or to exchange scientific research ideas in depth. In most cases I am a teacher in the group, but sometimes I will also raise some open questions to the group for discussion. There are also some poor-graded students as my study partner, but I still pay great attention to them as long as they have enthusiasm. On the one hand, explaining basic knowledge to them will help deepen my understanding of the concepts in a field. On the other hand, they will also put forward some fantastic ideas, which will also give me a lot of inspiration. I firmly believe in the power of cooperation. What I am pursuing is the massive output that small research group can produce.&lt;/p&gt;
 &lt;p&gt;I have been thinking about my future career. Considering my personality, reality and future social development, I set my goal to become an excellent atmospheric research professor. I hope with the power of curiosity and interest to explore the unknown, by following the methodology accumulated in the past ten years, I could gradually uncover the dynamic mechanism behind the atmospheric phenomenon, and contribute to the accurate prediction of weather and climate. In addition, I also hope to spread my knowledge, thoughts and skills to the next generation. Just like the concept of &amp;ldquo;open source&amp;rdquo; in the field of computer science, I would be delighted if I could share my knowledge, ideas and skills, and make a positive impact on the vigorous development of the community and society.&lt;/p&gt;
 </description>
@@ -266,13 +279,13 @@ This study will help understand the outcomes of anthropogenic surface type chang
 &lt;p&gt;Another step I took for delving into this field was to strengthen my techniques in research projects. In 2016, I recommended myself to Professor Minghuai Wang’s lab. Under his guidance, I led a team to research on &lt;strong&gt;Analysis of the Positive Correlation of Precipitation and Aerosol Using Satellite Data&lt;/strong&gt;. Since it started in my sophomore year when we just began learning the basic courses of atmospheric science, we were not very familiar with atmospheric disciplines in the domain such as some concepts in cloud physics. The first thing we did was studying intensively the core literature From aerosol-limited to invigoration of warm convective clouds (Koren et al. 2014). Then our team collected data by obtaining the TRMM and CloudSat data sets and applied programming to match satellite data with NCL. In the process of performing programming calculations and analysis, I was responsible for implementing the core codes, so that other members could modify the drawing based on my codes. Our results of this research suggested the positive correlation between precipitation and aerosols. However, only statistical methods were employed in this research, so we were unable to find the mechanisms behind this phenomenon. Based on the current research and literature, I assumed that the results were due to the uncertainty in satellite observation of clouds and aerosols. This year-long research was my first formal research and it was awarded as National Excellent Research Project. After this experience, I was more encouraged to expand my knowledge and skills in atmospheric science.&lt;/p&gt;
 &lt;p&gt;In addition, recommended by Professor Wang, I had the opportunity of becoming a Mitacs Intern. Therefore, in the summer of 2018, I conducted an individual research on &lt;strong&gt;Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar&lt;/strong&gt; under the guidance of Professor Yongsheng Chen at York University in Canada. To gain a better understanding of data products, I downloaded data from various websites and looked for appropriate instructions to ensure that each variable had the same meaning and that the results were accurate. Then I performed data processing by NCL including standardization of data set units, time matching, and interpolation. Because there were no previous codes for reference, I wrote every code on my own. After the compilation, a long debugging process was required to modify the codes continuously for more accurate results. What’s more, in order to process the data more efficiently, many tips such as distributed data storage, manual parallel computing, and optimized codes were designed by me to minimize memory usage and to reduce computation time. This experience enabled me to conduct a research totally in an English environment. And three months’ training improved my proficiency in data analysis and use of Linux and NCL. Furthermore, I practiced my communication skills and writing academic papers in accordance with the requirements of the American Meteorological Society. I believe all these competences will help me excel in graduate studies.&lt;/p&gt;
 &lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
-&lt;p&gt;I want to become an excellent scientific researcher in Atmospheric Science, and eventually continue to make contributions to the field of Atmospheric Science in research institutions, or return to the university to spread my knowledge and ideas. Therefore, I need to make progress through years of scientific research training. Obtaining a PhD is my short-term goal to achieve in the next five years. During my postgraduate years, I hope to apply the knowledge I have learned from my undergraduate courses, combined with some techniques and tools to conduct in-depth study and research in the frontiers of atmospheric science. For example, I expect to apply state-of-art techniques, especially artificial intelligence to weather and climate forecasting. After graduation, I intend to continue my research in universities or research institutions. In the long term, I will contribute to preventing the harm of some severe weather to people&#39;s lives and property. Also, I will continue studying the impacts of climate change on humans in the future.&lt;/p&gt;
+&lt;p&gt;I want to become an excellent scientific researcher in Atmospheric Science, and eventually continue to make contributions to the field of Atmospheric Science in research institutions, or return to the university to spread my knowledge and ideas. Therefore, I need to make progress through years of scientific research training. Obtaining a PhD is my short-term goal to achieve in the next five years. During my postgraduate years, I hope to apply the knowledge I have learned from my undergraduate courses, combined with some techniques and tools to conduct in-depth study and research in the frontiers of atmospheric science. For example, I expect to apply state-of-art techniques, especially artificial intelligence to weather and climate forecasting. After graduation, I intend to continue my research in universities or research institutions. In the long term, I will contribute to preventing the harm of some severe weather to people&amp;rsquo;s lives and property. Also, I will continue studying the impacts of climate change on humans in the future.&lt;/p&gt;
 &lt;p&gt;My academic interests are mainly in two aspects:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Cloud microphysics and its role in climate, and&lt;/li&gt;
 &lt;li&gt;Mesoscale system and data assimilation.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;These two topics are closely related to my two scientific research projects at the undergraduate stage. Through these two projects, I deeply understand that initial conditions and parameterization, especially for clouds, are the most uncertainties in weather prediction. Also in climate models clouds and aerosols are the most significant uncertainties. I hope to have more in-depth research in these areas. I&#39;d like to take advantage of models to deeply reveal the mysteries in atmospheric science, because I&#39;m interested in and goot at computer programming and I hope I could reduce uncertainties and improve the performance of models.&lt;/p&gt;
+&lt;p&gt;These two topics are closely related to my two scientific research projects at the undergraduate stage. Through these two projects, I deeply understand that initial conditions and parameterization, especially for clouds, are the most uncertainties in weather prediction. Also in climate models clouds and aerosols are the most significant uncertainties. I hope to have more in-depth research in these areas. I&amp;rsquo;d like to take advantage of models to deeply reveal the mysteries in atmospheric science, because I&amp;rsquo;m interested in and goot at computer programming and I hope I could reduce uncertainties and improve the performance of models.&lt;/p&gt;
 &lt;p&gt;Many achievements in the field of Atmospheric Sciences in history were made during the PhD period of those famous scientists, so the PhD program was also a golden period for me. In order to make use of such a good opportunity to improve myself, first of all, I hope to learn more academic ideas through graduate courses, academic lectures and academic discussions with professors and classmates, so as to have a more comprehensive and in-depth understanding of earth sciences. Secondly, through five years of scientific research training, I hope to master some practical tools for atmospheric science research and enhance scientific research ability, thus making valuable contributions by incorporating the theoretical knowledge learned from undergraduate study as well as ideas absorbed from academic lectures. Finally, I hope that based on the platform and resources provided by the university and research institutions, I could make progress in written English and oral English. Not only should I actively join the academic seminars in the university, but also I should take an active part in international conferences to share my research.&lt;/p&gt;
 </description>
     </item>
