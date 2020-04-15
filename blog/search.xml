@@ -31,17 +31,17 @@ MIS: Tax Forms Submission</li>
 </ul>
 <h2 id="月11日周六">4月11日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Group Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Final Project</li>
 <li><input type="checkbox" disabled="" />
 EXR: Outdoor Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Online Seminar</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -49,16 +49,16 @@ ENG: Morning TED Listening</li>
 ENG: Leisure Reading</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月12日周日">4月12日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: 586 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 586 Final Project -&gt; REPORT THIS WEEKEND</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Group Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Pickup 5PM</li>
 <li><input type="checkbox" disabled="" />
 RES: Individual Meeting Preparation</li>
@@ -66,7 +66,7 @@ RES: Individual Meeting Preparation</li>
 RES: Mindmap Organization</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
@@ -75,13 +75,11 @@ ENG: Leisure Reading</li>
 </ul>
 <h2 id="月13日周一">4月13日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: 586 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting with Professor</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -89,18 +87,16 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月14日周二">4月14日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 532 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
-CUR: 586 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Final Project</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -108,24 +104,26 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月15日周三">4月15日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: 586 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Final Project</li>
 <li><input type="checkbox" disabled="" />
+CUR: 532 Homework 8</li>
+<li><input type="checkbox" disabled="" />
 EXR: Outdoor Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Grocery Shopping</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月16日周四">4月16日（周四）</h2>
@@ -137,7 +135,7 @@ CUR: 415 Preview, Study and Review</li>
 <li><input type="checkbox" disabled="" />
 CUR: 586 Final Project</li>
 <li><input type="checkbox" disabled="" />
-CUR: 415 Final Project</li>
+CUR: 415 Final Project Final Submission</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
 <li><input type="checkbox" disabled="" />
