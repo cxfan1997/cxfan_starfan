@@ -1,6 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Winter 2020 Week 16 Progress - April 18th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-04-18-Weekly_Progress_20200418.html</url>
+    <content><![CDATA[<h1 id="本周目标">本周目标</h1>
+<ul>
+<li>完成学期末全部工作，为2020年冬季学期画上圆满句号</li>
+<li>完成2020年冬季学期学期总结和2020年春夏季计划</li>
+<li>初步建立Mindmap Portal</li>
+</ul>
+<a id="more"></a>
+<h1 id="本周方针">本周方针</h1>
+<p>本周是2020年冬季学期正式上课的最后一周，所有的期末大作业和考试也将会在下周二之前全部结束。 从目前任务完成进展来看，本学期期末课程方面的所有任务可以在本周五之前全部完成。 因此，本周的目标非常简单：完成学期末的所有工作，为本学期画上一个圆满的句号。 具体来说，剩下的课程任务有：</p>
+<ol type="1">
+<li>CLIMATE 532第8次作业，截止日期为4月28日。计划于本周二之前完成。</li>
+<li>CLIMATE 586课程大作业期末报告部分，截止日期为4月27日。计划于本周二之前完成。</li>
+<li>STATS 415期末考试，时间为4月23日（周四）16:00-18:30。计划于本周日进行415的实战演练，熟悉考试全过程，测试手机扫描上传功能，总结经验。</li>
+</ol>
+<p>如果一切进展顺利，周四晚上之前能够上传提交所有结果，没有其它任何与课程有关的作业和任务。 周五将对2020年冬季学期进行总结，对2020年春夏季学期进行计划。 对于春夏学期，因为除了导师安排的科研任务以外无需上课，总的方针是要自主安排日常工作，建立与秋冬学期上课相当的监督机制，充实学期学习生活。 具体而言，可以从如下方面考虑：</p>
+<ul>
+<li>每日体育锻炼：受疫情影响近期身体锻炼严重不足，期末过后一定要重视身体免疫力的提高，每天都要做适当的体育锻炼。相比于平时每周两次的高强度锻炼，现在可以尝试一些“细水长流”式的中等强度的锻炼，有意识的控制自己的速度和强度。</li>
+<li>讲座录像回放：秋冬学期因为各种原因没能认真收看的讲座，集中安排一定时间进行回顾。</li>
+<li>机器学习：认真完成ML相关书籍的学习，每一章完成知识梳理图，找一些数据进行练习，熟悉Python的使用。</li>
+<li>文献阅读：每周安排固定的文献阅读时间。</li>
+<li>月度科普ASLGA</li>
+</ul>
+<p>当前的知识梳理图单纯上传到网站上，因为图片的不可搜索性，文件名也是统一的课程名-章节号的格式，要找到想要快速回顾的知识点并不容易。 如果能够记得章节号对应的大话题，事情会相对简单一点，如果忘记了对应的章节名称，就需要一个一个图的翻找，降低了效率。 另外，对于其他的关注者而言，因为他们并没有上课，完全不熟悉课程名和章节号对应的含义，也降低了这些知识梳理图对大家的帮助效果。 为了加强知识梳理图的管理，方便本人和他人能够随时对某一知识点进行快速回顾，从上周起本人已经建立了一个知识梳理图的门户页面， 每个知识梳理图对应一张卡片，除了有图片的链接以外，还增加了分类（Category）、日期（Date）、章节标题（Title）、章节小结（Abstract）和章节关键词（Keywords）。 页面上方设置了搜索框，输入关键词能够筛选出相应的卡片。 目前功能和内容仍在完善过程中，未来将考虑加入关键词高亮、排序方式、图片预览（考虑到大多数章节图片大小很大）、适量的美化等功能。</p>
+<p><a href="http://www-personal.umich.edu/~cxfan/Files/index2.html" target="_blank" rel="noopener">Mindmap Portal</a></p>
+<p>页面使用了Bootstrap和jQuery，对于从未直接接触过这些library的本人也是一项挑战。 近几周也会通过速览速学的方式，以最快的速度掌握我最需要的技巧，并运用到这项工程中。</p>
+<h1 id="每日任务跟踪">每日任务跟踪</h1>
+<p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
+<h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: 532 Homework 8</li>
+<li><input type="checkbox" disabled="" />
+CUR: 586 Final Project Report</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam Mock</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Homework 10 (Optional)</li>
+<li><input type="checkbox" disabled="" />
+RES: Mindmap Portal</li>
+<li><input type="checkbox" disabled="" />
+RES: (ASLGA) Greenhouse Gas and Greenhouse Effects</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript</li>
+<li><input type="checkbox" disabled="" />
+RES: Red Algae in Antarctica</li>
+<li><input type="checkbox" disabled="" />
+RTN: Summer Plan</li>
+<li><input type="checkbox" disabled="" />
+RTN: 2020 Winter Term Summary</li>
+<li><input type="checkbox" disabled="" />
+MIS: Tax Forms Submission</li>
+</ul>
+<h2 id="月18日周六">4月18日（周六）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+LIF: Room Cleaning</li>
+<li><input type="checkbox" disabled="" />
+LIF: Laundry</li>
+<li><input type="checkbox" disabled="" />
+CUR: 532 Homework 8</li>
+<li><input type="checkbox" disabled="" />
+CUR: 586 Final Project Report</li>
+<li><input type="checkbox" disabled="" />
+EXR: Outdoor Exercise</li>
+<li><input type="checkbox" disabled="" />
+RES: Online Seminar</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月19日周日">4月19日（周日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: 415 Homework 10</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam Mock</li>
+<li><input type="checkbox" disabled="" />
+RES: Mindmap Portal</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+</ul>
+<h2 id="月20日周一">4月20日（周一）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: Group Meeting</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam Preparation</li>
+<li><input type="checkbox" disabled="" />
+CUR: 586 Final Project Presentation</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月21日周二">4月21日（周二）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: 415 Preview, Study and Review</li>
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam Preparation</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月22日周三">4月22日（周三）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam Preparation</li>
+<li><input type="checkbox" disabled="" />
+RTN: Summer Plan</li>
+<li><input type="checkbox" disabled="" />
+EXR: Outdoor Exercise</li>
+<li><input type="checkbox" disabled="" />
+LIF: Grocery Shopping</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月23日周四">4月23日（周四）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: 415 Final Exam</li>
+<li><input type="checkbox" disabled="" />
+RES: First Paper Celebration</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月24日周五">4月24日（周五）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RTN: Week 18 Summary and Week 19 Plan</li>
+<li><input type="checkbox" disabled="" />
+RTN: 2020 Winter Term Summary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning TED Listening</li>
+<li><input type="checkbox" disabled="" />
+ENG: Local News</li>
+<li><input type="checkbox" disabled="" />
+ENG: Leisure Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Winter 2020</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Winter 2020 Week 15 Progress - April 11th</title>
     <url>/cxfan_starfan/blog/Weekly-Progress/2020-04-11-Weekly_Progress_20200411.html</url>
     <content><![CDATA[<h1 id="本周目标">本周目标</h1>
@@ -18,7 +204,7 @@
 <ul class="task-list">
 <li><input type="checkbox" disabled="" />
 CUR: 586 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Final Project</li>
 <li><input type="checkbox" disabled="" />
 RES: (ASLGA) Greenhouse Gas and Greenhouse Effects</li>
@@ -111,8 +297,8 @@ ENG: Baicizhan Vocabulary</li>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Final Project</li>
-<li><input type="checkbox" disabled="" />
-CUR: 532 Homework 8</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Homework 8 -&gt; NOT FINISHED</li>
 <li><input type="checkbox" disabled="" />
 EXR: Outdoor Exercise</li>
 <li><input type="checkbox" disabled="" checked="" />
@@ -128,13 +314,15 @@ ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月16日周四">4月16日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 747 Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Final Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 532 Homework 8 -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Final Project Final Submission</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
@@ -142,26 +330,39 @@ ENG: Morning TED Listening</li>
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月17日周五">4月17日（周五）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 415 Preview, Study and Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: 586 Final Project Presentation</li>
 <li><input type="checkbox" disabled="" />
+CUR: 532 Homework 8</li>
+<li><input type="checkbox" disabled="" />
+CUR: Mindmap Portal</li>
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Week 15 Summary and Week 16 Plan</li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Summer Plan Brainstorming</li>
 <li><input type="checkbox" disabled="" />
 ENG: Morning TED Listening</li>
 <li><input type="checkbox" disabled="" />
 ENG: Local News</li>
 <li><input type="checkbox" disabled="" />
 ENG: Leisure Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
+<h1 id="本周总结">本周总结</h1>
+<div class="note success">
+            <h4 id="本周高光-weekly-achievements">本周高光 (Weekly Achievements)</h4><ul><li>415 Final Project顺利高效完成</li></ul>
+          </div>
+<div class="note warning">
+            <h4 id="本周警告-weekly-warning">本周警告 (Weekly Warning)</h4><ul><li>体育锻炼方面严重不足</li></ul>
+          </div>
 ]]></content>
       <categories>
         <category>Weekly Progress</category>
