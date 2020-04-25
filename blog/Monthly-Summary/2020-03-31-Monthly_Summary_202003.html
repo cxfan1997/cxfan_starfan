@@ -32,7 +32,7 @@
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_8B.jpg">
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_8C.jpg">
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_9A.jpg">
-<meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_9A.jpg">
+<meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_9B.jpg">
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_586/CLIMATE_586_Chapter_4A.jpg">
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_586/CLIMATE_586_Chapter_4B.jpg">
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_586/CLIMATE_586_Chapter_4C.jpg">
@@ -42,7 +42,7 @@
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_10.jpg">
 <meta property="og:image" content="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_11.jpg">
 <meta property="article:published_time" content="2020-03-31T23:00:00.000Z">
-<meta property="article:modified_time" content="2020-03-30T19:21:16.085Z">
+<meta property="article:modified_time" content="2020-04-24T14:30:15.209Z">
 <meta property="article:author" content="Chongxing Fan">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_8A.jpg">
@@ -238,7 +238,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2020-03-30 15:21:16" itemprop="dateModified" datetime="2020-03-30T15:21:16-04:00">2020-03-30</time>
+                <time title="Modified: 2020-04-24 10:30:15" itemprop="dateModified" datetime="2020-04-24T10:30:15-04:00">2020-04-24</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -303,7 +303,7 @@
 <img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_9A.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 9A - Broadband Fluxes</figcaption>
 </figure>
 <figure>
-<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_9A.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 9B - Broadband Fluxes II</figcaption>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_9B.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 9B - Broadband Fluxes II</figcaption>
 </figure>
 <p><strong>学习情况总结</strong></p>
 <p>Petty的预习没有进行。</p>
@@ -751,7 +751,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/cxfan_starfan/blog/archives/">
         
-          <span class="site-state-item-count">36</span>
+          <span class="site-state-item-count">38</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -812,12 +812,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-area-chart"></i>
     </span>
-    <span title="Symbols count total">140k</span>
+    <span title="Symbols count total">160k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">2:07</span>
+    <span title="Reading time total">2:25</span>
 </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> v4.2.0
   </div>
@@ -874,6 +874,26 @@
 
 
 
+<script>
+document.querySelectorAll('.pdfobject-container').forEach(element => {
+  let url = element.dataset.target;
+  let pdfOpenParams = {
+    navpanes : 0,
+    toolbar  : 0,
+    statusbar: 0,
+    pagemode : 'thumbs',
+    view     : 'FitH'
+  };
+  let pdfOpenFragment = '#' + Object.entries(pdfOpenParams).map(([key, value]) => `${key}=${encodeURIComponent(value)}`).join('&');
+  let fullURL = `/cxfan_starfan/blog/lib/pdf/web/viewer.html?file=${encodeURIComponent(url)}${pdfOpenFragment}`;
+
+  if (NexT.utils.supportsPDFs()) {
+    element.innerHTML = `<embed class="pdfobject" src="${url + pdfOpenFragment}" type="application/pdf" style="height: ${element.dataset.height};">`;
+  } else {
+    element.innerHTML = `<iframe src="${fullURL}" style="height: ${element.dataset.height};" frameborder="0"></iframe>`;
+  }
+});
+</script>
 
 
 
