@@ -1735,12 +1735,14 @@ MIS: Tax Forms Submission</li>
 </ul>
 <h2 id="月25日周六">4月25日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
 <li><input type="checkbox" disabled="" />
 LIF: Laundry</li>
-<li><input type="checkbox" disabled="" />
-LIF: Grocery Shopping</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Online Grocery Shopping</li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Website Update</li>
 <li><input type="checkbox" disabled="" />
 <strong>RES: Online Seminar</strong></li>
 <li><input type="checkbox" disabled="" />
