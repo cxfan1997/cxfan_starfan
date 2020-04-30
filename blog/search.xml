@@ -1,6 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Winter 2020 Monthly Report - April</title>
+    <url>/cxfan_starfan/blog/Monthly-Summary/2020-04-30-Monthly_Summary_202004.html</url>
+    <content><![CDATA[<h1 id="综述">综述</h1>
+<p>根据本月月度计划，2020年冬季学期四月的月度目标为：</p>
+<ul>
+<li>全力做好疫情期间学习工作生活保障工作</li>
+<li>顺利完成各课程期末各项任务</li>
+</ul>
+<p>经过四个月的努力，2020年冬季学期结束，2020年春季学期正式开始。这个月所有的期末任务都顺利完成，为2020年冬季学期画上了圆满句号。</p>
+<a id="more"></a>
+<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br />
+<span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
+<h1 id="课程情况">课程情况</h1>
+<h2 id="climate-532---radiative-transfer-辐射传输">CLIMATE 532 - Radiative Transfer (辐射传输)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月完成了最后几章Atmospheric Scattering的学习。知识总结如下图所示：</p>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_10.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 10 - Atmopsheric Scattering</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_11A.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 11A - Physical Mechanisms of Scattering</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_11B.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 11B - Physical Mechanisms of Scattering II</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CLIMATE_532/CLIMATE_532_Chapter_12.jpg" alt="" /><figcaption>CLIMATE 532 Chapter 12 - Multiple Scattering</figcaption>
+</figure>
+<p><strong>学习情况总结</strong></p>
+<p>散射部分还需要巩固和复习。其它学习情况见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<p><strong>成绩评价</strong></p>
+<p>见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<h2 id="climate-586---climate-data-analysis-气候数据分析">CLIMATE 586 - Climate Data Analysis (气候数据分析)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月完成了期末大作业的展示和纸质报告。</p>
+<p><strong>学习情况总结</strong></p>
+<p>见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<p><strong>成绩评价</strong></p>
+<p>见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<h2 id="climate-747---student-seminar-学术演讲海报制作">CLIMATE 747 - Student Seminar (学术演讲&amp;海报制作)</h2>
+<p>4月9日进行了第三次学术演讲，介绍他人的研究。我选择的题目是“Analysis of polarimetric satellite measurements suggests stronger cooling due to aerosol-cloud interactions”。</p>
+<p>总体效果较好，全过程已录像存档。</p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/pez9_N0zL-M" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p>第三次演讲的反馈总结仍未完成。</p>
+<p>对其他人讲演的评分和评论未完成。</p>
+<h2 id="climate-749---clasp-seminar-学术讲座">CLIMATE 749 - CLaSP Seminar (学术讲座)</h2>
+<p>无新动态。</p>
+<h2 id="stats-415---data-mining-数据挖掘">STATS 415 - Data Mining (数据挖掘)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>这个月对最后几章进行了讲授，知识梳理图如下：</p>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_12.jpg" alt="" /><figcaption>STATS 415 Chapter 12 - Tree-based Methods</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_13.jpg" alt="" /><figcaption>STATS 415 Chapter 13 - Ensemble Methods</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_14.jpg" alt="" /><figcaption>STATS 415 Chapter 14 - Support Vector Machines (SVM)</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_15.jpg" alt="" /><figcaption>STATS 415 Chapter 15 - Clustering</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_16.jpg" alt="" /><figcaption>STATS 415 Chapter 16 - Partitional Clustering</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Chapter_17.jpg" alt="" /><figcaption>STATS 415 Chapter 17 - Hierarchical Clustering</figcaption>
+</figure>
+<div class="pdfobject-container" data-target="http://www-personal.umich.edu/~cxfan/Files/STATS_415/STATS_415_Labs.pdf" data-height="500px"></div>
+<p><strong>学习情况总结</strong></p>
+<p>完成了期末大作业和期末考试，详见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<p><strong>成绩评价</strong></p>
+<p>见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<h1 id="科研工作">科研工作</h1>
+<h2 id="solar-farming-项目情况">Solar Farming 项目情况</h2>
+<p>无新动态。</p>
+<h2 id="climate-586-final-project-项目情况">CLIMATE 586 Final Project 项目情况</h2>
+<p>顺利完成这一阶段的工作，见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期总结">学期总结</a>。</p>
+<h2 id="小组组会教授一对一谈话">小组组会/教授一对一谈话</h2>
+<p>本月进行了4次组会：</p>
+<ul>
+<li>4月6日：Radiative Transfer Add-on #5</li>
+<li>4月13日：Radiative Transfer Add-on #6</li>
+<li>4月20日：Radiative Transfer Add-on #7</li>
+<li>4月27日：Paper Review - The Albedo of Earth</li>
+</ul>
+<p>Radiative Transfer的知识梳理图：</p>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/Rad_Tran.jpg" alt="" /><figcaption>Radiative Transfer: A Quick Overview</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/Rad_Tran_II.jpg" alt="" /><figcaption>Radiative Transfer: A Quick Overview II</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/Rad_Tran_III.jpg" alt="" /><figcaption>Radiative Transfer: A Quick Overview III</figcaption>
+</figure>
+<p>本月还进行了3次一对一谈话，主要是对上课内容的总结、回顾、补充。</p>
+<h2 id="机器学习讨论小组">机器学习讨论小组</h2>
+<p>本月未进行活动。</p>
+<h2 id="climate-dynamics在线讨论群">Climate Dynamics在线讨论群</h2>
+<p>本月开展了3次线上讲座：</p>
+<ul>
+<li>(4/4) Guoxing Chen: Circulation responses to regional aerosol climate forcing in summer over East Asia</li>
+<li>(4/11) Peiqiang Xu: Polar front jet waveguide, teleconnection and temperature extremes over Eurasia in boreal summer</li>
+<li>(4/25) Dawei Li: Climate model dependency of future projection of Antarctic ice sheet</li>
+</ul>
+<h2 id="科研能力提升">科研能力提升</h2>
+<ul>
+<li><strong>文献阅读</strong>：四月下旬开始，每周阅读两篇新文献</li>
+<li><strong>专业理论学习</strong>：Machine Learning自学第三章</li>
+<li><strong>工具基础学习（数理计算机）</strong>：Machine Learning Python</li>
+<li><strong>气候模式学习</strong>：本月无新动态</li>
+<li><strong>科研写作</strong>：本月无新动态</li>
+<li><strong>科研展示</strong>：本月无新动态</li>
+</ul>
+<h1 id="英语学习">英语学习</h1>
+<p>本月的英语学习坚持情况有所改善。</p>
+<h2 id="口语">口语</h2>
+<p>无练习。</p>
+<h2 id="写作">写作</h2>
+<p>无练习。</p>
+<h2 id="阅读">阅读</h2>
+<p>只是偶尔阅读了与疫情有关的新闻报道。</p>
+<h2 id="听力">听力</h2>
+<p>偶尔进行了几次TED演讲练习，以及个别天数的本地新闻收看。</p>
+<h2 id="词汇">词汇</h2>
+<p>本月的百词斩词汇有很大改善，但仍有空缺天数。</p>
+<h1 id="生活健康">生活健康</h1>
+<h2 id="身体健康">身体健康</h2>
+<p>四月身体状态良好。鉴于近期疫情在美国发展迅速，应当加强防范，增强锻炼，提高免疫力。</p>
+<h2 id="心理健康">心理健康</h2>
+<p>四月总体情况很好，四月下旬把学习生活安排的很充实，偶尔走出家门呼吸新鲜空气。</p>
+<h2 id="体育锻炼">体育锻炼</h2>
+<p>每天早上的早操（舞动青春和放飞理想）都能坚持进行。</p>
+<p>本月下旬开始尝试早操+晚跑的模式，效果较好，希望继续坚持。</p>
+<h2 id="公寓卫生">公寓卫生</h2>
+<p>整体卫生状况良好，每周六都进行了室内打扫。</p>
+<h2 id="疫情相关">疫情相关</h2>
+<p>目前疫情形势仍然严峻，不过通过足够的防护和良好的卫生习惯，生活物资保障正常，未出现安全事故。</p>
+<h1 id="五月计划">五月计划</h1>
+<h2 id="本月目标">本月目标</h2>
+<ul>
+<li>完成Solar Farming的第一阶段收尾工作，完成第一阶段分支课题的研究</li>
+<li>完成春夏季三门自修课程任务</li>
+</ul>
+<h2 id="详细说明">详细说明</h2>
+<p>本月进入2020年春季学期，没有学校课程。学期计划中安排了春夏季的自修课程，目的是充实假期生活，补足学习科研中的短板，扩展知识和技能面。另外，科研工作要全面重启，重点是将Solar Farming的第一阶段工作进行收尾，并完成分支课题的研究。</p>
+<p>新的作息时间表、课程详细说明、英语提升计划的变更、体育锻炼计划等详见<a href="/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html" title="学期计划">学期计划</a>。</p>
+]]></content>
+      <categories>
+        <category>Monthly Summary</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Winter 2020 Term Report</title>
     <url>/cxfan_starfan/blog/Term-Summary/2020-04-30-Term_Report_2020Winter.html</url>
     <content><![CDATA[<h1 id="摘要">摘要</h1>
@@ -43,8 +197,8 @@
 <td>Radiative Transfer</td>
 <td>Graded</td>
 <td>4.00</td>
-<td></td>
-<td></td>
+<td>A+</td>
+<td>17.200</td>
 </tr>
 <tr class="even">
 <td>CLIMATE 586 001</td>
@@ -59,7 +213,7 @@
 <td>Student Seminar</td>
 <td>Satisfactory / Unsatisfactory</td>
 <td>1.00</td>
-<td></td>
+<td>S</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -75,8 +229,8 @@
 <td>Data Mining</td>
 <td>Graded</td>
 <td>4.00</td>
-<td></td>
-<td></td>
+<td>A+</td>
+<td>17.200</td>
 </tr>
 </tbody>
 </table>
@@ -100,6 +254,13 @@
 <td>4.000</td>
 </tr>
 <tr class="even">
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>Total</td>
 <td>7.000</td>
 <td>10.000</td>
@@ -185,62 +346,62 @@
 <td>Homework 1</td>
 <td>-3 Days</td>
 <td>98/100</td>
-<td>-</td>
-<td>-</td>
+<td>86-96.8-100</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>Homework 2</td>
 <td>-2 Days</td>
 <td>98/100</td>
-<td>-</td>
-<td>-</td>
+<td>90-98.2-100</td>
+<td>低于平均分</td>
 </tr>
 <tr class="odd">
 <td>Homework 3</td>
 <td>-5 Days</td>
 <td>100/100</td>
-<td>-</td>
-<td>-</td>
+<td>87-97.2-102</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>Homework 4</td>
 <td>-6 Days</td>
 <td>96/100</td>
-<td>-</td>
-<td>-</td>
+<td>92-98.7-100</td>
+<td>低于平均分</td>
 </tr>
 <tr class="odd">
 <td>Homework 5</td>
 <td>-18 Days</td>
 <td>99/100</td>
-<td>-</td>
-<td>-</td>
+<td>90-96.6-100</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>Homework 6</td>
 <td>-9 Days</td>
 <td>99/100</td>
-<td>-</td>
-<td>-</td>
+<td>87-97.1-100</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>Homework 7</td>
 <td>-12 Days</td>
-<td>99/100</td>
-<td>-</td>
-<td>-</td>
+<td>100/100</td>
+<td>93-98-100</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>Homework 8</td>
 <td>-7 Days</td>
-<td>/100</td>
-<td>-</td>
-<td>-</td>
+<td>99/100</td>
+<td>92-96.8-100</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
-<td>/800 (%)</td>
+<td>789/800 (98.63%)</td>
 <td></td>
 <td></td>
 </tr>
@@ -672,14 +833,14 @@
 <td>Basic 1</td>
 <td></td>
 <td>10/10</td>
-<td></td>
+<td>0-9.6-10</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>Basic 2</td>
 <td></td>
 <td>10/10</td>
-<td></td>
+<td>0-9.4-10</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -707,14 +868,14 @@
 <td>Basic 6</td>
 <td></td>
 <td>10/10</td>
-<td></td>
+<td>0-36.2-40</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Advanced</td>
 <td></td>
 <td>40/40</td>
-<td></td>
+<td>0-29.7-40</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -748,20 +909,61 @@
 <tr class="even">
 <td>Final Exam</td>
 <td>0 Days</td>
-<td>/100</td>
-<td></td>
+<td>97.5/100</td>
+<td>47-83.6-99</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
-<td>/200 (%)</td>
+<td>191.5/200 (95.8%)</td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p>课程参与和线上讨论方面欠缺。</p>
+<p>课程参与和线上讨论方面欠缺，平时参与的加分为0。具体为：</p>
+<table>
+<thead>
+<tr class="header">
+<th>名称</th>
+<th>提交时间</th>
+<th>评分</th>
+<th>最低-平均-最高</th>
+<th>警告</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Lecture Bonus</td>
+<td></td>
+<td>0/2</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Final Project Bonus</td>
+<td></td>
+<td>0/3</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Piazza Bonus</td>
+<td></td>
+<td>0/5</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>总计</strong></td>
+<td></td>
+<td>0/10</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h1 id="科研工作">科研工作</h1>
 <h2 id="综述-1">综述</h2>
 <div class="note success">
@@ -770,7 +972,7 @@
 <div class="note warning">
             <p><strong>仍待改进的方面</strong></p><ul><li>由于课程等其它方面的压力，大多数科研工作被搁置</li></ul>
           </div>
-<p>1234567890</p>
+<p>由于本学期大部分精力都投入到了课程的学习上，科研方面相比上个学期产出少。Solar Farming在一月份Proposal提交过后就进入到搁置状态；Precipitation Project论文发表，给这个项目画上了圆满句号；与586相关的LIM Project非常粗略的完成了数据分析、报告撰写和成果展示。外联宣传方面相比上学期又有了很大的提升，科研综合能力的培养还需继续努力。</p>
 <h2 id="科研项目">科研项目</h2>
 <h3 id="solar-farming-project">Solar Farming Project</h3>
 <h4 id="项目目标">项目目标</h4>
@@ -1307,20 +1509,20 @@
 </tr>
 <tr class="odd">
 <td>晚间洗漱</td>
-<td>21:50~22:00</td>
-<td>21:50~22:00</td>
+<td>21:50~22:30</td>
+<td>21:50~22:30</td>
 </tr>
 <tr class="even">
 <td>睡觉</td>
-<td>22:00</td>
-<td>22:00</td>
+<td>22:30</td>
+<td>22:30</td>
 </tr>
 </tbody>
 </table>
 <p>注意： - 每天工作时段每50分钟休息10分钟 - 每天的11点和15点播放眼保健操音乐</p>
 <h3 id="课程计划">课程计划</h3>
 <p>春夏季学期没有学校的课程，但是要自己给自己布置任务！初步计划给自己安排三门课程：</p>
-<h3 id="ext-101-machine-learning">EXT 101: Machine Learning</h3>
+<h4 id="ext-101-machine-learning">EXT 101: Machine Learning</h4>
 <p>2020年冬季学期抽时间读了两章的机器学习书本，考虑到机器学习这一个强大的工具在目前各学科各领域的重要性，2020年春夏季学期考虑把这一本书全部完成。</p>
 <p>书本共有19章，除去已经读过的前两章，计划每周完成一个章节的阅读和上机实验。前半本书的内容在秋季学期的STATS 415中已经涉及到，速度可能会更快，进度超前。后半本书的内容是新内容，可能阅读起来会比较费力。预计总共用20周时间将整本书全部攻下。</p>
 <p>这门课的任务包括：</p>
@@ -1331,7 +1533,7 @@
 <li>期末大作业：这四个月时间内，自己拟定一个题目，进行机器学习方法的运用，完成一份分析报告。</li>
 </ul>
 <p>这门“虚拟课”的时间将安排在每周一和周四的15:00-17:00，4月27日起正式第一周上课。</p>
-<h3 id="ext-102-as-material-reading">EXT 102: AS Material Reading</h3>
+<h4 id="ext-102-as-material-reading">EXT 102: AS Material Reading</h4>
 <p>这门课的目标是<strong>拓宽大气科学知识面，增加知识广度</strong>。主要学习内容是读文献和读书本，次要的内容包括训练科研写作和科研展示。</p>
 <p>这门课的任务包括：</p>
 <ul>
@@ -1347,12 +1549,11 @@
 <li>IPCC AR5</li>
 <li>自己感兴趣阅读的书籍</li>
 </ul></li>
-<li>知识梳理图：仅对于书籍阅读而言，每章制作知识梳理图</li>
-<li>文献总结：探索高效率进行文献阅读和整理的方法</li>
+<li>文献总结：使用MarginNote对文献和综述进行整理，为每一个话题建立一个Notebook，将同类型文献整合在一个Notebook中</li>
 </ul>
 <p>以上的内容均通过每周一对一谈话进行汇报。</p>
-<p>这门“虚拟课”的时间将安排在每周二和周五的13:30-15:30，4月28日起正式第一周上课。</p>
-<h3 id="ext-103-seminar-archive">EXT 103: Seminar Archive</h3>
+<p>这门“虚拟课”的时间将安排在每周二和周五的13:00-15:00，4月28日起正式第一周上课。</p>
+<h4 id="ext-103-seminar-archive">EXT 103: Seminar Archive</h4>
 <p>对之前存档过，没有认真学习的讲座进行回顾。同时，对个人的科研展示技能进行训练</p>
 <p>具体的任务包括：</p>
 <ul>
@@ -1668,6 +1869,7 @@ Fri
 <p>春夏季学期的重要任务如下：</p>
 <ul>
 <li>Solar Farming Project Manuscript</li>
+<li>Red Algae Antarctica</li>
 <li>Qualifying Exam Preparation</li>
 </ul>
 <p>除了上述提到的三门课以外，其余的大部分时间投入到科研工作上。</p>
@@ -1706,29 +1908,29 @@ Fri
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 101 Chapter 2 Lab</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 101 Chapter 3 Reading</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 101 Mindmap</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 102 Reading 1</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 102 Reading 2</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 102 Mindmap</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 1</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 2</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting Preparation</li>
 <li><input type="checkbox" disabled="" />
 RES: Solar Farming Manuscript</li>
 <li><input type="checkbox" disabled="" />
 RES: Red Algae in Antarctica</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 2020 Winter Term Summary</li>
 <li><input type="checkbox" disabled="" />
 MIS: Tax Forms Submission</li>
@@ -1737,94 +1939,102 @@ MIS: Tax Forms Submission</li>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
 <li><input type="checkbox" disabled="" checked="" />
 LIF: Online Grocery Shopping</li>
 <li><input type="checkbox" disabled="" checked="" />
 MIS: Website Update</li>
-<li><input type="checkbox" disabled="" />
-<strong>RES: Online Seminar</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Online Seminar</li>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Mindmap Portal</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting Preparation</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Spring Term Preparation -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月26日周日">4月26日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>RES: Mindmap Portal</strong></li>
-<li><input type="checkbox" disabled="" />
-<strong>RES: Group Meeting Preparation</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>RES: Group Meeting Preparation</strong> -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>MIS: Spring Term Preparation</strong></li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月27日周一">4月27日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+<strong>RES: Group Meeting Preparation</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>RES: Machine Learning Mindmaps</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 101 Chapter 2 Lab</strong></li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月28日周二">4月28日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Solar Farming Paper Method</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 1</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 102 Reading 1</strong></li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月29日周三">4月29日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Solar Farming Paper Method</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Shopping</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月30日周四">4月30日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 101 Chapter 3 Reading</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 2</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Solar Farming Paper Introduction</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Monthly Summary and Plan</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月1日周五">5月1日（周五）</h2>
@@ -1832,11 +2042,11 @@ ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 RTN: Week 17 Summary and Week 1 Plan</li>
 <li><input type="checkbox" disabled="" />
-RTN: Monthly Summary and Plan</li>
-<li><input type="checkbox" disabled="" />
 <strong>CUR: EXT 102 Reading 2</strong></li>
 <li><input type="checkbox" disabled="" />
 <strong>CUR: EXT 101 Mindmap</strong></li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Paper Discussion and Conclusions</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
