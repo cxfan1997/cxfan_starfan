@@ -197,8 +197,8 @@
 <td>Radiative Transfer</td>
 <td>Graded</td>
 <td>4.00</td>
-<td></td>
-<td></td>
+<td>A+</td>
+<td>17.200</td>
 </tr>
 <tr class="even">
 <td>CLIMATE 586 001</td>
@@ -213,7 +213,7 @@
 <td>Student Seminar</td>
 <td>Satisfactory / Unsatisfactory</td>
 <td>1.00</td>
-<td></td>
+<td>S</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -254,6 +254,13 @@
 <td>4.000</td>
 </tr>
 <tr class="even">
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>Total</td>
 <td>7.000</td>
 <td>10.000</td>
@@ -387,14 +394,14 @@
 <tr class="even">
 <td>Homework 8</td>
 <td>-7 Days</td>
-<td>/100</td>
-<td></td>
+<td>99/100</td>
+<td>92-96.8-100</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><strong>总计</strong></td>
 <td></td>
-<td>/800 (%)</td>
+<td>789/800 (98.63%)</td>
 <td></td>
 <td></td>
 </tr>
@@ -1515,7 +1522,7 @@
 <p>注意： - 每天工作时段每50分钟休息10分钟 - 每天的11点和15点播放眼保健操音乐</p>
 <h3 id="课程计划">课程计划</h3>
 <p>春夏季学期没有学校的课程，但是要自己给自己布置任务！初步计划给自己安排三门课程：</p>
-<h3 id="ext-101-machine-learning">EXT 101: Machine Learning</h3>
+<h4 id="ext-101-machine-learning">EXT 101: Machine Learning</h4>
 <p>2020年冬季学期抽时间读了两章的机器学习书本，考虑到机器学习这一个强大的工具在目前各学科各领域的重要性，2020年春夏季学期考虑把这一本书全部完成。</p>
 <p>书本共有19章，除去已经读过的前两章，计划每周完成一个章节的阅读和上机实验。前半本书的内容在秋季学期的STATS 415中已经涉及到，速度可能会更快，进度超前。后半本书的内容是新内容，可能阅读起来会比较费力。预计总共用20周时间将整本书全部攻下。</p>
 <p>这门课的任务包括：</p>
@@ -1526,7 +1533,7 @@
 <li>期末大作业：这四个月时间内，自己拟定一个题目，进行机器学习方法的运用，完成一份分析报告。</li>
 </ul>
 <p>这门“虚拟课”的时间将安排在每周一和周四的15:00-17:00，4月27日起正式第一周上课。</p>
-<h3 id="ext-102-as-material-reading">EXT 102: AS Material Reading</h3>
+<h4 id="ext-102-as-material-reading">EXT 102: AS Material Reading</h4>
 <p>这门课的目标是<strong>拓宽大气科学知识面，增加知识广度</strong>。主要学习内容是读文献和读书本，次要的内容包括训练科研写作和科研展示。</p>
 <p>这门课的任务包括：</p>
 <ul>
@@ -1546,7 +1553,7 @@
 </ul>
 <p>以上的内容均通过每周一对一谈话进行汇报。</p>
 <p>这门“虚拟课”的时间将安排在每周二和周五的13:00-15:00，4月28日起正式第一周上课。</p>
-<h3 id="ext-103-seminar-archive">EXT 103: Seminar Archive</h3>
+<h4 id="ext-103-seminar-archive">EXT 103: Seminar Archive</h4>
 <p>对之前存档过，没有认真学习的讲座进行回顾。同时，对个人的科研展示技能进行训练</p>
 <p>具体的任务包括：</p>
 <ul>
@@ -1901,29 +1908,29 @@ Fri
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 101 Chapter 2 Lab</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 101 Chapter 3 Reading</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 101 Mindmap</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 102 Reading 1</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 102 Reading 2</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 102 Mindmap</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 1</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 2</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting Preparation</li>
 <li><input type="checkbox" disabled="" />
 RES: Solar Farming Manuscript</li>
 <li><input type="checkbox" disabled="" />
 RES: Red Algae in Antarctica</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RTN: 2020 Winter Term Summary</li>
 <li><input type="checkbox" disabled="" />
 MIS: Tax Forms Submission</li>
@@ -2004,28 +2011,30 @@ ENG: Baicizhan Vocabulary</li>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Solar Farming Paper Method</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Grocery Shopping</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月30日周四">4月30日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 101 Chapter 3 Reading</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Seminar 2</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Solar Farming Paper Introduction</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Monthly Summary and Plan</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月1日周五">5月1日（周五）</h2>
@@ -2033,175 +2042,11 @@ ENG: Baicizhan Vocabulary</li>
 <li><input type="checkbox" disabled="" />
 RTN: Week 17 Summary and Week 1 Plan</li>
 <li><input type="checkbox" disabled="" />
-RTN: Monthly Summary and Plan</li>
-<li><input type="checkbox" disabled="" />
 <strong>CUR: EXT 102 Reading 2</strong></li>
 <li><input type="checkbox" disabled="" />
 <strong>CUR: EXT 101 Mindmap</strong></li>
 <li><input type="checkbox" disabled="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Weekly Progress</category>
-      </categories>
-      <tags>
-        <tag>Winter 2020</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Winter 2020 Week 17 Progress - April 25th</title>
-    <url>/cxfan_starfan/blog/Weekly-Progress/2020-04-25-Weekly_Progress_20200425%5BConflict%5D.html</url>
-    <content><![CDATA[<h1 id="本周目标">本周目标</h1>
-<ul>
-<li>试行2020年春夏季学期作息时间和课程</li>
-<li>完成四月月度总结和五月月度计划</li>
-</ul>
-<a id="more"></a>
-<h1 id="本周方针">本周方针</h1>
-<p>本周是四月最后一周，也是2020年冬季学期的最后一周。所有冬季学期的任务已经完成，现在只需要等待各科成绩公布，补全2020年冬季学期总结的空缺。</p>
-<p>这一周也将成为进入2020年春夏季学期之前的过渡周。在2020年春夏季学期计划中，</p>
-<h1 id="每日任务跟踪">每日任务跟踪</h1>
-<p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
-<h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-CUR: EXT 101 Chapter 2 Lab</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 101 Chapter 3 Reading</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 101 Mindmap</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 102 Reading 1</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 102 Reading 2</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 102 Mindmap</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 103 Seminar 1</li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 103 Seminar 2</li>
-<li><input type="checkbox" disabled="" />
-RES: Group Meeting Preparation</li>
-<li><input type="checkbox" disabled="" />
-RES: Solar Farming Manuscript</li>
-<li><input type="checkbox" disabled="" />
-RES: Red Algae in Antarctica</li>
-<li><input type="checkbox" disabled="" />
-RTN: 2020 Winter Term Summary</li>
-<li><input type="checkbox" disabled="" />
-MIS: Tax Forms Submission</li>
-</ul>
-<h2 id="月25日周六">4月25日（周六）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" checked="" />
-LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" checked="" />
-LIF: Laundry</li>
-<li><input type="checkbox" disabled="" checked="" />
-LIF: Online Grocery Shopping</li>
-<li><input type="checkbox" disabled="" checked="" />
-MIS: Website Update</li>
-<li><input type="checkbox" disabled="" checked="" />
-RES: Online Seminar</li>
-<li><input type="checkbox" disabled="" checked="" />
-<strong>RES: Mindmap Portal</strong></li>
-<li><input type="checkbox" disabled="" checked="" />
-RES: Individual Meeting Preparation</li>
-<li><input type="checkbox" disabled="" checked="" />
-MIS: Spring Term Preparation</li>
-<li><input type="checkbox" disabled="" checked="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" checked="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" checked="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-<h2 id="月26日周日">4月26日（周日）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>RES: Mindmap Portal</strong></li>
-<li><input type="checkbox" disabled="" />
-<strong>RES: Group Meeting Preparation</strong></li>
-<li><input type="checkbox" disabled="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" checked="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-<h2 id="月27日周一">4月27日（周一）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
-RES: Individual Meeting</li>
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 101 Chapter 2 Lab</strong></li>
-<li><input type="checkbox" disabled="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-<h2 id="月28日周二">4月28日（周二）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>RES: Solar Farming Paper Method</strong></li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 103 Seminar 1</li>
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 102 Reading 1</strong></li>
-<li><input type="checkbox" disabled="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-<h2 id="月29日周三">4月29日（周三）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>RES: Solar Farming Paper Method</strong></li>
-<li><input type="checkbox" disabled="" />
-LIF: Grocery Shopping</li>
-<li><input type="checkbox" disabled="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-<h2 id="月30日周四">4月30日（周四）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 101 Chapter 3 Reading</strong></li>
-<li><input type="checkbox" disabled="" />
-CUR: EXT 103 Seminar 2</li>
-<li><input type="checkbox" disabled="" />
-<strong>RES: Solar Farming Paper Introduction</strong></li>
-<li><input type="checkbox" disabled="" />
-ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
-ENG: Baicizhan Vocabulary</li>
-</ul>
-<h2 id="月1日周五">5月1日（周五）</h2>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-RTN: Week 17 Summary and Week 1 Plan</li>
-<li><input type="checkbox" disabled="" />
-RTN: Monthly Summary and Plan</li>
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 102 Reading 2</strong></li>
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 101 Mindmap</strong></li>
+RES: Solar Farming Paper Discussion and Conclusions</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
