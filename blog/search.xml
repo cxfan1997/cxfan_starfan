@@ -10,6 +10,12 @@
 <a id="more"></a>
 <h1 id="本周方针">本周方针</h1>
 <p>本周没有什么特别的安排，严格遵守作息时间安排，坚持日常的三门自修课学习，努力完成科研工作并尝试自我探索，保持每日英语学习和体育锻炼，保障生活物资供应充足。</p>
+<p>5月10日更新：自周一开始，对作息时间表实行微调，微调的内容主要包括：</p>
+<ul>
+<li>增加第二三节、第五六节之间的课间操</li>
+<li>区分外出跑步日和室内锻炼日</li>
+<li>增加课外阅读时间</li>
+</ul>
 <h1 id="每日任务跟踪">每日任务跟踪</h1>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
@@ -45,36 +51,36 @@ RES: Discussion about Modeling</li>
 </ul>
 <h2 id="月9日周六">5月9日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Online Seminar</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>RES: Group Meeting Preparation</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月10日周日">5月10日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 101 Machine Learning Homework May</strong></li>
-<li><input type="checkbox" disabled="" />
-<strong>RES: EXT 103 Poster</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>CUR: EXT 101 Machine Learning Homework May</strong> -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>RES: EXT 103 Poster</strong> -&gt; NOT FINISHED</li>
 <li><input type="checkbox" disabled="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 ENG: Reading Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月11日周一">5月11日（周一）</h2>
