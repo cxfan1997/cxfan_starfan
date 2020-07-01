@@ -1,6 +1,332 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Spring 2020 Monthly Report - June</title>
+    <url>/cxfan_starfan/blog/Monthly-Summary/2020-06-30-Monthly_Summary_202006.html</url>
+    <content><![CDATA[<h1 id="综述">综述</h1>
+<p>根据本月月度计划，2020年春季学期六月的月度目标为：</p>
+<ul>
+<li>继续学习EXT 101，进度至少推进到第13章，并且完成五月巩固练习</li>
+<li>继续学习EXT 102，完成相应的知识梳理图和文献总结（至少4篇）</li>
+<li>继续学习EXT 103，完成相应的讲座总结（至少4篇），并且完成六月讲座任务</li>
+<li>继续学习EXT 104，进度至少推进到Day 2</li>
+<li>完成Solar Farming Manuscript Revision</li>
+<li>利用周末时间，游览附近自然景观</li>
+</ul>
+<p>六月总体来看没有达到最佳状态，课程方面除了EXT 101的目标完成了以外，其余目标都还差一点，复习工作跟不上进度，为此还暂停了一周专门用于复习，科研方面表现较好，完成了Solar Farming Manuscript Revision，可以准备提交。虽然前往Gallup Park进行了跑步，但是没有前往较远的地方感受大自然。</p>
+<a id="more"></a>
+<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br />
+<span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
+<h1 id="课程情况">课程情况</h1>
+<h2 id="ext-101---machine-learning-机器学习">EXT 101 - Machine Learning (机器学习)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月完成了Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow教材的第一部分的学习，完成了第二章至第九章的学习。前九章的知识总结如下图所示：</p>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_1A.jpg" alt="" /><figcaption>EXT 101 Chapter 1A - The Machine Learning Landscape</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_1B.jpg" alt="" /><figcaption>EXT 101 Chapter 1B - The Machine Learning Landscape II</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_2.jpg" alt="" /><figcaption>EXT 101 Chapter 2 - End-to-End Machine Learning Project (Regression)</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_3.jpg" alt="" /><figcaption>EXT 101 Chapter 3 - Classification</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_4.jpg" alt="" /><figcaption>EXT 101 Chapter 4 - Classical Regression Models</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_5.jpg" alt="" /><figcaption>EXT 101 Chapter 5 - Support Vector Machines (SVM)</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_6.jpg" alt="" /><figcaption>EXT 101 Chapter 6 - Decision Trees</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_7.jpg" alt="" /><figcaption>EXT 101 Chapter 7 - Ensemble Methods and Random Forests</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_8.jpg" alt="" /><figcaption>EXT 101 Chapter 8 - Dimensionality Reduction</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_9A.jpg" alt="" /><figcaption>EXT 101 Chapter 9A - Unsupervised Learning Techniques</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_9B.jpg" alt="" /><figcaption>EXT 101 Chapter 9B - Unsupervised Learning Techniques II</figcaption>
+</figure>
+<p><strong>学习情况总结</strong></p>
+<p>教材的阅读能够深入透彻，各章总结质量高，学习效果好。课后的练习还有待加强。</p>
+<h2 id="ext-102---as-material-reading-大气科学材料阅读">EXT 102 - AS Material Reading (大气科学材料阅读)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月完成了以下书籍章节的阅读：</p>
+<ul>
+<li>Encyclopedia of Atmospheric Science, 2nd Edition
+<ul>
+<li>Chapter 32.1: Solar Radiation</li>
+<li>Chapter 32.2: Absorption and Thermal Emission</li>
+<li>Chapter 32.3: Cloud Radiative Process</li>
+<li>Chapter 32.4: Non-Local Thermodynamic Equilibrium (Partially)</li>
+<li>Chapter 32.5: Scattering (Partially)</li>
+</ul></li>
+</ul>
+<p>本月还完成了以下文献的阅读：</p>
+<ul>
+<li>Climatic effects of surface albedo geoengineering (Irvine et al., 2011)</li>
+</ul>
+<p><strong>学习情况总结</strong></p>
+<p>文献阅读的任务基本上能够完成，阅读质量一般，后期继续努力。在题材的选择上也要根据实际需要和个人兴趣继续探索。</p>
+<p>本月的后半段尝试了新的文献总结方法，希望下个月继续尝试和探索。</p>
+<h2 id="ext-103---seminar-archive-学术讲座">EXT 103 - Seminar Archive (学术讲座)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月完成了以下讲座的学习：</p>
+<ul>
+<li><ol start="20190321" type="1">
+<li>Stan Benjamin: Reducing Systematic Cloud-Radiation Errors from Hour 4 to Week 4 Prediction</li>
+</ol></li>
+<li><ol start="20190207" type="1">
+<li>Dustin Schroeder: Ice Penetrating Radar: A Window into the Physical Processes of Ice Sheets</li>
+</ol></li>
+<li><ol start="20200303" type="1">
+<li>AGU Atmospheric Sciences Webinar Series Part 1 of 8: From the Past Into the Future</li>
+</ol>
+<ul>
+<li>Allison L Steiner: Terrestrial Biosphere-Atmosphere Interactions</li>
+<li>Kevin E Trenberth: Earth’s changing energy budget</li>
+</ul></li>
+<li><ol start="20200310" type="1">
+<li>AGU Atmospheric Sciences Webinar Series Part 2 of 8: From the Past Into the Future</li>
+</ol>
+<ul>
+<li>Sue B Grimmond: Urban climates: From clouds to cloud computing</li>
+<li>Guy P Brasseur: Ozone Depletion and Recovery</li>
+</ul></li>
+<li><ol start="20200317" type="1">
+<li>AGU Atmospheric Sciences Webinar Series Part 3 of 8: From the Past Into the Future</li>
+</ol>
+<ul>
+<li>Edward J Zipser: "Organized" Tropical Convection: Knowns and Unknowns after 50 Years of Focused Research</li>
+<li>Reto Knutti: Success stories, prospects and challenges in predicting long-term climate change</li>
+</ul></li>
+<li><ol start="20200324" type="1">
+<li>AGU Atmospheric Sciences Webinar Series Part 4 of 8: From the Past Into the Future</li>
+</ol>
+<ul>
+<li>Susan C van den Heever: Past Achievements and Future Challenges in Understanding, Observing and Modeling Cloud Processes</li>
+<li>Sonia I Seneviratne: Weather and Climate Extremes</li>
+</ul></li>
+<li><ol start="20191211" type="1">
+<li>Data Analytics and Machine Learning Innovation for Climate and Earth Surface Processes</li>
+</ol>
+<ul>
+<li>Markus Reichstein: Machine learning for a better understanding of the Earth System</li>
+<li>Matthew Hancher: New Techniques for Machine Learning in Earth Science with Google Earth Engine</li>
+<li>Grégoire Mariethoz: Pattern learning approaches for stochastic downscaling in geosciences</li>
+<li>Evan B Goldstein: Machine Learning Components in Coastal Morphodynamic Models</li>
+</ul></li>
+</ul>
+<p>本月还完成了Precipitation Project的海报制作，自我讲解的视频制作和审核评价未完成。</p>
+<p><strong>学习情况总结</strong></p>
+<p>本月的讲座观看情况良好，从中也学到了一些新的知识和工具，基本上达到了预期的目的，希望下个月能够继续努力。</p>
+<p>本月下半段也采用了新的讲座总结方法，希望继续坚持和探索。</p>
+<h2 id="ext-104---climate-modeling-气候模式">EXT 104 - Climate Modeling (气候模式)</h2>
+<p><strong>学习内容总结</strong></p>
+<p>本月完成了CESM 2019 Tutorial Day 1部分的学习，包括CESM的介绍，各组成部分的简单讲解，以及安装CESM模式并且快速上手运行的讲解。部分知识梳理图如下：</p>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CESM/CESM_Chapter_1.jpg" alt="" /><figcaption>EXT 104 Chapter 1 - Introduction to the CESM</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CESM/CESM_Chapter_2A.jpg" alt="" /><figcaption>EXT 104 Chapter 2A - Atmospheric Modeling I - Intro &amp; Dynamics</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CESM/CESM_Chapter_2B.jpg" alt="" /><figcaption>EXT 104 Chapter 2B - Atmospheric Modeling I - Intro &amp; Dynamics</figcaption>
+</figure>
+<figure>
+<img src="http://www-personal.umich.edu/~cxfan/Files/CESM/CESM_Chapter_3.jpg" alt="" /><figcaption>EXT 104 Chapter 3 - Atmospheric Modeling II - Physics in the CAM</figcaption>
+</figure>
+<p><strong>学习情况总结</strong></p>
+<p>作为五月中旬新增的自修课，进度还是比较快的，考虑到四门自修课的任务会较重，适当减慢学习的速度，能够把知识和技能学透彻是最好的。</p>
+<h1 id="科研工作">科研工作</h1>
+<h2 id="solar-farming-项目情况">Solar Farming 项目情况</h2>
+<p>本月开始Manuscript的第一轮修改，老师基本每天抽出一小时时间一句一句的修改，相信通过这样的过程能够学到很多论文写作方面的技巧。论文写作过程中出现的很多问题都是自己的思维定式造成的，因此，这些学到的技巧需要通过适当的笔记进行记录，并在后续的写作过程中反复对照，纠正思维定式，从根本上提升自己的写作能力。</p>
+<p>除了论文文字部分的修改以外，图表展示部分也在不断的精进，因此，数据的进一步分析和处理也随着论文的修改在同步推进。</p>
+<h2 id="小组组会教授一对一谈话">小组组会/教授一对一谈话</h2>
+<p>本月进行了3次组会：</p>
+<ul>
+<li>5月4日：Summer Plan</li>
+<li>5月11日：Paper Discussion - Barker et al 2014 (Xianwen)</li>
+<li>5月18日：Book Reading Club #1</li>
+</ul>
+<p>本月还进行了若干次一对一谈话，主要是对自我学习内容的总结汇报，以及论文修改事项。</p>
+<h2 id="机器学习讨论小组">机器学习讨论小组</h2>
+<p>本月未进行活动。</p>
+<h2 id="climate-dynamics在线讨论群">Climate Dynamics在线讨论群</h2>
+<p>本月开展了3次线上讲座：</p>
+<ul>
+<li>(5/2) Yonggang Liu: Large Equatorial Seasonal Cycle during Marinoan Snowball Earth</li>
+<li>(5/9) Peiqiang Xu: Polar front jet waveguide, teleconnection and temperature extremes over Eurasia in boreal summer</li>
+<li>(5/16) Dawei Li: Climate model dependency of future projection of Antarctic ice sheet</li>
+</ul>
+<h2 id="科研能力提升">科研能力提升</h2>
+<ul>
+<li><strong>文献阅读</strong>：与EXT 102相结合</li>
+<li><strong>专业理论学习</strong>：与EXT 102相结合</li>
+<li><strong>工具基础学习（数理计算机）</strong>：与EXT 101相结合</li>
+<li><strong>气候模式学习</strong>：与EXT 104相结合</li>
+<li><strong>科研写作</strong>：本月无新动态</li>
+<li><strong>科研展示</strong>：与EXT 103相结合</li>
+</ul>
+<h1 id="英语学习">英语学习</h1>
+<p>本月的英语学习情况仍不容乐观。</p>
+<h2 id="口语">口语</h2>
+<p>无练习。</p>
+<h2 id="写作">写作</h2>
+<p>无练习。</p>
+<h2 id="阅读">阅读</h2>
+<p>书籍阅读有所提升，偶尔阅读英语新闻。</p>
+<h2 id="听力">听力</h2>
+<p>偶尔进行了几次TED演讲练习。</p>
+<h2 id="词汇">词汇</h2>
+<p>本月的百词斩词汇坚持情况良好，但仍有空缺天数。</p>
+<h1 id="生活健康">生活健康</h1>
+<h2 id="身体健康">身体健康</h2>
+<p>五月身体状态良好。鉴于疫情仍未解除，应当继续防范，加强锻炼，提高免疫力。</p>
+<h2 id="心理健康">心理健康</h2>
+<p>五月总体情况很好，五月把学习生活安排的很充实，每天都能通过外出体育锻炼等多种方式呼吸新鲜空气。</p>
+<h2 id="体育锻炼">体育锻炼</h2>
+<p>每天早上的早操（舞动青春和放飞理想）都能坚持进行。</p>
+<p>每天傍晚的跑步已经找到状态，也想出了室内锻炼的替代方案，效果较好。本月大部分时间都能够保持良好的体育锻炼的习惯，值得表扬。</p>
+<h2 id="公寓卫生">公寓卫生</h2>
+<p>整体卫生状况良好，每天对厨房进行卫生打扫，每周六对整个屋子进行卫生打扫。</p>
+<h2 id="疫情相关">疫情相关</h2>
+<p>目前疫情形势依然未减，足够的防护和良好的卫生习惯仍在坚持，生活物资保障正常，未出现安全问题。</p>
+<h1 id="六月计划">六月计划</h1>
+<h2 id="本月目标">本月目标</h2>
+<ul>
+<li>继续学习EXT 101，进度至少推进到第13章，并且完成五月巩固练习</li>
+<li>继续学习EXT 102，完成相应的知识梳理图和文献总结（至少4篇）</li>
+<li>继续学习EXT 103，完成相应的讲座总结（至少4篇），并且完成六月讲座任务</li>
+<li>继续学习EXT 104，进度至少推进到Day 2</li>
+<li>完成Solar Farming Manuscript Revision</li>
+<li>利用周末时间，游览附近自然景观</li>
+</ul>
+<h2 id="自修课程">自修课程</h2>
+<p>课程方面，这个月制定了非常详细的目标。101考虑到后半部分都是新知识，每章的内容难度增加且内容可能增加，因此达不到一个月完成8章的速度，仍按照每周一章的进度进行学习，如果确实有困难，也可以按需调整。102和103保证每周至少有一次有效的文献阅读和讲座学习。104放慢进度，一个月只需要将Day 2的内容完成，但一定要保证学习的质量，做好课后练习。</p>
+<p>各课程的要求重复如下：</p>
+<h3 id="ext-101-machine-learning">EXT 101: Machine Learning</h3>
+<p>2020年冬季学期抽时间读了两章的机器学习书本，考虑到机器学习这一个强大的工具在目前各学科各领域的重要性，2020年春夏季学期考虑把这一本书全部完成。</p>
+<p>书本共有19章，除去已经读过的前两章，计划每周完成一个章节的阅读和上机实验。前半本书的内容在秋季学期的STATS 415中已经涉及到，速度可能会更快，进度超前。后半本书的内容是新内容，可能阅读起来会比较费力。预计总共用20周时间将整本书全部攻下。</p>
+<p>这门课的任务包括：</p>
+<ul>
+<li>教材阅读：完成书本的阅读，对涉及到的概念要充分理解；</li>
+<li>上机实习：自己通过使用Python对书中代码进行复现；</li>
+<li>知识梳理图：每一章制作一张知识梳理图，梳理主干内容；</li>
+<li>课后作业：每个月完成一组课后巩固练习，题目自选</li>
+<li>期末大作业：自己拟定一个题目，进行机器学习方法的运用，完成一份分析报告，在年底之前完成。</li>
+</ul>
+<p>这门“虚拟课”的时间将安排在每周一和周四的15:00-17:00，4月27日起正式第一周上课。</p>
+<h3 id="ext-102-as-material-reading">EXT 102: AS Material Reading</h3>
+<p>这门课的目标是<strong>拓宽大气科学知识面，增加知识广度</strong>。主要学习内容是读文献和读书本，次要的内容包括训练科研写作和科研展示。</p>
+<p>这门课的任务包括：</p>
+<ul>
+<li>文献阅读：这几个月的额外阅读材料包括但不限于
+<ul>
+<li>大气学科里各个方向的综述性文献</li>
+<li>运用了创新的统计方法或者模式的一般性文献</li>
+<li>自己感兴趣阅读的文献</li>
+</ul></li>
+<li>书籍阅读：这几个月的额外阅读材料包括但不限于
+<ul>
+<li>Encyclopedia of Atmopsheric Science</li>
+<li>IPCC AR5</li>
+<li>自己感兴趣阅读的书籍</li>
+</ul></li>
+<li>文献总结：对重要的文献，使用MarginNote进行整理，为每一个话题建立一个Notebook，将同类型文献整合在一个Notebook中。对于所有的文献，思考并回答如下的问题：
+<ul>
+<li>What are the main conclusions? How do you understand the conclusions? Do you believe them or not? Why?</li>
+<li>What methods do they use in the research? Are their methods creative or intriguing for your own study?</li>
+<li>Raise three questions based on the importance and implications of the study.</li>
+</ul></li>
+</ul>
+<p>以上的内容均通过每周一对一谈话进行汇报。</p>
+<p>这门“虚拟课”的时间将安排在每周二和周五的13:00-15:00，4月28日起正式第一周上课。</p>
+<h3 id="ext-103-seminar-archive">EXT 103: Seminar Archive</h3>
+<p>对之前存档过，没有认真学习的讲座进行回顾。同时，对个人的科研展示技能进行训练</p>
+<p>具体的任务包括：</p>
+<ul>
+<li>讲座预习：每次观看讲座之前，完成笔记本上相应部分的填充，阅读讲座的摘要。</li>
+<li>讲座观看：范围包括但不限于
+<ul>
+<li>CLaSP Seminar Series</li>
+<li>Climate Dynamics</li>
+<li>CESM Tutorial 2019</li>
+<li>Other Online Seminars...</li>
+</ul></li>
+<li>海报制作：五月份完成一张海报的制作，课题即已发表的第一篇论文，样式按照AGU的要求制作</li>
+<li>科研讲座：六月和七月完成两次讲座训练，这两次讲座的时长为各30分钟，具体课题为
+<ul>
+<li>Talk 1: Climate Change for General Audience (Chinese)</li>
+<li>Talk 2: Radiative Transfer for General Audience (English)</li>
+</ul></li>
+</ul>
+<p>这门“虚拟课”的时间将安排在每周二和周四的10:00-12:00，4月28日起正式第一周上课。 其中，每月上旬和中旬安排讲座观看，每月下旬安排海报和讲座制作。</p>
+<h3 id="ext-104-climate-modeling">EXT 104: Climate Modeling</h3>
+<p>这门课的目标是学习气候模式的理论基础，理解各种气候模式的基本原理，掌握CESM模式的使用方法和技巧。具体而言：</p>
+<ul>
+<li>理论学习：观看学习CESM Tutorial 2019中的Lectures</li>
+<li>知识梳理图：根据每节课的内容，制作相应的知识梳理图</li>
+<li>操作实践：完成网站上对应章节的小练习</li>
+<li>期末大作业：自己拟定一个小型的科研项目，可以与导师商讨并结合现有科研项目，在年底之前完成。</li>
+</ul>
+<p>这门“虚拟课”的时间将安排在每周三的13:00-15:00，5月13日起正式第一周上课。</p>
+<h2 id="科研工作-1">科研工作</h2>
+<p>这个月最重要的工作就是全力完成Solar Farming Manuscript的撰写，在修改的过程中还要额外做笔记，将一些写作技巧和写作误区记下来，在未来的写作过程中对照，纠正自己的写作习惯。</p>
+<p>另外，还要考虑以下与科研有关的问题：</p>
+<ul>
+<li>Qualifying Exam Towards Candidacy</li>
+<li>Side Project: ML Related Scientific Research?</li>
+<li>Future Career: What topic would you like to study into?</li>
+</ul>
+<h2 id="英语提升">英语提升</h2>
+<ul>
+<li>坚持每日单词积累：百词斩</li>
+<li>坚持每日英语阅读：英语新闻和Book Reading Club</li>
+<li>坚持每日英语听力：TED讲座</li>
+</ul>
+<h2 id="体育锻炼-1">体育锻炼</h2>
+<p>延续之前的计划，早上起床后进行早操，上午和下午的课间完成课间操，傍晚进行室外跑步或室内锻炼。</p>
+<h2 id="生活计划">生活计划</h2>
+<p>日常生活，保持正常的生活作息，多吃水果多喝水，工作50分钟休息10分钟窗外远眺，保持家中卫生，勤洗手勤通风。</p>
+<p>这个月要给自己安排两到三次外出踏春活动，享受大自然。可以选择周末，也可以选择工作日的某天（取决于天气条件）。每次出游前，要做好充分的准备，熟悉路线和所需时间，准备好应急预案，保障人身和财产安全。</p>
+]]></content>
+      <categories>
+        <category>Monthly Summary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Spring 2020 Week 9 Progress - June 27th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-06-27-Weekly_Progress_20200627.html</url>
+    <content><![CDATA[<h1 id="本周目标">本周目标</h1>
+<ul>
+<li>完成2020年6月月度总结</li>
+<li>恢复各课程的学习</li>
+<li>开始新的科研工作</li>
+</ul>
+<a id="more"></a>
+<h1 id="本周方针">本周方针</h1>
+<p>本周开始使用Notion进行各项日常工作的管理。</p>
+<ul>
+<li>日常习惯追踪(Habit Tracker):<a href="https://www.notion.so/cxfan0starfan/7c1a8ce7e26b4a1aafc886b5add260b8" target="_blank" rel="noopener">https://www.notion.so/cxfan0starfan/7c1a8ce7e26b4a1aafc886b5add260b8</a></li>
+<li>每周日程安排(Weekly Agenda):<a href="https://www.notion.so/cxfan0starfan/Weekly-Agenda-2de3f37d9b4d472fb5d5fba9bbc9cfcf" target="_blank" rel="noopener">https://www.notion.so/cxfan0starfan/Weekly-Agenda-2de3f37d9b4d472fb5d5fba9bbc9cfcf</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Spring 2020</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Spring 2020 Week 8 Progress - June 20th</title>
     <url>/cxfan_starfan/blog/Weekly-Progress/2020-06-20-Weekly_Progress_20200620.html</url>
     <content><![CDATA[<h1 id="本周目标">本周目标</h1>
@@ -20,127 +346,131 @@
 </ol>
 <h2 id="current-to-do-list">CURRENT TO-DO LIST</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 101 Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 101 Homework May</li>
 <li><input type="checkbox" disabled="" />
 CUR: EXT 102 Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Talk 2 Preparation</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 103 Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 104 Practice</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: EXT 104 Review</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Solar Farming Manuscript</li>
 <li><input type="checkbox" disabled="" />
 RES: Cloud Classification Project</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Book Reading Club</li>
 </ul>
 <h2 id="solar-farming">Solar Farming</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 Group Discussion</li>
 <li><input type="checkbox" disabled="" />
 Submission</li>
 </ul>
 <h2 id="upcoming-seminars">Upcoming Seminars</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 June 22nd - 26th: 2020 AI4ESS Workshop</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 June 23rd - 26th: ARM/ASR PI Meeting (https://www.orau.gov/2020armasr/zoom-links.htm)</li>
 </ul>
 <h1 id="每日任务跟踪">每日任务跟踪</h1>
 <p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS)</p>
 <h2 id="月20日周六">6月20日（周六）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Room Cleaning</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Laundry</li>
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 101 Chapter 12 Mindmap</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+<strong>CUR: EXT 101 Chapter 12 Mindmap</strong> -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 101 Homework May</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Manuscript Revision</li>
 <li><input type="checkbox" disabled="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>ENG: Reading Training - Book Reading Club Review</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月21日周日">6月21日（周日）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 101 Homework May</strong></li>
-<li><input type="checkbox" disabled="" />
-<strong>CUR: EXT 103 Talk 2 Preparation</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+<strong>CUR: EXT 103 Talk 2 Preparation</strong> -&gt; NOT FINISHED</li>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>ENG: Reading Training - Book Reading Club Chapter 4</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月22日周一">6月22日（周一）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 101 Homework May</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+<strong>CUR: EXT 101 Chapter 12 Mindmap</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 <strong>ENG: Reading Training - Book Reading Club Chapter 4</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月23日周二">6月23日（周二）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 103 Review</strong></li>
 <li><input type="checkbox" disabled="" />
 <strong>CUR: EXT 102 Review</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 <strong>ENG: Reading Training - Book Reading Club Chapter 4</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月24日周三">6月24日（周三）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 104 Review</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 103 Talk 2 Preparation</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Exercise - Gallup Extended</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 <strong>ENG: Reading Training - Book Reading Club Chapter 4</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月25日周四">6月25日（周四）</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 103 Review</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>CUR: EXT 101 Homework May</strong></li>
 <li><input type="checkbox" disabled="" />
 RES: Online Teaching</li>
@@ -150,7 +480,7 @@ EXR: Daily Exercise</li>
 ENG: Listening Training</li>
 <li><input type="checkbox" disabled="" />
 <strong>ENG: Reading Training - Book Reading Club Chapter 4</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
 <h2 id="月26日周五">6月26日（周五）</h2>
@@ -163,11 +493,13 @@ RTN: Week 8 Summary and Week 9 Plan</li>
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Listening Training</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 <strong>ENG: Reading Training - Book Reading Club Chapter 4</strong></li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Baicizhan Vocabulary</li>
 </ul>
+<h1 id="本周总结">本周总结</h1>
+<p>本周前半段效率较高，各项大作业都高效的完成。本周后半段的效率大幅下降，周总结和周计划都没有认真完成。</p>
 ]]></content>
       <categories>
         <category>Weekly Progress</category>
