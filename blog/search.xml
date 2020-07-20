@@ -1,6 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Summer 2020 Week 3 Progress - July 18th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-07-18-Weekly_Progress_20200718.html</url>
+    <content><![CDATA[<h1 id="本周目标">本周目标</h1>
+<ul>
+<li>完成EXT 101 Chapter 16的学习</li>
+<li>完成EXT 102 至少一篇Cloud Retrieval文献学习</li>
+<li>完成EXT 103 Talk 3 Radiative Transfer的准备</li>
+<li>上机编译和试运行CESM模式，熟悉相关操作</li>
+<li>完成Cloud Classification Project的DNN和CNN尝试</li>
+<li>完成AGU Abstract</li>
+</ul>
+<a id="more"></a>
+<h1 id="本周方针">本周方针</h1>
+<p>使用Notion对日常工作进行管理效果不佳，经过尝试之后，决定回到原先的每周计划总结模式。</p>
+<h2 id="to-do-list">TO-DO LIST</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: EXT 101 Chapter 16</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 101 Homework June</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 102 Cloud Retrieval 1</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 102 Review</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 103 Talk 3 Preparation</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 103 Review</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 104 Practice</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 104 Review</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Project</li>
+<li><input type="checkbox" disabled="" />
+RES: Book Reading Club</li>
+</ul>
+<h1 id="每日任务跟踪">每日任务跟踪</h1>
+<p>分类：例行(RTN)、生活(LIF)、锻炼(EXR)、课程(CUR)、英语(ENG)、科研(RES)、社交(SOC)、其它(MIS) 标志：N正常完成、U未完成、P部分完成、H搁置、R日常重复工作、加粗重要、斜体紧急</p>
+<h2 id="月18日周六">7月18日（周六）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF-N: Room Cleaning</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF-N: Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS-P: Yearly Summary Video</li>
+<li><input type="checkbox" disabled="" />
+EXR-U: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG-U: Listening Training</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG-R: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG-U: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月19日周日">7月19日（周日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR-P: EXT 103 Talk 3 Preparation</li>
+<li><input type="checkbox" disabled="" />
+EXR-U: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG-U: Listening Training</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG-R: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG-U: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月20日周一">7月20日（周一）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+<strong><em>RES: Individual Meeting</em></strong></li>
+<li><input type="checkbox" disabled="" />
+<strong><em>RES: Book Reading Club Write Review</em></strong></li>
+<li><input type="checkbox" disabled="" />
+RES: AGU Abstract</li>
+<li><input type="checkbox" disabled="" />
+<strong><em>CUR: EXT 101 Chapter 16 Reading</em></strong></li>
+<li><input type="checkbox" disabled="" />
+MIS: Yearly Summary Video</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Listening Training</li>
+<li><input type="checkbox" disabled="" />
+ENG: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月21日周二">7月21日（周二）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+<strong><em>CUR: EXT 102 Cloud Retrieval Paper 1</em></strong></li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 101 Homework June</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Project</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Listening Training</li>
+<li><input type="checkbox" disabled="" />
+ENG: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月22日周三">7月22日（周三）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: EXT 103 Talk 3 Preparation</li>
+<li><input type="checkbox" disabled="" />
+<strong>CUR: EXT 104 Cheyenne Practice</strong></li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Project</li>
+<li><input type="checkbox" disabled="" />
+LIF: Grocery Shopping</li>
+<li><input type="checkbox" disabled="" />
+LIF: Online Grocery Shopping</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Listening Training</li>
+<li><input type="checkbox" disabled="" />
+ENG: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月23日周四">7月23日（周四）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: Group Meeting</li>
+<li><input type="checkbox" disabled="" />
+<strong><em>CUR: EXT 101 Chapter 16 Lab</em></strong></li>
+<li><input type="checkbox" disabled="" />
+<strong><em>CUR: EXT 102 Cloud Retrieval Paper 2</em></strong></li>
+<li><input type="checkbox" disabled="" />
+MIS: Yearly Summary Video</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Listening Training</li>
+<li><input type="checkbox" disabled="" />
+ENG: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+<h2 id="月24日周五">7月24日（周五）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RTN: Week 3 Summary and Week 4 Plan</li>
+<li><input type="checkbox" disabled="" />
+<strong><em>CUR: EXT 104 Cheyenne Practice</em></strong></li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 101 Homework June</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Listening Training</li>
+<li><input type="checkbox" disabled="" />
+ENG: Reading Training - Book Reading Club</li>
+<li><input type="checkbox" disabled="" />
+ENG: Baicizhan Vocabulary</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Summer 2020</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Spring 2020 Monthly Report - June</title>
     <url>/cxfan_starfan/blog/Monthly-Summary/2020-06-30-Monthly_Summary_202006.html</url>
     <content><![CDATA[<h1 id="综述">综述</h1>
