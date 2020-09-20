@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | 陪星哥逍遥</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/category/project/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/category/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>© Chongxing Fan 2019-2020</copyright><lastBuildDate>Mon, 27 Jan 2020 15:10:26 -0500</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Project</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/category/project/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Solar Farming on Local Surface Radiation Budget and Climate from Long-Term NASA Satellite Observations</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/solar_farming/</link>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/solar_farming/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;With the acceleration of global warming, many countries are paving the way to shift their energy consumption to the form of renewable energy. Solar energy is one popular choice due to its easy accessibility.
+With more and more solar panels installed, they can alter the surface albedo and consequently affect the surface radiation budget, potentially affecting the local climate and beyond.
+A few modeling studies have suggested such potential effects, but no long-term observations have been employed to verify such modeling results or corroborate their findings.
+Moderate Resolution Imaging Spectroradiometer (MODIS) aboard Aqua and Terra satellites has been collecting high spatial-resolution radiance data since 2000.
+My preliminary study indicates discernible changes in surface albedo before and after the installation of solar panels, which can be seen from MODIS retrieved surface reflectance across all shortwave and near-IR bands.
+Motivated by this preliminary result, I propose to use chiefly NASA A-train observations to quantify the impact of solar farming on observed surface spectral albedo, surface emissivity, and skin temperature.
+I will utilize the Moderate Resolution Imaging Spectroradiometer (MODIS) onboard NASA’s Aqua satellite to quantify the impact on local surface radiation budget on a pixel by pixel scale.
+Furthermore, I will further diagnose its impact on local climate and beyond with a combination of data analysis and modeling.
+Using such observationally derived changes as input to the Weather Research and Forecasting (WRF) model, I can investigate how much change in local surface radiation budget and regional climate can be expected if such solar farms are deployed in much larger spatial scale.
+This study will help understand the outcomes of anthropogenic surface type change, especially how it will contribute to the climate system.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Climate, Satellite, MODIS, Radiation&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
