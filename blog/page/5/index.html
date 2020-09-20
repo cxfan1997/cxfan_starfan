@@ -4,37 +4,44 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
 <meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 4.2.1">
+<meta name="generator" content="Hexo 5.2.0">
   <link rel="apple-touch-icon" sizes="180x180" href="/cxfan_starfan/blog/images/apple-touch-icon-next.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/cxfan_starfan/blog/favicon.ico">
   <link rel="icon" type="image/png" sizes="16x16" href="/cxfan_starfan/blog/favicon.ico">
   <link rel="mask-icon" href="/cxfan_starfan/blog/images/logo.svg" color="#222">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 <link rel="stylesheet" href="/cxfan_starfan/blog/css/main.css">
 
 
-<link rel="stylesheet" href="/cxfan_starfan/blog/lib/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
 
-<script id="hexo-configurations">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.css">
+  <script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.js"></script>
+
+<script class="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"cxfan-kamisama.github.io","root":"/cxfan_starfan/blog/","scheme":"Gemini","version":"7.7.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":true,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+    var CONFIG = {"hostname":"cxfan-kamisama.github.io","root":"/cxfan_starfan/blog/","scheme":"Gemini","version":"8.0.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
   </script>
 
-  <meta name="description" content="This is Chongxing&#39;s Personal Blogging Website">
+  <meta name="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
 <meta property="og:type" content="website">
-<meta property="og:title" content="StarFan">
-<meta property="og:url" content="http://cxfan-kamisama.github.io/cxfan_starfan/blog/page/5/index.html">
-<meta property="og:site_name" content="StarFan">
-<meta property="og:description" content="This is Chongxing&#39;s Personal Blogging Website">
+<meta property="og:title" content="StarFan Blog">
+<meta property="og:url" content="http://cxfan-kamisama.github.io/cxfan_starfan/blog/page/5/">
+<meta property="og:site_name" content="StarFan Blog">
+<meta property="og:description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
 <meta property="og:locale" content="en_US">
 <meta property="article:author" content="Chongxing Fan">
 <meta name="twitter:card" content="summary">
 
+
 <link rel="canonical" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/page/5/">
 
 
-<script id="page-configurations">
+<script class="page-configurations">
   // https://hexo.io/docs/variables.html
   CONFIG.page = {
     sidebar: "",
@@ -44,7 +51,7 @@
   };
 </script>
 
-  <title>StarFan</title>
+  <title>StarFan Blog</title>
   
 
 
@@ -54,53 +61,63 @@
 
   <noscript>
   <style>
-  .use-motion .brand,
+  body { margin-top: 2rem; }
+
   .use-motion .menu-item,
-  .sidebar-inner,
+  .use-motion .sidebar,
   .use-motion .post-block,
   .use-motion .pagination,
   .use-motion .comments,
   .use-motion .post-header,
   .use-motion .post-body,
-  .use-motion .collection-header { opacity: initial; }
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
 
   .use-motion .site-title,
-  .use-motion .site-subtitle {
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
     opacity: initial;
     top: initial;
   }
 
-  .use-motion .logo-line-before i { left: initial; }
-  .use-motion .logo-line-after i { right: initial; }
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
   </style>
 </noscript>
 
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage">
-  <div class="container use-motion">
-    <div class="headband"></div>
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
 
+  <main class="main">
     <header class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-container">
   <div class="site-nav-toggle">
     <div class="toggle" aria-label="Toggle navigation bar">
-      <span class="toggle-line toggle-line-first"></span>
-      <span class="toggle-line toggle-line-middle"></span>
-      <span class="toggle-line toggle-line-last"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
     </div>
   </div>
 
   <div class="site-meta">
 
-    <div>
-      <a href="/cxfan_starfan/blog/" class="brand" rel="start">
-        <span class="logo-line-before"><i></i></span>
-        <span class="site-title">StarFan</span>
-        <span class="logo-line-after"><i></i></span>
-      </a>
-    </div>
-        <p class="site-subtitle">Blog Website</p>
+    <a href="/cxfan_starfan/blog/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">StarFan Blog</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">Daily Life Record</p>
   </div>
 
   <div class="site-nav-right">
@@ -111,32 +128,32 @@
 </div>
 
 
+
 <nav class="site-nav">
-  
-  <ul id="menu" class="menu">
+  <ul class="main-menu menu">
         <li class="menu-item menu-item-home">
 
-    <a href="/cxfan_starfan/blog/" rel="section"><i class="fa fa-fw fa-home"></i>Home</a>
-
-  </li>
-        <li class="menu-item menu-item-archives">
-
-    <a href="/cxfan_starfan/blog/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>Archives</a>
+    <a href="/cxfan_starfan/blog/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
 
   </li>
         <li class="menu-item menu-item-tags">
 
-    <a href="/cxfan_starfan/blog/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>Tags</a>
+    <a href="/cxfan_starfan/blog/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a>
 
   </li>
         <li class="menu-item menu-item-categories">
 
-    <a href="/cxfan_starfan/blog/categories/" rel="section"><i class="fa fa-fw fa-th"></i>Categories</a>
+    <a href="/cxfan_starfan/blog/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a>
 
   </li>
-        <li class="menu-item menu-item-back">
+        <li class="menu-item menu-item-archives">
 
-    <a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html" rel="section"><i class="fa fa-fw fa-arrow-left"></i>Back</a>
+    <a href="/cxfan_starfan/blog/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+        <li class="menu-item menu-item-starfan">
+
+    <a href="https://cxfan-kamisama.github.io/cxfan_starfan/index.html" rel="section"><i class="fa fa-star fa-fw"></i>Starfan</a>
 
   </li>
       <li class="menu-item menu-item-search">
@@ -144,17 +161,18 @@
         </a>
       </li>
   </ul>
-
 </nav>
-  <div class="site-search">
-    <div class="search-pop-overlay">
-  <div class="popup search-popup">
-      <div class="search-header">
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
   <span class="search-icon">
     <i class="fa fa-search"></i>
   </span>
   <div class="search-input-container">
-    <input autocomplete="off" autocorrect="off" autocapitalize="off"
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
            placeholder="Searching..." spellcheck="false"
            type="search" class="search-input">
   </div>
@@ -162,94 +180,175 @@
     <i class="fa fa-times-circle"></i>
   </span>
 </div>
-<div id="search-result">
-  <div id="no-result">
-    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
   </div>
 </div>
 
+    </div>
   </div>
-</div>
 
-  </div>
 </div>
+        
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-overview-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <section class="post-toc-wrap sidebar-panel">
+      </section>
+      <!--/noindex-->
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Chongxing Fan"
+      src="/cxfan_starfan/blog/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Chongxing Fan</p>
+  <div class="site-description" itemprop="description">Story of a Ph.D. Candidate in University of Michigan, Ann Arbor</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/cxfan_starfan/blog/archives/">
+        
+          <span class="site-state-item-count">55</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/cxfan_starfan/blog/categories/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/cxfan_starfan/blog/tags/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/cxfan-kamisama" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;cxfan-kamisama" rel="noopener" target="_blank"><i class="github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:fancx0902@gmail.com" title="E-Mail → mailto:fancx0902@gmail.com" rel="noopener" target="_blank"><i class="envelope fa-fw"></i></a>
+      </span>
+  </div>
+
+
+
+      </section>
+        <div class="back-to-top animated">
+          <i class="fa fa-arrow-up"></i>
+          <span>0%</span>
+        </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
     </header>
 
     
   <div class="reading-progress-bar"></div>
 
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
 
-    <main class="main">
-      <div class="main-inner">
-        <div class="content-wrap">
-          
 
-          <div class="content">
-            
+    <div class="main-inner index posts-expand">
+      
 
-  <div class="posts-expand">
-        
+      
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html" class="post-title-link" itemprop="url">Fall 2019 Term Report</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-12-30 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-30T09:00:00-05:00">2019-12-30</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-28 10:50:16" itemprop="dateModified" datetime="2019-12-28T10:50:16-05:00">2019-12-28</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Term-Summary/" itemprop="url" rel="index"><span itemprop="name">Term Summary</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-12-30 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-30T09:00:00-05:00">2019-12-30</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-12-28 10:50:16" itemprop="dateModified" datetime="2019-12-28T10:50:16-05:00">2019-12-28</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Term-Summary/" itemprop="url" rel="index"><span itemprop="name">Term Summary</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>19k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>17 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>19k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>17 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -258,10 +357,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="摘要">摘要</h1>
-<p>2019年秋季学期圆满画上句号。《在美留学手册》中，五年留学生活中的第一年被称为是“适应期”。远赴重洋来到安娜堡小城，除了适应异国他乡的生活，还要找到更加高效的学习工作方法，来适应西式的研究生学习风格和节奏。在第一学期，Chongxing同学在保持身心健康，坚持体育锻炼，丰富课下生活的前提下，明确了日常工作中的“三座大山”：课程学习、科研工作和英语提升，并且在这些方面做出了非常好的成绩。虽然在此过程中仍然暴露出很多问题，不过对于刚刚入学的新生来说，这样的成绩已经可以打到85分了。</p>
+          <h1 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h1><p>2019年秋季学期圆满画上句号。《在美留学手册》中，五年留学生活中的第一年被称为是“适应期”。远赴重洋来到安娜堡小城，除了适应异国他乡的生活，还要找到更加高效的学习工作方法，来适应西式的研究生学习风格和节奏。在第一学期，Chongxing同学在保持身心健康，坚持体育锻炼，丰富课下生活的前提下，明确了日常工作中的“三座大山”：课程学习、科研工作和英语提升，并且在这些方面做出了非常好的成绩。虽然在此过程中仍然暴露出很多问题，不过对于刚刚入学的新生来说，这样的成绩已经可以打到85分了。</p>
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/cxfan_starfan/blog/Term-Summary/2019-12-30-Term_Report_2019Fall.html#more" rel="contents">
@@ -276,76 +372,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-12-28-Weekly_Progress_20191228.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-12-28-Weekly_Progress_20191228.html" class="post-title-link" itemprop="url">Fall 2019 Week 18 Progress - December 28th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-12-28 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-28T09:00:00-05:00">2019-12-28</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2020-01-03 22:45:23" itemprop="dateModified" datetime="2020-01-03T22:45:23-05:00">2020-01-03</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-12-28 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-28T09:00:00-05:00">2019-12-28</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2020-01-03 22:45:23" itemprop="dateModified" datetime="2020-01-03T22:45:23-05:00">2020-01-03</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1.9k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>2 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.8k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -354,10 +459,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>完成学期总结计划和月度总结计划</li>
 <li>过渡到新的作息时间表</li>
 <li>继续完成假期整理、学习和预习任务</li>
@@ -376,76 +478,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-12-14-Weekly_Progress_20191214.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-12-14-Weekly_Progress_20191214.html" class="post-title-link" itemprop="url">Fall 2019 Week 16 Progress - December 14th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-12-14 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-14T09:00:00-05:00">2019-12-14</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-27 21:09:41" itemprop="dateModified" datetime="2019-12-27T21:09:41-05:00">2019-12-27</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-12-14 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-14T09:00:00-05:00">2019-12-14</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-12-27 21:09:41" itemprop="dateModified" datetime="2019-12-27T21:09:41-05:00">2019-12-27</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1.5k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.4k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -454,10 +565,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>执行假期作息时间安排表</li>
 <li>完成部分活动提案</li>
 <li>接待星妈来安娜堡</li>
@@ -476,76 +584,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-12-07-Weekly_Progress_20191207.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-12-07-Weekly_Progress_20191207.html" class="post-title-link" itemprop="url">Fall 2019 Week 15 Progress - December 7th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-12-07 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-07T09:00:00-05:00">2019-12-07</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-16 14:03:27" itemprop="dateModified" datetime="2019-12-16T14:03:27-05:00">2019-12-16</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-12-07 09:00:00" itemprop="dateCreated datePublished" datetime="2019-12-07T09:00:00-05:00">2019-12-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-12-16 14:03:27" itemprop="dateModified" datetime="2019-12-16T14:03:27-05:00">2019-12-16</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1.9k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>2 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.8k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -554,10 +671,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>完成并提交551期末考试试卷</li>
 <li>完成并提交747最后一次作业</li>
 <li>将本学期科研工作收尾，从下周开始不再开展新工作</li>
@@ -576,70 +690,79 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Monthly-Summary/2019-11-30-Monthly_Summary_201911.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Monthly-Summary/2019-11-30-Monthly_Summary_201911.html" class="post-title-link" itemprop="url">Fall 2019 Monthly Report - November</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-              
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+      
 
-              <time title="Created: 2019-11-30 19:00:00 / Modified: 20:24:12" itemprop="dateCreated datePublished" datetime="2019-11-30T19:00:00-05:00">2019-11-30</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Monthly-Summary/" itemprop="url" rel="index"><span itemprop="name">Monthly Summary</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-11-30 19:00:00 / Modified: 20:24:12" itemprop="dateCreated datePublished" datetime="2019-11-30T19:00:00-05:00">2019-11-30</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Monthly-Summary/" itemprop="url" rel="index"><span itemprop="name">Monthly Summary</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>8k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>7 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>8k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>7 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -648,10 +771,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="综述">综述</h1>
-<p>根据本月月度计划，2019年秋季学期十一月的月度目标为：</p>
+          <h1 id="综述"><a href="#综述" class="headerlink" title="综述"></a>综述</h1><p>根据本月月度计划，2019年秋季学期十一月的月度目标为：</p>
 <ul>
 <li>加强时间管理，顺利度过繁忙的十一月，迎接期末；</li>
 <li>顺利完成驾照路考；</li>
@@ -675,76 +795,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-11-30-Weekly_Progress_20191130.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-11-30-Weekly_Progress_20191130.html" class="post-title-link" itemprop="url">Fall 2019 Week 14 Progress - November 30th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-11-30 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-30T09:00:00-05:00">2019-11-30</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-12-07 22:26:07" itemprop="dateModified" datetime="2019-12-07T22:26:07-05:00">2019-12-07</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-11-30 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-30T09:00:00-05:00">2019-11-30</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-12-07 22:26:07" itemprop="dateModified" datetime="2019-12-07T22:26:07-05:00">2019-12-07</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>2k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>2 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.8k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -753,10 +882,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>顺利完成473期末展示，提交期末报告</li>
 <li>做好期末各课程收尾工作</li>
 </ul>
@@ -774,76 +900,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-11-23-Weekly_Progress_20191123.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-11-23-Weekly_Progress_20191123.html" class="post-title-link" itemprop="url">Fall 2019 Week 13 Progress - November 23th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-11-23 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-23T09:00:00-05:00">2019-11-23</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-11-30 16:10:25" itemprop="dateModified" datetime="2019-11-30T16:10:25-05:00">2019-11-30</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-11-23 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-23T09:00:00-05:00">2019-11-23</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-11-30 16:10:25" itemprop="dateModified" datetime="2019-11-30T16:10:25-05:00">2019-11-30</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>2.1k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>2 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.9k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -852,10 +987,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>顺利完成551第二次考试</li>
 <li>做好期末各课程收尾工作</li>
 <li>利用感恩节假期加强体育锻炼，完成新一轮信息更新</li>
@@ -874,76 +1006,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-11-16-Weekly_Progress_20191116.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-11-16-Weekly_Progress_20191116.html" class="post-title-link" itemprop="url">Fall 2019 Week 12 Progress - November 16th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-11-16 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-16T09:00:00-05:00">2019-11-16</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-11-23 22:53:36" itemprop="dateModified" datetime="2019-11-23T22:53:36-05:00">2019-11-23</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-11-16 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-16T09:00:00-05:00">2019-11-16</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-11-23 22:53:36" itemprop="dateModified" datetime="2019-11-23T22:53:36-05:00">2019-11-23</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>2.1k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>2 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.9k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -952,10 +1093,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>完成747、531课程的期末一对一谈话</li>
 <li>准备551第二次考试</li>
 <li>继续加强学习、科研、英语三项工作</li>
@@ -974,70 +1112,79 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/English/2019-11-14-Systematic_English_Update.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/English/2019-11-14-Systematic_English_Update.html" class="post-title-link" itemprop="url">Systematic English Self-Study Plan Update</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-              
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+      
 
-              <time title="Created: 2019-11-14 15:00:00 / Modified: 15:21:24" itemprop="dateCreated datePublished" datetime="2019-11-14T15:00:00-05:00">2019-11-14</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/English/" itemprop="url" rel="index"><span itemprop="name">English</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-11-14 15:00:00 / Modified: 15:21:24" itemprop="dateCreated datePublished" datetime="2019-11-14T15:00:00-05:00">2019-11-14</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/English/" itemprop="url" rel="index"><span itemprop="name">English</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>6.8k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>6 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>6.9k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>6 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -1046,10 +1193,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="systematic-english-self-study-plan-update">Systematic English Self-Study Plan Update</h1>
-<p>It has been one month since I carried out the Systematic English Self-Study Plan. However, only a few tasks are done in the past weeks. Daily email is the only task that has been done throughout the whole month. During the process, it has been found that while sometimes I was too busy to do the practice, I lost interests in some jobs, which should be improved. Therefore, it is time to update a new version of self-study plan.</p>
+          <h1 id="Systematic-English-Self-Study-Plan-Update"><a href="#Systematic-English-Self-Study-Plan-Update" class="headerlink" title="Systematic English Self-Study Plan Update"></a>Systematic English Self-Study Plan Update</h1><p>It has been one month since I carried out the Systematic English Self-Study Plan. However, only a few tasks are done in the past weeks. Daily email is the only task that has been done throughout the whole month. During the process, it has been found that while sometimes I was too busy to do the practice, I lost interests in some jobs, which should be improved. Therefore, it is time to update a new version of self-study plan.</p>
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/cxfan_starfan/blog/English/2019-11-14-Systematic_English_Update.html#more" rel="contents">
@@ -1064,76 +1208,85 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-        
+      
   
   
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="en">
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://cxfan-kamisama.github.io/cxfan_starfan/blog/Weekly-Progress/2019-11-09-Weekly_Progress_20191109.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/cxfan_starfan/blog/images/avatar.jpg">
       <meta itemprop="name" content="Chongxing Fan">
-      <meta itemprop="description" content="This is Chongxing's Personal Blogging Website">
+      <meta itemprop="description" content="Story of a Ph.D. Candidate in University of Michigan, Ann Arbor">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="StarFan">
+      <meta itemprop="name" content="StarFan Blog">
     </span>
+
+    
+    
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             <a href="/cxfan_starfan/blog/Weekly-Progress/2019-11-09-Weekly_Progress_20191109.html" class="post-title-link" itemprop="url">Fall 2019 Week 11 Progress - November 9th</a>
-        </h1>
+        </h2>
 
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2019-11-09 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-09T09:00:00-05:00">2019-11-09</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-11-16 22:07:09" itemprop="dateModified" datetime="2019-11-16T22:07:09-05:00">2019-11-16</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
-                </span>
-            </span>
+      <time title="Created: 2019-11-09 09:00:00" itemprop="dateCreated datePublished" datetime="2019-11-09T09:00:00-05:00">2019-11-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">Edited on</span>
+        <time title="Modified: 2019-11-16 22:07:09" itemprop="dateModified" datetime="2019-11-16T22:07:09-05:00">2019-11-16</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/cxfan_starfan/blog/categories/Weekly-Progress/" itemprop="url" rel="index"><span itemprop="name">Weekly Progress</span></a>
+        </span>
+    </span>
 
-          <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>2.4k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>2 mins.</span>
-            </span>
+  
+      </div>
+      <div class="post-meta">
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>2.2k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+</div>
 
         </div>
       </header>
@@ -1142,10 +1295,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="本周目标">本周目标</h1>
-<ul>
+          <h1 id="本周目标"><a href="#本周目标" class="headerlink" title="本周目标"></a>本周目标</h1><ul>
 <li>补上551课程和473课程的复习进度</li>
 <li>全面整理学习、科研、生活相关工作</li>
 </ul>
@@ -1163,15 +1313,16 @@
     
     
     
-      <footer class="post-footer">
+
+    <footer class="post-footer">
         <div class="post-eof"></div>
-      </footer>
+      
+    </footer>
   </article>
   
   
   
 
-  </div>
 
   
   <nav class="pagination">
@@ -1180,8 +1331,7 @@
 
 
 
-          </div>
-          
+      
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -1190,7 +1340,7 @@
       activeClass = localStorage.getItem('comments_active') || activeClass;
     }
     if (activeClass) {
-      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
       if (activeTab) {
         activeTab.click();
       }
@@ -1199,165 +1349,62 @@
   if (CONFIG.comments.storage) {
     window.addEventListener('tabs:click', event => {
       if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      let commentClass = event.target.classList[1];
+      const commentClass = event.target.classList[1];
       localStorage.setItem('comments_active', commentClass);
     });
   }
 </script>
 
-        </div>
-          
-  
-  <div class="toggle sidebar-toggle">
-    <span class="toggle-line toggle-line-first"></span>
-    <span class="toggle-line toggle-line-middle"></span>
-    <span class="toggle-line toggle-line-last"></span>
-  </div>
-
-  <aside class="sidebar">
-    <div class="sidebar-inner">
-
-      <ul class="sidebar-nav motion-element">
-        <li class="sidebar-nav-toc">
-          Table of Contents
-        </li>
-        <li class="sidebar-nav-overview">
-          Overview
-        </li>
-      </ul>
-
-      <!--noindex-->
-      <div class="post-toc-wrap sidebar-panel">
-      </div>
-      <!--/noindex-->
-
-      <div class="site-overview-wrap sidebar-panel">
-        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Chongxing Fan"
-      src="/cxfan_starfan/blog/images/avatar.jpg">
-  <p class="site-author-name" itemprop="name">Chongxing Fan</p>
-  <div class="site-description" itemprop="description">This is Chongxing's Personal Blogging Website</div>
-</div>
-<div class="site-state-wrap motion-element">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/cxfan_starfan/blog/archives/">
-        
-          <span class="site-state-item-count">55</span>
-          <span class="site-state-item-name">posts</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/cxfan_starfan/blog/categories/">
-          
-        <span class="site-state-item-count">5</span>
-        <span class="site-state-item-name">categories</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/cxfan_starfan/blog/tags/">
-          
-        <span class="site-state-item-count">5</span>
-        <span class="site-state-item-name">tags</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author motion-element">
-      <span class="links-of-author-item">
-        <a href="https://github.com/cxfan-kamisama" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;cxfan-kamisama" rel="noopener" target="_blank"><i class="fa fa-fw fa-github"></i></a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:fancx0902@gmail.com" title="E-Mail → mailto:fancx0902@gmail.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i></a>
-      </span>
-  </div>
-
-
-
-      </div>
-        <div class="back-to-top motion-element">
-          <i class="fa fa-arrow-up"></i>
-          <span>0%</span>
-        </div>
-
     </div>
-  </aside>
-  <div id="sidebar-dimmer"></div>
+  </main>
 
+  <footer class="footer">
+    <div class="footer-inner">
+      
 
-      </div>
-    </main>
-
-    <footer class="footer">
-      <div class="footer-inner">
-        
-
-        
+      
 
 <div class="copyright">
   
-  &copy; 
+  &copy; 2019 – 
   <span itemprop="copyrightYear">2020</span>
   <span class="with-love">
-    <i class="fa fa-user"></i>
+    <i class="fa fa-heart"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Chongxing Fan</span>
-    <span class="post-meta-divider">|</span>
+</div>
+<div class="wordcount">
+  <span class="post-meta-item">
     <span class="post-meta-item-icon">
-      <i class="fa fa-area-chart"></i>
+      <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Symbols count total">221k</span>
-    <span class="post-meta-divider">|</span>
+    <span title="Symbols count total">212k</span>
+  </span>
+  <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">3:21</span>
+    <span title="Reading time total">3:13</span>
+  </span>
 </div>
-  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> v4.2.1
-  </div>
-  <span class="post-meta-divider">|</span>
-  <div class="theme-info">Theme – <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> v7.7.2
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a>
   </div>
 
-        
-
-
-
-
-
-
-
-
-      </div>
-    </footer>
-  </div>
+    </div>
+  </footer>
 
   
-  <script src="/cxfan_starfan/blog/lib/anime.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-  <script src="/cxfan_starfan/blog/lib/velocity/velocity.min.js"></script>
-  <script src="/cxfan_starfan/blog/lib/velocity/velocity.ui.min.js"></script>
-
-<script src="/cxfan_starfan/blog/js/utils.js"></script>
-
-<script src="/cxfan_starfan/blog/js/motion.js"></script>
-
-
-<script src="/cxfan_starfan/blog/js/schemes/pisces.js"></script>
-
-
-<script src="/cxfan_starfan/blog/js/next-boot.js"></script>
-
-
-
+  <script src="//cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/cxfan_starfan/blog/js/utils.js"></script><script src="/cxfan_starfan/blog/js/motion.js"></script><script src="/cxfan_starfan/blog/js/next-boot.js"></script>
 
   
 
 
 
 
-  
-<script src="/cxfan_starfan/blog/js/local-search.js"></script>
-
+  <script src="/cxfan_starfan/blog/js/local-search.js"></script>
 
 
 
@@ -1368,16 +1415,16 @@
 
 <script>
 document.querySelectorAll('.pdfobject-container').forEach(element => {
-  let url = element.dataset.target;
-  let pdfOpenParams = {
+  const url = element.dataset.target;
+  const pdfOpenParams = {
     navpanes : 0,
     toolbar  : 0,
     statusbar: 0,
     pagemode : 'thumbs',
     view     : 'FitH'
   };
-  let pdfOpenFragment = '#' + Object.entries(pdfOpenParams).map(([key, value]) => `${key}=${encodeURIComponent(value)}`).join('&');
-  let fullURL = `/cxfan_starfan/blog/lib/pdf/web/viewer.html?file=${encodeURIComponent(url)}${pdfOpenFragment}`;
+  const pdfOpenFragment = '#' + Object.entries(pdfOpenParams).map(([key, value]) => `${key}=${encodeURIComponent(value)}`).join('&');
+  const fullURL = `/cxfan_starfan/blog/lib/pdf/web/viewer.html?file=${encodeURIComponent(url)}${pdfOpenFragment}`;
 
   if (NexT.utils.supportsPDFs()) {
     element.innerHTML = `<embed class="pdfobject" src="${url + pdfOpenFragment}" type="application/pdf" style="height: ${element.dataset.height};">`;
@@ -1388,76 +1435,56 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
 </script>
 
 
-
-
-  
-
-  
-      
-
 <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      loader: {
-        source: {
-          '[tex]/amsCd': '[tex]/amscd',
-          '[tex]/AMScd': '[tex]/amscd'
-        }
-      },
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'ams'
-      },
-      options: {
-        renderActions: {
-          findScript: [10, doc => {
-            document.querySelectorAll('script[type^="math/tex"]').forEach(node => {
-              const display = !!node.type.match(/; *mode=display/);
-              const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-              const text = document.createTextNode('');
-              node.parentNode.replaceChild(text, node);
-              math.start = {node: text, delim: '', n: 0};
-              math.end = {node: text, delim: '', n: 0};
-              doc.math.push(math);
-            });
-          }, '', false],
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              let target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    (function () {
-      var script = document.createElement('script');
-      script.src = '//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
-      script.defer = true;
-      document.head.appendChild(script);
-    })();
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.texReset();
-    MathJax.typeset();
-  }
+if (document.querySelectorAll('.mermaid').length) {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/mermaid@8.7.0/dist/mermaid.min.js', () => {
+    mermaid.init({
+      theme    : 'forest',
+      logLevel : 3,
+      flowchart: { curve     : 'linear' },
+      gantt    : { axisFormat: '%m/%d/%Y' },
+      sequence : { actorMargin: 50 }
+    }, '.mermaid');
+  }, window.mermaid);
+}
 </script>
 
-    
+
+
+  <script>
+    NProgress.configure({
+      showSpinner: true
+    });
+    NProgress.start();
+    document.addEventListener('readystatechange', () => {
+      if (document.readyState === 'interactive') {
+        NProgress.inc(0.8);
+      }
+      if (document.readyState === 'complete') {
+        NProgress.done();
+      }
+    });
+    document.addEventListener('pjax:send', () => {
+      NProgress.start();
+    });
+    document.addEventListener('pjax:success', () => {
+      NProgress.done();
+    });
+  </script>
+
 
   
-  <script src="//cdn.jsdelivr.net/npm/quicklink@1/dist/quicklink.umd.js"></script>
-  <script>
-      window.addEventListener('load', () => {
-      quicklink({
-        timeout : 3000,
-        priority: true,
-        ignores : [uri => uri.includes('#'),uri => uri === 'http://cxfan-kamisama.github.io/cxfan_starfan/blog/page/5/',]
-      });
-      });
-  </script>
+
+
+
+
+
+
+
+
+  
+
+  
 
 </body>
 </html>

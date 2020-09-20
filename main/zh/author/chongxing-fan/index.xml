@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chongxing Fan | 陪星哥逍遥</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/chongxing-fan/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/chongxing-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chongxing Fan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>© Chongxing Fan 2019-2020</copyright><lastBuildDate>Mon, 27 Jan 2020 15:10:26 -0500</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chongxing Fan</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/chongxing-fan/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Solar Farming on Local Surface Radiation Budget and Climate from Long-Term NASA Satellite Observations</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/solar_farming/</link>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/solar_farming/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;With the acceleration of global warming, many countries are paving the way to shift their energy consumption to the form of renewable energy. Solar energy is one popular choice due to its easy accessibility.
+With more and more solar panels installed, they can alter the surface albedo and consequently affect the surface radiation budget, potentially affecting the local climate and beyond.
+A few modeling studies have suggested such potential effects, but no long-term observations have been employed to verify such modeling results or corroborate their findings.
+Moderate Resolution Imaging Spectroradiometer (MODIS) aboard Aqua and Terra satellites has been collecting high spatial-resolution radiance data since 2000.
+My preliminary study indicates discernible changes in surface albedo before and after the installation of solar panels, which can be seen from MODIS retrieved surface reflectance across all shortwave and near-IR bands.
+Motivated by this preliminary result, I propose to use chiefly NASA A-train observations to quantify the impact of solar farming on observed surface spectral albedo, surface emissivity, and skin temperature.
+I will utilize the Moderate Resolution Imaging Spectroradiometer (MODIS) onboard NASA’s Aqua satellite to quantify the impact on local surface radiation budget on a pixel by pixel scale.
+Furthermore, I will further diagnose its impact on local climate and beyond with a combination of data analysis and modeling.
+Using such observationally derived changes as input to the Weather Research and Forecasting (WRF) model, I can investigate how much change in local surface radiation budget and regional climate can be expected if such solar farms are deployed in much larger spatial scale.
+This study will help understand the outcomes of anthropogenic surface type change, especially how it will contribute to the climate system.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Climate, Satellite, MODIS, Radiation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/introduction/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/introduction/</guid>
+      <description>&lt;p&gt;My name is &lt;strong&gt;Chongxing Fan&lt;/strong&gt;, and I am a Ph.D. candidate studying in University of Michigan, Ann Arbor. I am in the Climate and Space Sciences and Engineering. With solid knowledge of mathematics and physics, I have mastered the basics in the field of atmospheric science, and since I have great interest in computer programming, I am able to handle meteorology data using Fortran, NCL and other kinds of programming languages. Moreover, I have taken the classes about oceanography and earth sciences so I have learned some basics in these areas.&lt;/p&gt;
+&lt;p&gt;I fell in love with computer programming even when I was young. In this website you can see some apps I have made. Also I have learned some stuff about HTML, CSS and JavaScript. So this website is the consequence of my learning. Based on a responsive HTML5 template 
+&lt;a href=&#34;https://html5up.net/verti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verti&lt;/a&gt;, I edited the text and pics in the source code and added some other fancy features.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-math-master-deluxe&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/post/introduction/article_1_2_hu6f2c88e53b5fbf8e2e3f69cf1776d34f_181484_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Math Master Deluxe&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/post/introduction/article_1_2_hu6f2c88e53b5fbf8e2e3f69cf1776d34f_181484_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;566&#34; height=&#34;354&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Math Master Deluxe
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Because of the unsatisfactory performance in College Entrance Examination, I struggled a lot to get admitted to Nanjing University. With a not good score, I could only be subject to the university and let them appoint my major. So this is the reason I am in the School of Atmospheric Sciences. I&amp;rsquo;ve never heard of this field before. I searched online and found that it uses mathematics, physics and computer technology to solve the mystery of atmosphere. I was relieved since I was not sick of these subjects (lol). And after I digged into this field, I thought I was blessed because I was appointed to study Atmospheric Science instead of Computer Science. Although I&amp;rsquo;m still in love with Computer Science and Software Engineering, it is so tiring and competing that I can&amp;rsquo;t bear it as it is a really hot major nowadays. Now I didn&amp;rsquo;t regard the examination four years ago as a failure anymore. It gave me an opportunity to learn a brand new field I&amp;rsquo;ve never heard before. I am in belief that when god closes a door, he opens a window.&lt;/p&gt;
+&lt;p&gt;I like to schedule everything. I think it&amp;rsquo;s a good way to keep me motivated and in high efficiency. I make a plan at the beginning of the week, always electronically kept, and keep track of the plan every day during the rest of the week. At the end of the week, I summarize the past week, sometimes by writing a report and sometimes by just writing a snippet after the weekly plan. In order to let my family know what and how I am doing, my family will have an online video meeting. In most cases I will make a PPT and deliver a presentation to my family, which is initially intended to avoid speaking loudly and disturbing my roommates.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ppt-used-in-weekly-family-meeting&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/post/introduction/article_1_3_huabc9fc1031fe5007ead2eb2ab98b1e2d_118618_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PPT used in Weekly Family Meeting&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/post/introduction/article_1_3_huabc9fc1031fe5007ead2eb2ab98b1e2d_118618_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1199&#34; height=&#34;795&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    PPT used in Weekly Family Meeting
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Not only do I work hard to pursue a high GPA for myself, but also I teach my classmates who are struggling to study. Usually before I start, I will grab the structure of a subject and drawing a Knowledge Tree. By doing so, I will have a clear image of the subject and not get lost. As for some very difficult problems that I didn&amp;rsquo;t know the answer, I will throw it out and discuss with my &amp;ldquo;students&amp;rdquo;. I found it really helpful to enhance what I had learned. In order to make me understood by others, I must have my statements make sense. I had to raise many possible questions to myself and think hard to come up with a explanation to convince myself first. My students also got very high score after I taught them, which makes me very delighted.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-teaching-my-classmates&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/post/introduction/article_1_1_hu8ab31327ca4f649b81c1309ba335e183_2764402_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Teaching my classmates&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/post/introduction/article_1_1_hu8ab31327ca4f649b81c1309ba335e183_2764402_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3968&#34; height=&#34;2976&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Teaching my classmates
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If you are interested in my story, you can always have a chat with me via QQ, WeChat or other instant messaging apps. I&amp;rsquo;d be glad to tell you more about myself.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Life</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/personal/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/personal/</guid>
+      <description>&lt;p&gt;I was born in a family with dense intellectual atmosphere. My father graduated from Wuhan University in China, and my grandparents are all teachers. Therefore, they believe that knowledge can change people&amp;rsquo;s destiny and pay special attention to cultivating my interest in study. However, only interest does not suffice. My grandfather showed me how to cultivate good study habits and find suitable learning methods step by step during my growing-up. As a result, from elementary school to university, after more than ten years of exploration, I gradually grasped the law of learning, and enjoyed the happiness of exploring unknown mysteries.&lt;/p&gt;
+&lt;p&gt;I am a very self-disciplined person with a strong sense of time management.  I make daily schedules, weekly plans, and yearly blueprints. In order to work and rest accurately according to the timetable, I created an Applet named &amp;ldquo;schedule reminder&amp;rdquo;, which played music to remind me at fixed times in a day. On the one hand, making plans help me take full advantage of the short working hours of a day and improve my work efficiency on the premise of maintaining adequate rest . On the other hand, I can focus on my direction without losing myself in mass of tasks.&lt;/p&gt;
+&lt;p&gt;I have spent plenty of efforts in finding suitable efficient learning methods for myself. For example, I found that if I take the subway regularly, I would be able to memorize the subway station&amp;rsquo;s announcement voice over time. Based on this discovery, when I memorize some knowledge points, I would employ computer speech synthesis technology to convert them into audios and listen to them every day. After a few weeks I am able to recite the materials.  In addition, &amp;ldquo;Zhou Zhou Qing&amp;rdquo; (that is, a weekly self-examination of knowledge that I have learned in previous week), portable handbooks, knowledge trees are all the effective methods I have tried, which provide a lot of practical experience for my study and even for my future research work.&lt;/p&gt;
+&lt;p&gt;In addition, I have always insisted on selflessly sharing my knowledge, thoughts and methods. During my undergraduate years, I constantly look for positive and enthusiastic study partners to form a group of three or more people, either to discuss concepts and theories in our major or to exchange scientific research ideas in depth. In most cases I am a teacher in the group, but sometimes I will also raise some open questions to the group for discussion. There are also some poor-graded students as my study partner, but I still pay great attention to them as long as they have enthusiasm. On the one hand, explaining basic knowledge to them will help deepen my understanding of the concepts in a field. On the other hand, they will also put forward some fantastic ideas, which will also give me a lot of inspiration. I firmly believe in the power of cooperation. What I am pursuing is the massive output that small research group can produce.&lt;/p&gt;
+&lt;p&gt;I have been thinking about my future career. Considering my personality, reality and future social development, I set my goal to become an excellent atmospheric research professor. I hope with the power of curiosity and interest to explore the unknown, by following the methodology accumulated in the past ten years, I could gradually uncover the dynamic mechanism behind the atmospheric phenomenon, and contribute to the accurate prediction of weather and climate. In addition, I also hope to spread my knowledge, thoughts and skills to the next generation. Just like the concept of &amp;ldquo;open source&amp;rdquo; in the field of computer science, I would be delighted if I could share my knowledge, ideas and skills, and make a positive impact on the vigorous development of the community and society.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Summary</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/research/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/research/</guid>
+      <description>&lt;h1 id=&#34;undergraduate-study&#34;&gt;Undergraduate Study&lt;/h1&gt;
+&lt;p&gt;Years of undergraduate studies has equipped me with professional knowledge in Atmospheric Sciences. I am familiar with the improvement of atmospheric observation methods, and especially attracted to the mechanism of the establishment of weather theory and the possibility of numerical forecasting. Yet there still are many unknown problems in this field that need to be solved. For example, the hot issue anthropogenic climate change still has many uncertainties. The limited observation methods, accuracy and parameterization scheme used in numerical simulation for aerosols and cloud processes are waiting to be solved. All these existing and possible problems drove me to pursue deeper study and research in this realm.&lt;/p&gt;
+&lt;p&gt;To learn fundamental knowledge and to acquire basic skills were my first steps in taking root in Atmospheric Science. For instance, by taking the course Integrated Detection of Atmosphere, I studied the observational equipment and theories of meteorological elements, which enabled me to understand the accuracy, advantages and disadvantages of each type of detection method. Thus, I was clearer with the data analysis and processing of the error sources in my projects. Besides, Dynamical Meteorology, which was the basis of all other theories, introduced me the most basic equations, fluctuations and other related theories in the atmospheric discipline. All calculations are carried out with Navier-Stokes equations included in the course. They also are the core equations in theoretical research and numerical weather prediction. Moreover, I mastered three most basic technical means for studying the movement of the atmosphere and the development of future weather more accurately in the courses Principle of Synoptic Meteorology, Statistical Weather Prediction and Numerical Weather Prediction. With my passion and endeavor, almost all of my major courses had a score above 90/100. Besides my major courses, I laid a solid foundation in mathematics, physics and computer science.&lt;/p&gt;
+&lt;h1 id=&#34;research-experiences&#34;&gt;Research Experiences&lt;/h1&gt;
+&lt;p&gt;Another step I took for delving into this field was to strengthen my techniques in research projects. In 2016, I recommended myself to Professor Minghuai Wang’s lab. Under his guidance, I led a team to research on &lt;strong&gt;Analysis of the Positive Correlation of Precipitation and Aerosol Using Satellite Data&lt;/strong&gt;. Since it started in my sophomore year when we just began learning the basic courses of atmospheric science, we were not very familiar with atmospheric disciplines in the domain such as some concepts in cloud physics. The first thing we did was studying intensively the core literature From aerosol-limited to invigoration of warm convective clouds (Koren et al. 2014). Then our team collected data by obtaining the TRMM and CloudSat data sets and applied programming to match satellite data with NCL. In the process of performing programming calculations and analysis, I was responsible for implementing the core codes, so that other members could modify the drawing based on my codes. Our results of this research suggested the positive correlation between precipitation and aerosols. However, only statistical methods were employed in this research, so we were unable to find the mechanisms behind this phenomenon. Based on the current research and literature, I assumed that the results were due to the uncertainty in satellite observation of clouds and aerosols. This year-long research was my first formal research and it was awarded as National Excellent Research Project. After this experience, I was more encouraged to expand my knowledge and skills in atmospheric science.&lt;/p&gt;
+&lt;p&gt;In addition, recommended by Professor Wang, I had the opportunity of becoming a Mitacs Intern. Therefore, in the summer of 2018, I conducted an individual research on &lt;strong&gt;Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar&lt;/strong&gt; under the guidance of Professor Yongsheng Chen at York University in Canada. To gain a better understanding of data products, I downloaded data from various websites and looked for appropriate instructions to ensure that each variable had the same meaning and that the results were accurate. Then I performed data processing by NCL including standardization of data set units, time matching, and interpolation. Because there were no previous codes for reference, I wrote every code on my own. After the compilation, a long debugging process was required to modify the codes continuously for more accurate results. What’s more, in order to process the data more efficiently, many tips such as distributed data storage, manual parallel computing, and optimized codes were designed by me to minimize memory usage and to reduce computation time. This experience enabled me to conduct a research totally in an English environment. And three months’ training improved my proficiency in data analysis and use of Linux and NCL. Furthermore, I practiced my communication skills and writing academic papers in accordance with the requirements of the American Meteorological Society. I believe all these competences will help me excel in graduate studies.&lt;/p&gt;
+&lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
+&lt;p&gt;I want to become an excellent scientific researcher in Atmospheric Science, and eventually continue to make contributions to the field of Atmospheric Science in research institutions, or return to the university to spread my knowledge and ideas. Therefore, I need to make progress through years of scientific research training. Obtaining a PhD is my short-term goal to achieve in the next five years. During my postgraduate years, I hope to apply the knowledge I have learned from my undergraduate courses, combined with some techniques and tools to conduct in-depth study and research in the frontiers of atmospheric science. For example, I expect to apply state-of-art techniques, especially artificial intelligence to weather and climate forecasting. After graduation, I intend to continue my research in universities or research institutions. In the long term, I will contribute to preventing the harm of some severe weather to people&amp;rsquo;s lives and property. Also, I will continue studying the impacts of climate change on humans in the future.&lt;/p&gt;
+&lt;p&gt;My academic interests are mainly in two aspects:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cloud microphysics and its role in climate, and&lt;/li&gt;
+&lt;li&gt;Mesoscale system and data assimilation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These two topics are closely related to my two scientific research projects at the undergraduate stage. Through these two projects, I deeply understand that initial conditions and parameterization, especially for clouds, are the most uncertainties in weather prediction. Also in climate models clouds and aerosols are the most significant uncertainties. I hope to have more in-depth research in these areas. I&amp;rsquo;d like to take advantage of models to deeply reveal the mysteries in atmospheric science, because I&amp;rsquo;m interested in and goot at computer programming and I hope I could reduce uncertainties and improve the performance of models.&lt;/p&gt;
+&lt;p&gt;Many achievements in the field of Atmospheric Sciences in history were made during the PhD period of those famous scientists, so the PhD program was also a golden period for me. In order to make use of such a good opportunity to improve myself, first of all, I hope to learn more academic ideas through graduate courses, academic lectures and academic discussions with professors and classmates, so as to have a more comprehensive and in-depth understanding of earth sciences. Secondly, through five years of scientific research training, I hope to master some practical tools for atmospheric science research and enhance scientific research ability, thus making valuable contributions by incorporating the theoretical knowledge learned from undergraduate study as well as ideas absorbed from academic lectures. Finally, I hope that based on the platform and resources provided by the university and research institutions, I could make progress in written English and oral English. Not only should I actively join the academic seminars in the university, but also I should take an active part in international conferences to share my research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/cv/</link>
+      <pubDate>Tue, 01 Oct 2019 09:00:00 -0400</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/post/cv/</guid>
+      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h2 id=&#34;phd-university-of-michigan-sept-2019---present&#34;&gt;Ph.D. University of Michigan (Sept. 2019 - Present)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GPA: 4.0/4.0 (as of Fall 2019)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MICDE 2019-2020 Fellow ($4,000)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bs-nanjing-university-sept-2015---jul-2019&#34;&gt;B.S. Nanjing University (Sept. 2015 - Jul. 2019)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor of Science in Atmospheric Science (Conferred on Jul. 2019)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPA: 4.67/5.0 (3.95/4.0). Ranking 1/79.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;TOEFL: 109   GRE: 323+4.0&lt;/li&gt;
+&lt;li&gt;Chow Tai Fook Scholarship (Top 1%)&lt;/li&gt;
+&lt;li&gt;National Scholarship (Top 1%)&lt;/li&gt;
+&lt;li&gt;Scholarship of Mr. Liao (Top 1%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fan, C.&lt;/strong&gt;, Wang, M., Rosenfeld, D., Zhu, Y., Liu, J., &amp;amp; Chen, B. (2020). Strong Precipitation Suppression by Aerosols in Marine Low Clouds. &lt;em&gt;Geophysical Research Letters&lt;/em&gt;, e2019GL086207. &lt;a href=&#34;https://doi.org/10.1029/2019GL086207&#34;&gt;https://doi.org/10.1029/2019GL086207&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;research-experiences&#34;&gt;Research Experiences&lt;/h1&gt;
+&lt;h2 id=&#34;satellite-observation-of-aerosol-precipitation-relationship-sept-2018---jul-2019&#34;&gt;Satellite Observation of Aerosol-Precipitation Relationship (Sept. 2018 - Jul. 2019)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dissertation for Bachelor&amp;rsquo;s Degree&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advisor: Professor Minghuai Wang&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Co-Advisors: Prof. Daniel Rosenfeld, Dr. Yannian Zhu&lt;/li&gt;
+&lt;li&gt;Showed that detectable rain initiates when the drop effective radius at the cloud top exceeds 14 microns&lt;/li&gt;
+&lt;li&gt;Showed that precipitation is strongly suppressed with increasing cloud drop concentration (N&lt;sub&gt;d&lt;/sub&gt;)&lt;/li&gt;
+&lt;li&gt;Prepare for the submission to the peer-review journal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;evaluation-of-quantitative-precipitation-estimation-from-model-satellite-and-radar-jul-2018---oct-2018&#34;&gt;Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar (Jul. 2018 - Oct. 2018)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Globalink Research Internship&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advisor: Professor Yongsheng Chen&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Initiated the project, read related literature and manuals of each dataset&lt;/li&gt;
+&lt;li&gt;Downloaded HRRR, GOES, StageIV and METAR one hour precipitation variable from corresponding product&lt;/li&gt;
+&lt;li&gt;Interpolated the estimations into observation grid and compared these four datasets using various statistical methods&lt;/li&gt;
+&lt;li&gt;Achieved the results that compared with the METAR data, all the estimates had a wet bias the total rainfall rate and light rain, GOES satellite estimation had the largest bias, and for medium and heavy rain, all QPEs had dry bias&lt;/li&gt;
+&lt;li&gt;Drafted the closing report and gave a 52-slide PPT presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;atmospheric-energy-balance-and-cyclic-process-and-their-physical-mechanisms-apr-2018---may-2018&#34;&gt;Atmospheric Energy Balance and Cyclic Process and Their Physical Mechanisms (Apr. 2018 - May 2018)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Team Leader&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Studied fundamental concepts and formula in the energy cycle and the principles of observation of each element&lt;/li&gt;
+&lt;li&gt;Figured out the energy balance and circulation, and the physical mechanism of the energy cycle with NCL and filter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;characteristics-of-water-vapor-transport-convergence-divergence-and-seasonal-variation-in-the-global-atmosphere-oct-2016---oct-2017&#34;&gt;Characteristics of Water Vapor Transport, Convergence, Divergence and Seasonal Variation in the Global Atmosphere (Oct. 2016 - Oct. 2017)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;National Excellent Research Project&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advisor: Professor Minghuai Wang&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Initiated the research project and developed and implemented the research plan&lt;/li&gt;
+&lt;li&gt;Consulted related literature, supplemented and discussed background knowledge in group meetings&lt;/li&gt;
+&lt;li&gt;Collected TRMM and CloudSat data set, applied NCL in Linux, conducted satellite data matching, analyzed data with sensitivity analysis method, realized the implementation of core codes&lt;/li&gt;
+&lt;li&gt;Verified the positive correlation of precipitation and aerosol from multiple perspectives after analyzing the observation information of the three sample regions selected in the Pacific Ocean, Atlantic Ocean, and Indian Ocean from 2006 to 2011 of CloudSat satellite&lt;/li&gt;
+&lt;li&gt;Concluded that the increase in AOD widened the spectrum of radar reflectivity while the increase in CDNC narrowed the spectrum of radar reflectivity from the three-dimensional structure of clouds&lt;/li&gt;
+&lt;li&gt;Drafted the closing report, created a poster and gave a 19-slide PPT presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;internship-experience&#34;&gt;Internship Experience&lt;/h1&gt;
+&lt;h2 id=&#34;meteorological-bureau-of-hunan-province-china-feb-2018&#34;&gt;Meteorological Bureau of Hunan Province, China (Feb. 2018)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Weather Forecaster, Intern&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Familiarized with forecasting process, and learned forecasting techniques&lt;/li&gt;
+&lt;li&gt;Attended daily National and Provincial Weather Consultation to discuss the weather situation and to predict the weather tendency&lt;/li&gt;
+&lt;li&gt;Analyzed the daily weather situation in 500hPa, 700hPa, 850hPa at 8 a.m., the surface weather charts and upper weather charts every day&lt;/li&gt;
+&lt;li&gt;Analyzed numerical forecast products using MICAPS software, drew forecasting conclusions based on weather comprehensive situation, numerical forecast products, ensemble forecast products and experience&lt;/li&gt;
+&lt;li&gt;Made forecast products including the city weather forecasts twice a day and warnings if major weather events occurred&lt;/li&gt;
+&lt;li&gt;Conducted forecast verification of numerical forecast products result and forecast result, compared them with the actual situation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;honors-and-awards&#34;&gt;Honors and Awards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;2019&lt;/em&gt; MICDE 2019-2020 Fellowship Holder ($4,000)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2018&lt;/em&gt; Honorable Mention in Mathematical Contest in Modeling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2017&lt;/em&gt; First Prize in Data Processing Contest (Top 0.5%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer Skills: C, Fortran, NCL, Python, Visual Basic, SPSS, Linux&lt;/li&gt;
+&lt;li&gt;National Computer Rank Examination of C Level Two (Excellent Grade)&lt;/li&gt;
+&lt;li&gt;Jiangsu Computer Rank Examination of VB Level Two (Excellent Grade)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Satellite Observation of Aerosol-Precipitation Relationship</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/acp_gpm_modis/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/acp_gpm_modis/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The adjustment of cloud amount to aerosol effects occurs to a large extent in response to the
+aerosol effect on precipitation. This is studied here for marine boundary layer water clouds by
+analyzing the dependence of rain intensity, as measured by the radar onboard the Global
+Precipitation Measurement (GPM), on cloud properties as measured by MODIS. Here we show that
+detectable rain initiates when the drop effective radius at the cloud top exceeds 14 $\mu$m, and
+precipitation is strongly suppressed with increasing cloud drop concentration ($N_d$), which
+contributes to the strong dependence of cloud amount on aerosols. This dependence of
+precipitation on $N_d$ and cloud geometric thickness presents a simple framework for precipitation
+susceptibility to aerosols, which explains other kinds of previously observed relationships. Our
+results further show that sorting data by cloud geometrical thickness and using alternative CCN
+proxy rather than aerosol optical depth (AOD) are critical for studying aerosol-cloud-precipitation
+interactions.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate, GPM, MODIS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/qpe_evaluation/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/qpe_evaluation/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Quantitative precipitation estimation (QPE) are of great significance to the weather forecast. This study is intended to compare the hourly precipitation from the High-Resolution Rapid Refresh (HRRR) model, GOES-16 satellite, NCEP StageIV radar and gauge combined data to the METAR station-based data for July 2018. Several statistical verification methods are used, including Probability Distribution Function (PDF), bias, RMSE, and correlation analysis. Results show that compared with the METAR data, all the estimates have a wet bias the total rainfall rate and light rain. GOES satellite estimation has the largest bias. But for medium and heavy rain, all QPEs have dry bias.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Model, Satellite, Radar, Precipitation, Evaluation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Positive Correlation of Precipitation and Aerosol Using Satellite Data</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/aerosol_cloud/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/aerosol_cloud/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The interaction of aerosol-cloud-precipitation has an important impact on the global climate. Understanding this issue is related to the uncertainty of climate change. The traditional aerosol indirect effect suggests that when the number of aerosols increases, precipitation will be inhibited. However, recent studies on satellite observations have found that aerosols are positively correlated with rainfall, which is contrary to traditional views. This study attempts to validate the correlation between aerosol and rainfall using A-Train satellite products, and further reveals the possible physical mechanisms of aerosol correlation with rainfall in satellite observations through the three-dimensional structure of the cloud. The study found that the precipitation intensity is positively correlated with the Aerosol Optical Depth (AOD), and the relationship between Cloud Droplet Nuclei Concentration (CDNC) and rainfall intensity is related to the liquid-water path (LWP); and as the number of aerosols increases, radar reflectivity spectrum broadens and precipitation increases. As for CDNC, it shows an opposite result. It can be concluded that the possible cause of aerosol positive correlation with rainfall is the negative correlation between CDNC and AOD.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate&lt;/p&gt;
+&lt;h1 id=&#34;plots-and-tables&#34;&gt;Plots and Tables&lt;/h1&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_1_hub1705b36e46a5b7b9578c0cb24df19f9_73884_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_2_hua92af8ed3f30dabd5a2a131b4b13bbfe_73805_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_3.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_3_huc72259462bbd92e92383b7c62b488212_70788_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_4.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_4_hu5b95b581e96170e43ec03bb20714caf1_58180_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_5.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_5_hua4bbbce83c17cd4375e7a75ac1363ecf_58485_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_6.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_6_hua3cc2101c81432eeef0685371a7a4bf4_54703_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_7.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_7_hu3435ea1622d83242ba56ae8ecf896e46_51724_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_8.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_8_hu1dfe148e222add1f6f0e44865d17bf32_53278_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_9.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/zh/project/aerosol_cloud/plots/article_2_9_hu70f689007b8c6db84e47a186ece049b6_52110_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

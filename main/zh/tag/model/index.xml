@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model | 陪星哥逍遥</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/tag/model/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/tag/model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>© Chongxing Fan 2019-2020</copyright><lastBuildDate>Sun, 07 Oct 2018 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Model</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/tag/model/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/qpe_evaluation/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/project/qpe_evaluation/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Quantitative precipitation estimation (QPE) are of great significance to the weather forecast. This study is intended to compare the hourly precipitation from the High-Resolution Rapid Refresh (HRRR) model, GOES-16 satellite, NCEP StageIV radar and gauge combined data to the METAR station-based data for July 2018. Several statistical verification methods are used, including Probability Distribution Function (PDF), bias, RMSE, and correlation analysis. Results show that compared with the METAR data, all the estimates have a wet bias the total rainfall rate and light rain. GOES satellite estimation has the largest bias. But for medium and heavy rain, all QPEs have dry bias.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Model, Satellite, Radar, Precipitation, Evaluation&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

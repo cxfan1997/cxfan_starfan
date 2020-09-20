@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate | StarFan</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/climate/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/climate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Climate</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© Chongxing Fan 2019-2020</copyright><lastBuildDate>Mon, 27 Jan 2020 15:10:26 -0500</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Climate</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/climate/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Solar Farming on Local Surface Radiation Budget and Climate from Long-Term NASA Satellite Observations</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/solar_farming/</link>
+      <pubDate>Mon, 27 Jan 2020 15:10:26 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/solar_farming/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;With the acceleration of global warming, many countries are paving the way to shift their energy consumption to the form of renewable energy. Solar energy is one popular choice due to its easy accessibility.
+With more and more solar panels installed, they can alter the surface albedo and consequently affect the surface radiation budget, potentially affecting the local climate and beyond.
+A few modeling studies have suggested such potential effects, but no long-term observations have been employed to verify such modeling results or corroborate their findings.
+Moderate Resolution Imaging Spectroradiometer (MODIS) aboard Aqua and Terra satellites has been collecting high spatial-resolution radiance data since 2000.
+My preliminary study indicates discernible changes in surface albedo before and after the installation of solar panels, which can be seen from MODIS retrieved surface reflectance across all shortwave and near-IR bands.
+Motivated by this preliminary result, I propose to use chiefly NASA A-train observations to quantify the impact of solar farming on observed surface spectral albedo, surface emissivity, and skin temperature.
+I will utilize the Moderate Resolution Imaging Spectroradiometer (MODIS) onboard NASA’s Aqua satellite to quantify the impact on local surface radiation budget on a pixel by pixel scale.
+Furthermore, I will further diagnose its impact on local climate and beyond with a combination of data analysis and modeling.
+Using such observationally derived changes as input to the Weather Research and Forecasting (WRF) model, I can investigate how much change in local surface radiation budget and regional climate can be expected if such solar farms are deployed in much larger spatial scale.
+This study will help understand the outcomes of anthropogenic surface type change, especially how it will contribute to the climate system.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Climate, Satellite, MODIS, Radiation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Satellite Observation of Aerosol-Precipitation Relationship</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/acp_gpm_modis/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/acp_gpm_modis/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The adjustment of cloud amount to aerosol effects occurs to a large extent in response to the
+aerosol effect on precipitation. This is studied here for marine boundary layer water clouds by
+analyzing the dependence of rain intensity, as measured by the radar onboard the Global
+Precipitation Measurement (GPM), on cloud properties as measured by MODIS. Here we show that
+detectable rain initiates when the drop effective radius at the cloud top exceeds 14 $\mu$m, and
+precipitation is strongly suppressed with increasing cloud drop concentration ($N_d$), which
+contributes to the strong dependence of cloud amount on aerosols. This dependence of
+precipitation on $N_d$ and cloud geometric thickness presents a simple framework for precipitation
+susceptibility to aerosols, which explains other kinds of previously observed relationships. Our
+results further show that sorting data by cloud geometrical thickness and using alternative CCN
+proxy rather than aerosol optical depth (AOD) are critical for studying aerosol-cloud-precipitation
+interactions.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate, GPM, MODIS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Positive Correlation of Precipitation and Aerosol Using Satellite Data</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/aerosol_cloud/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/aerosol_cloud/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The interaction of aerosol-cloud-precipitation has an important impact on the global climate. Understanding this issue is related to the uncertainty of climate change. The traditional aerosol indirect effect suggests that when the number of aerosols increases, precipitation will be inhibited. However, recent studies on satellite observations have found that aerosols are positively correlated with rainfall, which is contrary to traditional views. This study attempts to validate the correlation between aerosol and rainfall using A-Train satellite products, and further reveals the possible physical mechanisms of aerosol correlation with rainfall in satellite observations through the three-dimensional structure of the cloud. The study found that the precipitation intensity is positively correlated with the Aerosol Optical Depth (AOD), and the relationship between Cloud Droplet Nuclei Concentration (CDNC) and rainfall intensity is related to the liquid-water path (LWP); and as the number of aerosols increases, radar reflectivity spectrum broadens and precipitation increases. As for CDNC, it shows an opposite result. It can be concluded that the possible cause of aerosol positive correlation with rainfall is the negative correlation between CDNC and AOD.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate&lt;/p&gt;
+&lt;h1 id=&#34;plots-and-tables&#34;&gt;Plots and Tables&lt;/h1&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_1_hub1705b36e46a5b7b9578c0cb24df19f9_73884_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_2_hua92af8ed3f30dabd5a2a131b4b13bbfe_73805_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_3.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_3_huc72259462bbd92e92383b7c62b488212_70788_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_4.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_4_hu5b95b581e96170e43ec03bb20714caf1_58180_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_5.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_5_hua4bbbce83c17cd4375e7a75ac1363ecf_58485_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_6.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_6_hua3cc2101c81432eeef0685371a7a4bf4_54703_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_7.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_7_hu3435ea1622d83242ba56ae8ecf896e46_51724_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_8.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_8_hu1dfe148e222add1f6f0e44865d17bf32_53278_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_9.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_9_hu70f689007b8c6db84e47a186ece049b6_52110_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

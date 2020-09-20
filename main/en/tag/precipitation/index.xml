@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Precipitation | StarFan</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/precipitation/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/precipitation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Precipitation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© Chongxing Fan 2019-2020</copyright><lastBuildDate>Wed, 18 Mar 2020 19:58:26 -0400</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Precipitation</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/precipitation/</link>
+    </image>
+    
+    <item>
+      <title>Strong Precipitation Suppression by Aerosols in Marine Low Clouds</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/strong-precipitation-suppression-grl-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 19:58:26 -0400</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/strong-precipitation-suppression-grl-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite Observation of Aerosol-Precipitation Relationship</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/acp_gpm_modis/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/acp_gpm_modis/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The adjustment of cloud amount to aerosol effects occurs to a large extent in response to the
+aerosol effect on precipitation. This is studied here for marine boundary layer water clouds by
+analyzing the dependence of rain intensity, as measured by the radar onboard the Global
+Precipitation Measurement (GPM), on cloud properties as measured by MODIS. Here we show that
+detectable rain initiates when the drop effective radius at the cloud top exceeds 14 $\mu$m, and
+precipitation is strongly suppressed with increasing cloud drop concentration ($N_d$), which
+contributes to the strong dependence of cloud amount on aerosols. This dependence of
+precipitation on $N_d$ and cloud geometric thickness presents a simple framework for precipitation
+susceptibility to aerosols, which explains other kinds of previously observed relationships. Our
+results further show that sorting data by cloud geometrical thickness and using alternative CCN
+proxy rather than aerosol optical depth (AOD) are critical for studying aerosol-cloud-precipitation
+interactions.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate, GPM, MODIS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Quantitative Precipitation Estimation from Model, Satellite and Radar</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/qpe_evaluation/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/qpe_evaluation/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Quantitative precipitation estimation (QPE) are of great significance to the weather forecast. This study is intended to compare the hourly precipitation from the High-Resolution Rapid Refresh (HRRR) model, GOES-16 satellite, NCEP StageIV radar and gauge combined data to the METAR station-based data for July 2018. Several statistical verification methods are used, including Probability Distribution Function (PDF), bias, RMSE, and correlation analysis. Results show that compared with the METAR data, all the estimates have a wet bias the total rainfall rate and light rain. GOES satellite estimation has the largest bias. But for medium and heavy rain, all QPEs have dry bias.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Model, Satellite, Radar, Precipitation, Evaluation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Positive Correlation of Precipitation and Aerosol Using Satellite Data</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/aerosol_cloud/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/aerosol_cloud/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The interaction of aerosol-cloud-precipitation has an important impact on the global climate. Understanding this issue is related to the uncertainty of climate change. The traditional aerosol indirect effect suggests that when the number of aerosols increases, precipitation will be inhibited. However, recent studies on satellite observations have found that aerosols are positively correlated with rainfall, which is contrary to traditional views. This study attempts to validate the correlation between aerosol and rainfall using A-Train satellite products, and further reveals the possible physical mechanisms of aerosol correlation with rainfall in satellite observations through the three-dimensional structure of the cloud. The study found that the precipitation intensity is positively correlated with the Aerosol Optical Depth (AOD), and the relationship between Cloud Droplet Nuclei Concentration (CDNC) and rainfall intensity is related to the liquid-water path (LWP); and as the number of aerosols increases, radar reflectivity spectrum broadens and precipitation increases. As for CDNC, it shows an opposite result. It can be concluded that the possible cause of aerosol positive correlation with rainfall is the negative correlation between CDNC and AOD.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
+&lt;p&gt;Aerosol, Cloud, Precipitation, Climate&lt;/p&gt;
+&lt;h1 id=&#34;plots-and-tables&#34;&gt;Plots and Tables&lt;/h1&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_1_hub1705b36e46a5b7b9578c0cb24df19f9_73884_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_2_hua92af8ed3f30dabd5a2a131b4b13bbfe_73805_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_3.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_3_huc72259462bbd92e92383b7c62b488212_70788_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_4.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_4_hu5b95b581e96170e43ec03bb20714caf1_58180_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_5.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_5_hua4bbbce83c17cd4375e7a75ac1363ecf_58485_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_6.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_6_hua3cc2101c81432eeef0685371a7a4bf4_54703_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_7.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_7_hu3435ea1622d83242ba56ae8ecf896e46_51724_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_8.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_8_hu1dfe148e222add1f6f0e44865d17bf32_53278_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-plots&#34; href=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_9.png&#34; &gt;
+  &lt;img data-src=&#34;https://cxfan-kamisama.github.io/cxfan_starfan/main/cxfan_starfan/main/en/project/aerosol_cloud/plots/article_2_9_hu70f689007b8c6db84e47a186ece049b6_52110_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
