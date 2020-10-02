@@ -11563,9 +11563,8 @@
 <a id="more"></a>
 
 <p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br><span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
-<h1 id="课程情况"><a href="#课程情况" class="headerlink" title="课程情况"></a>课程情况</h1><h2 id="EXT-101-Machine-Learning-机器学习"><a href="#EXT-101-Machine-Learning-机器学习" class="headerlink" title="EXT 101 - Machine Learning (机器学习)"></a>EXT 101 - Machine Learning (机器学习)</h2><p>八月完成了第18章和第19章的粗略阅读，九月完成了第17章知识梳理图，如下：</p>
-<p><img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_17A.jpg" alt="EXT 101 Chapter 17A - Representation Learning and Generative Learning Using Autoencoders and GANs"></p>
-<p><img src="http://www-personal.umich.edu/~cxfan/Files/ML/ML_Chapter_17B.jpg" alt="EXT 101 Chapter 17A - Representation Learning and Generative Learning Using Autoencoders and GANs II"></p>
+<h1 id="课程情况"><a href="#课程情况" class="headerlink" title="课程情况"></a>课程情况</h1><h2 id="EXT-101-Machine-Learning-机器学习"><a href="#EXT-101-Machine-Learning-机器学习" class="headerlink" title="EXT 101 - Machine Learning (机器学习)"></a>EXT 101 - Machine Learning (机器学习)</h2><p>八月完成了第18章和第19章的粗略阅读，九月完成了第17章知识梳理图。</p>
+<p><em>存储知识梳理图的服务器似乎已无法接受跨域引用，会返回403 Forbidden。可自行前往<a href="http://www-personal.umich.edu/~cxfan/Files/index2.html">Mindmap Portal</a>查看。</em></p>
 <h2 id="EXT-102-AS-Material-Reading-大气科学材料阅读"><a href="#EXT-102-AS-Material-Reading-大气科学材料阅读" class="headerlink" title="EXT 102 - AS Material Reading (大气科学材料阅读)"></a>EXT 102 - AS Material Reading (大气科学材料阅读)</h2><p>八月重新阅读了Solar Farming相关的文献。暑期阅读的材料还需要整理。</p>
 <h2 id="EXT-103-Seminar-Archive-学术讲座"><a href="#EXT-103-Seminar-Archive-学术讲座" class="headerlink" title="EXT 103 - Seminar Archive (学术讲座)"></a>EXT 103 - Seminar Archive (学术讲座)</h2><p>八月和九月没有观看新的学术讲座。</p>
 <h2 id="EXT-104-Climate-Modeling-气候模式"><a href="#EXT-104-Climate-Modeling-气候模式" class="headerlink" title="EXT 104 - Climate Modeling (气候模式)"></a>EXT 104 - Climate Modeling (气候模式)</h2><p>八月和九月没有学习新的内容。</p>
@@ -11615,7 +11614,10 @@
 <li>周三：上课，作业检查和整理</li>
 </ul>
 <p>十月有第一次Literature Review，开题、阅读和撰写报告的时间是10月7日（周三）至10月14日（周三），同学互评时间是10月14日（周三）至10月21日（周三）。关于Literature Review的内容，开学的课程说明有如下解释：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% cq %&#125;In place of exams, each student will complete two reports that summarize some aspect of a topic in the machine learning literature. The reports must be completed by each student working independently. The first report must address a topic under the umbrella of socially responsible machine learning, which includes issues such as fairness and nondiscrimination, privacy, safety, sustainability, overcoming disinformation, transparency&#x2F;interpretability, and reproducibility in data science. The second report can be on any topic that builds on a topic studied in class, but that does not intersect with the student&#39;s final project or first literature review. Specific guidelines and guidance will be given in advance of each literature review. Students will grade each others&#39; literature reviews according to a specified rubric and using a conference-style peer review system, overseen by the instructors.&#123;% endcq %&#125;</span><br></pre></td></tr></table></figure>
+<blockquote class="blockquote-center">
+<p>In place of exams, each student will complete two reports that summarize some aspect of a topic in the machine learning literature. The reports must be completed by each student working independently. The first report must address a topic under the umbrella of socially responsible machine learning, which includes issues such as fairness and nondiscrimination, privacy, safety, sustainability, overcoming disinformation, transparency/interpretability, and reproducibility in data science. The second report can be on any topic that builds on a topic studied in class, but that does not intersect with the student’s final project or first literature review. Specific guidelines and guidance will be given in advance of each literature review. Students will grade each others’ literature reviews according to a specified rubric and using a conference-style peer review system, overseen by the instructors.</p>
+
+</blockquote>
 
 <p>大致的意思是，本次的文献阅读主要聚焦机器学习技术在社会中的合理应用，如何解决公平、歧视、隐私、安全、可持续性、透明度、可重复性等问题。虽然具体评分细则还未出来，不过可以考虑几个可能的方向。</p>
 <h3 id="ELI-534-Discussion-amp-Oral-Argument"><a href="#ELI-534-Discussion-amp-Oral-Argument" class="headerlink" title="ELI 534: Discussion &amp; Oral Argument"></a>ELI 534: Discussion &amp; Oral Argument</h3><p>这门课的任务同样很重。考虑到只是一个S/U课程，不需要花过多的时间雕琢成果，只需达到基本的要求即可。每周提供的Optional meeting的机会倒是可以坚持参加，这种机会比平时完成作业更加难得、更有效率、更有质量。</p>
