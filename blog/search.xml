@@ -11472,10 +11472,10 @@
 
 <h1 id="Weekly-Notes"><a href="#Weekly-Notes" class="headerlink" title="Weekly Notes"></a>Weekly Notes</h1><p>复习和整理上周未能完成，新知识的学习有一些阻力，同时。本周末趁着在家的时间，抓紧复习和整理前数周学习的内容，为之后的学习扫清障碍。</p>
 <h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Preview - Reading Assignments</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 3</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Preview - Reading Assignments</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3</li>
 <li><input disabled="" type="checkbox"> CUR: EECS 545 Review - Chapter Maps</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Study - Module 4</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Study - Module 4 <strong><em>(Except the Group Work)</em></strong></li>
 <li><input disabled="" type="checkbox"> CUR: EXT 101 Machine Learning - Chapter 18</li>
 <li><input disabled="" type="checkbox"> RES: Cloud Classification Project - Case Study</li>
 <li><input disabled="" type="checkbox"> RES: Personal Website Upgrade</li>
@@ -11534,13 +11534,23 @@
 </ul>
 <h2 id="10-1-Thursday"><a href="#10-1-Thursday" class="headerlink" title="10/1 (Thursday)"></a>10/1 (Thursday)</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 8 Mindmap</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q5</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q5</li>
 <li><input disabled="" type="checkbox"> RES: Solar Farming Promotion (Video abstract, 15-min talk, etc…)</li>
 <li><input checked="" disabled="" type="checkbox"> RTN: Monthly Summary and Plan</li>
-<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
 <li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
 <li><input disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+<h2 id="10-2-Friday"><a href="#10-2-Friday" class="headerlink" title="10/2 (Friday)"></a>10/2 (Friday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 9 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Final Check &amp; Submission</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input disabled="" type="checkbox"> RES: Solar Farming Promotion (Video abstract, 15-min talk, etc…)</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Daily Email Writing</li>
 </ul>
 ]]></content>
       <categories>
@@ -11633,7 +11643,7 @@
 <h2 id="科研工作-1"><a href="#科研工作-1" class="headerlink" title="科研工作"></a>科研工作</h2><h3 id="Solar-Farming-Project"><a href="#Solar-Farming-Project" class="headerlink" title="Solar Farming Project"></a>Solar Farming Project</h3><p>本月中上旬准备新论文的宣传和讲座，考虑到和EECS 545 Literature Review的冲突。新工作将于中下旬开始。</p>
 <p>配合论文的宣传，对个人网站上的相关内容进行更新。</p>
 <h3 id="Cloud-Classification-Project"><a href="#Cloud-Classification-Project" class="headerlink" title="Cloud Classification Project"></a>Cloud Classification Project</h3><p>本月中上旬复习之前已经完成的任务，同时避免与EECS 545 Literature Review的冲突。新工作将于中下旬开始。</p>
-<p>这个月主要为Qualifying Exam让路，原则上不安排新工作。</p>
+<h3 id="AIRS-Project"><a href="#AIRS-Project" class="headerlink" title="AIRS Project"></a>AIRS Project</h3><p>本月要记得及时的下载和处理数据。</p>
 <h2 id="英语提升"><a href="#英语提升" class="headerlink" title="英语提升"></a>英语提升</h2><ul>
 <li>坚持每日英语阅读：晨读英文书目</li>
 <li>坚持每日英语听力：早间英语新闻和午间TED演讲</li>
@@ -11647,5 +11657,103 @@
       <categories>
         <category>Monthly Summary</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Fall 2020 Week 6 Progress - October 3rd</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-10-03-Weekly_Progress_20201003.html</url>
+    <content><![CDATA[<h1 id="Weekly-Goals"><a href="#Weekly-Goals" class="headerlink" title="Weekly Goals"></a>Weekly Goals</h1><ul>
+<li>Focus on EECS 545 Literature Review</li>
+<li>Promote new published paper</li>
+</ul>
+<a id="more"></a>
+
+<h1 id="Weekly-Notes"><a href="#Weekly-Notes" class="headerlink" title="Weekly Notes"></a>Weekly Notes</h1><h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Preview - Reading Assignments</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Literature Review</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Review - Chapter Maps</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Study - Module 5</li>
+<li><input disabled="" type="checkbox"> RES: Solar Farming Project Promotion</li>
+<li><input disabled="" type="checkbox"> RES: AIRS Download &amp; Processing 201912-201913</li>
+<li><input disabled="" type="checkbox"> RES: Personal Website Upgrade</li>
+<li><input disabled="" type="checkbox"> LIF: SSN Related Issue</li>
+</ul>
+<h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
+<h2 id="9-26-Saturday"><a href="#9-26-Saturday" class="headerlink" title="9/26 (Saturday)"></a>9/26 (Saturday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> LIF: Room Cleaning</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Laundry</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Reading Assignment</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 5 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q3 <strong><em>(Partly Completed)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> RES: Midwest Student Conference</li>
+<li><input checked="" disabled="" type="checkbox"> RES: Climate Dynamics</li>
+</ul>
+<h2 id="9-27-Sunday"><a href="#9-27-Sunday" class="headerlink" title="9/27 (Sunday)"></a>9/27 (Sunday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q3</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 6 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 531 Module 4 First Half</li>
+<li><input disabled="" type="checkbox"> RES: Cloud Classification Project</li>
+<li><input checked="" disabled="" type="checkbox"> RES: Midwest Student Conference</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+<h2 id="9-28-Monday"><a href="#9-28-Monday" class="headerlink" title="9/28 (Monday)"></a>9/28 (Monday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q4</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 7 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+<h2 id="9-29-Tuesday"><a href="#9-29-Tuesday" class="headerlink" title="9/29 (Tuesday)"></a>9/29 (Tuesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q5 <strong><em>(Homework Modified)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 7 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 4 Latter Half Except Group Task</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+<h2 id="9-30-Wednesday"><a href="#9-30-Wednesday" class="headerlink" title="9/30 (Wednesday)"></a>9/30 (Wednesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> LIF: UHS Appointment</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 8 Mindmap <strong><em>(Halfway)</em></strong></li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 3 <strong><em>(Hold)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> RTN: Monthly Summary and Plan <strong><em>(Halfway)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+<h2 id="10-1-Thursday"><a href="#10-1-Thursday" class="headerlink" title="10/1 (Thursday)"></a>10/1 (Thursday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 8 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Q5</li>
+<li><input disabled="" type="checkbox"> RES: Solar Farming Promotion (Video abstract, 15-min talk, etc…)</li>
+<li><input checked="" disabled="" type="checkbox"> RTN: Monthly Summary and Plan</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+<h2 id="10-2-Friday"><a href="#10-2-Friday" class="headerlink" title="10/2 (Friday)"></a>10/2 (Friday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 9 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 3 Final Check &amp; Submission</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input disabled="" type="checkbox"> RES: Solar Farming Promotion (Video abstract, 15-min talk, etc…)</li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Daily Email Writing</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2020</tag>
+      </tags>
   </entry>
 </search>
