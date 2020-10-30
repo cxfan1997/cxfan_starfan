@@ -12045,9 +12045,8 @@
 <h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
 <li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal</li>
 <li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 4 Submission</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Reading Assignments</li>
 <li><input disabled="" type="checkbox"> CUR: ELI 534 Study - Module 8</li>
-<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 1 (with mindmap)</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 201 Chapter 1 (with mindmap)</li>
 <li><input disabled="" type="checkbox"> CUR: EXT 299 Seminar X2</li>
 <li><input disabled="" type="checkbox"> RES: Solar Farming Data Processing MYD11A2 (before IM)</li>
 <li><input disabled="" type="checkbox"> RES: Solar Farming AGU Preparation</li>
@@ -12056,27 +12055,81 @@
 </ul>
 <h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
 <h2 id="10-24-Saturday"><a href="#10-24-Saturday" class="headerlink" title="10/24 (Saturday)"></a>10/24 (Saturday)</h2><ul>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 7 Finalize</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 8 First-Half</li>
-<li><input disabled="" type="checkbox"> RES: Solar Farming AGU Preparation</li>
-<li><input disabled="" type="checkbox"> RES: Solar Farming Video Abstract Submission</li>
-<li><input disabled="" type="checkbox"> SOC: ELI Conversation Circle #4</li>
-<li><input disabled="" type="checkbox"> LIF: Laundry</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 7 Finalize</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 8 First-Half</li>
+<li><input disabled="" type="checkbox"> <del>RES: Solar Farming AGU Preparation</del></li>
+<li><input checked="" disabled="" type="checkbox"> RES: Solar Farming Video Abstract Submission</li>
+<li><input checked="" disabled="" type="checkbox"> SOC: ELI Conversation Circle #4</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Laundry</li>
 <li><input checked="" disabled="" type="checkbox"> LIF: Room Cleaning</li>
-<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
-<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
 <li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
 </ul>
 <h2 id="10-25-Sunday"><a href="#10-25-Sunday" class="headerlink" title="10/25 (Sunday)"></a>10/25 (Sunday)</h2><ul>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 8 Second-Half</li>
-<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 1 Mindmap</li>
-<li><input disabled="" type="checkbox"> RES: Solar Farming Data Processing MYD11A2</li>
-<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> <del>CUR: EECS 545 Final Project Proposal</del></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 13 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 8 Observation 1</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 201 Chapter 1 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> RES: Solar Farming Data Processing MYD11A2 <strong><em>(incomplete)</em></strong></li>
+<li><input disabled="" type="checkbox"> <del>RES: Solar Farming AGU Preparation</del></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Online Grocery Pickup</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+</ul>
+<h2 id="10-26-Monday"><a href="#10-26-Monday" class="headerlink" title="10/26 (Monday)"></a>10/26 (Monday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 8 Observation 2</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 299 Seminar 1</li>
+<li><input checked="" disabled="" type="checkbox"> RES: Solar Farming Data Processing MYD11A2 <strong><em>(Discussion with Prof.)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> RES: Solar Farming AGU Preparation <strong><em>(Discussion with Prof.)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+</ul>
+<h2 id="10-27-Tuesday"><a href="#10-27-Tuesday" class="headerlink" title="10/27 (Tuesday)"></a>10/27 (Tuesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 8 Final Practice</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Discussion 3 Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter Mindmap</li>
+<li><input disabled="" type="checkbox"> <del>CUR: EECS 545 Final Project Proposal</del></li>
+<li><input disabled="" type="checkbox"> <del>CUR: EXT 201 Chapter 2</del></li>
+<li><input checked="" disabled="" type="checkbox"> RES: Individual Meeting Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
 <li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
-<li><input disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+</ul>
+<h2 id="10-28-Wednesday"><a href="#10-28-Wednesday" class="headerlink" title="10/28 (Wednesday)"></a>10/28 (Wednesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal <strong><em>(Incomplete)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 201 Chapter 2 <strong><em>(Incomplete)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 104 Day 3 Application &amp; Specialized Talk</li>
+<li><input disabled="" type="checkbox"> RTN: Monthly Summary and Plan</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+</ul>
+<h2 id="10-29-Thursday"><a href="#10-29-Thursday" class="headerlink" title="10/29 (Thursday)"></a>10/29 (Thursday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q1</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 17 Mindmap</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 299 Seminar 2</li>
+<li><input checked="" disabled="" type="checkbox"> MIS: Drivers License Renewal Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> RTN: Monthly Summary and Plan</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
+</ul>
+<h2 id="10-30-Friday"><a href="#10-30-Friday" class="headerlink" title="10/30 (Friday)"></a>10/30 (Friday)</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Reading Assignment</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal</li>
 </ul>
 ]]></content>
       <categories>
@@ -12085,5 +12138,345 @@
       <tags>
         <tag>Fall 2020</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Fall 2020 Monthly Report - October</title>
+    <url>/cxfan_starfan/blog/Monthly-Summary/2020-10-31-Monthly_Summary_202010.html</url>
+    <content><![CDATA[<h1 id="综述"><a href="#综述" class="headerlink" title="综述"></a>综述</h1><div class="note info"><h4 id="致大家的特别提醒"><a href="#致大家的特别提醒" class="headerlink" title="致大家的特别提醒"></a>致大家的特别提醒</h4><ul>
+<li>11月1日（周日），由于美国夏令时结束，美东时间与北京时间时差由之前的12小时调整为13小时。注意准确换算。</li>
+<li>11月1日起，作息时间表较之前略有调整，详见下方十一月计划。</li>
+<li>正在考虑第4次科普讲座，话题、时间、形式等未定，接受建议。</li>
+<li>不知道有没有人对（北京时间）深夜云自习感兴趣……</li>
+</ul>
+</div>
+
+<p>根据月度计划，2020年十月的月度目标为：</p>
+<ul>
+<li>提高课程学习效率，挤出空余时间留给科研</li>
+<li>强调科研工作进度的推进</li>
+<li>办好重要的文件（如SSN和驾照更新）</li>
+</ul>
+<p>这个月的工作效率呈现了一个U型曲线，从本月初开始学习工作效率逐渐下降，每天的作息时间也变得混乱。直到十月的最后一个星期，通过严格限制娱乐活动，效率才逐渐恢复。</p>
+<a id="more"></a>
+
+<p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br><span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
+<h1 id="课程情况"><a href="#课程情况" class="headerlink" title="课程情况"></a>课程情况</h1><h2 id="EECS-545-Machine-Learning-机器学习"><a href="#EECS-545-Machine-Learning-机器学习" class="headerlink" title="EECS 545 - Machine Learning (机器学习)"></a>EECS 545 - Machine Learning (机器学习)</h2><p><strong>课程知识</strong></p>
+<p>自九月到现在，已经完成了17节课内容的学习，共制作了24张知识梳理图。具体内容见<a href="http://www-personal.umich.edu/~cxfan/Files/index2.html">Mindmap Portal</a>并搜索EECS 545。上课本身已经不再去听，也不再去参与，但课程讲义和课程幻灯片都认真阅读学习，并将学习内容反映到了知识梳理图中。</p>
+<p><strong>课前预习</strong></p>
+<p>自九月到现在，已经布置了10次正式计入总评的课前预习作业，完成了10次，所有作业评价均为3.0/3.0。</p>
+<p><strong>课后作业</strong></p>
+<p>自九月到现在，已经布置了4次课后作业，完成了4次，公布成绩的有3次。具体情况如下：</p>
+<table>
+<thead>
+<tr>
+<th>作业</th>
+<th>提交时间</th>
+<th>评分</th>
+<th>平均 | 中位数 (差值)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>HW 1</td>
+<td>-1天</td>
+<td>48.5 / 50.0 (97.0%)</td>
+<td>45.35 | 46.50 (+2.00)</td>
+</tr>
+<tr>
+<td>HW 2</td>
+<td>-1天</td>
+<td>55.0 / 55.0 (100.0%)</td>
+<td>47.56 | 51.00 (+4.00)</td>
+</tr>
+<tr>
+<td>HW 3</td>
+<td>-5天</td>
+<td>52.0 / 55.0 (94.5%)</td>
+<td>45.77 | 48.75 (+3.25)</td>
+</tr>
+<tr>
+<td>HW 4</td>
+<td>-13天</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HW 5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HW 6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>合计</strong></td>
+<td></td>
+<td><strong>155.5 / 160 (97.2%)</strong></td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>文献综述</strong></p>
+<p>十月底完成了第一次文献综述Using Causal Inferences to Build Interpretable Machine Learning Models，以及相应的同学互评（Peer Review）。成绩尚未公布。</p>
+<p><strong>期末大作业</strong></p>
+<p>已经加入了四人合作小组，正在商讨大作业题目，Proposal将于11月4日截止，另外还有Proposal的同学互评（Peer Review）。</p>
+<p><strong>其它内容与学习感想</strong></p>
+<p>课程内容的存档有序进行。</p>
+<p>这门课是难啃的硬骨头！3个学分的课隐含了8个学分的工作量！或许这才是留美之前经常听说的所谓高负荷课程，打败了第一年上的所有的专业课，包括2020年冬季学期上的Data Mining。上半学期的任务已经艰难完成，下半学期的任务会更加的艰巨，还有一次Literature Review及对应的Peer Review，还有一次Final Project对应的Proposal、Report和两次Peer Review。加上十一月初即将恢复的课前作业和剩下的2次课后作业，最后的两个月将会更加艰苦。</p>
+<p>虽然现在不需要也不应该在乎这门课的最终成绩，但仍然要尽可能以较为满意的成绩为研究生的主修课画上一个圆满的句号。</p>
+<h2 id="ELI-534-Discussion-amp-Oral-Argument-口语讨论"><a href="#ELI-534-Discussion-amp-Oral-Argument-口语讨论" class="headerlink" title="ELI 534 - Discussion &amp; Oral Argument (口语讨论)"></a>ELI 534 - Discussion &amp; Oral Argument (口语讨论)</h2><p>每周的课程任务较多，在此不一一列举。所有的作业都能尽快的完成，同时也根据自己的时间和精力，积极主动地参加Optional Meeting。但对于课程内容的整理和练习还可以改进，例如在课上学到的一些常用短语，在日常口语对话中应尽量的去用。</p>
+<h2 id="EXT-201-Atmospheric-Dynamics-大气动力学"><a href="#EXT-201-Atmospheric-Dynamics-大气动力学" class="headerlink" title="EXT 201 - Atmospheric Dynamics (大气动力学)"></a>EXT 201 - Atmospheric Dynamics (大气动力学)</h2><p>十月完成了Mankin Mak的Atmospheric Dynamics第一章的学习，制作了3张知识梳理图，已在<a href="http://www-personal.umich.edu/~cxfan/Files/index2.html">Mindmap Portal</a>上线（搜索EXT 201）。</p>
+<h2 id="EXT-290-Literature-Reading-文献阅读"><a href="#EXT-290-Literature-Reading-文献阅读" class="headerlink" title="EXT 290 - Literature Reading (文献阅读)"></a>EXT 290 - Literature Reading (文献阅读)</h2><p>十月没有新进展。</p>
+<h2 id="EXT-299-Seminar-Series-学术讲座"><a href="#EXT-299-Seminar-Series-学术讲座" class="headerlink" title="EXT 299 - Seminar Series (学术讲座)"></a>EXT 299 - Seminar Series (学术讲座)</h2><p>十月完成了1次额外的学术讲座学习，整理和笔记未完成：</p>
+<ul>
+<li>The 2nd Workshop on Leveraging AI in Environmental Science | Session 8: Machine Learning Tools and Best Practices, Part 1<ul>
+<li>Which strategies did my neural network learn?</li>
+<li>ClimateNet: an expert-labelled open dataset and Deep Learning architecture for enabling high-precision analyses of extreme weather</li>
+<li>The AI for Earth System Science Hackathon: Challenge Problems and Lessons Learned</li>
+<li>“AI for Science” program at Argonne NL</li>
+</ul>
+</li>
+</ul>
+<h2 id="暑期课程收尾"><a href="#暑期课程收尾" class="headerlink" title="暑期课程收尾"></a>暑期课程收尾</h2><p>EXT 101已经完成了全部19章节的学习。除了第19章重要性较低知识梳理图暂缓制作以外，其余梳理图已经在<a href="http://www-personal.umich.edu/~cxfan/Files/index2.html">Mindmap Portal</a>上线（搜索EXT 101）。</p>
+<p>EXT 104这个月完成了Day 3 Applications、Specialized Talk讲座视频的观看。</p>
+<p>102和103本月没有进展。</p>
+<h1 id="科研工作"><a href="#科研工作" class="headerlink" title="科研工作"></a>科研工作</h1><h2 id="Solar-Farming-项目情况"><a href="#Solar-Farming-项目情况" class="headerlink" title="Solar Farming 项目情况"></a>Solar Farming 项目情况</h2><p><span style="color: blue"><strong><em>10月2日，Solar Farming相关的论文被Environmental Research Letters正式接收：<a href="https://iopscience.iop.org/article/10.1088/1748-9326/abbdea">https://iopscience.iop.org/article/10.1088/1748-9326/abbdea</a>。继续等待排版后的正式文章。</em></strong></span>  </p>
+<p>10月23日，相关工作在学院内的Earth, Climate and (your own) Coffee宣讲。</p>
+<p>10月24日，向ERL投稿了Video Abstract，已经审核通过，预计近期会在文章界面公开。</p>
+<p>十月下旬开始制作AGU会议eLightning Session的Poster。</p>
+<p>十月下旬处理了另一个产品的Emissivity和LST数据，与之前的产品结果进行了初步比较。下一步想要对这两个产品的反演方法进行进一步的比较分析，结合结果的比较，推测物理上的真实情况。</p>
+<h2 id="Cloud-Classification-项目情况"><a href="#Cloud-Classification-项目情况" class="headerlink" title="Cloud Classification 项目情况"></a>Cloud Classification 项目情况</h2><p>十月没有新进展。</p>
+<h2 id="AIRS-16Days-进展"><a href="#AIRS-16Days-进展" class="headerlink" title="AIRS-16Days 进展"></a>AIRS-16Days 进展</h2><p>2019年的数据已经全部处理完毕。</p>
+<h2 id="小组组会-教授一对一谈话"><a href="#小组组会-教授一对一谈话" class="headerlink" title="小组组会/教授一对一谈话"></a>小组组会/教授一对一谈话</h2><p>十月一共进行了三次组会，组会内容包括：</p>
+<ul>
+<li>20201008: Paper - The Detection and Characterization of Arctic Sea Ice Leads with Satellite Imagers</li>
+<li>20201015: Paper - The Detection and Characterization of Arctic Sea Ice Leads with Satellite Imagers (continued)</li>
+<li>20200922: Paper - Optimal Estimation Retrievals and Their Uncertainties</li>
+</ul>
+<p>十月进行了两次教授一对一谈话，都是对Solar Farming相关工作的讨论。</p>
+<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><h2 id="口语"><a href="#口语" class="headerlink" title="口语"></a>口语</h2><p>这个月参加了4次ELI Conversation Circle，组织的4次活动都能按时参加，但是活动中积极性不足。</p>
+<h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2><p><span style="color: red"><strong><em>每日邮件写作又一次停摆……</em></strong></span></p>
+<h2 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h2><p>基本上已经养成早上英语晨读的习惯，有些天数没有完成晨读，主要原因是早上赖床影响了阅读时间。但可贵之处在于以前很少阅读纸质书，现在能有一定的动力通过阅读陶冶情操。</p>
+<p>十月初完成了How to Go Viral and Reach Millions这本书的阅读，迅速购买了下一本书阅读——Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones。读这本书收获很大，如果能通过阅读笔记的方式记录下来，效果可能会更好。希望之后能够培养记笔记的习惯，可以在锻炼阅读速度的同时，培养总结能力和写作能力。</p>
+<h2 id="听力"><a href="#听力" class="headerlink" title="听力"></a>听力</h2><p>每天中午的一篇TED的听力练习执行情况较差，原因包括中饭时间过长，安排的TED听力练习时间过短导致。下一个月考虑调整TED听力练习的时间。</p>
+<h2 id="词汇"><a href="#词汇" class="headerlink" title="词汇"></a>词汇</h2><p>没有关于词汇积累的练习。</p>
+<h1 id="生活健康"><a href="#生活健康" class="headerlink" title="生活健康"></a>生活健康</h1><h2 id="身体健康"><a href="#身体健康" class="headerlink" title="身体健康"></a>身体健康</h2><p>十月身体状况良好，右脚脚踝已经完全恢复。</p>
+<h2 id="心理健康"><a href="#心理健康" class="headerlink" title="心理健康"></a>心理健康</h2><p>十月受到课程压力等诸多因素影响，情绪存在波动，十月下旬经过调整，加上课程压力出现了减弱向好的迹象，情绪已逐渐恢复。</p>
+<h2 id="体育锻炼"><a href="#体育锻炼" class="headerlink" title="体育锻炼"></a>体育锻炼</h2><p>十月恢复了早操之后，每天都能坚持，课间操坚持情况没有早操好，下午的主要锻炼坚持情况差。</p>
+<h2 id="公寓卫生"><a href="#公寓卫生" class="headerlink" title="公寓卫生"></a>公寓卫生</h2><p>室内卫生保持状况一般，每周六坚持做好地面保洁，但表面清洁，物品收纳方面做得比较糟糕。</p>
+<p>防疫措施有松懈的迹象，日常的手卫生已经很少使用洗手液，超市采购回家后的消毒开始变得马虎。进入秋冬季，安娜堡的疫情形势又一次抬头，万万不可掉以轻心！</p>
+<h2 id="其它事项"><a href="#其它事项" class="headerlink" title="其它事项"></a>其它事项</h2><p><span style="color: blue"><strong><em>十三年前家庭音乐会上的所有曲目这一个月都已复习完毕！制作了前后对比视频，还新练了一些曲目，受到了广泛好评。</em></strong></span></p>
+<p>十月完成了SSN的办理和驾照的更新，总体算是很顺利，中间有一些小的波折。</p>
+<h1 id="十一月计划"><a href="#十一月计划" class="headerlink" title="十一月计划"></a>十一月计划</h1><h2 id="本月目标"><a href="#本月目标" class="headerlink" title="本月目标"></a>本月目标</h2><ul>
+<li>优化作息时间表，坚持良好作息习惯</li>
+<li>保持545和534课程学习劲头的同时，加大力度推进自修课进度，做好课外学习</li>
+<li>专项突击气候模式的学习，充分利用超算平台的资源</li>
+<li>严格做好疫情防控，保持身体心理健康</li>
+</ul>
+<h2 id="作息时间"><a href="#作息时间" class="headerlink" title="作息时间"></a>作息时间</h2><p>调整后的作息时间如下表所示，重要的修改事项用<strong>粗体</strong>标注。</p>
+<table>
+<thead>
+<tr>
+<th>时间</th>
+<th>项目</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>6:30</td>
+<td>起床</td>
+</tr>
+<tr>
+<td>6:30-6:50</td>
+<td>早间洗漱、内务整理</td>
+</tr>
+<tr>
+<td>6:50-6:55</td>
+<td>早操</td>
+</tr>
+<tr>
+<td>6:55-7:05</td>
+<td>早餐准备</td>
+</tr>
+<tr>
+<td>7:05-7:45</td>
+<td>早餐</td>
+</tr>
+<tr>
+<td>7:45-7:55</td>
+<td>上午工作准备</td>
+</tr>
+<tr>
+<td>7:55-8:35</td>
+<td>晨读：英语纸质书阅读</td>
+</tr>
+<tr>
+<td>8:35-8:40</td>
+<td>休息1</td>
+</tr>
+<tr>
+<td>8:40-9:40</td>
+<td>上午工作1</td>
+</tr>
+<tr>
+<td>9:40-9:50</td>
+<td>休息2（课间操）</td>
+</tr>
+<tr>
+<td>9:50-10:50</td>
+<td>上午工作2</td>
+</tr>
+<tr>
+<td>10:50-11:00</td>
+<td>休息3（眼保健操）</td>
+</tr>
+<tr>
+<td>11:00-12:00</td>
+<td>上午工作3<br /><strong>（11:50可提前下工准备午餐）</strong></td>
+</tr>
+<tr>
+<td>12:00-12:40</td>
+<td>午餐</td>
+</tr>
+<tr>
+<td>12:40-12:50</td>
+<td>下午工作准备</td>
+</tr>
+<tr>
+<td>12:50-13:05</td>
+<td><strong>午休：英语写作/口语练习</strong></td>
+</tr>
+<tr>
+<td>13:05-13:10</td>
+<td>休息4</td>
+</tr>
+<tr>
+<td>13:10-14:10</td>
+<td>下午工作1</td>
+</tr>
+<tr>
+<td>14:10-14:20</td>
+<td>休息5（课间操）</td>
+</tr>
+<tr>
+<td>14:20-15:20</td>
+<td>下午工作2</td>
+</tr>
+<tr>
+<td>15:20-15:30</td>
+<td>休息6（眼保健操）</td>
+</tr>
+<tr>
+<td>15:30-16:30</td>
+<td>下午工作3<br /><strong>（16:20可提前下工做热身运动）</strong></td>
+</tr>
+<tr>
+<td>16:30-17:00</td>
+<td>体育锻炼</td>
+</tr>
+<tr>
+<td>17:00-17:20</td>
+<td>洗澡和休息</td>
+</tr>
+<tr>
+<td>17:20-18:20</td>
+<td>晚餐准备</td>
+</tr>
+<tr>
+<td>18:20-19:00</td>
+<td>晚餐</td>
+</tr>
+<tr>
+<td>19:00-19:30</td>
+<td>洗碗和卫生</td>
+</tr>
+<tr>
+<td>19:30-20:15</td>
+<td>电子琴</td>
+</tr>
+<tr>
+<td>20:15-20:20</td>
+<td>休息7</td>
+</tr>
+<tr>
+<td>20:20-21:00</td>
+<td>晚间工作1</td>
+</tr>
+<tr>
+<td>21:00-21:10</td>
+<td>休息8（眼保健操）</td>
+</tr>
+<tr>
+<td>21:10-21:50</td>
+<td>晚间工作2</td>
+</tr>
+<tr>
+<td>21:50-22:30</td>
+<td>每日整理、睡前准备</td>
+</tr>
+<tr>
+<td>22:30</td>
+<td>睡觉</td>
+</tr>
+</tbody></table>
+<p>之前安排的英语听力练习，融合到晚上工作完成。上午工作和下午工作的六个小时主要完成课程、科研等高强度工作内容，晚间工作的两个小时主要安排计划整理、英语学习、兴趣爱好等轻量级工作。**<u>除非紧急情况，不要使用晚间工作时间完成与课程和科研相关的内容！划清工作和休息的界线！</u>**</p>
+<h2 id="课程学习"><a href="#课程学习" class="headerlink" title="课程学习"></a>课程学习</h2><h3 id="EECS-545-Machine-Learning"><a href="#EECS-545-Machine-Learning" class="headerlink" title="EECS 545: Machine Learning"></a>EECS 545: Machine Learning</h3><p>这门课的老师终于开窍，课程压力减小了不少：最后的两次作业由5题55分减少为4题40分，还剩4次课前预习作业，课前预习作业按照原先的规定去掉2次最低分，现在增加到了去掉6次最低分（因此理论上说后面的4次课前预习可以完全不做）。但仍有一次Literature Review和一次Final Project这两个大块头。</p>
+<p>十月拟定的每日任务安排已经不再适用，可以采用比较灵活多变的形式安排：</p>
+<ul>
+<li><u>课前预习</u>：课前仍然认真预习讲义，但是<strong>额外完成Perusall作业的时间严格限制在15分钟内！</strong>即，第一次自行撰写评论的时间不超过15分钟，达到15分钟上限后，无论有没有达到老师规定的评论数量要求，有没有达到所谓的质量和分散度要求，都立即停止。<strong>到DDL截止之前应不再反复查看Perusall的情况！</strong>在DDL之后，可以查看其它同学的评论获得新的思考。</li>
+<li><u>课堂参与</u>：原则上不再参与直播互动。根据实际情况，有针对性的选择上课录像的部分片段，以普速或倍速播放。</li>
+<li><u>课后梳理</u>：仍然按照之前的标准完成章节知识梳理图的制作。</li>
+<li><u>课后作业</u>：还有两次课后作业，仍然按照之前的标准高质高效完成，<strong>但不要浪费时间过分纠结细节问题！</strong></li>
+<li><u>文献综述</u>：第二次文献调研预计将于11月11日启动，所以没有中场休息时间，应立即开始寻找可以调研的主题。初步想法是对One-Shot Learning进行调研，具体还要看老师尚未公布的细则。文献综述本身可以花费较长的时间研究完成。11月18日DDL后，还是按照第一次的原则，从快从简完成Peer Review，每篇论文的批阅时间（包括写评论）原则上不超过30分钟。</li>
+<li><u>期末大作业</u>：<ul>
+<li>10月31日和11月1日小组合作完成Proposal。</li>
+<li>11月4日开始Proposal Peer Review，同样从简从快完成，每篇Proposal批阅时间原则上不超过10分钟。</li>
+<li>完成Proposal后，与小组其他成员配合完成Final Project，尤其要注意大数据处理可能需要耗费大量时间。Report截止时间12月11日。</li>
+<li>12月11日开始Report Peer Review，同样从简从快完成，每篇Report批阅时间原则上不超过40分钟。</li>
+</ul>
+</li>
+</ul>
+<h3 id="ELI-534-Discussion-amp-Oral-Argument"><a href="#ELI-534-Discussion-amp-Oral-Argument" class="headerlink" title="ELI 534: Discussion &amp; Oral Argument"></a>ELI 534: Discussion &amp; Oral Argument</h3><p>课程的任务量较开学的一段时间已经少了很多，最后的几个单元仍然按照现有的模式完成。</p>
+<h3 id="EXT-201-Atmospheric-Dynamics"><a href="#EXT-201-Atmospheric-Dynamics" class="headerlink" title="EXT 201: Atmospheric Dynamics"></a>EXT 201: Atmospheric Dynamics</h3><p>这个月至少完成第二章、第三章、第四章的学习，每一章都应完成相应的知识梳理图。</p>
+<h3 id="EXT-290-Literature-Reading"><a href="#EXT-290-Literature-Reading" class="headerlink" title="EXT 290: Literature Reading"></a>EXT 290: Literature Reading</h3><p>本月的文献阅读主要消化之前还未来得及阅读和研究的文章，包括导师推送的几篇ML相关的文章。也可以自己选定感兴趣的话题，围绕这个话题进行文献的调研，例如：</p>
+<ul>
+<li>Interpretable ML in Climate Science</li>
+<li>ML in Satellite Retrievals</li>
+<li>Arctic Climate</li>
+<li>Frontier in Climate Modeling</li>
+</ul>
+<h3 id="EXT-299-Seminar-Series"><a href="#EXT-299-Seminar-Series" class="headerlink" title="EXT 299: Seminar Series"></a>EXT 299: Seminar Series</h3><p>本月至少完成3次讲座的学习，可在以下话题中选择：</p>
+<ul>
+<li>AI/ML in Climate Science</li>
+<li>AMS Monograph</li>
+<li>Atmospheric/Climate Dynamics</li>
+</ul>
+<h3 id="EXT-1XX"><a href="#EXT-1XX" class="headerlink" title="EXT 1XX"></a>EXT 1XX</h3><ul>
+<li>EXT 104尽量完成全部5天的内容</li>
+</ul>
+<h2 id="科研工作-1"><a href="#科研工作-1" class="headerlink" title="科研工作"></a>科研工作</h2><h3 id="Solar-Farming-Project"><a href="#Solar-Farming-Project" class="headerlink" title="Solar Farming Project"></a>Solar Farming Project</h3><p>这个月主要对长波辐射部分进行研究，如果有时间，可以尝试使用气候模式重复Hu et al. (2016)或Li et al. (2018)的实验（不一定完整的做完，只是要熟悉跑模式的流程）。</p>
+<p>AGU会议按照之前制作的3分钟模板即可。</p>
+<h3 id="Cloud-Classification-Project"><a href="#Cloud-Classification-Project" class="headerlink" title="Cloud Classification Project"></a>Cloud Classification Project</h3><p>这个月暂时不安排新工作。</p>
+<h3 id="AIRS-16Day-Project"><a href="#AIRS-16Day-Project" class="headerlink" title="AIRS-16Day Project"></a>AIRS-16Day Project</h3><p>这个月暂时不安排新工作。</p>
+<h3 id="AGU-Fall-2020-Meeting"><a href="#AGU-Fall-2020-Meeting" class="headerlink" title="AGU Fall 2020 Meeting"></a>AGU Fall 2020 Meeting</h3><p>因为是第一次参加AGU会议，这个月要做好事前调研，制定规划。</p>
+<h2 id="英语提升"><a href="#英语提升" class="headerlink" title="英语提升"></a>英语提升</h2><h3 id="新增：午间写作-口语练习"><a href="#新增：午间写作-口语练习" class="headerlink" title="新增：午间写作/口语练习"></a>新增：午间写作/口语练习</h3><p>养成每日练习英语写作和练习英语口语的习惯，自11月1日起，每周日、二、四的中午15分钟午休时间，录制一个5分钟左右的视频，自己安排主题（但是不可以准备完整的演讲稿，必须即兴），可以是讲述最近几天发生的故事，也可以是对某一条新闻进行转述并发表自己的看法，也可以是介绍某一样物品，都可以；每周一、三、五的中午，写一到两段英语小作文，同样自己安排主题。</p>
+<h3 id="TED听力练习"><a href="#TED听力练习" class="headerlink" title="TED听力练习"></a>TED听力练习</h3><p>原来在中午的练习，现在移到晚间工作1完成。周一到周五看新视频，周六周日整理和总结。</p>
+<h3 id="英语晨读"><a href="#英语晨读" class="headerlink" title="英语晨读"></a>英语晨读</h3><p>继续保持之前的好习惯，坚持每天晨读。</p>
+<h2 id="体育锻炼-1"><a href="#体育锻炼-1" class="headerlink" title="体育锻炼"></a>体育锻炼</h2><p>进入冬天，户外锻炼可能受到限制，应更多的尝试并探索室内锻炼的有效方法，并每天坚持完成。</p>
+<h2 id="其它事项-1"><a href="#其它事项-1" class="headerlink" title="其它事项"></a>其它事项</h2><h3 id="卫生防疫"><a href="#卫生防疫" class="headerlink" title="卫生防疫"></a>卫生防疫</h3><p>保持正常的生活作息，多吃水果多喝水，工作50分钟休息10分钟窗外远眺，保障充足的睡眠。保持家中卫生，勤洗手勤通风。</p>
+<h3 id="电子琴练习"><a href="#电子琴练习" class="headerlink" title="电子琴练习"></a>电子琴练习</h3><p>电子琴继续坚持每天练习45分钟。这个月尝试学习（或复习）新的曲目，包括：</p>
+<ol>
+<li>音阶练习：小调全十二音（练至120 BPM）</li>
+<li>电子琴曲：陕北民歌（练至120 BPM）</li>
+<li>钢琴曲：目标一首新曲</li>
+</ol>
+<h3 id="感恩节假期"><a href="#感恩节假期" class="headerlink" title="感恩节假期"></a>感恩节假期</h3><p>11月21日至29日有感恩节长假，在放松休息的同时，要趁着课程压力较小的时候做更多的课外延伸。考虑到秋冬季防疫形势，感恩节假期尽量不出门。</p>
+<h3 id="（有空再做）个人网站更新"><a href="#（有空再做）个人网站更新" class="headerlink" title="（有空再做）个人网站更新"></a>（有空再做）个人网站更新</h3><p>经过调研发现，因为自己没有通过任何方式宣传，很多人并不知道自己学过一些软件和工具（例如Premiere、Aegisub、VBA等）；另外，有一些工具过一段时间后又会变得生疏，需要有一个笔记记录。因此，考虑在个人主页上展示之前学习的工具，并在Blog中更新使用笔记。</p>
+<h3 id="（有空再做）个人宣传小片"><a href="#（有空再做）个人宣传小片" class="headerlink" title="（有空再做）个人宣传小片"></a>（有空再做）个人宣传小片</h3><p>同上，可嵌入个人主页中。</p>
+]]></content>
+      <categories>
+        <category>Monthly Summary</category>
+      </categories>
   </entry>
 </search>
