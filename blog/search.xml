@@ -12128,8 +12128,16 @@
 <li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
 </ul>
 <h2 id="10-30-Friday"><a href="#10-30-Friday" class="headerlink" title="10/30 (Friday)"></a>10/30 (Friday)</h2><ul>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Reading Assignment</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Reading Assignment</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q2</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal <strong><em>(Hold)</em></strong></li>
+<li><input disabled="" type="checkbox"> <del>CUR: ELI 534 Optional Meeting</del></li>
+<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 2</li>
+<li><input checked="" disabled="" type="checkbox"> <strong>MIS: Drivers License Renewal</strong></li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon TED Listening</li>
 </ul>
 ]]></content>
       <categories>
@@ -12161,7 +12169,7 @@
 
 <p><span style="color: blue"><strong><em>蓝色标注内容为突出贡献</em></strong></span><br><span style="color: red"><strong><em>红色标注内容为突出问题</em></strong></span></p>
 <h1 id="课程情况"><a href="#课程情况" class="headerlink" title="课程情况"></a>课程情况</h1><h2 id="EECS-545-Machine-Learning-机器学习"><a href="#EECS-545-Machine-Learning-机器学习" class="headerlink" title="EECS 545 - Machine Learning (机器学习)"></a>EECS 545 - Machine Learning (机器学习)</h2><p><strong>课程知识</strong></p>
-<p>自九月到现在，已经完成了17节课内容的学习，共制作了24张知识梳理图。具体内容见<a href="http://www-personal.umich.edu/~cxfan/Files/index2.html">Mindmap Portal</a>并搜索EECS 545。上课本身已经不再去听，也不再去参与，但课程讲义和课程幻灯片都认真阅读学习，并将学习内容反映到了知识梳理图中。</p>
+<p>自九月到现在，已经完成了17节课内容的学习，共制作了26张知识梳理图。具体内容见<a href="http://www-personal.umich.edu/~cxfan/Files/index2.html">Mindmap Portal</a>并搜索EECS 545。上课本身已经不再去听，也不再去参与，但课程讲义和课程幻灯片都认真阅读学习，并将学习内容反映到了知识梳理图中。</p>
 <p><strong>课前预习</strong></p>
 <p>自九月到现在，已经布置了10次正式计入总评的课前预习作业，完成了10次，所有作业评价均为3.0/3.0。</p>
 <p><strong>课后作业</strong></p>
@@ -12219,7 +12227,8 @@
 </tr>
 </tbody></table>
 <p><strong>文献综述</strong></p>
-<p>十月底完成了第一次文献综述Using Causal Inferences to Build Interpretable Machine Learning Models，以及相应的同学互评（Peer Review）。成绩尚未公布。</p>
+<p>十月底完成了第一次文献综述Using Causal Inferences to Build Interpretable Machine Learning Models，以及相应的同学互评（Peer Review）。</p>
+<p>同学互评的结果分别为51.0、52.0、53.0、53.0（满分为55分），按照取中位数为最终成绩的规则，应得52.5/55.0 (95.5%)。不过最终成绩尚未公布。</p>
 <p><strong>期末大作业</strong></p>
 <p>已经加入了四人合作小组，正在商讨大作业题目，Proposal将于11月4日截止，另外还有Proposal的同学互评（Peer Review）。</p>
 <p><strong>其它内容与学习感想</strong></p>
@@ -12421,7 +12430,7 @@
 </tr>
 </tbody></table>
 <p>之前安排的英语听力练习，融合到晚上工作完成。上午工作和下午工作的六个小时主要完成课程、科研等高强度工作内容，晚间工作的两个小时主要安排计划整理、英语学习、兴趣爱好等轻量级工作。**<u>除非紧急情况，不要使用晚间工作时间完成与课程和科研相关的内容！划清工作和休息的界线！</u>**</p>
-<h2 id="课程学习"><a href="#课程学习" class="headerlink" title="课程学习"></a>课程学习</h2><h3 id="EECS-545-Machine-Learning"><a href="#EECS-545-Machine-Learning" class="headerlink" title="EECS 545: Machine Learning"></a>EECS 545: Machine Learning</h3><p>这门课的老师终于开窍，课程压力减小了不少：最后的两次作业由5题55分减少为4题40分，还剩4次课前预习作业，课前预习作业按照原先的规定去掉2次最低分，现在增加到了去掉6次最低分（因此理论上说后面的4次课前预习可以完全不做）。但仍有一次Literature Review和一次Final Project这两个大块头。</p>
+<h2 id="课程学习"><a href="#课程学习" class="headerlink" title="课程学习"></a>课程学习</h2><h3 id="EECS-545-Machine-Learning"><a href="#EECS-545-Machine-Learning" class="headerlink" title="EECS 545: Machine Learning"></a>EECS 545: Machine Learning</h3><p>（10月29日更新）这门课的老师终于开窍，课程压力减小了不少：最后的两次作业由5题55分减少为4题40分，还剩4次课前预习作业，课前预习作业按照原先的规定去掉2次最低分，现在增加到了去掉6次最低分（因此理论上说后面的4次课前预习可以完全不做）。但仍有一次Literature Review和一次Final Project这两个大块头。</p>
 <p>十月拟定的每日任务安排已经不再适用，可以采用比较灵活多变的形式安排：</p>
 <ul>
 <li><u>课前预习</u>：课前仍然认真预习讲义，但是<strong>额外完成Perusall作业的时间严格限制在15分钟内！</strong>即，第一次自行撰写评论的时间不超过15分钟，达到15分钟上限后，无论有没有达到老师规定的评论数量要求，有没有达到所谓的质量和分散度要求，都立即停止。<strong>到DDL截止之前应不再反复查看Perusall的情况！</strong>在DDL之后，可以查看其它同学的评论获得新的思考。</li>
@@ -12478,5 +12487,82 @@
       <categories>
         <category>Monthly Summary</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Fall 2020 Week 10 Progress - October 31st</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-10-31-Weekly_Progress_20201031.html</url>
+    <content><![CDATA[<h1 id="Weekly-Goals"><a href="#Weekly-Goals" class="headerlink" title="Weekly Goals"></a>Weekly Goals</h1><ul>
+<li>Finish EECS 545 Final Projcet Proposal</li>
+<li>Finish EECS 545 Proposal Peer Review</li>
+<li>Keep track of daily routines using spreadsheets</li>
+</ul>
+<a id="more"></a>
+
+<h1 id="Weekly-Notes"><a href="#Weekly-Notes" class="headerlink" title="Weekly Notes"></a>Weekly Notes</h1><p>Last week, some restrictions are applied to ensure high working efficiency. They show some positive effects. As we are heading for a busy November, the restrictions still apply this week, except that some adjustments will be made.</p>
+<ol>
+<li>Daily schedule must be strictly enforced.</li>
+<li>No video and games <strong>all day</strong>.</li>
+<li>No chats <strong>during working hours</strong> (except family live stream and possible cloud study). Focus mode on mobile devices will be turned on during working hours. More specifically, 60-minute focus mode for regular working hours and 40-minute focus mode for morning reading.</li>
+</ol>
+<p>Other things to note:</p>
+<ul>
+<li>Consider applying for the enrollment of the MICDE graduate certificate.</li>
+<li>Beware these course-related and research-related issues:<ul>
+<li>EECS 545 final project discussion</li>
+<li>EXT 201 Atmospheric Dynamics Chapter 2</li>
+<li>EXT 290 Literature Reading</li>
+<li>EXT 299 Seminar Series</li>
+<li>EXT 104 Climate Modeling Day 3 &amp; Day 4</li>
+</ul>
+</li>
+<li>Potential recreational projects to come (but DO NOT work on these items this week):<ul>
+<li>Self-promotion video</li>
+<li>Personal website update</li>
+<li>More piano songs to learn, record &amp; archive</li>
+<li>Writing blog articles about software toolkit</li>
+</ul>
+</li>
+</ul>
+<h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
+<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 5</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Study - Module 9</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 2</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 290 Literature Reading X1</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 299 Seminar X1</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 104 Day 3 &amp; Day 4</li>
+<li><input disabled="" type="checkbox"> RES: Solar Farming Result Discussion</li>
+</ul>
+<h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
+<h2 id="10-31-Saturday"><a href="#10-31-Saturday" class="headerlink" title="10/31 (Saturday)"></a>10/31 (Saturday)</h2><ul>
+<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q3</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 9 First Half</li>
+<li><input disabled="" type="checkbox"> <del>SOC: ELI Conversation Circle #5</del></li>
+<li><input disabled="" type="checkbox"> LIF: Laundry</li>
+<li><input disabled="" type="checkbox"> LIF: Room Cleaning</li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-1-Sunday"><a href="#11-1-Sunday" class="headerlink" title="11/1 (Sunday)"></a>11/1 (Sunday)</h2><ul>
+<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q4</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 9 Second Half</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Discussion 3 Preparation</li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2020</tag>
+      </tags>
   </entry>
 </search>
