@@ -12524,33 +12524,168 @@
 </li>
 </ul>
 <h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
-<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
+<li><input checked="" disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
 <li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 5</li>
 <li><input disabled="" type="checkbox"> CUR: ELI 534 Study - Module 9</li>
 <li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 2</li>
-<li><input disabled="" type="checkbox"> CUR: EXT 290 Literature Reading X1</li>
-<li><input disabled="" type="checkbox"> CUR: EXT 299 Seminar X1</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 290 Literature Reading X1</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 299 Seminar X1</li>
 <li><input disabled="" type="checkbox"> CUR: EXT 104 Day 3 &amp; Day 4</li>
 <li><input disabled="" type="checkbox"> RES: Solar Farming Result Discussion</li>
 </ul>
 <h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
 <h2 id="10-31-Saturday"><a href="#10-31-Saturday" class="headerlink" title="10/31 (Saturday)"></a>10/31 (Saturday)</h2><ul>
-<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q3</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 9 First Half</li>
+<li><input checked="" disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong> (Section 2.1)</li>
+<li><input disabled="" type="checkbox"> <del>CUR: EECS 545 Homework 5 Q3 <strong><em>(DELAY)</em></strong></del></li>
+<li><input disabled="" type="checkbox"> <del>CUR: ELI 534 Module 9 First Half <strong><em>(DELAY)</em></strong></del></li>
 <li><input disabled="" type="checkbox"> <del>SOC: ELI Conversation Circle #5</del></li>
-<li><input disabled="" type="checkbox"> LIF: Laundry</li>
-<li><input disabled="" type="checkbox"> LIF: Room Cleaning</li>
-<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Laundry</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Room Cleaning</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
 <li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
 <li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
 </ul>
 <h2 id="11-1-Sunday"><a href="#11-1-Sunday" class="headerlink" title="11/1 (Sunday)"></a>11/1 (Sunday)</h2><ul>
-<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong></li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q4</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 9 Second Half</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Discussion 3 Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Proposal</strong> (Section 2.2 &amp; 2.3)</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Reading Assignment</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 9 Observation</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Discussion 3 Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-2-Monday"><a href="#11-2-Monday" class="headerlink" title="11/2 (Monday)"></a>11/2 (Monday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture 18</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal Discussion</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Q3-Q4 <strong><em>(Incomplete)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Discussion 3</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-3-Tuesday"><a href="#11-3-Tuesday" class="headerlink" title="11/3 (Tuesday)"></a>11/3 (Tuesday)</h2><ul>
+<li><input disabled="" type="checkbox"> <del>CUR: EECS 545 Chapter 18 Mindmap</del></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal <strong><em>(Almost Complete)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 9 Practice</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 9 Discussion 3 Reflection</li>
+<li><input checked="" disabled="" type="checkbox"> RES: Individual Meeting</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-4-Wednesday"><a href="#11-4-Wednesday" class="headerlink" title="11/4 (Wednesday)"></a>11/4 (Wednesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 18 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Parking Permit Pickup</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-5-Thursday"><a href="#11-5-Thursday" class="headerlink" title="11/5 (Thursday)"></a>11/5 (Thursday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 19 Mindmap</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Discussion</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 2</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 290 Literature Reading X1</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EXT 299 Seminar X1</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-6-Friday"><a href="#11-6-Friday" class="headerlink" title="11/6 (Friday)"></a>11/6 (Friday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 5 Finalize</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 2</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2020</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fall 2020 Week 11 Progress - November 7th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-11-07-Weekly_Progress_20201107.html</url>
+    <content><![CDATA[<h1 id="Weekly-Goals"><a href="#Weekly-Goals" class="headerlink" title="Weekly Goals"></a>Weekly Goals</h1><ul>
+<li>Finish EECS 545 Proposal Peer Review</li>
+<li>Prepare for EECS 545 Literature Review</li>
+<li>Work on EECS 545 Final Project Coding</li>
+<li>Prepare for the student first paper orientation</li>
+</ul>
+<a id="more"></a>
+
+<h1 id="Weekly-Notes"><a href="#Weekly-Notes" class="headerlink" title="Weekly Notes"></a>Weekly Notes</h1><p>Restrictions:</p>
+<ol>
+<li>Daily schedule must be strictly enforced.</li>
+<li>No video and games <strong>all day</strong>.</li>
+<li>No chats <strong>during working hours</strong> (except family live streams and cloud study sessions). Focus mode on mobile devices will be turned on during working hours. More specifically, 60-minute focus mode for regular working hours and 40-minute focus mode for morning reading.</li>
+</ol>
+<p>Other things to note:</p>
+<ul>
+<li>Consider applying for the enrollment of the MICDE graduate certificate.</li>
+<li>Beware these course-related and research-related issues:<ul>
+<li>EXT 201 Atmospheric Dynamics Chapter 2</li>
+<li>EXT 290 Literature Reading</li>
+<li>EXT 299 Seminar Series</li>
+<li>EXT 104 Climate Modeling Day 3 &amp; Day 4</li>
+</ul>
+</li>
+<li>Potential recreational projects to come (but DO NOT work on these items this week):<ul>
+<li>Self-promotion video</li>
+<li>Personal website update</li>
+<li>More piano songs to learn, record &amp; archive</li>
+<li>Writing blog articles about software toolkit</li>
+</ul>
+</li>
+</ul>
+<h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal Review</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Coding</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Literature Review</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 10</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 201 Chapter 2</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 290 Literature Reading X1</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 299 Seminar X1</li>
+<li><input disabled="" type="checkbox"> CUR: EXT 104 Day 4</li>
+<li><input disabled="" type="checkbox"> RES: Student First Paper Presentation Preparation</li>
+</ul>
+<h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
+<h2 id="11-7-Saturday"><a href="#11-7-Saturday" class="headerlink" title="11/7 (Saturday)"></a>11/7 (Saturday)</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Proposal Peer Review</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 10 First Half</li>
+<li><input disabled="" type="checkbox"> SOC: ELI Conversation Circle #6</li>
+<li><input disabled="" type="checkbox"> LIF: Laundry</li>
+<li><input disabled="" type="checkbox"> LIF: Room Cleaning</li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon Summary</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-8-Sunday"><a href="#11-8-Sunday" class="headerlink" title="11/8 (Sunday)"></a>11/8 (Sunday)</h2><ul>
+<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Final Project Coding</strong></li>
+<li><input disabled="" type="checkbox"> <strong>CUR: EECS 545 Literature Review Preparation</strong></li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 10 Second Half</li>
+<li><input disabled="" type="checkbox"> <strong>RES: First Paper Presentation Preparation</strong></li>
 <li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
 <li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
