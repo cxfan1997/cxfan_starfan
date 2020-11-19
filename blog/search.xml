@@ -12824,8 +12824,8 @@
 </tbody></table>
 <h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
 <li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Coding</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Literature Review 2</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 10 Remaining Tasks</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Literature Review 2</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 10 Remaining Tasks</li>
 <li><input disabled="" type="checkbox"> CUR: ELI 534 Module 11</li>
 <li><input disabled="" type="checkbox"> RES: Student First Paper Presentation</li>
 </ul>
@@ -12846,14 +12846,62 @@
 </ul>
 <h2 id="11-15-Sunday"><a href="#11-15-Sunday" class="headerlink" title="11/15 (Sunday)"></a>11/15 (Sunday)</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lit Review Section 3.2</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Lit Review Section 4</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Lit Review Section 5</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lit Review Section 4 <strong><em>(Late)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lit Review Section 5 <strong><em>(Late)</em></strong></li>
 <li><input checked="" disabled="" type="checkbox"> LIF: Online Grocery Pickup</li>
 <li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
 <li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
 <li><input checked="" disabled="" type="checkbox"> ENG: Morning Reading</li>
 <li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
 <li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-16-Monday"><a href="#11-16-Monday" class="headerlink" title="11/16 (Monday)"></a>11/16 (Monday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lit Review Wrap-up</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Components</li>
+<li><input disabled="" type="checkbox"> <del>CUR: ELI 534 Module 11 Practice Intonation</del></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-17-Tuesday"><a href="#11-17-Tuesday" class="headerlink" title="11/17 (Tuesday)"></a>11/17 (Tuesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 22 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Discussion</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Proposed Model Wiring <strong>(Incomplete)</strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 11 Practice Intonation</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-18-Wednesday"><a href="#11-18-Wednesday" class="headerlink" title="11/18 (Wednesday)"></a>11/18 (Wednesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Proposed Model Wiring <strong>(Incomplete)</strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Discussion 4 Preparation</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-19-Thursday"><a href="#11-19-Thursday" class="headerlink" title="11/19 (Thursday)"></a>11/19 (Thursday)</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Discussion 4</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Discussion 4 Reflection</li>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Chapter 23 Mindmap</li>
+<li><input disabled="" type="checkbox"> RES: Student First Paper Presentation Prep</li>
+<li><input disabled="" type="checkbox"> RES: Student First Paper Presentation</li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="11-20-Friday"><a href="#11-20-Friday" class="headerlink" title="11/20 (Friday)"></a>11/20 (Friday)</h2><ul>
+<li><input disabled="" type="checkbox"> MIS: Print Sheet Music &amp; Other Stuff</li>
+<li><input disabled="" type="checkbox"> RTN: Holiday Preliminary Plans</li>
 </ul>
 ]]></content>
       <categories>
