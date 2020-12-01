@@ -12925,6 +12925,8 @@
     <content><![CDATA[<a id="more"></a>
 
 <h1 id="日常行为考核规范"><a href="#日常行为考核规范" class="headerlink" title="日常行为考核规范"></a>日常行为考核规范</h1><p>2020年11月27日更新</p>
+<!-- more -->
+
 <h2 id="总则"><a href="#总则" class="headerlink" title="总则"></a>总则</h2><ol>
 <li>设置21个考核项目，每日满分为42分。</li>
 <li>计分采用倒扣制，满足扣分条件即可扣分，扣完为止，设置的扣分项都是最基本的要求。</li>
@@ -13310,14 +13312,14 @@
 <li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
 </ul>
 <h2 id="11-30-Monday"><a href="#11-30-Monday" class="headerlink" title="11/30 (Monday)"></a>11/30 (Monday)</h2><ul>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
 <li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Discussion 5</li>
 <li><input disabled="" type="checkbox"> RES: AGU Schedule</li>
-<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
 <li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
-<li><input disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
 <li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
 </ul>
 ]]></content>
@@ -13666,10 +13668,97 @@
 <h3 id="英语晨读"><a href="#英语晨读" class="headerlink" title="英语晨读"></a>英语晨读</h3><p>坚持每天晨读，暂时在电脑上的Kindle阅读。</p>
 <h2 id="体育锻炼-1"><a href="#体育锻炼-1" class="headerlink" title="体育锻炼"></a>体育锻炼</h2><p>进入冬天，户外锻炼可能受到限制，应更多的尝试并探索室内锻炼的有效方法，并每天坚持完成。</p>
 <h2 id="其它事项"><a href="#其它事项" class="headerlink" title="其它事项"></a>其它事项</h2><h3 id="卫生防疫"><a href="#卫生防疫" class="headerlink" title="卫生防疫"></a>卫生防疫</h3><p>保持正常的生活作息，多吃水果多喝水，工作50分钟休息10分钟窗外远眺，保障充足的睡眠。保持家中卫生，勤洗手勤通风。</p>
-<h3 id="电子琴练习-1"><a href="#电子琴练习-1" class="headerlink" title="电子琴练习"></a>电子琴练习</h3><p>12月1日至17日练习时间缩短至20分钟，只练习西班牙斗牛舞、放鸭姑娘、陕北民歌和几首钢琴曲。17日之后恢复45分钟练习。</p>
+<h3 id="电子琴练习-1"><a href="#电子琴练习-1" class="headerlink" title="电子琴练习"></a>电子琴练习</h3><p>12月1日至17日练习时间缩短至20分钟，只练习西班牙斗牛舞、放鸭姑娘、陕北民歌和几首钢琴曲。17日之后恢复45分钟练习，新学习内容包括大调和音音阶练习、一首电子琴曲、一首钢琴曲、和一首自配和旋曲。</p>
 <p>为迎接圣诞节，12月25日之前准备好特殊节目，并适时发布。</p>
-<h3 id="圣诞节假期"><a href="#圣诞节假期" class="headerlink" title="圣诞节假期"></a>圣诞节假期</h3><p>圣诞节假期拟开展云见老师活动，详细安排后续更新……</p>
-<h3 id="元旦假期"><a href="#元旦假期" class="headerlink" title="元旦假期"></a>元旦假期</h3><p>元旦假期进行跨年夜特别活动和家校24小时直播，届时作息时间安排会发生调整，详细安排后续更新……</p>
+<h3 id="圣诞节假期"><a href="#圣诞节假期" class="headerlink" title="圣诞节假期"></a>圣诞节假期</h3><p>圣诞节假期前后拟开展云见老师活动，具体安排如下：</p>
+<ol>
+<li>自12月1日起，陆续与高中老师和初中老师联系，确定是否能抽出十到十五分钟使用微信视频通话见面。所有的安排在12月15日前完成。</li>
+<li>在获得确认并安排好时间后，稍微准备可能要提到的话题。</li>
+</ol>
+<h3 id="元旦假期"><a href="#元旦假期" class="headerlink" title="元旦假期"></a>元旦假期</h3><p>元旦假期进行跨年夜特别活动和家校24小时直播，届时作息时间安排也会发生调整。</p>
+<ol>
+<li>家校24小时直播将于美东时间12月31日上午七点开始，不间断直播到1月1日上午九点。中美都将先后越过零点跨年线。家校直播的平台暂定为Zoom会议室。</li>
+<li>作息时间调整如下表所示。</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>日期</th>
+<th>项目</th>
+<th>时间</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>12月31日</td>
+<td>起床</td>
+<td>6:30 -&gt; 8:00</td>
+</tr>
+<tr>
+<td></td>
+<td>早操</td>
+<td>6:50 -&gt; 8:20</td>
+</tr>
+<tr>
+<td></td>
+<td>早餐</td>
+<td>6:55 -&gt; 8:25</td>
+</tr>
+<tr>
+<td></td>
+<td>晨读</td>
+<td>7:55 -&gt; 9:25</td>
+</tr>
+<tr>
+<td></td>
+<td>休息</td>
+<td>8:35 -&gt; 9:45</td>
+</tr>
+<tr>
+<td></td>
+<td>（全天工休取消，自由安排）</td>
+<td>……</td>
+</tr>
+<tr>
+<td></td>
+<td>睡觉</td>
+<td>22:30 -&gt; 0:10</td>
+</tr>
+<tr>
+<td>1月1日</td>
+<td>起床</td>
+<td>6:30 -&gt; 8:00</td>
+</tr>
+<tr>
+<td></td>
+<td>早操</td>
+<td>6:50 -&gt; 8:20</td>
+</tr>
+<tr>
+<td></td>
+<td>早餐</td>
+<td>6:55 -&gt; 8:25</td>
+</tr>
+<tr>
+<td></td>
+<td>晨读</td>
+<td>7:55 -&gt; 9:25</td>
+</tr>
+<tr>
+<td></td>
+<td>休息</td>
+<td>8:35 -&gt; 9:45</td>
+</tr>
+<tr>
+<td></td>
+<td>（全天工休取消，自由安排）</td>
+<td>……</td>
+</tr>
+<tr>
+<td></td>
+<td>睡觉</td>
+<td>正常</td>
+</tr>
+</tbody></table>
 <h3 id="个人网站更新"><a href="#个人网站更新" class="headerlink" title="个人网站更新"></a>个人网站更新</h3><p>个人网站更新在一月开学前完成。</p>
 <h3 id="个人宣传小片"><a href="#个人宣传小片" class="headerlink" title="个人宣传小片"></a>个人宣传小片</h3><p>同上，可嵌入个人主页中。</p>
 <h2 id="工作清单"><a href="#工作清单" class="headerlink" title="工作清单"></a>工作清单</h2><table>
