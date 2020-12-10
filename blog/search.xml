@@ -13283,9 +13283,9 @@
 </tbody></table>
 <h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
 <li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project</li>
-<li><input disabled="" type="checkbox"> CUR: EECS 545 Homework 6</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 13 Discussion 5</li>
-<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 13 3MT Recording</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 6</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 13 Discussion 5</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Module 13 3MT Recording</li>
 <li><input disabled="" type="checkbox"> RES: AGU Meeting Preparation</li>
 </ul>
 <h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
@@ -13314,6 +13314,7 @@
 <h2 id="11-30-Monday"><a href="#11-30-Monday" class="headerlink" title="11/30 (Monday)"></a>11/30 (Monday)</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
 <li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 24 Mindmap</li>
 <li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Discussion 5</li>
 <li><input disabled="" type="checkbox"> RES: AGU Schedule</li>
 <li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
@@ -13321,6 +13322,47 @@
 <li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
 <li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
 <li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="12-1-Tuesday"><a href="#12-1-Tuesday" class="headerlink" title="12/1 (Tuesday)"></a>12/1 (Tuesday)</h2><p>Exemption in the afternoon: Grocery shopping</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> RES: AGU Schedule</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="12-2-Wednesday"><a href="#12-2-Wednesday" class="headerlink" title="12/2 (Wednesday)"></a>12/2 (Wednesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input disabled="" type="checkbox"> RES: AGU Schedule</li>
+<li><input checked="" disabled="" type="checkbox"> MIS: Printing</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="12-3-Thursday"><a href="#12-3-Thursday" class="headerlink" title="12/3 (Thursday)"></a>12/3 (Thursday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture Recording</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Homework 6</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input disabled="" type="checkbox"> <del>CUR: EECS 545 Chapter 25 Mindmap</del></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Speaking Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="12-4-Friday"><a href="#12-4-Friday" class="headerlink" title="12/4 (Friday)"></a>12/4 (Friday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Chapter 25 Mindmap</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Afternoon Writing Practice</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Evening TED Listening</li>
 </ul>
 ]]></content>
       <categories>
@@ -13901,5 +13943,260 @@
       <categories>
         <category>Monthly Summary</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Fall 2020 Week 15 Progress - December 5th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-12-05-Weekly_Progress_20201205.html</url>
+    <content><![CDATA[<h1 id="Weekly-Goals"><a href="#Weekly-Goals" class="headerlink" title="Weekly Goals"></a>Weekly Goals</h1><ul>
+<li>Finalize and Submit EECS 545 Final Project</li>
+<li>Conclude ELI 534</li>
+<li>Full Participation in AGU Meeting</li>
+</ul>
+<a id="more"></a>
+
+<h1 id="Weekly-Notes"><a href="#Weekly-Notes" class="headerlink" title="Weekly Notes"></a>Weekly Notes</h1><p>从7号周一开始，AGU会议将进入高密度的学术讲座和讨论环节。每天的会议时间为美东时间早上7点至晚上0点，之前已经梳理过一遍A字头和GC字头的全部会议，并将初步的虚拟行程单打印为PDF。现提出如下方针：</p>
+<ul>
+<li>本周六和周日，研究7号至11号的所有分会议，包括阅读分会的摘要以了解分会的主题，阅读分会中所有讲座人的摘要以确定自己需要重点关注的讲座。确定哪些内容是线上直播收看，哪些内容是线下观看，哪些内容是需要留档和完成笔记的。这些计划都需要提前做好，在本周计划中体现。</li>
+<li>实时讲座按时参加，海报环节利用一天的空余时间参加。</li>
+<li>一般HP作为直播机和存档机，完成所有直播连线和内容观看，而MAC作为工作机完成笔记和整理工作。</li>
+<li>受AGU会议影响，晨读、午间英语学习、晚间英语学习三部分取消，日常考核得分取决于这三个时段准备或参与AGU会议的认真程度。下午体育锻炼和晚间的练琴尽量完成，若无法完成，日常考核得分记为这两个时段准备或参与AGU会议得分的80%。</li>
+<li>代码<ul>
+<li>Live - Zoom实时连线</li>
+<li>Async - 不进行实时连线，只观看已经提前上传的录像或海报</li>
+<li>OBS - 内容OBS存档</li>
+<li>DLFULL - 内容DL全部存档（谨慎使用）</li>
+<li>DLPART - 内容DL部分存档</li>
+<li>PRINT - 内容PRINT存档</li>
+<li>SI - 特别重要，需要高度专心</li>
+<li>VI - 非常重要，需要专心</li>
+<li>FF - 实时连线时不听，会后倍速播放</li>
+<li>HP - 在直播机上完成（仅在时间重复时发生）</li>
+<li>MAC - 在工作机上完成</li>
+</ul>
+</li>
+</ul>
+<h2 id="AGU-Meeting-Agenda"><a href="#AGU-Meeting-Agenda" class="headerlink" title="AGU Meeting Agenda"></a>AGU Meeting Agenda</h2><table>
+<thead>
+<tr>
+<th><u>Monday, December 7th</u></th>
+<th><u>Description</u></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>POSTERS</td>
+<td>A002, A004, A008</td>
+</tr>
+<tr>
+<td><strong>8:30-9:30</strong></td>
+<td><strong>A014 - Live OBS<br />(8:30) A014-01 - DLFULL<br />(9:06) A014-05<br />*(This session is to test the procedure in oral sessions)*</strong></td>
+</tr>
+<tr>
+<td>10:00-11:00</td>
+<td>A017 - Async<br />(10:00) A017-01 - DLFULL<br />(10:12) A017-02 (ML)</td>
+</tr>
+<tr>
+<td><strong>13:30-15:00</strong></td>
+<td><strong>GC015 - Live OBS VI</strong></td>
+</tr>
+<tr>
+<td>19:00-20:00</td>
+<td>A022 - Async</td>
+</tr>
+<tr>
+<td><strong>19:00-20:30</strong></td>
+<td><strong>GC017 - Live OBS SI HP</strong></td>
+</tr>
+<tr>
+<td><strong>19:08-19:11</strong></td>
+<td><strong>U002-02 - Live OBS MAC</strong></td>
+</tr>
+<tr>
+<td><strong>20:30-21:30</strong></td>
+<td><strong>A024 - Live OBS SI</strong></td>
+</tr>
+<tr>
+<td>22:00-23:00</td>
+<td>A026 - Async</td>
+</tr>
+<tr>
+<td>23:30-24:30</td>
+<td>A028 - Async</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><u><strong>Tuesday, December 8th</strong></u></td>
+<td><u><strong>Description</strong></u></td>
+</tr>
+<tr>
+<td>POSTERS</td>
+<td>A033, A036, A043</td>
+</tr>
+<tr>
+<td><strong>8:30-9:30</strong></td>
+<td><strong>A045 - Live OBS</strong><br /><strong><em>(This session is to test the procedure in eLighning sessions)</em></strong></td>
+</tr>
+<tr>
+<td>19:00-20:00</td>
+<td>A050 - Async</td>
+</tr>
+<tr>
+<td><strong>19:00-20:30</strong></td>
+<td><strong>GC032 - Live OBS</strong></td>
+</tr>
+<tr>
+<td><strong>20:30-21:30</strong></td>
+<td><strong>A053 - Live OBS SI</strong></td>
+</tr>
+<tr>
+<td>22:00-23:00</td>
+<td>A054 - Async</td>
+</tr>
+<tr>
+<td><strong>23:30-24:30</strong></td>
+<td><strong>A056 - Live OBS VI</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><u><strong>Wednesday, December 9th</strong></u></td>
+<td><u><strong>Description</strong></u></td>
+</tr>
+<tr>
+<td>POSTERS</td>
+<td>A059, A060, A061, A063, A068, GC037</td>
+</tr>
+<tr>
+<td><strong>8:30-9:30</strong></td>
+<td><strong>A069 - Live OBS VI</strong></td>
+</tr>
+<tr>
+<td><strong>10:00-11:00</strong></td>
+<td><strong>A071 - Live OBS</strong></td>
+</tr>
+<tr>
+<td>13:30-14:30</td>
+<td>A072 - Async</td>
+</tr>
+<tr>
+<td><strong>13:30-14:30</strong></td>
+<td><strong>A073 - Live OBS</strong></td>
+</tr>
+<tr>
+<td><strong>20:30-21:30</strong></td>
+<td><strong>A077 - Live OBS VI</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><u><strong>Thursday, December 10th</strong></u></td>
+<td><u><strong>Description</strong></u></td>
+</tr>
+<tr>
+<td>POSTERS</td>
+<td>A088, A090</td>
+</tr>
+<tr>
+<td><strong>8:30-9:30</strong></td>
+<td><strong>A097 - Live OBS</strong></td>
+</tr>
+<tr>
+<td><strong>20:30-21:30</strong></td>
+<td><strong>A104 - Live OBS<br />(20:30) A104-01<br />(20:34) A104-02</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><u><strong>Friday, December 11th</strong></u></td>
+<td><u><strong>Description</strong></u></td>
+</tr>
+<tr>
+<td>POSTERS</td>
+<td>A112, A113</td>
+</tr>
+<tr>
+<td><strong>13:30-14:30</strong></td>
+<td><strong>A126 - Live OBS</strong></td>
+</tr>
+<tr>
+<td><strong>19:00-20:00</strong></td>
+<td><strong>A130 - Live OBS</strong></td>
+</tr>
+<tr>
+<td><strong>20:30-21:30</strong></td>
+<td><strong>A133 - Live OBS SI</strong></td>
+</tr>
+</tbody></table>
+<h2 id="To-do-List"><a href="#To-do-List" class="headerlink" title="To-do List"></a>To-do List</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Finalize</li>
+<li><input disabled="" type="checkbox"> CUR: ELI 534 Module 13 3MT Comments</li>
+<li><input disabled="" type="checkbox"> MIS: Christmas Visiting Teachers Preparation</li>
+<li><input disabled="" type="checkbox"> MIS: Christmas 1219 Preparation</li>
+<li><input disabled="" type="checkbox"> RES: AGU Meeting Archiving</li>
+<li><input disabled="" type="checkbox"> RES: AGU Meeting Preview &amp; Review</li>
+<li><input disabled="" type="checkbox"> RES: AGU Meeting eLightning Modification &amp; Preparation</li>
+</ul>
+<h1 id="Task-Tracker"><a href="#Task-Tracker" class="headerlink" title="Task Tracker"></a>Task Tracker</h1><p>Categories: Routine (RTN)、Life (LIF)、Exercise (EXR)、Curricular (CUR)、English (ENG)、Research (RES)、Social (SOC)、Miscellaneous (MIS)</p>
+<h2 id="12-5-Saturday"><a href="#12-5-Saturday" class="headerlink" title="12/5 (Saturday)"></a>12/5 (Saturday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> RES: AGU Schedule <strong><em>(Incomplete)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Laundry</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Room Cleaning</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+<li><input disabled="" type="checkbox"> ENG: Morning Reading</li>
+<li><input disabled="" type="checkbox"> ENG: Afternoon English Practice Reflection</li>
+<li><input disabled="" type="checkbox"> ENG: Evening TED Listening</li>
+</ul>
+<h2 id="12-6-Sunday"><a href="#12-6-Sunday" class="headerlink" title="12/6 (Sunday)"></a>12/6 (Sunday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> RES: AGU Schedule</li>
+<li><input checked="" disabled="" type="checkbox"> SOC: Xianwen Farewell Party</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+</ul>
+<h2 id="12-7-Monday"><a href="#12-7-Monday" class="headerlink" title="12/7 (Monday)"></a>12/7 (Monday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Report <strong><em>(Incomplete)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Lecture</li>
+<li><input checked="" disabled="" type="checkbox"> RES: AGU Meeting <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+</ul>
+<h2 id="12-8-Tuesday"><a href="#12-8-Tuesday" class="headerlink" title="12/8 (Tuesday)"></a>12/8 (Tuesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Appendix E (Incomplete)</li>
+<li><input checked="" disabled="" type="checkbox"> RES: AGU Meeting <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: Grocery Shopping</li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+</ul>
+<h2 id="12-9-Wednesday"><a href="#12-9-Wednesday" class="headerlink" title="12/9 (Wednesday)"></a>12/9 (Wednesday)</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> CUR: EECS 545 Final Project Write-up</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Optional Meeting</li>
+<li><input checked="" disabled="" type="checkbox"> CUR: ELI 534 Individual Final-term Meeting</li>
+<li><input checked="" disabled="" type="checkbox"> RES: AGU Meeting <strong><em>(LT)</em></strong></li>
+<li><input checked="" disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: Daily Exercise</li>
+</ul>
+<h2 id="12-10-Thursday"><a href="#12-10-Thursday" class="headerlink" title="12/10 (Thursday)"></a>12/10 (Thursday)</h2><ul>
+<li><input disabled="" type="checkbox"> CUR: EECS 545 Final Project Evaluation</li>
+<li><input disabled="" type="checkbox"> RES: AGU Meeting Archiving</li>
+<li><input disabled="" type="checkbox"> LIF: EXT 291 Daily Keyboard Piano</li>
+<li><input disabled="" type="checkbox"> EXR: Daily Exercise</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2020</tag>
+      </tags>
   </entry>
 </search>
