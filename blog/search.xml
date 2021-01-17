@@ -3452,40 +3452,6 @@ Two options are provided: (1) read a book in your field and summarize the chapte
       </categories>
   </entry>
   <entry>
-    <title>Notebook - Week 1 - Winter 2021</title>
-    <url>/cxfan_starfan/blog/Notebook/2021-01-04-Notes_20210104.html</url>
-    <content><![CDATA[<p>No Abstract</p>
-<a id="more"></a>
-<h1 id="papers">Papers</h1>
-<h2 id="example-paper">Example Paper</h2>
-<h3 id="info">Info</h3>
-<p>Copy and paste some identifiable information here so as to ease the review process in the future</p>
-<h3 id="abstract">Abstract</h3>
-<p>Copy and paste the abstract here</p>
-<h3 id="notes">Notes</h3>
-<p>Write some personal summary</p>
-<h1 id="talks-seminars">Talks / Seminars</h1>
-<h2 id="example-talk">Example Talk</h2>
-<h3 id="info-1">Info</h3>
-<p>Copy and paste some identifiable information here so as to ease the review process in the future</p>
-<h3 id="abstract-1">Abstract</h3>
-<p>Copy and paste the abstract here</p>
-<h3 id="notes-1">Notes</h3>
-<p>Write some personal summary</p>
-<h1 id="books">Books</h1>
-<h2 id="example-paper-1">Example Paper</h2>
-<h3 id="info-2">Info</h3>
-<p>Copy and paste some identifiable information here so as to ease the review process in the future</p>
-<h3 id="abstract-2">Abstract</h3>
-<p>Copy and paste the abstract here</p>
-<h3 id="notes-2">Notes</h3>
-<p>Write some personal summary</p>
-]]></content>
-      <categories>
-        <category>Notebook</category>
-      </categories>
-  </entry>
-  <entry>
     <title>CLIMATE 747 Talk 1 Summary Report</title>
     <url>/cxfan_starfan/blog/Courses/2020-02-06-Talk_1_Stats.html</url>
     <content><![CDATA[<h1 id="climate-747-talk-1-summary-report">CLIMATE 747 Talk 1 Summary Report</h1>
@@ -18754,9 +18720,11 @@ Fri
   </entry>
   <entry>
     <title>Fall 2020 Term Report - 2020年秋季学期总结</title>
-    <url>/cxfan_starfan/blog/Term-Summary/2020-12-30-Term_Report_2020Fall.html</url>
+    <url>/cxfan_starfan/blog/Term-Summary/2020-12-28-Term_Report_2020Fall.html</url>
     <content><![CDATA[<h1 id="摘要">摘要</h1>
 <p>2020年秋季学期圆满画上句号。这学期有一些值得表扬的成果，例如顺利通过Qualifying Exam，发表个人第二篇论文，博士期间所有课程满绩点通过等等。但是，有些方面相较前几个学期有严重退步，尤其是作息时间管理方面。因此与前几次的学期总结不同，关于作息时间的总结被提到了最前面，旨在引起足够的重视。</p>
+<div class="note info"><p>12月29日更新：更新了组会和一对一谈话的时间，并据此调整了课程安排</p>
+</div>
 <a id="more"></a>
 <h1 id="学期目标">学期目标</h1>
 <ul class="task-list">
@@ -19368,14 +19336,14 @@ Fri
 <tr class="header">
 <th>编号</th>
 <th>课程名称</th>
-<th>时间<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></th>
+<th>时间</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>EXT 201</td>
 <td>Atmospheric Dynamics</td>
-<td>MoFr 8:30-10:40</td>
+<td>MoTh 8:30-10:40</td>
 </tr>
 <tr class="even">
 <td>EXT 202</td>
@@ -19385,12 +19353,12 @@ Fri
 <tr class="odd">
 <td>EXT 290</td>
 <td>Literature Reading</td>
-<td>MoWeFr 20:20-21:15</td>
+<td>SaMoWe 20:20-21:15</td>
 </tr>
 <tr class="even">
 <td>EXT 299</td>
 <td>Seminar Archive</td>
-<td>TuTh 20:20-21:15</td>
+<td>SuTuTh 20:20-21:15</td>
 </tr>
 </tbody>
 </table>
@@ -19448,6 +19416,7 @@ Fri
 </ul>
 <h3 id="其它-1">其它</h3>
 <ul>
+<li><strong>本学期组会的时间为每周五10点至11点，一对一谈话的时间是每周一11点至12点。</strong></li>
 <li>除非极其特殊的情况，不可以缺席和跳过组会和一对一谈话！</li>
 <li>MICDE Graduate Certificate Enrollment！本学期结束之前一定要完成！在2021年秋季学期入学！</li>
 <li>有时间再更新和优化个人网站。</li>
@@ -19510,8 +19479,7 @@ Fri
 <hr />
 <ol>
 <li id="fn1" role="doc-endnote"><p>一定要诚实面对自己<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p>学校没有安排固定时间，此处为自主安排，可能会根据新学期组会和一对一会议的安排发生调整<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p>时间可能会根据新学期组会和一对一会议的安排发生调整<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>学校没有安排固定时间，此处为自主安排<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 ]]></content>
@@ -21283,5 +21251,448 @@ Fri
       <categories>
         <category>Term Summary</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Fall 2020 Week 18 Progress - December 27th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2020-12-27-Weekly_Progress_20201227.html</url>
+    <content><![CDATA[<p>No abstract.</p>
+<a id="more"></a>
+<h1 id="本周关注">本周关注</h1>
+<ul>
+<li>推进EECS 545 Recording的回放，争取在年末前将所有的录像全部放完</li>
+<li>推进CESM Tutorial 2019的学习，必须在年末前将所有的课程结束</li>
+<li>尽量多做一点科研项目</li>
+<li>12月31日的跨年特别家校活动：2020年总结和2021年计划</li>
+</ul>
+<h1 id="日常考核通报">日常考核通报</h1>
+<h2 id="周日12月27日">周日（12月27日）</h2>
+<ul>
+<li>早上没有按时起床，起床时间为7点30分，直接影响了早操和早读的正常进行。因此，起床计0分，早操因为起床后完成了计1分，晨读计1分。</li>
+<li>除了早晨赖床以外，今天是近段时间以来作息计划执行的最好的一天，提出表扬。</li>
+</ul>
+<h2 id="周一12月28日">周一（12月28日）</h2>
+<ul>
+<li>晨读还没有阅读英文纸质书，没有做应该做的事情。</li>
+<li>上午工作3结束后因为玩电脑迟到10分钟，导致中饭时间超时，午间的写作练习没有完成，但在晚间工作1补上。因此1250午计1分。</li>
+<li>下午工作3结束后因为正在跑模式没有及时离开电脑准备户外锻炼，共计迟到15分钟；户外锻炼受天气影响只进行了有氧竞走，结束后竟然在玩手机和电脑，又浪费大约15分钟的时间；另外，由于晚餐规划不充分，准备时间又延长。这三者因素叠加导致晚饭和洗碗结束时间超过电子琴练习开始时间20分钟，严重影响后续工作的效率。现对以下考核项目进行惩罚性扣分：
+<ul>
+<li>1530工计2.5分</li>
+<li>1630锻计0分</li>
+<li>1930琴计1分</li>
+</ul></li>
+<li>因前两条的影响，2020工没有做应该做的事情。</li>
+</ul>
+<h2 id="周二12月29日">周二（12月29日）</h2>
+<ul>
+<li>才早起了一天就坚持不下去了？？？今天的起床时间是8点15分，直接影响早操和早读的进行。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2020</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Winter 2021 Week 2 Progress - January 9th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-01-09-Weekly_Progress_20210109.html</url>
+    <content><![CDATA[<p>No abstract.</p>
+<a id="more"></a>
+<h1 id="本周关注">本周关注</h1>
+<h2 id="weekly-objectives">Weekly Objectives</h2>
+<ul>
+<li><strong>Solar Farming Proposal - Finalize</strong></li>
+<li>Self-Learning Courses
+<ul>
+<li>EXT 201 -&gt; Chapter 3</li>
+<li>EXT 202 -&gt; Simple Models + SCAM Setup</li>
+<li>EXT 290 -&gt; Solar Farming Paper + 2 ML Papers</li>
+<li>EXT 299 -&gt; At least 6 AGU sessions</li>
+</ul></li>
+<li>Scientific Research
+<ul>
+<li>Group Meeting Preparation</li>
+<li>Solar Farming Longwave Processing</li>
+</ul></li>
+</ul>
+<h2 id="to-do-list">TO-DO List</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+<strong>(DUE 1/9)</strong> Solar Farming Proposal First Draft</li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>(DUE 1/15)</strong> Group Meeting MIV Review Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>(DUE 1/11)</strong> Solar Farming Modeling Paper</li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>(DUE 1/11)</strong>Solar Farming Longwave Satellite Paper</li>
+<li><input type="checkbox" disabled="" />
+Solar Farming Data Processing</li>
+<li><input type="checkbox" disabled="" />
+Cloud Classification Data Processing</li>
+</ul>
+<h1 id="日常项目追踪">日常项目追踪</h1>
+<h2 id="周六1月9日">周六（1月9日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>7:00</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Weekly Family Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Cleaning</li>
+<li><input type="checkbox" disabled="" />
+<del>RES: Solar Farming Proposal</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Paper Reading <strong><em>(Incomplete)</em></strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Weekly Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周日1月10日">周日（1月10日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>6:30</strong></li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: EXT 299 Seminar x1</del></li>
+<li><input type="checkbox" disabled="" />
+<del>RES: Solar Farming Proposal</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: SF Paper Reading &amp; Individual Meeting Prep</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Preparation <strong><em>(Incomplete)</em></strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周一1月11日">周一（1月11日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>7:00</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: EXT 201 Chapter 3 <strong><em>(Incomplete)</em></strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: EXT 299 Seminar x1 Makeup</li>
+<li><input type="checkbox" disabled="" />
+<del>RES: Solar Farming Proposal Revision</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" />
+<del>RES: Group Meeting Preparation</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周二1月12日">周二（1月12日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>7:15</strong></li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: EXT 202 Simple Models</del></li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: EXT 290 Paper</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Proposal Revision (URGENT)</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Proposal Auxilliary Materials (URGENT)</li>
+<li><input type="checkbox" disabled="" />
+<del>RES: Group Meeting Preparation</del></li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周三1月13日">周三（1月13日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>6:30</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: EXT 202 Simple Models</li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: EXT 290 Paper x1 - Assigned by Prof.</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: EXT 299 Seminar x2</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: SF Proposal Final Readthrough</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周四1月14日">周四（1月14日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>7:03</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: EXT 201 Chapter 3 <strong><em>(Halfway)</em></strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: EXT 202 SCAM Setup and Test</li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: EXT 290 Paper x2 - Assigned by Prof.</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: AGU Notes Organization</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification New Analysis</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周五1月15日">周五（1月15日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>7:30</strong></li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 290 Paper x2 - Assigned by Prof.</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Notebook Organization <em>(Incomplete)</em></li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification New Analysis</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting</li>
+<li><input type="checkbox" disabled="" />
+RTN: Weekly Meeting Preparation</li>
+<li><input type="checkbox" disabled="" />
+RTN: Weekly Summary and Plan</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Winter 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Winter 2021 Week 1 Progress - January 2nd</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-01-02-Weekly_Progress_20210102.html</url>
+    <content><![CDATA[<p>No abstract.</p>
+<a id="more"></a>
+<h1 id="本周关注">本周关注</h1>
+<h2 id="weekly-objectives">Weekly Objectives</h2>
+<ul>
+<li>新作息时间表的实施</li>
+<li><strong>Solar Farming Proposal - First Draft before Next Week</strong></li>
+</ul>
+<h2 id="to-do-list">TO-DO List</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+<strong>(DUE 1/9)</strong> Solar Farming Proposal First Draft</li>
+<li><input type="checkbox" disabled="" checked="" />
+<strong>(DUE 1/8)</strong> Group Meeting Paper Reading</li>
+<li><input type="checkbox" disabled="" />
+<strong>(DUE 1/15)</strong> Group Meeting MIV Review Preparation</li>
+<li><input type="checkbox" disabled="" />
+<strong>(DUE 1/11)</strong> Solar Farming Modeling Paper</li>
+<li><input type="checkbox" disabled="" />
+<strong>(DUE 1/11)</strong>Solar Farming Longwave Satellite Paper</li>
+<li><input type="checkbox" disabled="" />
+Solar Farming Data Processing</li>
+<li><input type="checkbox" disabled="" />
+Cloud Classification Data Processing</li>
+</ul>
+<h1 id="日常考核通报">日常考核通报</h1>
+<h2 id="周六1月2日">周六（1月2日）</h2>
+<ul>
+<li>早上没有按时起床，赖床到快八点。</li>
+<li>上午到九点之前没有做周六上午应该做的事情。</li>
+<li>下午懒散颓废，虽然没有规定要做什么，但是在浪费时间！</li>
+<li>晚间工作1的EXT 290学习内容为MAKING THE BLACK BOX MORE TRANSPARENT: Understanding the Physical Implications of Machine Learning。还需要几次才能读完。</li>
+<li>晚上没有按时上床睡觉！</li>
+</ul>
+<h2 id="周日1月3日">周日（1月3日）</h2>
+<ul>
+<li>早上没有按时起床，赖床到超过8点！</li>
+<li>今天完成了EECS 545的全部内容复习，所有内容Wrap-up！</li>
+<li>晚间工作1的EXT 299学习内容为AGU会议A126-01、A126-02。</li>
+</ul>
+<h2 id="周一1月4日">周一（1月4日）</h2>
+<ul>
+<li>早上虽然比前几天起床时间要更早，但还是没有在6点半准时起床。起床时间为7点。</li>
+<li>原定于周二的采购时间提前到今天下午，但今天下午1310工时间段浪费时间，记0分。</li>
+<li>晚间工作1的EXT 290学习内容为Lu, Z., Zhang, Q., Miller, P. A., Zhang, Q., Berntell, E., &amp; Smith, B. (2020). Impacts of large‐scale Sahara solar farms on global climate and vegetation cover. <em>Geophysical Research Letters</em>, 47, e2020GL090789. https://doi.org/10.1029/2020GL090789。已经读完半篇，剩下半篇在科研时间完成。</li>
+</ul>
+<h2 id="周二1月5日">周二（1月5日）</h2>
+<ul>
+<li>起床时间为8点30分。</li>
+<li>晚间工作1的EXT 299学习内容为AGU会议（没有进行）。</li>
+</ul>
+<h2 id="周三1月6日">周三（1月6日）</h2>
+<ul>
+<li>起床时间为6点30分，但洗漱完后又回到床上！</li>
+<li>晚间工作1的EXT 290学习内容为Group Meeting Paper：Di Biagio, C., Pelon, J., Blanchard, Y., Loyer, L., Hudson, S.R., Walden, V.P., et al. (2020). Towards a better surface radiation budget analysis over sea ice in the high Arctic Ocean: a comparative study between satellite, reanalysis, and local‒scale observations. <em>Journal of Geophysical Research: Atmospheres</em>, 125, e2020JD032555. https://doi.org/10.1029/2020JD032555</li>
+</ul>
+<h2 id="周四1月7日">周四（1月7日）</h2>
+<ul>
+<li>起床时间为7点。</li>
+<li>晚间工作1的EXT 299学习内容为AGU会议A073-02</li>
+</ul>
+<h2 id="周五1月8日">周五（1月8日）</h2>
+<ul>
+<li>起床时间为8点30分！！！</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Winter 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Winter 2021 Week 3 Progress - January 16th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-01-16-Weekly_Progress_20210116.html</url>
+    <content><![CDATA[<p>No abstract.</p>
+<a id="more"></a>
+<h1 id="本周关注">本周关注</h1>
+<h2 id="weekly-objectives">Weekly Objectives</h2>
+<ul>
+<li><strong>Solar Farming Proposal - Submission</strong></li>
+<li>Self-Learning Courses
+<ul>
+<li>EXT 201
+<ul>
+<li>Finish Chapter 3 and Chapter 4A</li>
+</ul></li>
+<li>EXT 202
+<ul>
+<li>CLUBB 1 &amp; 2</li>
+<li>SCAM_Practical_Intro</li>
+<li>SCAM_Practical_All (Exercise 1)</li>
+</ul></li>
+<li>EXT 290
+<ul>
+<li>Solar farming x2 + Atmos dynamics related x1</li>
+<li>Notebook</li>
+</ul></li>
+<li>EXT 299
+<ul>
+<li>At least 6 AGU sessions</li>
+<li>Notebook</li>
+</ul></li>
+</ul></li>
+<li>Scientific Research
+<ul>
+<li><strong>Assigned 2 papers reading</strong></li>
+<li>Cloud Classification New Analysis</li>
+<li>Solar Farming Longwave Processing</li>
+</ul></li>
+</ul>
+<h2 id="to-do-list">TO-DO List</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+<strong>(DUE 1/18)</strong> Assigned 2 papers reading</li>
+<li><input type="checkbox" disabled="" />
+(DUE 1/22) FINESST Proposal Submission</li>
+<li><input type="checkbox" disabled="" />
+(ASAP) Auto Insurance Card Print</li>
+<li><input type="checkbox" disabled="" />
+Solar Farming Data Processing</li>
+<li><input type="checkbox" disabled="" />
+Cloud Classification Data Processing</li>
+</ul>
+<h1 id="日常项目追踪">日常项目追踪</h1>
+<h2 id="周六1月16日">周六（1月16日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>7:15</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Weekly Family Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Cleaning</li>
+<li><input type="checkbox" disabled="" />
+<del>RES: Assigned Paper Reading x1</del></li>
+<li><input type="checkbox" disabled="" />
+EXR: Weekly Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周日1月17日">周日（1月17日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Wakeup Time <strong>6:30</strong></li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 299 AGU x2</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Assigned Paper Reading x1</li>
+<li><input type="checkbox" disabled="" />
+RES: Assigned Paper Reading x1</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification New Analysis</li>
+<li><input type="checkbox" disabled="" />
+LIF: Online Grocery Pickup</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: TED Talk Listening</li>
+</ul>
+<h2 id="周一1月18日">周一（1月18日）</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: EXT 201 Chapter 3</li>
+<li><input type="checkbox" disabled="" />
+CUR: EXT 290 Solar Farming Paper x1</li>
+<li><input type="checkbox" disabled="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification New Analysis</li>
+<li><input type="checkbox" disabled="" />
+MIS: Auto Insurance Card Print</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
+<li><input type="checkbox" disabled="" />
+ENG: TED Talk Listening</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Winter 2021</tag>
+      </tags>
   </entry>
 </search>
