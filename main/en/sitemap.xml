@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication-type/2/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication-type/2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/categories/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -45,29 +40,23 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/chongxing-fan/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/cxfan/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/%E8%8C%83%E5%B4%87%E6%98%9F/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/cxfan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/chongxing-fan/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/cxfan/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/category/publication/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication_types/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -80,9 +69,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -95,14 +82,10 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/remote-sensing/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/satellite/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -115,19 +98,13 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/satellite/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/satellite-solar-farming-erl-2020/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/solar-energy/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -140,14 +117,10 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/surface-energy-budget/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tags/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
     <xhtml:link
@@ -160,14 +133,10 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/xianglei-huang/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/xianglei-huang/</loc>
     <lastmod>2020-10-02T21:33:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/aerosol/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
@@ -180,24 +149,20 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/aerosol/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/baojun-chen/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/baojun-chen/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/baojun-chen/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/baojun-chen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/baojun-chen/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/baojun-chen/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/cloud/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
@@ -210,54 +175,46 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/cloud/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/daniel-rosenfeld/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/daniel-rosenfeld/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/daniel-rosenfeld/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/daniel-rosenfeld/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/daniel-rosenfeld/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/daniel-rosenfeld/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/jihu-liu/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/jihu-liu/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/jihu-liu/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/jihu-liu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/jihu-liu/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/jihu-liu/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/minghuai-wang/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/minghuai-wang/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/minghuai-wang/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/minghuai-wang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/minghuai-wang/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/minghuai-wang/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/modis/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
@@ -270,9 +227,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/modis/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/precipitation/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
@@ -285,9 +240,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/precipitation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/strong-precipitation-suppression-grl-2020/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
@@ -300,24 +253,20 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/strong-precipitation-suppression-grl-2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/yannian-zhu/</loc>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/yannian-zhu/</loc>
     <lastmod>2020-03-18T19:58:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/author/yannian-zhu/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/yannian-zhu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/author/yannian-zhu/"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/yannian-zhu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/climate/</loc>
     <lastmod>2020-01-27T15:10:26-05:00</lastmod>
     <xhtml:link
@@ -330,9 +279,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/climate/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/solar_farming/</loc>
     <lastmod>2020-01-27T15:10:26-05:00</lastmod>
     <xhtml:link
@@ -345,9 +292,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/solar_farming/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/category/project/</loc>
     <lastmod>2020-01-27T15:10:26-05:00</lastmod>
     <xhtml:link
@@ -360,9 +305,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/category/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/</loc>
     <lastmod>2020-01-27T15:10:26-05:00</lastmod>
     <xhtml:link
@@ -375,9 +318,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/radiation/</loc>
     <lastmod>2020-01-27T15:10:26-05:00</lastmod>
     <xhtml:link
@@ -390,9 +331,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/radiation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/gpm/</loc>
     <lastmod>2019-06-30T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -405,9 +344,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/gpm/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/category/projects/</loc>
     <lastmod>2019-06-30T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -420,9 +357,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/category/projects/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/acp_gpm_modis/</loc>
     <lastmod>2019-06-30T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -435,9 +370,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/acp_gpm_modis/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/evaluation/</loc>
     <lastmod>2018-10-07T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -450,9 +383,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/evaluation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/qpe_evaluation/</loc>
     <lastmod>2018-10-07T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -465,9 +396,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/qpe_evaluation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/model/</loc>
     <lastmod>2018-10-07T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -480,9 +409,7 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/model/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/radar/</loc>
     <lastmod>2018-10-07T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -495,9 +422,10 @@
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/radar/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/yongsheng-chen/</loc>
+    <lastmod>2018-10-07T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/aerosol_cloud/</loc>
     <lastmod>2017-09-01T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -511,5 +439,4 @@
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/project/aerosol_cloud/"
                 />
   </url>
-  
 </urlset>
