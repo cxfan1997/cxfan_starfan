@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Rosenfeld | 陪星哥逍遥</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/daniel-rosenfeld/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/daniel-rosenfeld/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Rosenfeld</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© Chongxing Fan 2019-2021</copyright><lastBuildDate>Wed, 18 Mar 2020 19:58:26 -0400</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Rosenfeld</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/daniel-rosenfeld/</link>
+    </image>
+    
+    <item>
+      <title>Strong Precipitation Suppression by Aerosols in Marine Low Clouds</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/publication/strong-precipitation-suppression-grl-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 19:58:26 -0400</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/publication/strong-precipitation-suppression-grl-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
