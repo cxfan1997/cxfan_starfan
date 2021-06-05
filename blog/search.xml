@@ -23409,13 +23409,13 @@ ENG: Daily Writing Practice</li>
 <h1 id="作息追踪">作息追踪</h1>
 <p>每日得分登记表、日变化曲线和分段统计柱状图如下所示：</p>
 <figure>
-<img src="../images/Tracker_202104_1.png" alt="image-20210401084049218" /><figcaption aria-hidden="true">image-20210401084049218</figcaption>
+<img src="../images/Tracker_202104_1.png" alt="image-20210531161346840" /><figcaption aria-hidden="true">image-20210531161346840</figcaption>
 </figure>
 <figure>
-<img src="../images/Tracker_202104_2.png" alt="image-20210401084138864" /><figcaption aria-hidden="true">image-20210401084138864</figcaption>
+<img src="../images/Tracker_202104_2.png" alt="image-20210531161428437" /><figcaption aria-hidden="true">image-20210531161428437</figcaption>
 </figure>
 <figure>
-<img src="../images/Tracker_202104_3.png" alt="image-20210401084158653" /><figcaption aria-hidden="true">image-20210401084158653</figcaption>
+<img src="../images/Tracker_202104_3.png" alt="image-20210531161453910" /><figcaption aria-hidden="true">image-20210531161453910</figcaption>
 </figure>
 <h1 id="课程情况">课程情况</h1>
 <h2 id="ext-201---atmospheric-dynamics-大气动力学">EXT 201 - Atmospheric Dynamics (大气动力学)</h2>
@@ -23725,9 +23725,9 @@ ENG: Daily Writing Practice</li>
 LIF: Grocery Shopping</li>
 <li><input type="checkbox" disabled="" />
 LIF: Daily Keyboard Piano</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Daily Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily TED Talk</li>
 <li><input type="checkbox" disabled="" checked="" />
 ENG: Morning Reading</li>
@@ -23736,39 +23736,346 @@ ENG: Daily Speaking Practice</li>
 </ul>
 <h2 id="wed">5-12 (WED)</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: CERES Science Seminars</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Daily Keyboard Piano</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 EXR: Daily Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily TED Talk</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Writing Practice</li>
 </ul>
 <h2 id="thu">5-13 (THU)</h2>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: CERES Science Seminars</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Daily Keyboard Piano</li>
 <li><input type="checkbox" disabled="" />
 EXR: Daily Exercise</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily TED Talk</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Daily Speaking Practice</li>
 </ul>
 <h2 id="fri">5-14 (FRI)</h2>
 <ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+MIS: GradCare Inquiry</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Dynamics 8B.5.3</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Radiation Chapter 3 Finish</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
 <li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+</ul>
+<h2 id="next-week">NEXT WEEK</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 1</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 2</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 3</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 5</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript Revision</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Spring 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spring 2021 Monthly Report - May</title>
+    <url>/cxfan_starfan/blog/Monthly-Summary/2021-05-31-Monthly_Summary_202105.html</url>
+    <content><![CDATA[<h1 id="综述">综述</h1>
+<p>2021年5月月度目标为：</p>
+<ul>
+<li>启用2021年夏季作息时间表</li>
+<li>根据学期计划中提出的指标逐项完成</li>
+<li>加强文献阅读和学术讲座学习，每天都花至少三个小时学习和阅读</li>
+</ul>
+<p>5月1日至5月12日的作息追踪情况非常不错，总评都在80%以上，其中8天达到了90%以上。但是从12日之后开始懈怠。所有的计划都只有在制定的时候有用，每天没有把这个学期的计划拿出来复习一下，怎么可能知道自己应该朝着什么样的目标努力？学期计划中写下的目标怎么能完成？文献阅读和学术讲座学习情况较之前有所进步，但是仍没有达到每天按照规定学习的目标。科研项目动力不足，进展缓慢。总而言之，五月份的表现不尽人意。</p>
+<a id="more"></a>
+<div class="note success"><h4 id="表扬">表扬</h4>
+<p>绿色框中标注内容为突出贡献</p>
+</div>
+<div class="note info"><h4 id="提醒">提醒</h4>
+<p>蓝色框中标注内容为提醒和注意</p>
+</div>
+<div class="note warning"><h4 id="警告">警告</h4>
+<p>黄色框中标注内容为突出问题</p>
+</div>
+<h1 id="作息追踪">作息追踪</h1>
+<p>每日得分登记表、日变化曲线和分段统计柱状图如下所示：</p>
+<figure>
+<img src="../images/Tracker_202105_1.png" alt="image-20210601144949492" /><figcaption aria-hidden="true">image-20210601144949492</figcaption>
+</figure>
+<figure>
+<img src="../images/Tracker_202105_2.png" alt="image-20210601145032862" /><figcaption aria-hidden="true">image-20210601145032862</figcaption>
+</figure>
+<figure>
+<img src="../images/Tracker_202105_3.png" alt="image-20210601145049577" /><figcaption aria-hidden="true">image-20210601145049577</figcaption>
+</figure>
+<p>进入夏季，日常考核情况惨不忍睹。前几个月还只有几项表现不好拉低了平均分，这个月所有22个分项都出现了不同程度的退步和垮掉。要时刻绷紧脑子里的一根弦啊！偷懒一小会儿，和其他人的差距就又拉大了！</p>
+<ul>
+<li>这个月的考核结果比上个月退步很多，降低了近5个百分点，平均百分比为81.65%</li>
+<li>5月1日至5月12日表现较好，平均百分比为91.8%，5月13日之后表现非常差，平均百分比为75.4%</li>
+<li>22项分项考核中，不及格的有1项下午的体育锻炼，仅为55%；达到80%的有14项，达到90%的只有4项</li>
+<li>和上个月相比，工作时段的效率出现了严重退步；上午工作时段的表现较下午好，上午平均百分比为90%，比下午高出10个百分点</li>
+<li>早晨起床和早读较上个月有小幅度的进步，提升幅度为8%和5%</li>
+<li>傍晚的电子琴练习退步也很严重，从上个月的100%下降到本月的87%</li>
+</ul>
+<h1 id="知识输入">知识输入</h1>
+<h2 id="专业书籍学习">专业书籍学习</h2>
+<ul>
+<li>大气动力学：Mankin Mak著Atmospheric Dynamics
+<ul>
+<li>五月完成了截至8B.6的学习，共制作了3张知识梳理图，还未在Mindmap Portal上发布</li>
+<li>后面的章节理解难度都很大，进度很慢</li>
+<li>Mindmap Portal上还有几章的Abstract和Keywords未完成</li>
+<li>课后习题还未开始完成！</li>
+</ul></li>
+<li>大气辐射学：K.N. Liou著An Introduction to Atmospheric Radiation
+<ul>
+<li>截至目前已经完成了8章中前4章的阅读，但是按照页码数计算只完成了全书的30%；辐射学因为有很多知识梳理图了，这次阅读没有要求整理知识梳理图</li>
+<li>因为前两学习辐射传输相关内容有了基础，阅读本书速度比较快，有了一些新的认识，但是数学上的细节还是忽略掉了</li>
+<li>后面四章的内容比较多，难度也逐渐增大</li>
+<li>课后习题还未开始完成！</li>
+</ul></li>
+</ul>
+<h2 id="文献阅读">文献阅读</h2>
+<p>这个月因为Solar Farming Project阅读了8篇新文献，其中5篇已经完整的做了阅读笔记。除此以外，由于组会需要正在进行1篇文献综述的阅读，与Climate Sensitivity and Feedbacks的话题有关。没有自主安排的文献阅读！</p>
+<p>文献综述（五月更新的都包含在内，含未完成笔记）：</p>
+<figure>
+<img src="../images/Review-202105.png" alt="image-20210531164328819" /><figcaption aria-hidden="true">image-20210531164328819</figcaption>
+</figure>
+<p>学术文章（五月更新的都包含在内，含未完成笔记）：</p>
+<figure>
+<img src="../images/Papers-202105.png" alt="image-20210531164147628" /><figcaption aria-hidden="true">image-20210531164147628</figcaption>
+</figure>
+<h2 id="学术讲座">学术讲座</h2>
+<p>这个月一共观看了6场讲座，共18个学术演讲，所有的讲座都完整的在Evernote中做了学习笔记，效果很好！通过这些内容的学习但是还有很多已经存档还没有学习的高价值的讲座，还要继续加油！</p>
+<p>学术讲座（五月更新的都包含在内，含未完成笔记）：</p>
+<figure>
+<img src="../images/Seminar-202105.png" alt="image-20210531164028821" /><figcaption aria-hidden="true">image-20210531164028821</figcaption>
+</figure>
+<h1 id="科研工作">科研工作</h1>
+<h2 id="solar-farming-项目情况">Solar Farming 项目情况</h2>
+<p>长波辐射率和地表温度的反演不确定性问题较大，这个月：</p>
+<ul>
+<li>阅读了相关文献，学习和复习了太阳能电站的地面观测数据、太阳能电池板长波辐射率的实验室测量数据、以及卫星反演算法相关的论文</li>
+<li>咨询了卫星产品的设计者，得到了一些建议</li>
+<li>和ECOSTRESS产品进行了一些初步对比</li>
+</ul>
+<p>目前得到的结论是：已有的数据并不能够得出非常有把握的结论，不确定性的问题没有简单的办法能够弄清楚。因此，长波部分的研究也就到此结束，论文的写作也暂时搁置，等待思考后的结果。</p>
+<h2 id="cloud-classification-项目情况">Cloud Classification 项目情况</h2>
+<p>这个月完成了Methods部分的写作，新测试了Sorted 1D CNN，没有特别有趣的新结果出现。</p>
+<p>计划参加9月13日至17日在Boulder举办的The 3rd NOAA Workshop on Leveraging AI in Environmental Sciences，Abstract的截止时间为6月18日。已经写好了初稿，正在等待老师审查。</p>
+<p>下一步还想测试一些新冒出的想法，例如：</p>
+<ul>
+<li>Reframe the problem: predict cloud fraction which is continuous rather than discrete (0, 1) to take into account the broken clouds information.</li>
+<li>Interpret the neural networks using <code>keras-vis</code>.</li>
+</ul>
+<h2 id="airs-16days-项目情况">AIRS-16Days 项目情况</h2>
+<p>五月处理了202013的数据。</p>
+<h2 id="小组组会教授一对一谈话">小组组会/教授一对一谈话</h2>
+<p>五月一共进行了2次组会，组会内容包括：</p>
+<ul>
+<li>20210521: Reunion. Plan for the summer. Plan for the gorup meeting.</li>
+<li>20210528: Paper - Sherwood et al. (2020). An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence.</li>
+</ul>
+<p>五月进行了5次教授一对一谈话。</p>
+<h1 id="英语学习">英语学习</h1>
+<h2 id="口语">口语</h2>
+<p>每日口语练习这个月进行了12次，缺5月16日一次练习，还有个别天数迟交，后面几天才补上。</p>
+<h2 id="写作">写作</h2>
+<p>每日写作练习这个月进行了4次，缺5月19日一次练习，还有个别天数迟交，后面几天才补上。</p>
+<h2 id="阅读">阅读</h2>
+<p>正在进行一本Kindle书的阅读：Thinking, Fast and Slow</p>
+<p>这本关于心理学的书介绍了人们容易犯的认知误区，认识到这些误区的存在能够在科研思考中尽量避免自己犯低级错误，是一本有价值的书。</p>
+<h2 id="听力">听力</h2>
+<p>每天中午的英语听力还是当成了耳旁风……</p>
+<p>TED演讲这个月学习了10场，存档做的不错，生词积累也做好了，但是看过一遍之后是不是应该关掉字幕在复习一遍？</p>
+<h2 id="词汇">词汇</h2>
+<p>仿照本科期间的Excel单词簿，使用Python、HTML和JS开发新的单词簿工具，目前生词簿、复习卡、学习工具已经建成。每天大约花费30分钟复习15个之前的单词，学习25个新单词。因为内容较多，学习时间较长，但是如果有效果能坚持就好。</p>
+<p>下一步还需要建立小测和考试机制，检测学习效果。</p>
+<h1 id="生活健康">生活健康</h1>
+<h2 id="身体健康">身体健康</h2>
+<p>五月身体健康状况正常。</p>
+<h2 id="心理健康">心理健康</h2>
+<p>五月心理健康状态正常。</p>
+<h2 id="体育锻炼">体育锻炼</h2>
+<p>五月开始体育锻炼拆分成了早晨晨跑和下午肌肉锻炼。早晨的晨跑做得勉强及格，中间有几天没有坚持户外跑步；下午的室内锻炼偷懒现象很严重。</p>
+<h2 id="公寓卫生">公寓卫生</h2>
+<p>室内卫生保持状况较好，每周六坚持做好地面保洁，这个月下旬做了床上用品的更换。</p>
+<p>防疫措施都能坚持做好，出门戴口罩，回家勤洗手，物品表面及时消毒，避免与人接触。</p>
+<h2 id="电子琴练习">电子琴练习</h2>
+<ul>
+<li>复习乐曲牧民的一天、陕北民歌、放鸭姑娘、西班牙斗牛舞、小星星变奏曲</li>
+<li>复习钢琴曲若干</li>
+<li>复习民歌步步高、紫竹调、茉莉花</li>
+<li>学习了五级曲目《编花篮随想曲》</li>
+</ul>
+<h2 id="个人网站">个人网站</h2>
+<p>本月没有更新</p>
+<h2 id="编程开发">编程开发</h2>
+<ul>
+<li>英语学习：使用Python正在开发和调试英语单词学习工具</li>
+<li>作息时间：执行新作息时间表，优化了程序的架构</li>
+</ul>
+<h1 id="下月计划">下月计划</h1>
+<ul>
+<li>保持文献阅读和学术讲座的强度，自主安排1篇文献综述和3篇普通文章的阅读，完成存档的CERES、AIRS和ACPC讲座学习</li>
+<li>继续学习和复习大气动力学和大气辐射学</li>
+<li>按部就班完成两项个人科研项目相关工作</li>
+<li>六月上旬到一个新的自然风景区放松身心</li>
+<li>其它目标参照学期目标完成</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Monthly Summary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Spring 2021 Week 3 Progress - May 15th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-05-15-Weekly_Progress_20210515.html</url>
+    <content><![CDATA[<a id="more"></a>
+<h1 id="日常项目追踪">日常项目追踪</h1>
+<h2 id="from-past-weeks">FROM PAST WEEKS</h2>
+<p>Please complete these tasks ASAP.</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 1-Hr Seminar Water Vapor + Notes</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: CERES Meeting Review 1</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 2</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 3</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+RES: CERES Meeting Review 5</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript Revision <strong>HOLD</strong></li>
+<li><input type="checkbox" disabled="" />
+MIS: Vocabulary Tools Development</li>
+</ul>
+<h2 id="sat">5-15 (SAT)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Room Cleaning</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Panel Emissivity Simulation</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Weekly Exercise</li>
+</ul>
+<h2 id="sun">5-16 (SUN)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Radiation =&gt; 4.2.3 <strong>MAKEUP 5-17</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 1-Hr Seminar Water Vapor + Notes</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Emissivity LR</li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Vocabulary Tools Development <strong>Incomplete</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice <strong>MAKEUP 5-17</strong></li>
+</ul>
+<h2 id="mon">5-17 (MON)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Email</li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: Atmospheric Dynamics =&gt; 8B.6</del></li>
+<li><input type="checkbox" disabled="" />
+<del>CUR: CERES Meeting Review 1</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: 1-Hr Seminar Water Vapor + Notes</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+</ul>
+<h2 id="tue">5-18 (TUE)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: AIRS Meeting Archiving</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: CERES Meeting Review 1 <strong>Incomplete</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Vocabulary Tools Development</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="wed">5-19 (WED)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Dynamics =&gt; 8B.6</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: AIRS Meeting Archiving</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Grocery Shopping</li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Vocabulary Tools Development</li>
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Daily Keyboard Piano</li>
 <li><input type="checkbox" disabled="" />
 EXR: Daily Exercise</li>
@@ -23778,6 +24085,345 @@ ENG: Daily TED Talk</li>
 ENG: Morning Reading</li>
 <li><input type="checkbox" disabled="" />
 ENG: Daily Writing Practice</li>
+</ul>
+<h2 id="thu">5-20 (THU)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: AIRS Meeting Archiving</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: CERES Meeting Review 1</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Radiation =&gt; 4.3</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice <strong>(MAKEUP 5-21)</strong></li>
+</ul>
+<h2 id="fri">5-21 (FRI)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting</li>
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 2</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Radiation Lecture to Lin</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Writing Practice</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Spring 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spring 2021 Week 4 Progress - May 22nd</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-05-22-Weekly_Progress_20210522.html</url>
+    <content><![CDATA[<a id="more"></a>
+<h1 id="日常项目追踪">日常项目追踪</h1>
+<h2 id="from-past-weeks">FROM PAST WEEKS</h2>
+<p>Please complete these tasks ASAP.</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: CERES Meeting Review 2</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: CERES Meeting Review 3</li>
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 5</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 1</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 2</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 3</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 5</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Literature Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Raw Radiance Processing</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Coding</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript Revision <strong>HOLD</strong></li>
+</ul>
+<h2 id="sat">5-22 (SAT)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Room Cleaning</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Laundry</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Weekly Exercise</li>
+</ul>
+<h2 id="sun">5-23 (SUN)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Literature Review <strong>=&gt; 2.2</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Raw Radiance Processing</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: CERES Meeting Review 2</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="mon">5-24 (MON)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Literature Review <strong>=&gt; 2.3</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: AGU Seminar Archive</li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Gaokao Video</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+</ul>
+<h2 id="tue">5-25 (TUE)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Cloud Classification Sorted Spectrum 1D CNN</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Literature Review <strong>2.3 and 2.4 need review</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: CERES Meeting Review 3 <strong>MAKEUP 5/27</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Bed Cleaning</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Grocery Shopping</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="wed">5-26 (WED)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice <strong>MAKEUP 5-27</strong></li>
+</ul>
+<h2 id="thu">5-27 (THU)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Radiation <strong>=&gt; 4.5</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Atmospheric Dynamics <strong>=&gt; 8B.7</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Cloud Classification Abstract</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="fri">5-28 (FRI)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Spring 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spring 2021 Week 5 Progress - May 29th</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-05-29-Weekly_Progress_20210529.html</url>
+    <content><![CDATA[<a id="more"></a>
+<h1 id="日常项目追踪">日常项目追踪</h1>
+<h2 id="from-past-weeks">FROM PAST WEEKS</h2>
+<p>Please complete these tasks ASAP.</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 5</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 1</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 2</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 3</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 5</li>
+<li><input type="checkbox" disabled="" />
+RES: Group Meeting Literature Reading</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Fuzzy Classification</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification NN Interpretation</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript Revision <strong>HOLD</strong></li>
+</ul>
+<h2 id="sat">5-29 (SAT)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Room Cleaning</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Vocabulary Tool Development</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Weekly Exercise</li>
+</ul>
+<h2 id="sun">5-30 (SUN)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting Literature Review <strong>MAKEUP 6-1</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Cloud Classification Fraction Fuzzy Classification <strong>NOT FINISHED</strong></li>
+<li><input type="checkbox" disabled="" />
+<del>RTN: Monthly Report</del></li>
+<li><input type="checkbox" disabled="" checked="" />
+MIS: Vocabulary Tool Development</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="mon">5-31 (MON)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+RES: Group Meeting Literature Review</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Monthly Report</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Writing Practice</li>
+</ul>
+<h2 id="tue">6-1 (TUE)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Grocery Shopping</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" checked="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
 </ul>
 ]]></content>
       <categories>
