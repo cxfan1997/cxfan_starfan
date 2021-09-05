@@ -24922,4 +24922,808 @@ ENG: Daily Speaking Practice</li>
         <tag>Spring 2021</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Summer 2021 Monthly Report - July</title>
+    <url>/cxfan_starfan/blog/Monthly-Summary/2021-07-31-Monthly_Summary_202107.html</url>
+    <content><![CDATA[<h1 id="综述">综述</h1>
+<p>2021年7月月度目标为：</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+月初做好接待HC的相关工作</li>
+<li><input type="checkbox" disabled="" checked="" />
+回到办公室！</li>
+<li><input type="checkbox" disabled="" />
+完成Sherwood et al. (2020)的全部阅读，针对一些章节的内容进行深入探究，提出有价值的思考问题</li>
+<li><input type="checkbox" disabled="" />
+继续学习和复习大气动力学和大气辐射学，本月大气动力学必须完成第八章和第九章的学习，大气辐射学必须完成第五章的学习</li>
+<li><input type="checkbox" disabled="" />
+补充之前提到的未完成的笔记，完成AIRS讲座的学习和笔记</li>
+<li><input type="checkbox" disabled="" />
+继续按照要求完成科研任务</li>
+<li><input type="checkbox" disabled="" />
+其它目标参照学期目标完成</li>
+</ul>
+<a id="more"></a>
+<div class="note success"><h4 id="表扬">表扬</h4>
+<p>绿色框中标注内容为突出贡献</p>
+</div>
+<div class="note info"><h4 id="提醒">提醒</h4>
+<p>蓝色框中标注内容为提醒和注意</p>
+</div>
+<div class="note warning"><h4 id="警告">警告</h4>
+<p>黄色框中标注内容为突出问题</p>
+</div>
+<h1 id="作息追踪">作息追踪</h1>
+<p>这个月的作息追踪只有七天的记录，非常糟糕。没有办法在月度总结中展示相关结果。</p>
+<h1 id="知识输入">知识输入</h1>
+<p>这个月的知识输入没有进行有效的追踪。</p>
+<h2 id="专业书籍学习">专业书籍学习</h2>
+<p>专业书籍没有任何进度的推进！</p>
+<h2 id="文献阅读">文献阅读</h2>
+<p>能够确定的是七月确实阅读了一定量的文献，主要是从小组组会阅读的Sherwood et al. (2020)出发自主探索的拓展阅读材料，可以算作是自主学习的一部分。这些文献没有通过Evernote进行总结，而是在原文中做了标记和注释，在组会中做了总结汇报。</p>
+<p>虽然通过组会报告的形式也能够很好的总结，但是把这些零碎的总结散落在组会幻灯片中，以后要寻找的时候就会有很大的麻烦。是先大量的阅读随心所欲完成笔记事后再整理，还是从一开始就严格按照格式和规则组织好自己的笔记，一直是非常棘手的问题之一。</p>
+<h2 id="学术讲座">学术讲座</h2>
+<p>七月没有学习存档的科学讲座。</p>
+<p>7月31日晚上观看了科研规划相关的讲座，收获颇丰，但没有把感想用文字记录下来，过了一段时间之后是不是就会忘记呢？</p>
+<h1 id="科研工作">科研工作</h1>
+<p>这个月科研任务很重，以至于把其它项目的时间挤占。</p>
+<h2 id="solar-farming-项目情况">Solar Farming 项目情况</h2>
+<p>这个月的主要工作是写论文，将长波部分的工作总结并发表。目前文章的所有部分基本架构已经完成，但是自己对于这一稿还不满意。在这之后还需要自己重新把文章读一遍，优化文章的逻辑，纠正细节的错误，检查引用格式，特别是重新绘制图表以达到发表的标准。导师已经粗略检查文章全稿，并建议绘制一个概念图，将我们的卫星观测结果和前人的地面观测结果进行有效的衔接和整合。这是一个比较复杂的事情，因为夜间的观测个人还无法合理的解释。写作的故事还需要一段时间的打磨和思考。</p>
+<p>除了写论文以外，为了准备AGU会议，这个月也准备了一份摘要提交给AGU，摘要内容与文章的摘要基本一致，添加了一张贴图和一段平民化语言总结。摘要已经成功提交，等待后续的结果。</p>
+<h2 id="cloud-classification-项目情况">Cloud Classification 项目情况</h2>
+<div class="note success"><h4 id="表扬">表扬</h4>
+<p>上个月提交了摘要的The 3rd NOAA Workshop on Leveraging AI in Environmental Sciences，在这个月的29日终于收到了通知邮件。<strong>我们的项目成功获得Oral Session的资格，展示时间为12分钟，外加提问环节。</strong>所在研讨环节的时间为东部时间9月13日12点45分至14点15分。</p>
+</div>
+<p>八月要准备具有吸引力的展示报告，同时看看能否在此基础上继续改进。</p>
+<h2 id="airs-16days-项目情况">AIRS-16Days 项目情况</h2>
+<p>七月尝试处理新的数据，但是发现已经到达原始数据发布的尽头，无法继续处理新的数据。因此暂时停止AIRS-16Days数据的处理。</p>
+<h2 id="e3sm-modeling-项目情况">E3SM Modeling 项目情况</h2>
+<p>这个月的成果包括：</p>
+<ul>
+<li>继续完善CESM模式在学校超级计算机上的移植</li>
+<li>准备使用新版的模式重现Yi-Hsuan师兄的研究结果
+<ul>
+<li>BFB问题：帮助合作者成功找到了优化代码后出现BFB问题的原因，是因为代码没有保证线程安全</li>
+<li>Slab Ocean问题：E3SM没有现成的Slab Ocean模式可用，需要深入调整源代码以达到效果。但这不是重现师兄工作的重点，我在阅读文章和代码时没有抓住正确方向，因为Slab Ocean模式是在CESM上完成而不是E3SM。因此这个问题暂时搁置</li>
+<li>Hybrid问题：七月底准备运行模式时发现模式版本与初始数据版本存在差异，这导致模式运行失败。目前还在着手解决这一问题，或者考虑换一种运行模式，使用Initial而非Hybrid模式，但这样并不能做到完美重现师兄的步骤</li>
+</ul></li>
+</ul>
+<p>导师还分发了一个支线任务，这个支线任务高风险高回报，目前没有开始读相关文献，但是考虑到目前有很多任务的挤压，优先级需要往后靠。</p>
+<h2 id="小组组会教授一对一谈话">小组组会/教授一对一谈话</h2>
+<p>七月一共进行了3次组会，组会都是Round table discussion的形式，要求所有的组员都要积极地准备、展示和参与讨论。组会内容包括：</p>
+<ul>
+<li>20210709: AGU Preparation &amp; Paper - Sherwood et al. (2020). Chapter 3.3 by Yan Xie and Xiuhong Chen.</li>
+<li>20210716: Paper - Sherwood et al. (2020). Chapter 3.3 by Xiuhong Chen, Chongxing Fan and Colten Peterson.</li>
+<li>20210723: Perspective - Climate change and climate models =&gt; Round table discussion by Chongxing, Xiuhong, and Yan</li>
+</ul>
+<p>七月进行了4次教授一对一谈话。</p>
+<h1 id="英语学习">英语学习</h1>
+<p>现在来看，英语因为长时间没有练习，已经出现了很大程度的退步。英语的阅读能力尚能保持，口语、听力水平大幅度下降。这是一个不好的信号……</p>
+<h2 id="口语">口语</h2>
+<p>七月没有进行口语练习……</p>
+<h2 id="写作">写作</h2>
+<p>七月没有进行写作练习……</p>
+<h2 id="阅读">阅读</h2>
+<p>已经完成Kindle书Thinking, Fast and Slow正文部分的阅读，下一步将会对其它未完成的Kindle书和纸质书进行阅读。</p>
+<h2 id="听力">听力</h2>
+<p>TED练习只进行了极少的次数，虽然每一次都很认真的完成。</p>
+<h2 id="词汇">词汇</h2>
+<p>基于Qt的词汇积累程序还没坚持使用几天，现在又开始对基于Flask的程序开发蠢蠢欲动。这到底是积累英语单词还是积累编程技能？</p>
+<h1 id="生活健康">生活健康</h1>
+<h2 id="身体健康">身体健康</h2>
+<p>七月身体健康状况正常。</p>
+<h2 id="心理健康">心理健康</h2>
+<p>七月心理健康状态正常。</p>
+<h2 id="体育锻炼">体育锻炼</h2>
+<p>七月的体育锻炼非常糟糕。早晨的晨跑或室内锻炼偶尔完成，下午的锻炼只有七月初坚持了几天，每周的大锻炼计划形同虚设。</p>
+<h2 id="公寓卫生">公寓卫生</h2>
+<p>室内卫生保持状况较好，每周六坚持做好地面保洁。</p>
+<p>七月底，疫情形势急转直下，国内国外多点爆发。再次强调防疫措施的重要性！少出门！戴口罩！不乱摸！勤洗手！</p>
+<h2 id="电子琴练习">电子琴练习</h2>
+<ul>
+<li>复习乐曲：牧民的一天、陕北民歌、放鸭姑娘、西班牙斗牛舞、小星星变奏曲、步步高、紫竹调、茉莉花、编花篮随想曲等</li>
+<li>复习钢琴曲：骑士曲、木偶戏、Dolly's Dreaming and Awakening、La Petite Reunion</li>
+<li>学习乐曲：森林舞会</li>
+</ul>
+<h2 id="个人网站">个人网站</h2>
+<p>本月没有更新</p>
+<h2 id="编程开发">编程开发</h2>
+<ul>
+<li>英语学习：使用Python开发和调试英语单词学习工具</li>
+</ul>
+<h1 id="下月计划">下月计划</h1>
+<ul>
+<li>科研项目：任务艰巨而繁重！
+<ul>
+<li>Solar Farming：完成第二稿论文的写作，思考如何总结出一张概念图</li>
+<li>Cloud Classification：准备九月的研讨会展示，思考有无更进一步的空间</li>
+<li>E3SM Modeling：复现Yi-Hsuan的模式模拟</li>
+<li>E3SM Modeling：支线任务的文献阅读</li>
+</ul></li>
+<li>小组组会：持续阅读文献和思考，准备每周的总结汇报，积极参与讨论</li>
+<li>倒计时1000天和在美留学两周年活动（可能考虑推迟）</li>
+<li>保持一定强度的书籍阅读、文献阅读、讲座学习。文献阅读部分想想能否结合英语写作中的Summary和Critique？</li>
+<li>保持一定强度的英语晨读，暂停口语练习和写作练习，中午时间改为单词积累</li>
+<li>尝试拓展社交圈，通过社交活动来提升英语口语水平</li>
+<li>同学接机和帮助适应新生活</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Monthly Summary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Summer 2021 Term Report - 2021年夏季学期总结</title>
+    <url>/cxfan_starfan/blog/Term-Summary/2021-08-31-Term_Report_2021Summer.html</url>
+    <content><![CDATA[<h1 id="摘要">摘要</h1>
+<p>2021年8月13日，来到美国留学正好两年。受到疫情的冲击，很多活动的受到冲击，而且进入博士候选生阶段，没有课程压力，留学生活也似乎有些平淡枯燥，2021年夏季学期以来学习工作也不在最佳状态，倦怠感十足。是时候打开以前的总结和计划，看看那个时候在课程和科研双重压力之下自己是如何充满斗志，努力完成工作的。</p>
+<a id="more"></a>
+<h1 id="学期目标回顾">学期目标回顾</h1>
+<ul>
+<li>重点关注书籍阅读和文献阅读，安排专门的时间完成这两项学习</li>
+<li>鼓励与业界大佬交流讨论学术问题，建立学术社交圈</li>
+<li>完成Solar Farming和Cloud Classification两篇论文有关工作</li>
+<li>更多的走出家门，接近大自然</li>
+</ul>
+<h1 id="时间管理">时间管理</h1>
+<h2 id="综述">综述</h2>
+<div class="note success"><p><strong>表现突出的方面</strong></p>
+<ul>
+<li>制作了HTML5版本的作息时间铃声系统，方便在任何地方维持作息</li>
+</ul>
+</div>
+<div class="note warning"><p><strong>仍待改进的方面</strong></p>
+<ul>
+<li>这个夏天，全天的作息时间都失去了稳定</li>
+<li>周计划总结完全停滞</li>
+<li>贪玩心理，始终没有严格要求自己</li>
+</ul>
+</div>
+<h2 id="作息时间">作息时间</h2>
+<p>现在的作息时间安排相比于前几个学期已经放松很多，更不用说相比于高中、初中时期的课程表。除了一直都很重要的学习工作以外，还安排了很多休息放松、强身健体、兴趣爱好、陶冶情操类型的活动，例如早晨的早操和晨读、中午的英语学习、下午的体育锻炼、傍晚的电子琴。这些活动的设计旨在休息眼睛，减少屏幕时间。</p>
+<p>这个学期随着疫情形势的相对缓和，回到办公室学习工作成为可能。为了在办公室也能坚持劳逸结合，开发了基于HTML5的作息时间打铃系统，只需浏览器就可以实现按时打铃。虽然仍有很多不完美的地方，但作为替代方案已经非常不错。</p>
+<p>虽然技术上已有很多解决方案，在家里有Raspberry Pi，不在家里有HTML5，但是这个学期的作息执行情况非常糟糕。在初中和高中有着超强效力的铃声，现在已经当作耳旁风，丧失了权威性。四个月的平均得分为81.65、69.93、62.08、66.09。非常糟糕的一点是，7月9日至7月31日出现了长达近一个月的记录空白！对自己要求不严如何才能让自己更加优秀？？</p>
+<p>在所有考核项目中，问题最大的是早上起床和晚上睡觉。按照要求早晨应该六点半准时起床，晚上十点半准时睡觉，但是进入到七月之后，只有极少的一天或者两天能够在六点半起床，其余的时间都至少是在七点半以后，晚起的时间都远远超过可以接受的范围，甚至达到两个小时！而晚上睡觉也不守时，睡眠质量非常差。如此睡眠怎么样才能让自己在白天集中注意力做该做的事情？</p>
+<p>总的来说，导致这些问题的原因有很多，<strong>最重要的一点是没有抵制一些诱惑，在视频网站和软件上浪费了大量的时间。</strong>不可否认有很多视频能够开拓自己的视野，是对自己的知识面有好处的，但是无限制的反复的观看视频，已经影响了正常的学习工作。新学期伊始，需要在这一方面加以限制。</p>
+<h2 id="计划总结">计划总结</h2>
+<p>每周总结和计划已经停摆了很久很久，上次的周报告是在7月3日；每月总结和计划也有质量的下滑。总结和计划能够有效的防止重心方向的偏移，在这一段没有计划和总结的时间，是否有很多时候觉得无所事事，但其实有很多没有完成的任务？</p>
+<h1 id="知识输入">知识输入</h1>
+<h2 id="综述-1">综述</h2>
+<div class="note success"><p><strong>表现突出的方面</strong></p>
+<ul>
+<li>第一次从图书馆借书，并以较为稳定的速度完成了几章内容的学习</li>
+</ul>
+</div>
+<div class="note warning"><p><strong>仍待改进的方面</strong></p>
+<ul>
+<li>文献阅读和讲座学习仍有拖沓</li>
+<li>对于有难度内容的畏难心理</li>
+<li>自主寻找新文献阅读的动力仍然不足</li>
+</ul>
+</div>
+<p>从这个学期开始，没有学校课程的约束，完全靠自己继续学习补充。知识输入的三大来源：书籍阅读、文献阅读、讲座学习，三者都很重要。相比于前几个学期，这些方面都有或多或少的进步，但是仍没有达到最佳状态。</p>
+<h2 id="书籍阅读">书籍阅读</h2>
+<p>目前还正在阅读的专业书籍有：</p>
+<ul>
+<li>Atmospheric Dynamics
+<ul>
+<li>已经阅读了快一年了！还在第八章</li>
+<li>制作了知识梳理图</li>
+</ul></li>
+<li>An Introduction to Atmospheric Radiation
+<ul>
+<li>也已经阅读快一年了！还在第五章</li>
+<li>没有制作知识梳理图，但是将重要的图表整理在Evernote上</li>
+</ul></li>
+<li>Climate System Modeling
+<ul>
+<li>图书馆借阅，目前在第四章海洋部分</li>
+<li>目前没有任何笔记！</li>
+</ul></li>
+</ul>
+<p>前两本书已经读了很久很久，进度已经完全停滞，<strong>原因是这两本书都到了最难啃的章节，对高难度内容的畏惧心理阻碍了自己继续读下去。</strong>这样的畏难心理实在不可取。值得鼓励的是第一次从图书馆借阅了书籍来督促自己读书，而且以较为稳定的速度推进了几个章节，虽然前几个章节都是以前学习过的内容，完全只是复习而已。八月下旬这个动力又有些不足，还需要继续加油！</p>
+<h2 id="文献阅读">文献阅读</h2>
+<p>文献阅读分为文献综述和普通学术文章。</p>
+<p>文献综述部分主要是跟随组会的进程阅读Sherwood et al. (2020)关于气候反馈的内容，对于已经阅读的部分还是比较认真细致的，除了在原文进行标记，还在Evernote上进行总结，查找引用文献来源，制作组会展示PPT等。还有几个章节没有读完，如果没有组会的强压是不是最后的几章就放弃了？</p>
+<p>普通学术文章虽然在读，但是没有做好笔记和追踪。八月初开始使用ReadCube Papers，替代Mendeley作为文献管理工具，配合Evernote做好笔记，希望这样的现状能有所改善。</p>
+<p>另外，很多文献阅读都是被迫被要求做的，一旦没有要求，就会忘记自主探索寻找文献。这一直是老大难的问题，应该好好思考如何才能让自己高效高质的阅读文献，探索学术边界。这是自己仍然欠缺和不足的地方，更应该花更多心思去纠正，而不是任其自然发展。一直做容易的事情，回避困难的事情，很难继续进步。</p>
+<h2 id="讲座学习">讲座学习</h2>
+<p>2021年夏季学期的讲座较少，新录制的内容不多，但是已有存档的讲座还是很多的。这是一个很好的消化存货的时机，但由于懈怠工作的原因，这些内容都没有观看学习。</p>
+<p>这几个月有一些重要的讲座确实认真的学习过了，例如两次科研规划的讲座，部分Climate Dynamics组织的交叉学科讲座。这些内容对于未来的学业职业规划都非常重要，确实没有浪费宝贵的机会。</p>
+<h1 id="科研工作">科研工作</h1>
+<h2 id="综述-2">综述</h2>
+<div class="note success"><p><strong>表现突出的方面</strong></p>
+<ul>
+<li>E3SM模式项目顺利开张，上手很快</li>
+</ul>
+</div>
+<div class="note warning"><p><strong>仍待改进的方面</strong></p>
+<ul>
+<li>Solar Farming项目还未收官</li>
+<li>Cloud Classification项目没有新的突破</li>
+<li>探索力、想象力、创新力仍未充分开发</li>
+</ul>
+</div>
+<h2 id="科研项目">科研项目</h2>
+<h3 id="solar-farming-project">Solar Farming Project</h3>
+<p>长波部分进行到写论文的部分，目前正在修改第二版。</p>
+<p>除了2021年冬季学期做的卫星数据处理和分析部分，夏季学期新增了一些新的内容，尤其是理论推导部分的支持：</p>
+<ul>
+<li>Surface emissivity and temperature tradeoff</li>
+<li>Schematic diagram of solar farm's longwave effects</li>
+<li>Composition of exposed, shaded, and solar panel surfaces</li>
+</ul>
+<figure>
+<img src="../images/Term_Report_2021Summer/image-20210903161820023.png" alt="image-20210903161820023" /><figcaption aria-hidden="true">image-20210903161820023</figcaption>
+</figure>
+<figure>
+<img src="../images/Term_Report_2021Summer/image-20210903161831659.png" alt="image-20210903161831659" /><figcaption aria-hidden="true">image-20210903161831659</figcaption>
+</figure>
+<p>预计大约在九月能够完成第二版论文的修改，准备投稿。</p>
+<p>论文的修改过程中，暴露出自己在写作上的一些小问题，例如中式语法，经常在说明结果时使用For sth, ...的错误句式，以及比较数据时缺少后者的宾语。另外，还有科研思维上的一些大问题，例如上面新增的内容都是老师提出来的想法，而这些并不是很复杂的外推，只是稍微在卫星数据的基础上多做了一步两步，写出来的内容就比原来的版本出彩很多。这是仍然要学习的地方。</p>
+<p>完成这一篇论文的写作和投稿之后，Solar Farming的项目将会告一段落。短波部分和长波部分的论文将会成为博士论文的两个章节。</p>
+<h3 id="cloud-classification-project">Cloud Classification Project</h3>
+<p>这个学期没有什么新的进展，9月13日有NOAA AI Workshop和AIRS Science Meeting来口头展示我的初步成果。目前幻灯片已经制作完毕，等待宣传……</p>
+<p>9月7日至9月10日还有NOAA AI Workshop的Hackathon部分，积极参加和交流经验。</p>
+<p>在阅读文献的时候了解了MOD35产品如何使用MODIS进行云分类，了解了Bispectral Algorithm有更多的变种，利用了不同频段的资料。是否要尝试一下与MOD35的算法进行比较？</p>
+<h3 id="airs-16day-project">AIRS-16Day Project</h3>
+<p>在MAUI上下载数据并运行MATLAB处理数据，已处理到2020-23。</p>
+<p>在运算过程中发现有数据缺失的风险，自己重新编写了自动检测的算法，尽可能的下载全部的数据，报告缺失数据的编号，方便查找。同时还可以批量化处理数据，无需自己手动运行程序。目前已经重新处理了大部分2020年的数据，抽样比较发现与之前的数据出入不是很大，说明即使有偶然缺失的数据，对结果的影响比较小。</p>
+<h3 id="e3sm-modeling-project">E3SM Modeling Project</h3>
+<p>新开始的一个项目！具体介绍在2021年6月月度总结中有体现。</p>
+<p>这个学期有了一个比较好的开始，学习了如何运行E3SM模式，如何调整大部分的参数，如何对模式的输出进行诊断和分析，以及对前辈们修改过的代码进行分析，绘制了概念图来梳理和理解。下一步将把这些修改植入到E3SM v2中，并进行测试和实验。</p>
+<p>另外还有MEP项目，还未正式开始。</p>
+<figure>
+<img src="../images/Term_Report_2021Summer/image-20210903161705975.png" alt="image-20210903161705975" /><figcaption aria-hidden="true">image-20210903161705975</figcaption>
+</figure>
+<figure>
+<img src="../images/Term_Report_2021Summer/image-20210903161736703.png" alt="image-20210903161736703" /><figcaption aria-hidden="true">image-20210903161736703</figcaption>
+</figure>
+<h2 id="科研外联">科研外联</h2>
+<h3 id="教授交流">教授交流</h3>
+<p>每周都进行了教授一对一谈话，共19次，主要是讨论这学期两个科研工作的进展。大部分一对一谈话都有幻灯片和录制存档。进入新学期，线下一对一会议成为可能，以后将只有幻灯片和书面笔记进行记录，而不会有录制。</p>
+<h3 id="小组合作">小组合作</h3>
+<p>本学期进行了11次小组组会，所有的组会材料都进行了存档。这个学期主要研读Sherwood et al. (2020)文章，虽然经过了11次组会，但是文章篇幅很长，91页，而且云相关的气候反馈效应比较复杂，因此没有全部读完。虽然新学期不会再继续这篇文章的讨论，但也应该继续自行读完剩下的部分。</p>
+<h3 id="micde-graduate-certificate-in-cde">MICDE: Graduate Certificate in CDE</h3>
+<p>讲座部分已经完成了3次，还剩余4次讲座、1项相关科研项目和1次年会。</p>
+<h3 id="个人网站">个人网站</h3>
+<ul>
+<li>主网站：未更新</li>
+<li>博客：未更新</li>
+<li>Portal：未更新</li>
+<li>Mindmap：未更新</li>
+<li>学院网页：未更新</li>
+</ul>
+<h1 id="英语提升">英语提升</h1>
+<h2 id="综述-3">综述</h2>
+<div class="note success"><p><strong>表现突出的方面</strong></p>
+<ul>
+<li>无</li>
+</ul>
+</div>
+<div class="note warning"><p><strong>仍待改进的方面</strong></p>
+<ul>
+<li>每日英语积累坚持得并不理想</li>
+</ul>
+</div>
+<h2 id="口语">口语</h2>
+<p>本学期没有做什么口语的练习，口语水平已经出现了可观的下降。</p>
+<h2 id="写作">写作</h2>
+<p>本学期没有做什么写作的练习，写作水平没有任何提升。</p>
+<h2 id="阅读">阅读</h2>
+<p>早读大约只做好了一半，如果真正能好好坚持，应该可以读更多的书。</p>
+<p>这个学期完成了：</p>
+<ul>
+<li>Thinking, Fast and Slow</li>
+<li>Speed Reading: Learn to Read a 200+ Page Book in 1 Hour (Mental Performance)</li>
+</ul>
+<p>除此以外还有少量新闻的阅读。</p>
+<h2 id="听力">听力</h2>
+<p>这个学期认真学习了16次TED演讲，比上一学期稍微有些进步。</p>
+<p>这一学期每天中午的英语广播和晚上的英语新闻也没有继续下去了……</p>
+<h2 id="词汇">词汇</h2>
+<p>日常词汇练习没有好好坚持，辛辛苦苦做好了程序，没有认真对待它，怎么能够提升自己的词汇量？</p>
+<p>从五月到八月一共进行了41次练习。如果每天都安排练习，应该完成123次，仅完成了33%</p>
+<h1 id="体育锻炼">体育锻炼</h1>
+<div class="note success"><p><strong>表现突出的方面</strong></p>
+<ul>
+<li>无</li>
+</ul>
+</div>
+<div class="note warning"><p><strong>仍待改进的方面</strong></p>
+<ul>
+<li>几乎完全没有体育锻炼了……</li>
+</ul>
+</div>
+<h2 id="晨练">晨练</h2>
+<p>晨练是每天非常重要的一个流程，是每天早晨起床后清醒大脑，活动身体的一个重要活动。进入五月后，因为夏天白天天气炎热，因此将晨练的强度加强，由广播体操变为晨跑。五月和六月虽然没有每天都能坚持，但也马马虎虎完成了至少一半的任务，然而进入七月和八月之后，晨练情况和起床情况一样变得非常非常的糟糕。</p>
+<h2 id="每日锻炼">每日锻炼</h2>
+<p>因为夏季天气炎热，除了较为凉快的早晨，其余时间都没有进行体育锻炼。</p>
+<p>健身房虽然已经开放，但是考虑到疫情仍在持续，暂时没有去健身房锻炼的计划。</p>
+<h2 id="每周锻炼">每周锻炼</h2>
+<p>六月四日前往Island Drive Recreation Area竞走锻炼，呼吸新鲜空气。</p>
+<p>八月初前往Gallup Park跑步。可以明显的感受到，因为平常体育锻炼不足，已经远远不能很顺畅的跑完全程了。可能有天气热的因素在，但是体力上已经退步了！</p>
+<h1 id="生活健康">生活健康</h1>
+<div class="note success"><p><strong>表现突出的方面</strong></p>
+<ul>
+<li>细心接待了昊昌和铭颢等同学，意外的打开了交际圈</li>
+<li>开始有与前辈和同辈交流的想法和方案</li>
+</ul>
+</div>
+<div class="note warning"><p><strong>仍待改进的方面</strong></p>
+<ul>
+<li>内务整理方面仍有不足</li>
+<li>课余的休息活动没有安排好，贪玩心理严重</li>
+</ul>
+</div>
+<h2 id="身心健康">身心健康</h2>
+<p>2021年夏季学期身体健康状况良好，心理状态有向好的趋势，但是仍然非常不稳定。</p>
+<h2 id="日常生活">日常生活</h2>
+<p>疫情仍在持续，本学期没有完美的做好疫情防护的所有措施，虽然大部分时间出门能够坚持戴口罩，但是每周买完菜之后的忽略消毒洗手的频次已经增加了很多。2021年秋季学期大量学生都要返回校园上课，人群密度大，疫情有再次反弹的风险，这些基本的卫生必须要坚持认真的去完成！</p>
+<p>内务卫生方面，每天都能起床后叠好被子；每周都能坚持做一次地面清洁，但是地面清洁以外的卫生不尽人意；每个月更换清洗床上用品。</p>
+<h2 id="电子琴练习">电子琴练习</h2>
+<p>这个学期学习了新曲：森林舞会、草原赞歌、钢琴曲牧歌等。新曲学习的速度有所减慢，而且难度也没有之前的电子琴曲那么高。</p>
+<p>值得鼓励的是一年的时间内不仅捡回了十几年前小学时候学到的大部分的技巧，而且学习的所有曲目总表演时长已经超过了一个小时！希望后续能够再接再厉，也能积极地挑战更高难度的曲目。我们的终极目标是十级曲目《春舞》！</p>
+<p>虽然总时长已经超过一个小时，但是这些曲目演奏的质量确是层次不齐，少有曲目能够一直做到完美演奏，还有一部分曲目每次弹奏都存在或多或少的问题，影响整个演奏的效果。这之后还需要继续加强巩固，要对自己要求更高！不能马虎了事，要朝着完美演奏方向练习！</p>
+<p>之前利用一些硬件和软件录制了一些演奏，这个学期虽然学习了新的曲目，复习了旧的曲目，但是没有用录音录像设备进行视频的更新。配备了这些软硬件设施非常难得，有机会就应该好好的把自己精彩的演奏记录下来，分享给家人朋友，也是对自己努力过程的记录和鼓励。</p>
+<p>虽然有MuseScore和OpenMPT软件的初步学习，但是这些软件属于高阶内容，从目前的任务安排来看学这些内容性价比不高，<strong>还是应该坚持本分工作，弹好现在手上的电子琴曲和钢琴曲就达到目标了，不要意图吃下一个大胖子。这也是所有学习工作上都应该要注意的，脚踏实地一步一个脚印很关键！</strong></p>
+<h2 id="社交活动">社交活动</h2>
+<p>因为疫情，线下的社交活动受到极大的限制。但是，七月昊昌从国内回到美国，在这边短住几天，有机会和他交流；八月初中同学铭颢来到安娜堡，帮助接机和适应新学期生活。除了达成在晚上开夜车接机这些新挑战成就以外，自己也给他们带来了很多帮助，还因此与其他的同学建立联系。这是一个非常好的实践，意外拓展了交际面，也增强了自己对外交流的信心。以后要充分利用各种机会和同学建立联系，缓解孤独心理的同时能够从别人身上学到更多东西。</p>
+<p>7月15日，在中校区观光游览了安娜堡特色活动Art Fair。可以说这是来到这边第一次参加社会活动，虽然没有和任何人进行交流，仅仅是在展台与展台之间欣赏艺术作品，但是也很好的放松了心情，接触了更广阔的世界。</p>
+<h1 id="下学期展望">下学期展望</h1>
+<h2 id="学期目标">学期目标</h2>
+<ul>
+<li>严格规范作息时间活动，重点关注起床和睡觉</li>
+<li>严格记录日常行为考核，严格记录每周和每月的总结和计划</li>
+<li>强调知识输入的重要性，大力推进科研进度</li>
+<li>推出“共进午餐”的活动，与同辈和前辈经常性的交流，了解学科动态，解决学习科研烦恼</li>
+<li>趁势推进与周围同学朋友的交流和集体活动</li>
+</ul>
+<h2 id="学期方针">学期方针</h2>
+<h3 id="双严专项行动">双严专项行动</h3>
+<p>新学期作息时间表保持不变，仍为6点30分起床，22点30分睡觉，除了8个正常工作时段外，开设晨练、晨读、午间英语学习、下午每日锻炼和傍晚电子琴练习这些特色活动。前一段时间受到一些不可抗力因素和可控制因素的影响，作息时间被完全打乱，严重影响了白天的工作效率。为了彻底重塑正常的作息规律，9月将开展双严的专项行动，即<u>严格规范作息时间活动</u>和<u>严格记录考核总结和计划</u>。以下是每日考核重点关注的项目：</p>
+<ul>
+<li>早晨必须6点30分准时起床，在1分钟的起床号响后，起床音乐播放之前，必须关闭闹钟，离开床铺，打开Zoom视频连线。这三者只要有一项未完成立即扣除起床的全部分数。</li>
+<li>吃早饭时严禁刷手机或干其它事情，吃早饭和全部整理都要在7点45分打铃前全部完成，铃声响起如果还没有拿起纸质书或者Kindle电纸书，即可扣除早操50%的分数。</li>
+<li>早读必须端正姿势完成，可以是客厅的书桌前，卧室台灯点亮的书桌前，客厅的拉起窗帘的窗口站着或者卧室拉起窗帘的窗口站着，严禁在沙发和床上看书，否则直接扣除早读全部的分数。</li>
+<li>全天的工作时段，如果在家学习工作，必须在客厅或者卧室的书桌前端正完成，如果在办公室工作，必须坐好坐正，严禁在沙发和床上工作，除了双重验证以外，严禁在工作时段使用手机，否则直接扣除工作时段50%的分数。</li>
+<li>课间休息时间应该好好休息，在课间操运动员进行曲响起数秒内，在眼保健操铃声响起数秒内，都应该停止手头的工作，起身离开电脑或者闭上眼睛休息。否则直接扣除休息时间50%的分数。</li>
+<li>上午工作时段结束后，立即准备中饭和吃中饭，全程不可以刷手机，可以使用平板电脑播放英语电视新闻、TED演讲、或者较为轻松的学术讲座。上述未做到将直接扣除午间休息时段50%的分数。</li>
+<li>午间英语学习必须按时参加，12点50分铃声响如果没有坐到书桌前开始英语学习，扣除50%英语学习的分数。</li>
+<li>下午工作时段结束后，立即准备下午的锻炼。室内锻炼的选项只有之前做好的20分钟身体锻炼或者30分钟身体锻炼，也要做！即使不是完美的锻炼方案也要做！做总比不做好！顺理成章的完成洗澡的自清洁活动。如果没有在晚间工作开始之前洗澡，扣除50%体育锻炼的分数。</li>
+<li>所有晚饭和整理的事情都应在晚上7点30分之前完成，7点30分铃响时如果没有坐在电子琴前面，未打开电子琴电源，未接通音频设备，扣除电子琴项目25%的分数。</li>
+<li>晚上10点20分铃响必须结束所有工作，晚上10点30分铃响必须已经熄灯上床，任何电子设备都不可以放在床上或者床边的桌子上，否则直接扣除睡觉项目的全部分数。</li>
+</ul>
+<p>这其中的重中之重是早上的起床和晚上的睡觉，考核项目非常严格，否则直接扣除全部得分。另外，为了配合这些作息时间规范措施的执行，还有一些额外的措施：</p>
+<ul>
+<li>从9月3日晚上起卸载手机上、平板电脑上所有娱乐性视频软件，可以保留英语学习类和央视新闻视频软件。</li>
+<li>除非室外活动，可以使用手机进行必要的社交交流的时间为：
+<ul>
+<li>8点25分至8点30分，早读结束后的五分钟休息时间</li>
+<li>11点50分至12点，准备中饭的空闲时间</li>
+<li>19点20分至19点30分，晚餐后电子琴前的空闲时间</li>
+</ul></li>
+<li>在非交流时间，手机应保持静音或者关机状态，手机不可放在离身边很近的桌子上。如有必要，应开启手机上的Focus Mode。</li>
+</ul>
+<p><strong>在以上加强措施实施的条件下，每日考核得分必须在80%以上，每月考核平均得分必须在90%以上。如果没有达成这一目标，不仅无法装回所有的娱乐软件，还将会有非常严厉的惩罚。</strong></p>
+<p>关于记录、计划和总结部分，提出以下要求：</p>
+<ul>
+<li>每日的考核记录在上午工作1开始之前，下午工作1开始之前，晚间工作1开始之前，和晚间工作2结束之前完成。</li>
+<li>上周总结和本周计划必须在周六晚上晚自习开始前完成，总结应该用一两句话概括性的描述做的好的地方和做的不好的点，计划至少应写好目前剩余的工作，且计划好未来三天（日、一、二）的项目。</li>
+<li>月度总结和计划都应在下个月开始之前完成。</li>
+<li>考核记录将通过腾讯表格的形式与家人实时分享，总结计划将通过博客、PDF等形式发布。</li>
+<li>每周六上午七点四十五分准时开始每周家庭视频会议。</li>
+</ul>
+<h3 id="建议的工作安排">建议的工作安排</h3>
+<p>为了加强知识输入和科研工作的推进，以下对于每天的工作安排提供建议。考虑到有很多临时的任务或者变化，这些工作安排都是建议性质的，并不带有强制性，不计入到考核标准中。</p>
+<ul>
+<li>每周应最多安排两个休息日，周三和周六。周三进行物资采购和外出活动，周六进行总结计划、内务整理和外出活动。</li>
+<li>每日应安排大约2<sub>3个白天的工作时段用于知识输入，剩下3</sub>4个白天工作时段用于科研活动。</li>
+<li>每天的晚间时段应避免高强度的脑力劳动，可以安排整理工作，或相对轻松的学术讲座学习、英语学习等。</li>
+<li>每周五晚间时段用于写每周总结和计划和准备每周视频会议。</li>
+</ul>
+<h3 id="知识输入-1">知识输入</h3>
+<p>本学期知识输入的建议内容为：</p>
+<ul>
+<li>书籍阅读：仍然为前几个学期未读完的内容，阅读书籍的同时还应该做好笔记
+<ul>
+<li>Atmospheric Dynamics：知识梳理图和课后练习题（年底前必须完成）</li>
+<li>An Introduction to Atmospheric Radiation：Evernote笔记和课后练习题（年底前必须完成）</li>
+<li>Climate System Modeling：Evernote笔记（争取在还书之前完成大气、海洋、陆地部分，以及后面数值模式的部分；希望可以续借）</li>
+</ul></li>
+<li>文献阅读：
+<ul>
+<li>Sherwood et al. (2020)暑期组会讨论未完成的部分</li>
+<li>IPCC AR6</li>
+<li>卫星资料观测用于约束模式相关文章</li>
+<li>气候反馈过程相关文章</li>
+<li>Machine Learning相关文章</li>
+</ul></li>
+<li>讲座学习：
+<ul>
+<li>Climate Dynamics相关讲座</li>
+<li>九月NOAA 3rd AI Workshop</li>
+<li>十二月AGU Fall Meeting</li>
+</ul></li>
+</ul>
+<h3 id="科研活动">科研活动</h3>
+<p>仍然是四个主要科研项目：</p>
+<ul>
+<li>Solar Farming Project：争取在九月完成论文的写作和投稿，年底前完成发表</li>
+<li>Cloud Classification Project：在九月完成初步成果的报告，考虑下一步是否继续进行？</li>
+<li><strong>E3SM Modeling：新学期开始的重点关注项目，九月初完成在新模式上的移植和测试；探索MEP在E3SM的实现</strong></li>
+<li>AIRS-16Days：按部就班的完成数据处理工作</li>
+</ul>
+<p>另外，在科研交流上：</p>
+<ul>
+<li>抓住九月学术会议和十二月AGU会议的机会，积极与同辈和前辈学术交流</li>
+<li><strong>推出“共进午餐”的活动，应该保持每双周一次的频率，向之前从没有接触过的同辈研究员或前辈发出邮件邀请，通过线上或者线下的方式在午餐时间交流，了解学科前沿动态，解决学习科研烦恼</strong></li>
+</ul>
+<h3 id="英语学习">英语学习</h3>
+<ul>
+<li>写作：每周二周五午间时段完成写作练习，写作内容为前几天科研和知识输入内容的回顾和摘要</li>
+<li>口语：每周一周四午间时段完成口语练习，练习内容为前几天日常生活中发生的故事</li>
+<li>词汇：每周日周三午间时段完成词汇积累，完成20个单词的积累</li>
+<li>听力：每天中午吃饭时间或晚间工作时段收听TED讲座和英语新闻等</li>
+<li>阅读：通过平时的知识输入部分替代</li>
+</ul>
+<h3 id="其它目标">其它目标</h3>
+<ul>
+<li>体育锻炼：十月中旬进行体能测试，绕Gallup Park跑一圈中间不休息，全程约8.8千米
+<ul>
+<li>A+：48分钟内完成 A：50分钟内完成 A-：52分钟内完成</li>
+<li>B+：55分钟内完成 B：58分钟内完成 B-：60分钟内完成</li>
+<li>C：63分钟内完成 D：66分钟内完成 E：70分钟内完成</li>
+</ul></li>
+<li>电子琴：复习之前所有学过的曲目，学习一首新电子琴曲和一首新钢琴曲，学习一首特别歌曲用于圣诞节活动，重新录制已学过的所有曲目</li>
+<li>外出游玩：本学期至少外出游玩4次</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Term Summary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Summer 2021 Week 1 Progress - July 3rd</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-07-03-Weekly_Progress_20210703.html</url>
+    <content><![CDATA[<a id="more"></a>
+<h1 id="日常项目追踪">日常项目追踪</h1>
+<h2 id="from-past-weeks">FROM PAST WEEKS</h2>
+<p>Please complete these tasks ASAP.</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 5 Notes</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 1</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 2</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 3</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 5</li>
+<li><input type="checkbox" disabled="" />
+RES: Sherwood Chapter 4</li>
+<li><input type="checkbox" disabled="" />
+RES: Sherwood Chapter 5</li>
+<li><input type="checkbox" disabled="" />
+RES: Sherwood Chapter 6</li>
+<li><input type="checkbox" disabled="" />
+RES: Sherwood Chapter 7</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Wrap-up <strong>(HOLD)</strong></li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Wrap-up <strong>(HOLD)</strong></li>
+<li><input type="checkbox" disabled="" />
+RES: E3SM Diagnostic Package</li>
+</ul>
+<h2 id="sat">7-3 (SAT)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Room Cleaning</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Weekly Laundry</li>
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Weekly Family Meeting</li>
+<li><input type="checkbox" disabled="" />
+CUR: CERES Meeting Review 5 Notes</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary 50 Words</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Weekly Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+</ul>
+<h2 id="sun">7-4 (SUN)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 1</li>
+<li><input type="checkbox" disabled="" checked="" />
+CUR: Sherwood et al. (2020) New Materials =&gt; 4.1.2</li>
+<li><input type="checkbox" disabled="" />
+CUR: Sherwood et al. (2020) Chapter 3 Revisit and Deep Thoughts</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting Preparation</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary 20 Words</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="mon">7-5 (MON)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: AIRS Meeting Review 2</li>
+<li><input type="checkbox" disabled="" />
+CUR: Sherwood et al. (2020) Chapter 3 Revisit and Deep Thoughts</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Vocabulary 20 Words</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Daily Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Writing Practice</li>
+</ul>
+<h2 id="tue">7-6 (TUE)</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Abstract</li>
+<li><input type="checkbox" disabled="" />
+RES: Yi-Hsuan's Thesis</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+EXR: Daily Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Vocabulary 20 Words</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily TED Talk</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Writing Practice</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Summer 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fall 2021 Week 2 Progress - September 4</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-09-04-Weekly_Progress_20210904.html</url>
+    <content><![CDATA[<a id="more"></a>
+<h1 id="tasks">Tasks</h1>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: E3SM Modeling Modification</li>
+<li><input type="checkbox" disabled="" />
+RES: MEP Modeling</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript - Theoretical Calculation</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Presentation Practice</li>
+<li><input type="checkbox" disabled="" />
+RES: NOAA 3rd AI Workshop Hackathon</li>
+<li><input type="checkbox" disabled="" />
+RES: AIRS-16Days 2019 Reproduction &amp; 2021 YTD</li>
+<li><input type="checkbox" disabled="" />
+CUR: Climate System Modeling - Chapter 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: Atmospheric Radiation - Chapter 5</li>
+<li><input type="checkbox" disabled="" />
+CUR: Atmospheric Dynamcis - Chapter 8</li>
+<li><input type="checkbox" disabled="" />
+CUR: IPCC AR6 WG1 - Summary for Policy Makers</li>
+</ul>
+<h1 id="checklist">Checklist</h1>
+<h2 id="sun">9/5 (SUN)</h2>
+<p>Primary Tasks:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: E3SM Modification Complete</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification MOD35 Implementation</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Presentation Practice</li>
+<li><input type="checkbox" disabled="" />
+CUR: Seminar Recommendation from Group Meeting</li>
+<li><input type="checkbox" disabled="" />
+CUR: Climate Modeling Chapter 4</li>
+<li><input type="checkbox" disabled="" />
+RTN: Print Term Blueprint</li>
+</ul>
+<p>Daily Routine:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+LIF: Morning Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Noon English</li>
+<li><input type="checkbox" disabled="" />
+LIF: Afternoon Exercise</li>
+<li><input type="checkbox" disabled="" />
+LIF: Evening Keyboard Piano</li>
+</ul>
+<h2 id="mon">9/6 (MON)</h2>
+<p>Primary Tasks:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+RES: Individual Meeting</li>
+<li><input type="checkbox" disabled="" />
+RES: E3SM Modeling Run Test</li>
+<li><input type="checkbox" disabled="" />
+RES: MEP Modeling Revisit and Plan</li>
+<li><input type="checkbox" disabled="" />
+CUR: IPCC AR6 Summary for Policy Makers</li>
+<li><input type="checkbox" disabled="" />
+CUR: Climate Modeling Book Reading</li>
+</ul>
+<p>Daily Routine:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+LIF: Morning Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Noon English</li>
+<li><input type="checkbox" disabled="" />
+LIF: Afternoon Exercise</li>
+<li><input type="checkbox" disabled="" />
+LIF: Evening Keyboard Piano</li>
+</ul>
+<h2 id="tue">9/7 (TUE)</h2>
+<p>Primary Tasks:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+CUR: IPCC AR6 Technical Summary</li>
+<li><input type="checkbox" disabled="" />
+CUR: Climate Modeling Book Reading</li>
+<li><input type="checkbox" disabled="" />
+CUR: Sherwood et al. (2020) Chapter 5</li>
+</ul>
+<p>Daily Routine:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+LIF: Morning Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Noon English</li>
+<li><input type="checkbox" disabled="" />
+LIF: Afternoon Exercise</li>
+<li><input type="checkbox" disabled="" />
+LIF: Evening Keyboard Piano</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2021</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fall 2021 Week 1 Progress - September 1</title>
+    <url>/cxfan_starfan/blog/Weekly-Progress/2021-09-01-Weekly_Progress_20210901.html</url>
+    <content><![CDATA[<a id="more"></a>
+<h1 id="tasks">Tasks</h1>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting - Round table paper discussion</li>
+<li><input type="checkbox" disabled="" />
+RES: E3SM Modeling Modification</li>
+<li><input type="checkbox" disabled="" />
+RES: MEP Modeling</li>
+<li><input type="checkbox" disabled="" />
+RES: Solar Farming Manuscript - Theoretical Calculation</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Cloud Classification Presentation Submission</li>
+<li><input type="checkbox" disabled="" />
+RES: Cloud Classification Presentation Practice</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: AIRS-16Days Bug Check</li>
+<li><input type="checkbox" disabled="" />
+CUR: Climate System Modeling - Chapter 4</li>
+<li><input type="checkbox" disabled="" />
+CUR: Atmospheric Radiation - Chapter 5</li>
+<li><input type="checkbox" disabled="" />
+CUR: Atmospheric Dynamcis - Chapter 8</li>
+</ul>
+<h1 id="checklist">Checklist</h1>
+<h2 id="wed">9/1 (WED)</h2>
+<p>Primary Tasks:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+<strong>RES: Group Meeting Preparation</strong></li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Bed Changing</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Grocery Shopping</li>
+</ul>
+<p>Daily Routine:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Morning Exercise</li>
+<li><input type="checkbox" disabled="" checked="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Vocabulary 20 Words</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="thu">9/2 (THU)</h2>
+<p>Primary Tasks:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RTN: Summer 2021 Term Report</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: AIRS-16Days Bug Check</li>
+<li><input type="checkbox" disabled="" />
+RES: E3SM Modeling Modification</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Cloud Classification Presentation Submission</li>
+</ul>
+<p>Daily Routine:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+LIF: Morning Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Vocabulary 20 Words</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+<h2 id="fri">9/3 (FRI)</h2>
+<p>Primary Tasks:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+RES: Group Meeting</li>
+</ul>
+<p>Daily Routine:</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+LIF: Morning Exercise</li>
+<li><input type="checkbox" disabled="" />
+ENG: Morning Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Vocabulary 20 Words</li>
+<li><input type="checkbox" disabled="" />
+LIF: Daily Keyboard Piano</li>
+<li><input type="checkbox" disabled="" />
+ENG: Daily Speaking Practice</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Weekly Progress</category>
+      </categories>
+      <tags>
+        <tag>Fall 2021</tag>
+      </tags>
+  </entry>
 </search>
