@@ -25511,7 +25511,8 @@ ENG: Daily Writing Practice</li>
   <entry>
     <title>Fall 2021 Week 2 Progress - September 4</title>
     <url>/cxfan_starfan/blog/Weekly-Progress/2021-09-04-Weekly_Progress_20210904.html</url>
-    <content><![CDATA[<a id="more"></a>
+    <content><![CDATA[<p>A new beginning...</p>
+<a id="more"></a>
 <h1 id="tasks">Tasks</h1>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" />
@@ -25526,7 +25527,7 @@ RES: Cloud Classification Presentation Practice</li>
 RES: NOAA 3rd AI Workshop Hackathon</li>
 <li><input type="checkbox" disabled="" />
 RES: AIRS-16Days 2019 Reproduction &amp; 2021 YTD</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Climate System Modeling - Chapter 4</li>
 <li><input type="checkbox" disabled="" />
 CUR: Atmospheric Radiation - Chapter 5</li>
@@ -25539,57 +25540,65 @@ CUR: IPCC AR6 WG1 - Summary for Policy Makers</li>
 <h2 id="sun">9/5 (SUN)</h2>
 <p>Primary Tasks:</p>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-RES: E3SM Modification Complete</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: E3SM Modification Complete <em>(Except RRTMGP)</em></li>
 <li><input type="checkbox" disabled="" />
 RES: Cloud Classification MOD35 Implementation</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Cloud Classification Presentation Practice</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Seminar Recommendation from Group Meeting</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 CUR: Climate Modeling Chapter 4</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RTN: Print Term Blueprint</li>
 </ul>
 <p>Daily Routine:</p>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Morning Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Noon English</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Afternoon Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Evening Keyboard Piano</li>
 </ul>
 <h2 id="mon">9/6 (MON)</h2>
 <p>Primary Tasks:</p>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 RES: Individual Meeting</li>
 <li><input type="checkbox" disabled="" />
 RES: E3SM Modeling Run Test</li>
 <li><input type="checkbox" disabled="" />
 RES: MEP Modeling Revisit and Plan</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: Solar Farming Manuscript Figures</li>
+<li><input type="checkbox" disabled="" checked="" />
+RES: MATLAB to Python Scripts</li>
+<li><input type="checkbox" disabled="" checked="" />
+LIF: Central Campus Walking <em>(Waiver for Wednesday's Exercise)</em></li>
 <li><input type="checkbox" disabled="" />
 CUR: IPCC AR6 Summary for Policy Makers</li>
 <li><input type="checkbox" disabled="" />
 CUR: Climate Modeling Book Reading</li>
+<li><input type="checkbox" disabled="" />
+ENG: Writing Science Notes</li>
 </ul>
 <p>Daily Routine:</p>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Morning Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Morning Reading</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 ENG: Noon English</li>
 <li><input type="checkbox" disabled="" />
 LIF: Afternoon Exercise</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 LIF: Evening Keyboard Piano</li>
 </ul>
 <h2 id="tue">9/7 (TUE)</h2>
@@ -25626,7 +25635,8 @@ LIF: Evening Keyboard Piano</li>
   <entry>
     <title>Fall 2021 Week 1 Progress - September 1</title>
     <url>/cxfan_starfan/blog/Weekly-Progress/2021-09-01-Weekly_Progress_20210901.html</url>
-    <content><![CDATA[<a id="more"></a>
+    <content><![CDATA[<p>Restart the weekly progress report!</p>
+<a id="more"></a>
 <h1 id="tasks">Tasks</h1>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
