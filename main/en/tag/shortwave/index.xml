@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shortwave | StarFan</title>
+    <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/shortwave/</link>
+      <atom:link href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/shortwave/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shortwave</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Chongxing Fan 2019-2022</copyright><lastBuildDate>Tue, 01 Dec 2020 22:26:02 -0500</lastBuildDate>
+    <image>
+      <url>https://cxfan-kamisama.github.io/cxfan_starfan/main/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shortwave</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/shortwave/</link>
+    </image>
+    
+    <item>
+      <title>[AGU Fall Meeting 2020] GC135-10: Satellite-Observed Changes of Surface Spectral Reflectances due to Solar Farming and the Implication for Radiation Budget</title>
+      <link>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/talk/agu-fall-meeting-2020-gc135-10-satellite-observed-changes-of-surface-spectral-reflectances-due-to-solar-farming-and-the-implication-for-radiation-budget/</link>
+      <pubDate>Tue, 01 Dec 2020 22:26:02 -0500</pubDate>
+      <guid>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/talk/agu-fall-meeting-2020-gc135-10-satellite-observed-changes-of-surface-spectral-reflectances-due-to-solar-farming-and-the-implication-for-radiation-budget/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

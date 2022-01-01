@@ -2,6 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/talk/agu-fall-meeting-2021-a15d-1667-solar-farm-as-an-ideal-test-bed-for-satellite-surface-emissivity-and-temperature-retrieval-algorithms/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/"
+                />
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/cxfan/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/cxfan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/cxfan/"
+                />
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/conference/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/event/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/longwave/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/poster/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/solar-farming/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/"
+                />
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/surface-radiation-budget/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tags/</loc>
+    <lastmod>2021-12-13T16:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tags/"
+                />
+  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication-type/2/</loc>
     <lastmod>2021-12-07T21:30:00-05:00</lastmod>
     <xhtml:link
@@ -15,19 +88,6 @@
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication-type/2/"
                 />
   </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/</loc>
-    <lastmod>2021-12-07T21:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/"
-                />
-  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/categories/</loc>
     <lastmod>2021-12-07T21:30:00-05:00</lastmod>
     <xhtml:link
@@ -39,19 +99,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/categories/"
-                />
-  </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/cxfan/</loc>
-    <lastmod>2021-12-07T21:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/authors/cxfan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/cxfan/"
                 />
   </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/publication/solar-farming-lw-erc-2021/</loc>
@@ -105,34 +152,8 @@
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/solar-energy/</loc>
     <lastmod>2021-12-07T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/</loc>
-    <lastmod>2021-12-07T21:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/"
-                />
-  </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/surface-energy-budget/</loc>
     <lastmod>2021-12-07T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tags/</loc>
-    <lastmod>2021-12-07T21:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tags/"
-                />
   </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/authors/xianglei-huang/</loc>
     <lastmod>2021-12-07T21:30:00-05:00</lastmod>
@@ -146,22 +167,13 @@
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/research/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/talk/gc135-10-satellite-observed-changes-of-surface-spectral-reflectances-due-to-solar-farming-and-the-implication-for-radiation-budget-agu-fall-meeting-2020/</loc>
-    <lastmod>2020-12-01T22:26:02-05:00</lastmod>
-  </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/conference/</loc>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/talk/agu-fall-meeting-2020-gc135-10-satellite-observed-changes-of-surface-spectral-reflectances-due-to-solar-farming-and-the-implication-for-radiation-budget/</loc>
     <lastmod>2020-12-01T22:26:02-05:00</lastmod>
   </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/elightning/</loc>
     <lastmod>2020-12-01T22:26:02-05:00</lastmod>
   </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/event/</loc>
-    <lastmod>2020-12-01T22:26:02-05:00</lastmod>
-  </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/poster/</loc>
-    <lastmod>2020-12-01T22:26:02-05:00</lastmod>
-  </url><url>
-    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/solar-farming/</loc>
+    <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/shortwave/</loc>
     <lastmod>2020-12-01T22:26:02-05:00</lastmod>
   </url><url>
     <loc>https://cxfan-kamisama.github.io/cxfan_starfan/main/en/tag/research/</loc>
