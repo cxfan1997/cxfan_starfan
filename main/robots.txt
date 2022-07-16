@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://cxfan-kamisama.github.io/cxfan_starfan/main/sitemap.xml
