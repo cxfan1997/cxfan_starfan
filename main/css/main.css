@@ -103,6 +103,8 @@ img.news {
   width: 200px;
   height: 200px;
   object-fit: scale-down;
+  display: block;
+  margin: auto;
 }
 
 footer a:not(.nav-link) {
