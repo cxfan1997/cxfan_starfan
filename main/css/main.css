@@ -107,6 +107,11 @@ img.news {
   margin: auto;
 }
 
+.header-lead {
+  font-size: 1.25rem;
+  font-weight: 100;
+}
+
 footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
