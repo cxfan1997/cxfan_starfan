@@ -125,7 +125,8 @@ footer a:not(.nav-link) {
     float: right; }
   .avatar {
     margin-bottom: -80px;
-    margin-left: 0; } }
+    margin-left: 0; }
+  }
 
 @media print {
   body {
@@ -151,8 +152,10 @@ footer a:not(.nav-link) {
   }
   .page-break {
     padding-top: 5rem;
-    page-break-before: always; } }
+    page-break-before: always; }
   [data-aos] {
       opacity: 1 !important;
       transform: translate(0) scale(1) !important;
   }
+}
+  
